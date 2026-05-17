@@ -6,19 +6,22 @@ __pycache__/
 .DS_Store
 .env
 
-# Per-state data — never commit (may contain PII or large datasets)
-states/*/input/*
-!states/*/input/sample_input.csv
-states/*/output/*
+# Bulk caches: multi-GB, exceed GitHub limits — re-download via scripts
 states/*/bulk/*
-states/*/debug/*
-!states/*/.gitkeep
+!states/*/bulk/.gitkeep
 
-# Legacy locations from before restructure (kept in case anything lingers)
+# Debug artifacts: screenshots + HTML from failed scrapes, ephemeral
+states/*/debug/*
+!states/*/debug/.gitkeep
+
+# Per-entity drawer text dumps: large, can re-derive from bulk CSV
+states/*/output/drawer_text/
+
+# Legacy locations from pre-restructure (should be empty)
 data/output/*
-!data/output/.gitkeep
 data/input/*
-!data/input/sample_input.csv
+
+# Legacy debug dirs (pre-restructure)
 bizfile_debug/
 sunbiz_debug/
 texas_debug/
