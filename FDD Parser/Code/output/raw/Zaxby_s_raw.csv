@@ -1,0 +1,827 @@
+brand,franchisee_name,raw_address,city,state,zip,restaurant_phone
+Zaxby's,"T & C Foods, Inc.",9134 Hwy. 119 S.,Alabaster,AL,35007,(205) 663-5966
+Zaxby's,"3Dc Enterprises, Inc.",4497 Hwy. 280,Alexander City,AL,35010,(256) 234-2181
+Zaxby's,"Back Home Brothers, Llc",1000 River Fall St.,Andalusia,AL,36420,(334) 582-8484
+Zaxby's,"Stu Foods, Llc",3234 McClellan Blvd.,Anniston,AL,36201,(256) 237-3132
+Zaxby's,Credit To Ctc Al Llc,1300 N. Brindlee Mountain Pkwy.,Arab,AL,35016,(256) 640-8406
+Zaxby's,"Fpv Al, Llc",221 French Farms Blvd.,Athens,AL,35611,(256) 233-0098
+Zaxby's,"Zzz East, Llc",2075 E. University Dr.,Auburn,AL,36830,(334) 501-0852
+Zaxby's,"Zzz, Llc",1659 S. College St.,Auburn,AL,36830,(334) 501-9881
+Zaxby's,Credit To Ctc Al Llc,804 Academy Dr.,Bessemer,AL,35022,(205) 730-7953
+Zaxby's,Credit To Ctc Al Llc,4815 Bell Hill Rd.,Bessemer,AL,35022,(205) 491-6486
+Zaxby's,Credit To Ctc Al Llc,110 Doug Baker Blvd.,Birmingham,AL,35242,(205)-981-4536
+Zaxby's,Credit To Ctc Al Llc,2735 John Hawkins Pkwy.,Birmingham,AL,35244,(205) 987-2022
+Zaxby's,Credit To Ctc Al Llc,2636 Valleydale Rd.,Birmingham,AL,35244,(205) 437-9701
+Zaxby's,Credit To Ctc Al Llc,5881 Trussville Crossings Blvd.,Birmingham,AL,35235,(706) 960-8188
+Zaxby's,Credit To Ctc Al Llc,282 Palisades Blvd.,Birmingham,AL,35209,(205) 423-0523
+Zaxby's,Credit To Ctc Al Llc,1548 Montclair Rd.,Birmingham,AL,35210,(205) 623-3087
+Zaxby's,"T & C Foods, Inc.",3270 Morrow Rd.,Birmingham,AL,35235,(205) 661-0673
+Zaxby's,Credit To Ctc Al Llc,2221 Hwy. 431,Boaz,AL,35957,(256) 593-8220
+Zaxby's,Credit To Ctc Al Llc,102 Limestone Pkwy.,Calera,AL,35040,(205) 668-9886
+Zaxby's,"Allen And Alan Zxb, Llc",1490 7th St. S.,Clanton,AL,35045,(205) 755-6227
+Zaxby's,"Redwood Foods, Llc",5751 AL Hwy 157 NW,Cullman,AL,35058,(256) 841-6701
+Zaxby's,"Smallwood Foods, Llc",622 Olive St. SW,Cullman,AL,35055,(256) 739-9400
+Zaxby's,"Jubilee Food Group, Llc",29053 Hwy 98,Daphne,AL,36526,(251) 621-0400
+Zaxby's,"La Foods, Llc",29680 Urgent Care Dr.,Daphne,AL,36526,(251) 626-0415
+Zaxby's,"Fpv Al, Llc",2830 Spring Ave.,Decatur,AL,35601,(256) 353-4771
+Zaxby's,"Fpv Al, Llc",410 Grant St. SE,Decatur,AL,35601,(256) 301-3185
+Zaxby's,"Fore J Foods, Inc.",3850 W. Main St.,Dothan,AL,36305,(334) 678-1302
+Zaxby's,"Yellow Tiger Foods, Llc",3801 Montgomery Hwy.,Dothan,AL,36303,(334) 699-7000
+Zaxby's,"Yellow Tiger Foods, Llc",3205 S. Oates St.,Dothan,AL,36301,(334) 446-6480
+Zaxby's,"Carter Chicken, Inc.",623 Boll Weevil Cir.,Enterprise,AL,36330,(334) 475-4149
+Zaxby's,"Bkz Eufaula, Llc",3188 S. Eufaula Ave.,Eufaula,AL,36027,(334) 616-6220
+Zaxby's,"Back Home Brothers Ii, Llc",69 Liberty Hill Pl.,Evergreen,AL,36401,(251) 578-1628
+Zaxby's,Credit To Ctc Al Llc,2725 Cloverdale Rd.,Florence,AL,35630,(256) 349-5268
+Zaxby's,Credit To Ctc Al Llc,366 Cox Creek Pkwy.,Florence,AL,35630,(256) 765-0054
+Zaxby's,"Foley Food Group, Llc",707 S. McKenzie St.,Foley,AL,36535,(251) 943-0400
+Zaxby's,"Ebs, Inc.",1050 Glenn Blvd. SW,Fort Payne,AL,35967,(256) 845-1116
+Zaxby's,"Brick Chick, Inc.",1725 Morris Ave.,Fultondale,AL,35068,(205) 849-3800
+Zaxby's,"Ejs Foods, Inc.",1510 Rainbow Dr.,Gadsden,AL,35901,(256) 546-3323
+Zaxby's,"Iron Chicken, Inc.",885 Odum Rd.,Gardendale,AL,35071,(205) 631-0819
+Zaxby's,"Carter Chicken, Inc.",900 Fort Dale Rd.,Greenville,AL,36037,(334) 382-1676
+Zaxby's,"La Foods South, Llc",1800 Gulf Shores Pkwy.,Gulf Shores,AL,36542,(251) 948-0400
+Zaxby's,Credit To Ctc Al Llc,11456 Hwy. 431 N.,Guntersville,AL,35976,(256) 891-7728
+Zaxby's,"Fpv Al, Llc",351 Hwy. 31 NW,Hartselle,AL,35758,(256) 502-4006
+Zaxby's,"Fpv Al, Llc",14605 US Hwy. 231-431,Hazel Green,AL,35750,(256) 828-7186
+Zaxby's,Credit To Ctc Al Llc,30 Coalmont Rd.,Helena,AL,35080,(205) 663-0011
+Zaxby's,Credit To Ctc Al Llc,2071 Patton Chapel Rd.,Hoover,AL,35216,(205) 848-8002
+Zaxby's,Credit To Ctc Al Llc,2880 Allison Bonnett Memorial Dr.,Hueytown,AL,35023,(205) 491-6433
+Zaxby's,"Fpv Al, Llc",11608 S. Memorial Pkwy.,Huntsville,AL,35803,(256) 883-7373
+Zaxby's,"Fpv Al, Llc",2770 Carl T. Jones Pkwy.,Huntsville,AL,35802,(256) 882-1822
+Zaxby's,"Fpv Al, Llc",6125 University Dr.,Huntsville,AL,35806,(256) 971-2770
+Zaxby's,"Fpv Al, Llc",2181 Winchester Rd.,Huntsville,AL,35811,(256) 858-9306
+Zaxby's,"Fpv Al, Llc",1025 N. Memorial Pkwy. NE,Huntsville,AL,35801,(256) 551-0122
+Zaxby's,"Dogwood Foods, Llc",106 Carl Cannon Blvd.,Jasper,AL,35501,(205) 295-5024
+Zaxby's,"Trinity Foods, Llc",1204 Hwy 78 E,Jasper,AL,35504,(205) 221-0880
+Zaxby's,"Fpv Al, Llc",100 Ivory Pl.,Madison,AL,35758,(256) 461-0026
+Zaxby's,"Fpv Al, Llc",8586 US Hwy. 72 W.,Madison,AL,35758,(256) 722-5565
+Zaxby's,"Mamie Raines, Inc.",55 Kelley Blvd.,Millbrook,AL,36054,(334) 285-6933
+Zaxby's,"Springhill Restaurant, Llc",6551 Airport Blvd.,Mobile,AL,36608,(251) 633-5612
+Zaxby's,"Springhill Restaurant, Llc",6500 Cottage Hill Rd.,Mobile,AL,36695,(251) 660-7704
+Zaxby's,"Belote Foods, Llc",950 Schillinger Rd.,Mobile,AL,36695,(251) 607-7645
+Zaxby's,"Belote Foods, Llc",4385 Range Line Rd.,Mobile,AL,36619,(251) 660-6755
+Zaxby's,"Springhill Restaurants, Llc",3444 Spring Hill Ave.,Mobile,AL,36608,(251) 343-6438
+Zaxby's,"Cchm, Llc",4030 Atlanta Hwy.,Montgomery,AL,36117,(334) 273-0018
+Zaxby's,"Ddde, Inc.",6435 Atlanta Hwy.,Montgomery,AL,36117,(334) 227-8066
+Zaxby's,"Hefcon, Inc.",3130 Taylor Rd.,Montgomery,AL,36117,(334) 481-0406
+Zaxby's,"Kaipruitt, Llc",2675 Zelda Rd.,Montgomery,AL,36106,(334) 293-9933
+Zaxby's,"Tres Guapos, Inc.",2923 Eastern Blvd.,Montgomery,AL,36116,(334) 420-3500
+Zaxby's,"Amoody Rooster, Inc.",2125 Moody Pkwy.,Moody,AL,35004,(205) 640-0140
+Zaxby's,Credit To Ctc Al Llc,2017 E. Avalon Ave.,Muscle Shoals,AL,35661,(256) 381-1717
+Zaxby's,Credit To Ctc Al Llc,944 Second Ave. E.,Oneonta,AL,35121,(205) 543-5024
+Zaxby's,"Bush And Associates Investments, Inc.",2089 Frederick Rd.,Opelika,AL,36801,(334) 749-9733
+Zaxby's,"Mcgary Foods, Llc",91 Colonial Dr.,Oxford,AL,36203,(256) 832-4771
+Zaxby's,"Carter Chicken, Inc.",1622 Hwy. 231,Ozark,AL,36360,(334) 443-0208
+Zaxby's,Credit To Ctc Al Llc,3437 Pelham Pkwy.,Pelham,AL,35124,(205) 663-4100
+Zaxby's,"Pell City Foods, Llc",280 Vaughn Ln.,Pell City,AL,35125,(205) 338-4822
+Zaxby's,"3Dc Enterprises, Inc.",3722 S. Railroad St.,Phenix City,AL,36870,(334) 448-2650
+Zaxby's,"3Dc Enterprises, Inc.",3908 US Hwy 80 W,Phenix City,AL,36870,(334) 384-0500
+Zaxby's,"Mamie Raines, Inc.",1750 E. Main St.,Prattville,AL,36066,(334) 358-8880
+Zaxby's,"Hub City Foods, Llc","21141 State Hwy. 59, Ste. 3",Robertsdale,AL,36567,(251) 947-4140
+Zaxby's,"Poultry Ward, Llc",57 Shell St.,Saraland,AL,36571,(251) 408-9764
+Zaxby's,"Sandra Kay Foods, Inc.",24729 John T. Reid Pkwy.,Scottsboro,AL,35768,(256) 218-3135
+Zaxby's,Credit To Ctc Al Llc,35 Springville Station Ln.,Springville,AL,35146,(205) 467-0232
+Zaxby's,"Ccam Sylacauga, Llc",41350 U.S. Hwy. 280,Sylacauga,AL,35150,(256) 249-3338
+Zaxby's,"Mcgary Foods, Llc",722 East Battle St.,Talladega,AL,35160,(256) 268-7166
+Zaxby's,"Ccam Troy, Llc",101 Emma Dr.,Troy,AL,36081,(334) 670-0470
+Zaxby's,"Bush And Associates Investments, Inc.",507 Fob James Dr.,Valley,AL,36854,(334) 756-5600
+Zaxby's,"Allen And Alan Zxb, Llc",1304 Montgomery Hwy.,Vestavia Hills,AL,35216,(205) 978-2360
+Zaxby's,Credit To Ctc Al Llc,3201 Bearden Ct.,Vestavia Hills,AL,35243,(205) 968-1519
+Zaxby's,"Rrrll, Llc",4790 US Hwy. 231,Wetumpka,AL,36092,(334) 567-1131
+Zaxby's,Dnd South Inc.,20680 1-30 North,Benton,AR,72019,(501) 794-2220
+Zaxby's,"Tasty Foods, Llc",3510 SE J St.,Bentonville,AR,72712,(479) 254-9565
+Zaxby's,"1788 Chicken, Llc",3704 E. Main St.,Blytheville,AR,72315,(870) 762-1600
+Zaxby's,"1788 Chicken, Llc",2207 N. Reynolds Rd.,Bryant,AR,72022,(501) 847-3800
+Zaxby's,"1788 Chicken, Llc",2215 W. Main St.,Cabot,AR,72023,(501) 941-2601
+Zaxby's,"1788 Chicken, Llc",3800 Dave Ward Dr.,Conway,AR,72034,(501)-329-5000
+Zaxby's,"Tasty Foods, Llc",1670 Martin Luther King Jr. Blvd.,Fayetteville,AR,72701,(479) 502-9555
+Zaxby's,Dnd South Inc.,4400 Central Ave.,Hot Springs,AR,71913,(501) 525-4144
+Zaxby's,Dnd South Inc.,209 Marshall Rd.,Jacksonville,AR,72076,(501) 241-0546
+Zaxby's,"1788 Chicken, Llc",2625 Red Wolf Blvd.,Jonesboro,AR,72401,(870) 972-8220
+Zaxby's,Dnd South Inc.,10601 Kanis Rd.,Little Rock,AR,72211,(501) 313-5268
+Zaxby's,"1788 Chicken, Llc",306 Bancario Rd.,Marion,AR,72364,(870) 739-4888
+Zaxby's,Dnd South Inc.,104 Carnahan Rd.,Maumelle,AR,72113,(570) 271-5256
+Zaxby's,"1788 Chicken, Llc",2907 W. Kings Hwy.,Paragould,AR,72450,(870) 236-7575
+Zaxby's,"Tasty Foods, Llc",4301 S. Pleasant Crossing,Rogers,AR,72758,(491) 391-7088
+Zaxby's,"Energy Foods, Inc.",2605 E. Main St.,Russellville,AR,72802,(479) 219-5444
+Zaxby's,"1788 Chicken, Llc",1303 E. Beebe Capps Expy.,Searcy,AR,72143,(501) 305-3918
+Zaxby's,Dnd South Inc.,208 Brookswood Rd.,Sherwood,AR,72120,(501) 833-9777
+Zaxby's,"Tasty Foods, Llc",190 N. Progress Ave.,Siloam Springs,AR,72761,(479) 282-0999
+Zaxby's,"Tasty Foods, Llc",400 S. Thompson St.,Springdale,AR,72764,(479) 379-8111
+Zaxby's,"1788 Chicken, Llc",2221 Fayetteville Rd.,Van Buren,AR,72956,(479) 474-8020
+Zaxby's,"Chasing Chicken 2, Inc.",16088 NW US Hwy. 441,Alachua,FL,32615,(386) 462-2222
+Zaxby's,"Bsbc Apopka, Llc",928 E. Semoran Blvd,Apopka,FL,32703,(407) 583-4789
+Zaxby's,"Skye Foods, Inc.",590 N. Broadway Ave.,Bartow,FL,33830,(863) 533-3600
+Zaxby's,"Swamp Dawg, Llc",10560 SE Hwy. 441,Belleview,FL,34420,(352) 307-8633
+Zaxby's,Citrus Chicken Inc.,5020 14th Street W.,Bradenton,FL,34207,(941) 254-4257
+Zaxby's,Paradise Chicken Inc.,6591 SR 70 E.,Bradenton,FL,34203,(941) 242-9947
+Zaxby's,"Cortez Swamp Dawg, Llc",31015 Cortez Blvd.,Brooksville,FL,34602,(352) 345-4458
+Zaxby's,"Broad Swamp Dawg, Llc",837 S. Broad St.,Brooksville,FL,34601,(352) 777-4633
+Zaxby's,"Callahan Jasz, Inc.",450027 State Rd. 200,Callahan,FL,32011,(904) 320-5931
+Zaxby's,"St. Clair Restaurant Management, Inc.",217 N. Tyndall Pkwy.,Callaway,FL,32404,(850) 640-0306
+Zaxby's,Pbc Chickenland Llc,1515 NW 25th Ave.,Chiefland,FL,32626,(352) 614-4204
+Zaxby's,"Zaxbax Suncoast, Llc",2080 E Hwy. 50,Clermont,FL,34711,(352) 557-8056
+Zaxby's,"Chasing Chicken, Inc.",97 Preston Cir.,Crawfordville,FL,32327,(850) 745-6273
+Zaxby's,"Egg-Z-Lence, Llc",4285 S. Ferdon Blvd.,Crestview,FL,32536,(850) 398-8695
+Zaxby's,"Courtland Of Deland, Llc",1693 N. Woodland Blvd.,Deland,FL,32724,(386) 943-8166
+Zaxby's,"Back Home Brothers Iii, Llc",2760 US Hwy. 331 S.,Defuniak Springs,FL,32435,(850) 520-4562
+Zaxby's,"Island Jasz, Inc.",1905 S. 14th St.,Fernandina Beach,FL,32034,(904) 277-7171
+Zaxby's,"Deklam Divas, Llc",11791 S. Cleveland Ave.,Fort Myers,FL,33907,(239) 208-2128
+Zaxby's,"Deklam Divas, Llc",17500 Ben Hill Griffin Pkwy.,Fort Myers,FL,33913,(239) 415-1688
+Zaxby's,"Fryer Cluck, Llc",106 Eglin Pkwy. NE,Fort Walton Beach,FL,32548,(850) 362-6575
+Zaxby's,"Bsbc Go Gators, Llc",7300 W. Newberry Rd.,Gainesville,FL,32606,(352) 643-5300
+Zaxby's,"Valrico Chick One, Llc",10580 New E. Bay Rd.,Gibsonton,FL,33534,(813) 280-9175
+Zaxby's,"Greenacres Chicken, Llc",5880 Lake Worth Rd.,Greenacres,FL,33463,(561) 323-3449
+Zaxby's,"Gulf Breeze Chicken, Llc",1451 Tiger Park Ln.,Gulf Breeze,FL,32563,(850) 932-7289
+Zaxby's,"Gwa Foods, Inc.",35696 Hwy. 27 S.,Haines City,FL,33844,(863) 547-6999
+Zaxby's,"Oakleaf Jasz, Inc.",9710 Applecross Rd.,Jacksonville,FL,32222,(904) 778-3013
+Zaxby's,"Jack Jasz, Inc.",12301 San Jose Blvd.,Jacksonville,FL,32223,(904) 260-9550
+Zaxby's,"Commonwealth Jasz, Inc.",6707 Commonwealth Ave.,Jacksonville,FL,32254,(904) 671-0086
+Zaxby's,"Jack Jasz, Inc.",5626 Butler Point Rd.,Jacksonville,FL,32256,(904) 470-4100
+Zaxby's,"Josh Jasz, Inc.",9612 San Jose Blvd.,Jacksonville,FL,32257,(904) 379-3027
+Zaxby's,"Jax Zax, Llc",6351 Roosevelt Blvd.,Jacksonville,FL,32244,(904) 778-2007
+Zaxby's,"Jax Zax, Llc",13972 Beach Blvd.,Jacksonville,FL,32224,(904) 821-4211
+Zaxby's,"New Berlin Jasz, Inc.",3175 New Berlin Rd.,Jacksonville,FL,32226,(904) 337-1274
+Zaxby's,"Stephenson Foods, Llc",13973 Village Lake Cir.,Jacksonville,FL,32258,(904) 527-8173
+Zaxby's,"Stephenson Foods, Llc",4875 Gate Pkwy.,Jacksonville,FL,32246,(904) 641-3150
+Zaxby's,"Stephenson Foods, Llc",4210 University Blvd.,Jacksonville,FL,32216,(904) 683-5995
+Zaxby's,"S & R Foods Of North Jacksonville, Inc.",1372 Airport Rd.,Jacksonville,FL,32218,(904) 741-1808
+Zaxby's,"The Jasz Group, Inc.",9569 N. Regency Sq. Blvd.,Jacksonville,FL,32225,(904) 720-0443
+Zaxby's,"Cash Jasz, Inc.",9031 New Kings Rd.,Jacksonville,FL,32219,(904) 475-2353
+Zaxby's,"Bsbc St. Cloud, Llc",2825 E. Irlo Bronson Memorial Hwy.,Kissimmee,FL,34744,(407) 734-2286
+Zaxby's,"Atlantic Restaurant Development, Inc.",2640 US Hwy. 90 W.,Lake City,FL,32055,(386) 755-6770
+Zaxby's,"Double A Foods, Inc.",4510 US Hwy. 98 N.,Lakeland,FL,33809,(863) 816-9900
+Zaxby's,"Bsbc Largo, Llc",8585 Ulmerton Rd.,Largo,FL,33771,(727) 266-4242
+Zaxby's,"Deklam Lehigh, Llc",5557 Lee Blvd.,Lehigh Acres,FL,33971,(239) 206-5506
+Zaxby's,"Zaxbax Suncoast, Llc",6861 Hwy. 129,Live Oak,FL,32060,(386) 330-2063
+Zaxby's,"Cypress Sd, Llc",2153 Sun Vista Drive,Lutz,FL,33559,(813) 528-8550
+Zaxby's,"St. Clair Restaurant Management, Inc.",2300 S. Hwy. 77,Lynn Haven,FL,32444,(850) 271-5550
+Zaxby's,"J. Parker Properties, Llc",1500 S. 6th St.,Macclenny,FL,32063,(904) 259-5108
+Zaxby's,"Demereed, Llc",4235 Lafayette St.,Marianna,FL,32446,(850) 482-0067
+Zaxby's,"Zaxbax Suncoast, Llc",6355 N. Wickham Rd.,Melbourne,FL,32940,(321) 425-4265
+Zaxby's,"Zaxbax Suncoast, Llc",4325 W. New Haven Ave.,Melbourne,FL,32904,(321) 327-3621
+Zaxby's,"Middleburg Jasz, Inc.",2524 Blanding Blvd.,Middleburg,FL,32068,(904) 512-1100
+Zaxby's,"Double A Foods, Inc.",6747 N. Church Ave.,Mulberry,FL,33860,(863) 619-7200
+Zaxby's,"Ridge Road Swamp Dawg, Llc",11300 Ridge Rd.,New Port Richey,FL,34668,(727) 264-6768
+Zaxby's,"Paradise Foods, Llc",1160 John Sims Pkwy. E.,Niceville,FL,32578,(850) 842-2490
+Zaxby's,"Courtland Of New Smyrna, Llc",2959 SR 44,New Smyrna Beach,FL,32168,(386) 402-8136
+Zaxby's,"Blvd Swamp Dawg, Llc",2175 E. Silver Springs Blvd.,Ocala,FL,34471,(352) 351-2251
+Zaxby's,"Zaxbax Ocala, Llc",2900 SW 27th Ave.,Ocala,FL,34474,(352) 861-9234
+Zaxby's,"Zaxbax Ocala, Llc",13451 SW 17th Ct.,Ocala,FL,34473,(352) 347-5775
+Zaxby's,"Zaxbax Ocala, Llc",3400 N. Pine Ave.,Ocala,FL,34475,(352) 877-7900
+Zaxby's,"Zaxbax Ocala, Llc",3351 W. Silver Springs Blvd.,Ocala,FL,34475,(352) 789-6001
+Zaxby's,"Zaxbax Ocala, Llc",6033 SW Hwy 200,Ocala,FL,34474,(352) 351-1541
+Zaxby's,"Swamp Dawg Ahbh, Llc",3019 SE Maricamp Rd.,Ocala,FL,34471,(352) 789-6946
+Zaxby's,"Bsbc Ocoee, Llc",8895 W. Colonial Dr.,Ocoee,FL,34761,(407) 292-3605
+Zaxby's,"Next Turn Okeechobee, Llc",912 NE Park St.,Okeechobee,FL,34974,(863) 357-1466
+Zaxby's,"Ckn, Inc.",949 Saxon Blvd.,Orange City,FL,32763,(386) 473-7038
+Zaxby's,"Jr Jasz, Inc.",1525 County Rd. 220,Orange Park,FL,32003,(904) 269-2911
+Zaxby's,"The Jasz Group Ii, Inc.",390 Blanding Blvd.,Orange Park,FL,32073,(904) 298-2728
+Zaxby's,"Bsbc Forest City, Llc",6625 Forest City Rd.,Orlando,FL,32810,(407) 299-8554
+Zaxby's,"Fix'N Chick'N, Llc",4067 Millennia Blvd.,Orlando,FL,32839,(407) 363-1903
+Zaxby's,"Bsbc Ucf, Llc",11554 University Blvd.,Orlando,FL,32817,(407) 674-7936
+Zaxby's,"Bsbc Jyp, Llc",10791 S. John Young Pkwy.,Orlando,FL,32837,(407) 278-2865
+Zaxby's,"Bsbc Landstar, Llc",13969 Landstar Blvd.,Orlando,FL,32824,(407) 624-3506
+Zaxby's,"Bsbc 6920 S.Obt, Llc",6920 S. Orange Blossom Trail,Orlando,FL,32809,(407) 545-3130
+Zaxby's,"Courtland Of Ormond, Llc",1287 W. Granada Blvd.,Ormond Beach,FL,32174,(386) 238-9402
+Zaxby's,Pace Poultry Llc,4700 Hwy. 90,Pace,FL,32571,(850) 781-1034
+Zaxby's,"Hmj Foods, Inc.",180 Cypress Edge Dr.,Palm Coast,FL,32164,(386) 597-2837
+Zaxby's,"Redfish Chicken, Inc.",423 N. State Rd. 19,Palatka,FL,32177,(386) 328-3495
+Zaxby's,"St. Clair Restaurant Management, Inc.",9960 Hutchison Blvd.,Panama City Beach,FL,32407,(850) 233-6000
+Zaxby's,Creighton Foods Llc,2640 Creighton Rd.,Pensacola,FL,32504,(850) 477-0025
+Zaxby's,"Nine Mile Wings, Llc",121 E. Nine Mile Rd.,Pensacola,FL,32534,(850) 912-8686
+Zaxby's,Godwin Lane Poultry Llc,3102 Godwin Ln.,Pensacola,FL,32514,(850) 912-8337
+Zaxby's,"Bsbc Pinellas, Llc",7520 Belcher Rd.,Pinellas Park,FL,33781,(727) 289-8692
+Zaxby's,"Blb Restaurants, Llc",2901.5 James Redman Pkwy.,Plant City,FL,33564,(813) 752-1971
+Zaxby's,"Sunshine Chicken, Inc.",19590 Cochran Blvd.,Port Charlotte,FL,33948,(941) 456-7519
+Zaxby's,"Chicken Daze, Llc",3025 SW Port St. Lucie Blvd.,Port St. Lucie,FL,34953,(772) 207-5272
+Zaxby's,"M3 Food Group, Llc",3815 S. Orlando Dr.,Sanford,FL,32773,(407) 878-2471
+Zaxby's,Hills 3 Llc,11709 E. Dr. MLK Blvd.,Seffner,FL,33584,(813) 643-7878
+Zaxby's,"Spring Hill Swamp Dawg, Llc",3042 Anderson Snow Rd.,Spring Hill,FL,34609,(352) 777-4866
+Zaxby's,"Woodvalley Company, Inc.",1107 N. Ponce De Leon Blvd.,St. Augustine,FL,32084,(904) 825-1545
+Zaxby's,"Contentment Foods Anastasia, Inc.",120 Harvest Lane,St. Augustine,FL,32084,(904) 547-2129
+Zaxby's,"Southern Contentment, Llc",950 Santa Maria Blvd.,St. Augustine,FL,32086,(904) 295-3836
+Zaxby's,"Contentment Golf Parkway, Llc",5350 State Rd. 16,St. Augustine,FL,32092,(904) 615-1870
+Zaxby's,"Contentment Race Track, Llc",35 Little Cypress Dr.,St. Johns,FL,32259,(904) 217-3980
+Zaxby's,"Contentment Fountains, Llc",85 Tyler Way,St. Johns,FL,32259,(904) 342-7538
+Zaxby's,"Bsbc Skyway, Llc",3700 34th Street,St. Petersburg,FL,33711,(727) 235-6056
+Zaxby's,"Mattszax 301, Inc.",14065 SE 48th Ave.,Starke,FL,32091,(904) 454-1123
+Zaxby's,"Chicken Foot Development, Inc.",3325 Capital Circle NE,Tallahassee,FL,32308,(850) 385-2797
+Zaxby's,"Demercap, Inc.",180 Capital Circle SW,Tallahassee,FL,32304,(850) 580-4044
+Zaxby's,"Demerchase, Inc.",2901 Mahan Dr.,Tallahassee,FL,32308,(850) 216-1016
+Zaxby's,"Demermon, Inc.",2319 Monroe St.,Tallahassee,FL,32303,(850) 383-4301
+Zaxby's,"Demerville, Inc.",5048 Crawfordville Rd.,Tallahassee,FL,32312,(850) 765-5087
+Zaxby's,"Demerorange, Inc.",,Tallahassee,FL,32305,(850) 765-7772
+Zaxby's,"Real Chick, Inc.",2889 Apalachee Pkwy.,Tallahassee,FL,32301,(850) 656-8003
+Zaxby's,"Jade Op 1, Llc",11619 W. Hillsborough Ave.,Tampa,FL,33635,(813) 510-4321
+Zaxby's,"Zaxbax Suncoast, Llc",4201 W. Hillsborough Ave.,Tampa,FL,33614,(813) 882-8300
+Zaxby's,"Gator Bait Foods, Inc.",2028 State Route 60,Valrico,FL,33594,(813) 657-6363
+Zaxby's,"Palm Lake Foods, Llc",1345 N. Congress Ave.,West Palm Beach,FL,33401,(561) 225-1619
+Zaxby's,"Zaxbax Ocala, Llc",868 E. State Rd. 44,Wildwood,FL,34785,(352) 748-0221
+Zaxby's,"Slj Foods, Inc.",797 3rd St. SW,Winter Haven,FL,33880,(863) 299-7200
+Zaxby's,"Wh Foods Ii, Inc.",7454 Cypress Garden Blvd.,Winter Haven,FL,33884,(863) 875-9499
+Zaxby's,"Yulee Jasz, Inc.",463769 SR 200,Yulee,FL,32097,(904) 474-0380
+Zaxby's,"Hlc Foods Of Cartersville, Llc",7869 Adairsville Hwy.,Adairsville,GA,30103,(770) 877-9557
+Zaxby's,"B&B Chicken, Inc.",911 W. 4th St.,Adel,GA,31620,(229) 896-1358
+Zaxby's,"Flying Buffalo, Inc.",2801 Pointe N. Blvd.,Albany,GA,31721,(229) 431-1900
+Zaxby's,"Flying Buffalo, Inc.",2806 N. Slappey Dr.,Albany,GA,31701,(229) 483-0009
+Zaxby's,"Flying Buffalo, Inc.",405 N. Slappey Blvd.,Albany,GA,31701,(229) 888-9995
+Zaxby's,"Haigler Foods, Llc",2005 Old Milton Pkwy.,Alpharetta,GA,30004,(678) 762-7620
+Zaxby's,"Rch Foods, Llc",3355 N. Point Pkwy.,Alpharetta,GA,30005,(678) 566-4999
+Zaxby's,"Korahzax, Llc",1204 Crawford St.,Americus,GA,31709,(229) 931-6300
+Zaxby's,"Dream Big Foods Iv, Inc.",1259 Northside Dr. NW,Atlanta,GA,30318,(404) 941-9731
+Zaxby's,"Mcbirds, Inc.",3568 Chamblee Tucker Rd.,Atlanta,GA,30341,(470) 395-1151
+Zaxby's,"Pro Food Enterprises, Llc",3770 Princeton Lakes Pkwy.,Atlanta,GA,30331,(404) 344-8884
+Zaxby's,"Sjac Flat Shoals I, Llc",2530 Flat Shoals Rd.,Atlanta,GA,30349,(770) 994-4511
+Zaxby's,"Sjac Fulton Ind I, Llc",925 Camp Fulton Way,Atlanta,GA,30336,(404) 629-6770
+Zaxby's,"V & V Foods, Llc.",4388 Roswell Rd. NE,Atlanta,GA,30342,(404) 250-7656
+Zaxby's,"Sjac Ponce, Llc",425 Ponce De Leon,Atlanta,GA,30308,(404) 249-9883
+Zaxby's,"Sjac Mlk I, Llc","946 Martin Luther King, Jr Dr. SW",Atlanta,GA,30314,(678) 732-0798
+Zaxby's,"Ssr Augusta, Llc",2629 Peach Orchard Rd.,Augusta,GA,30906,(706) 798-3000
+Zaxby's,"Ssr Augusta, Llc",4001 Harper Franklin Ave.,Augusta,GA,30909,(706) 447-2500
+Zaxby's,"Ssr Augusta, Llc",2849 Washington Rd.,Augusta,GA,30909,(706) 922-9300
+Zaxby's,"Endless Chicken, Llc",2603 E. West Connector SW,Austell,GA,30106,(770) 222-1585
+Zaxby's,"High Adventure Chicken, Inc.",118 Roberta Dr.,Barnesville,GA,30204,(678) 818-1181
+Zaxby's,"Sugar Fork Foods, Inc.",1945 Parkway Pointe Dr.,Bethlehem,GA,30620,(770) 867-0455
+Zaxby's,"Payne Brothers Investments, Llc",195 Hwy 515,Blairsville,GA,30512,(706) 745-0092
+Zaxby's,"Payne Brothers Investments, Llc",24 Progress Cir.,Blue Ridge,GA,30513,(706) 632-5055
+Zaxby's,"Sugar Fork Foods, Inc.",100 Commons Dr.,Braselton,GA,30517,(706) 658-2525
+Zaxby's,"Hlc Foods Of Carrollton, Llc",135 Hwy 27 Bypass,Bremen,GA,30110,(770) 537-8811
+Zaxby's,"Hlc Foods, Llc",230 Frontage Rd.,Brunswick,GA,31521,(912) 265-5199
+Zaxby's,"Jamsouth, Inc.",126 Altama Connector,Brunswick,GA,31525,(912) 554-0580
+Zaxby's,"Dead Bird, Inc.",4139 Buford Dr.,Buford,GA,30518,(770) 831-8714
+Zaxby's,"Friendship Foods, Inc.",4906 Lanier Islands Pkwy.,Buford,GA,30518,(770) 271-1735
+Zaxby's,"Alsa-Mary, Inc.",2972 Hwy 247 Connector,Byron,GA,31088,(478) 654-2658
+Zaxby's,"C.C.H. Restaurant Management, Inc.",400 Hwy 49 N.,Byron,GA,31008,(478) 956-3900
+Zaxby's,"Cairo Chicken, Inc.",721 US Hwy. 84 E.,Cairo,GA,39828,(229) 307-0006
+Zaxby's,"Gordon Foods, Inc.",645 Hwy 53 E.,Calhoun,GA,30701,(706) 624-1975
+Zaxby's,"Meadowbrook Restaurant Company, Inc.",2880 E. Cherokee Dr.,Canton,GA,30115,(678) 493-0566
+Zaxby's,"Meadowbrook Restaurant Company, Inc.",156 Prominence Point Pkwy.,Canton,GA,30114,(770) 479-5711
+Zaxby's,"Meadowbrook Restaurant Company, Inc.",2036 Cumming Hwy.,Canton,GA,30114,(770) 479-0336
+Zaxby's,"Hlc Foods Of Carrollton, Llc",1195 Bankhead Hwy.,Carrollton,GA,30116,(770) 832-1050
+Zaxby's,"Hlc Foods Of Carrollton, Llc",1125 S. Park St.,Carrollton,GA,30117,(770) 838-0777
+Zaxby's,"Hlc Foods Of Cartersville, Llc",310 Market Place Blvd.,Cartersville,GA,30121,(770) 606-0078
+Zaxby's,"Hlc Foods Of Cartersville, Llc",5 Walnut Grove Rd.,Cartersville,GA,30120,(770) 607-0005
+Zaxby's,"Chicken Coup Vi, Llc",4906 Peachtree Blvd.,Chamblee,GA,30341,(770) 451-6447
+Zaxby's,"Chatsworth Chicken, Inc.",1015 N. 3rd Ave.,Chatsworth,GA,30705,(706) 517-4000
+Zaxby's,"Mcleroy'S Enterprises, Inc.",110 Southern Bank Dr.,Clarkesville,GA,30523,(706) 754-5152
+Zaxby's,"1788 Chicken, Llc",43 Bo James St.,Clayton,GA,30525,(706) 212-0088
+Zaxby's,"Dublin Food, Inc.",217 S. Main St.,Cleveland,GA,30528,(706) 219-4746
+Zaxby's,Credit To Ctc Ga Llc,7626 Schomburg Rd.,Columbus,GA,31909,(706) 256-3582
+Zaxby's,Credit To Ctc Ga Llc,1915 Auburn Ave.,Columbus,GA,31906,(706) 507-9297
+Zaxby's,Credit To Ctc Ga Llc,6190 Bradley Park Dr.,Columbus,GA,31904,(706) 320-0046
+Zaxby's,"Bkz Buena Vista Rd, Llc",4424 Buena Vista Rd.,Columbus,GA,31907,(706) 568-8520
+Zaxby's,"M.O. Chicken, Inc.",30828 US Hwy. 441,Commerce,GA,30529,(706) 335-6787
+Zaxby's,"Brakat Enterprises, Inc.",1871 Hwy 138 SE,Conyers,GA,30013,(770) 922-2636
+Zaxby's,"Cmb Foods, Inc.",429 Sigman Rd.,Conyers,GA,30012,(770) 918-9610
+Zaxby's,"C.C.H. Restaurant Management, Inc.",2002 Central Ave. Ext.,Cordele,GA,31015,(229) 273-2223
+Zaxby's,"Dublin Food, Inc.",180 Cannon Bridge Rd.,Cornelia,GA,30531,(706) 778-1417
+Zaxby's,"Brakat Enterprises, Inc.",6243 Turner Lake Rd. NW,Covington,GA,30014,(678) 342-7333
+Zaxby's,"Brakat Enterprises, Inc.",9132 Covington Bypass,Covington,GA,30014,(770) 787-1884
+Zaxby's,"Cmb Foods, Inc.",11700 Town Center Dr.,Covington,GA,30014,(678) 609-5488
+Zaxby's,"Bratt Foods, Inc.",12945 Brown Bridge Rd.,Covington,GA,30016,(706) 557-6068
+Zaxby's,"B & W Foods, Llc",6020 Bethelview Rd.,Cumming,GA,30040,(678) 513-0077
+Zaxby's,"Forsyth Foods, Inc.",2810 Keith Bridge Rd.,Cumming,GA,30041,(678) 513-2822
+Zaxby's,"Sawnee Mountain Foods, Inc.",520 Sawnee Corners Blvd.,Cumming,GA,30040,(678) 513-6252
+Zaxby's,"Holiday Management, Llc",5280 Matt Hwy.,Cumming,GA,30028,(768) 771-5725
+Zaxby's,"Faulkner Chick, Inc.",3460 Braselton Hwy.,Dacula,GA,30019,(770) 271-0208
+Zaxby's,"Sugar Fork Foods, Inc.",2620 Winder Hwy.,Dacula,GA,30019,(770) 995-4362
+Zaxby's,"T&V Foods, Inc.",58 Pine Tree Way,Dahlonega,GA,30533,(706) 867-0932
+Zaxby's,"Moore & Moore Investments, Inc.",202 Hillside Overlook,Dallas,GA,30157,(770) 443-2856
+Zaxby's,"3D Chicken, Inc.",872 College Dr.,Dalton,GA,30720,(706) 529-6620
+Zaxby's,"P, B, & T, Inc.",1323 Veterans Dr.,Dalton,GA,30721,(706) 217-6622
+Zaxby's,"Perry & Brady Enterprises, Inc.",2710 Airport Rd.,Dalton,GA,30720,(706) 428-9394
+Zaxby's,"Perry & Brady Enterprises, Inc.",244 S. 400 Center Ln.,Dawsonville,GA,30534,(706) 216-8282
+Zaxby's,"Ssr Dekalb, Llc",4805 Flat Shoals Pkwy.,Decatur,GA,30034,(470) 412-0952
+Zaxby's,"Ssr Dekalb, Llc",3809 N. Druid Hills Rd.,Decatur,GA,30033,(470) 264-1812
+Zaxby's,"Ssr Dekalb, Llc",3490 Memorial Dr.,Decatur,GA,30032,(470) 412-0953
+Zaxby's,"Mcbirds, Inc.",5632 Buford Hwy.,Doraville,GA,30340,(770) 451-2550
+Zaxby's,"Demersseman Brothers, Inc.",1004 Peterson Ave. S,Douglas,GA,31533,(912) 260-1000
+Zaxby's,"Dublin Food, Inc.",100 Travel Center Blvd.,Dublin,GA,31021,(478) 275-1325
+Zaxby's,"Dublin Food, Inc.",2203 Veterans Blvd.,Dublin,GA,31021,(478) 275-1070
+Zaxby's,"V&V Foods, Llc",5970 State Bridge Rd.,Duluth,GA,30097,(770) 623-4949
+Zaxby's,"Jalee Eatonton, L.L.C.",120 Walmart Way,Eatonton,GA,31024,(706) 923-1910
+Zaxby's,"T Bird Foods, Inc.",614 Elbert St.,Elberton,GA,30635,(706) 283-5203
+Zaxby's,"1788 Chicken, Llc",143 Highland Crossing,Ellijay,GA,30540,(706) 515-1000
+Zaxby's,"Ssr Augusta, Llc",3031 William Few Pkwy.,Evans,GA,30809,(706) 210-2929
+Zaxby's,"Ssr Augusta, Llc",612 Ronald Reagan Dr.,Evans,GA,30809,(706) 863-4000
+Zaxby's,"J & B Food Enterprises, Llc",7840 Senoia Rd.,Fairburn,GA,30213,(770) 892-4332
+Zaxby's,"1788 Chicken, Llc",1325 Hwy. 85 N.,Fayetteville,GA,30214,(678) 817-4321
+Zaxby's,"1788 Chicken, Llc",130 Hwy. 92,Fayetteville,GA,30214,(678) 610-3051
+Zaxby's,"Dublin Food, Inc.",321 Cabiness Rd.,Forsyth,GA,31029,(478) 993-1886
+Zaxby's,"Ecla Family Partnership, Lllp",7290 Ingersoll St.,Fort Moore,GA,31905,(706) 683-0066
+Zaxby's,"1796 Chicken, Llc",2541 Battlefield Pkwy.,Ft. Oglethorpe,GA,30742,(706) 861-3898
+Zaxby's,"J.G. Mcenterprises, Inc.",1332 Browns Bridge Rd.,Gainesville,GA,30501,(678) 450-0661
+Zaxby's,"Mcbrothers, Inc.",1977 SE Textile Way,Gainesville,GA,30501,(770) 287-8500
+Zaxby's,"Mcbridge, Inc.",1281 NW Thompson Bridge Rd.,Gainesville,GA,30501,(470) 691-3880
+Zaxby's,"Ssr Savannah, Llc",4624 Augusta Rd.,Garden City,GA,31408,(912) 438-6667
+Zaxby's,"Gray Food, Inc.",166 W. Clinton St.,Gray,GA,31032,(478) 986-4822
+Zaxby's,"Encore Foods, Inc.",1931 Grayson Hwy.,Grayson,GA,30017,(770) 963-7855
+Zaxby's,"Go Chick Foods, Inc.",2301 S. Main St.,Greensboro,GA,30642,(706) 453-1355
+Zaxby's,"High Adventure Chicken, Inc.",925 W. Taylor St.,Griffin,GA,30223,(678) 903-9222
+Zaxby's,"Dream Big Foods Iii, Inc.",1504 W. McIntosh Rd.,Griffin,GA,30223,(770) 233-0446
+Zaxby's,"High Adventure Chicken, Inc.",101 Moreland Rd.,Griffin,GA,30224,(678) 408-8811
+Zaxby's,"Ssr Augusta, Llc",5002 Steiner Way,Grovetown,GA,30813,(706) 364-0044
+Zaxby's,"1796 Chicken, Llc",2460 Jonesboro Rd.,Hampton,GA,30228,(678) 821-2000
+Zaxby's,"Chicken Slingerz, Llc",4560 Jimmy Lee Smith Pkwy.,Hiram,GA,30141,(770) 222-2078
+Zaxby's,"Meadowbrook Restaurant Company, Inc.",4825 Holly Springs Pkwy.,Holly Springs,GA,30115,(678) 388-7755
+Zaxby's,"High Adventure Chicken, Inc.",501 W. 3rd St.,Jackson,GA,30233,(678) 505-0004
+Zaxby's,"High Adventure Chicken, Inc.",108 Hospitality Dr.,Jackson,GA,30233,(678) 902-5080
+Zaxby's,"1788 Chicken, Llc",132 Bill Wiggington Pkwy.,Jasper,GA,30143,(706) 253-9294
+Zaxby's,"Perry & Brady Enterprises, Inc.",4853 US Hwy. 129 N.,Jefferson,GA,30549,(706) 693-4917
+Zaxby's,"Sjac Mount Zion 1, Llc",7149 Mt. Zion Blvd.,Jonesboro,GA,30236,(678) 610-7676
+Zaxby's,"Endless Chicken, Llc",6671 Tara Blvd.,Jonesboro,GA,30236,(770) 477-1440
+Zaxby's,"10-Four, Inc.",5230 Stilesboro Rd. NW,Kennesaw,GA,30152,(678) 354-4441
+Zaxby's,"Four Of A Kind, Inc.",1640 Old Hwy. 41,Kennesaw,GA,30152,(770) 428-8789
+Zaxby's,"Zelmo Pie, Llc",3160 Acworth Forest Dr. NW,Kennesaw,GA,30144,(770) 974-1147
+Zaxby's,"Chicken Slingerz, Llc",780 Town Park Lane NW,Kennesaw,GA,30144,(770) 429-5778
+Zaxby's,"Jamsouth, Inc.",1377 E. King Ave.,Kingsland,GA,31548,(912) 510-8500
+Zaxby's,"Bkz Lagrange, Llc",129 Commerce Ave.,Lagrange,GA,30241,(706) 882-0440
+Zaxby's,"J Bird Foods, Inc.",14265 Jones St.,Lavonia,GA,30553,(706) 356-1010
+Zaxby's,"1788 Chicken, Llc",1914 Duluth Hwy.,Lawrenceville,GA,30043,(770) 277-1973
+Zaxby's,"Sugar Fork Foods, Inc.",3390 Sugarloaf Pkwy.,Lawrenceville,GA,30043,(770) 513-1552
+Zaxby's,"Oc Hospitality, Inc.",887 Buford Dr.,Lawrenceville,GA,30043,(678) 226-1847
+Zaxby's,"Encore Foods, Inc.",743 Pleasant Hill Rd.,Lilburn,GA,30047,(770) 921-6161
+Zaxby's,"Great Taste, Llc",650 Maxham Rd.,Lithia Springs,GA,30122,(770) 739-8318
+Zaxby's,"Great Taste, Llc",2609 Lee Rd.,Lithia Springs,GA,30122,(770) 489-3943
+Zaxby's,"Ssr Dekalb, Llc",451 S. Deshon Rd.,Lithonia,GA,30058,(470) 264-1813
+Zaxby's,"Ssr Dekalb, Llc",2316 Panola Rd.,Lithonia,GA,30058,(470) 264-1814
+Zaxby's,"Saq Enterprise, Inc.",8065 Mall Pkwy.,Lithonia,GA,30038,(770) 404-7344
+Zaxby's,"Gofer Foods Ii, Inc.",5090 Floyd Rd. SW,Mableton,GA,30126,(770) 941-0551
+Zaxby's,"Babsie, Inc.",1680 Bass Rd.,Macon,GA,31210,(478) 254-6180
+Zaxby's,"G Money, Inc.",6375 Zebulon Rd.,Macon,GA,31220,(478) 254-2276
+Zaxby's,"Graham Crackas, Inc.",4686 Presidential Pkwy.,Macon,GA,31206,(478) 405-0080
+Zaxby's,"Graham Crackas, Inc.",4622 Hartley Bridge Rd.,Macon,GA,31216,(478) 788-3577
+Zaxby's,"Little C., Inc.",910 Riverside Dr.,Macon,GA,31201,(478) 750-1199
+Zaxby's,"Buck Chicken, Inc.",1225 Powder Springs St.,Marietta,GA,30064,(770) 575-2206
+Zaxby's,"Chicken Coup V, Llc",2981 Delk Rd.,Marietta,GA,30067,(678) 870-7000
+Zaxby's,"Chicken Coup, Llc",1347 Church St. Ext.,Marietta,GA,30060,(678) 733-9300
+Zaxby's,"Gofer Foods, Inc.",750 Johnson Ferry Rd.,Marietta,GA,30068,(678) 560-8100
+Zaxby's,"Poultry Partners, Llc",591 S. Marietta Pkwy.,Marietta,GA,30060,(770) 420-2440
+Zaxby's,"Two, Too!, Inc.",3030 Johnson Ferry Rd.,Marietta,GA,30062,(770) 642-9100
+Zaxby's,"Chicken Coup Iv, Llc",3405 Dallas Hwy. SW,Marietta,GA,30064,(678) 870-5000
+Zaxby's,"Chicken Coup Ii, Llc",2756 Sandy Plains Rd. NE,Marietta,GA,30066,(678) 383-4600
+Zaxby's,"Ssr Augusta, Llc",510 Furys Ferry Rd.,Martinez,GA,30907,(706) 651-9000
+Zaxby's,"Ssr Augusta, Llc",3969 Columbia Rd.,Martinez,GA,30907,(706) 922-7700
+Zaxby's,Credit To Ctc Ga Llc,7033 Ruffie Way,Midland,GA,31820,(706) 256-5671
+Zaxby's,"Avants Food, Inc.",1692 N. Columbia St.,Milledgeville,GA,31061,(478) 452-1027
+Zaxby's,"Awh Foods, Llc",13788 Hwy. 9,Milton,GA,30004,(770) 772-9356
+Zaxby's,"Brakat Enterprises, Inc.",195 Martin Luther King Jr. Blvd.,Monroe,GA,30655,(678) 635-2077
+Zaxby's,"Four G'S & M, Inc.",507 S. Veterans Pkwy.,Moultrie,GA,31788,(229) 985-2440
+Zaxby's,"1788 Chicken, Llc",759 Bullsboro Dr.,Newnan,GA,30263,(770) 251-5216
+Zaxby's,"1788 Chicken, Llc",195 Glenda Trace,Newnan,GA,30265,(770) 252-8552
+Zaxby's,Zaxatl Llc,4850 Peachtree Ind Blvd.,Norcross,GA,30071,(770) 246-8400
+Zaxby's,"Jdk Foods, Inc.",6895 Jimmy Carter Blvd.,Norcross,GA,30071,(404) 410-7599
+Zaxby's,"Los Pollitos, Inc.",3724 Mundy Mill Rd.,Oakwood,GA,30566,(770) 297-0392
+Zaxby's,"Dream Big Foods, Inc.",2793 Highway 54 W.,Peachtree City,GA,30269,(678) 489-6964
+Zaxby's,"Dream Big Foods Ii, Inc.",1203 Hwy. 74 S.,Peachtree City,GA,30269,(770) 742-0287
+Zaxby's,"1788 Chicken, Llc",201 Worth Ct.,Peachtree City,GA,30269,(770) 632-9454
+Zaxby's,"C.C.H. Restaurant Management, Inc.",101 Hampton Ct.,Perry,GA,31069,(478) 987-1020
+Zaxby's,"Alsa-Mary, Inc.",311 Perry Pkwy.,Perry,GA,31069,(478) 224-3100
+Zaxby's,"Ssr Savannah, Llc",102 Zoya Lane,Pooler,GA,31322,(912) 988-7105
+Zaxby's,"Ssr Savannah, Llc",175 Pooler Pkwy.,Pooler,GA,31322,(912) 748-7588
+Zaxby's,"Ssr Savannah, Llc",100 Old Richmond Rd.,Port Wentworth,GA,31407,(912) 395-8884
+Zaxby's,"Code Five Enterprises, Inc.",4410 Brownsville Rd.,Powder Springs,GA,30127,(678) 384-1005
+Zaxby's,"Ssr Savannah, Llc",80 Exchange St.,Richmond Hill,GA,31324,(912) 459-1445
+Zaxby's,"Whaler Foods, Llc",313 S. Columbia Ave.,Rincon,GA,31326,(912) 295-3097
+Zaxby's,"1796 Chicken, Llc",6456 Alabama Hwy.,Ringgold,GA,30736,(706) 935-9292
+Zaxby's,"Sjac Hwy 85 I, Llc",7541 Hwy. 85,Riverdale,GA,30296,(770) 472-2044
+Zaxby's,"Hlc Foods, Llc",2415 Shorter Ave.,Rome,GA,30165,(706) 291-9996
+Zaxby's,"Hlc Foods, Llc",2790 Martha Berry Hwy. NE,Rome,GA,30165,(706) 234-2888
+Zaxby's,"Hlc Foods, Llc",1808 Turner McCall Blvd.,Rome,GA,30161,(706) 234-6440
+Zaxby's,"V & V Foods, Llc",11235 Woodstock Rd.,Roswell,GA,30075,(770) 552-2245
+Zaxby's,"V & V Foods, Llc",3000 Holcomb Woods Pkwy.,Roswell,GA,30076,(678) 352-0707
+Zaxby's,"Hlc Foods, Llc",25 Market St.,St. Simons Island,GA,31522,(912) 638-4010
+Zaxby's,"V & V Foods, Llc",6545 Roswell Rd. NE,Sandy Springs,GA,30328,(678) 909-8900
+Zaxby's,"Cdb Restaurant Group, Llc",4260 Ogeechee Rd.,Savannah,GA,31405,(912) 233-2369
+Zaxby's,"Ssr Savannah, Llc",5971 Ogeechee Rd.,Savannah,GA,31419,(912) 961-5570
+Zaxby's,"Ssr Savannah, Llc",1935 E. Montgomery Cross Rd.,Savannah,GA,31406,(912) 239-6894
+Zaxby's,"Jsb Foods, Llc",1917 E. Victory Dr.,Savannah,GA,31404,(912) 691-4722
+Zaxby's,"Sjac Food Groups, Llc",5201 S. Cobb Dr. SE,Smyrna,GA,30080,(404) 792-2288
+Zaxby's,"Sjac Cobb Pkwy, Llc",2205 Cobb Pkwy. SE,Smyrna,GA,30080,(770) 858-0000
+Zaxby's,"Chicken Coup Iii, Llc",1420 Spring Rd. SE,Smyrna,GA,30080,(678) 870-4000
+Zaxby's,"Jdk Foods, Inc.",3230 Centerville Hwy.,Snellville,GA,30039,(770) 972-1120
+Zaxby's,"Sugar Fork Foods, Inc.",1780 Scenic Hwy.,Snellville,GA,30078,(770) 985-9888
+Zaxby's,"Ssr Dekalb, Llc",1152 S. Hairston Rd.,Stone Mountain,GA,30088,(470) 412-0954
+Zaxby's,"Brothers Chicken, Inc.",5982 Cumming Hwy,Sugar Hill,GA,30518,(678) 765-8065
+Zaxby's,"Hlc Foods, Llc",11278 Hwy. 27,Summerville,GA,30747,(706) 808-0103
+Zaxby's,"Five Fingers, Inc.",3125 Mathis Airport Pkwy.,Suwanee,GA,30024,(678) 455-3377
+Zaxby's,"Smithtown Foods, Inc.",3545 Lawrenceville Suwanee Rd. NW,Suwanee,GA,30024,(678) 546-0050
+Zaxby's,Flying Buffalo Five Inc.,601 E. Franklin St.,Sylvester,GA,31791,(229) 299-8525
+Zaxby's,"Hlc Foods Of Carrollton, Llc",557 Carrollton St.,Temple,GA,30179,(706) 434-8497
+Zaxby's,"Double D Foods Of Thomasville, Inc.",14036 US Hwy. 19 S.,Thomasville,GA,31757,(229) 226-1212
+Zaxby's,"Four G'S, L.L.C.",198 S. Virginia Ave.,Tifton,GA,31794,(229) 391-9992
+Zaxby's,"Tifton Chicken, Inc.",2201 Tift Ave. N.,Tifton,GA,31794,(229) 382-9722
+Zaxby's,"Dublin Food, Inc.",16 Curtis St.,Toccoa,GA,30577,(706) 886-5577
+Zaxby's,"Bratt Foods, Inc.",4409 Hugh Howell Rd.,Tucker,GA,30084,(678) 609-5525
+Zaxby's,"Sjac South Fulton 1, Llc",5350 Campbellton Fairburn Rd.,Union City,GA,30213,(770) 969-7172
+Zaxby's,"The Londonderry Group, Llc",6801 Studio Way,Union City,GA,30291,(770) 892-4715
+Zaxby's,"Ssr Savannah, Llc",2705 E. 1st St.,Vidalia,GA,30474,(912) 538-1880
+Zaxby's,"Hlc Foods Of Carrollton, Llc",200 Cooley Dr.,Villa Rica,GA,30180,(770) 456-8568
+Zaxby's,"Alsa-Mary, Inc.",3101 Russell Pkwy.,Warner Robins,GA,31088,(478) 293-4493
+Zaxby's,"J Man-10, Inc.",401 N. Davis Dr.,Warner Robins,GA,31093,(478) 922-1000
+Zaxby's,"Jon Con, Inc.",2931 Watson Blvd.,Warner Robins,GA,31093,(478) 971-1122
+Zaxby's,"Jonathan E'S, Inc.",861 Warren Dr.,Warner Robins,GA,31088,(478) 218-0077
+Zaxby's,"Reynnielou, Inc.",505 Booth Rd.,Warner Robins,GA,31088,(478) 225-2391
+Zaxby's,"Go Chick Foods, Inc.",1013 Park Dr.,Watkinsville,GA,30677,(706) 769-2000
+Zaxby's,"Hlc Foods, Llc",2316 Memorial Dr.,Waycross,GA,31501,(912) 285-7271
+Zaxby's,"Faulkner Foods, Inc.",28 E. May St.,Winder,GA,30680,(770) 867-7700
+Zaxby's,"V&V Foods, Llc",107 Claremore Dr.,Woodstock,GA,30188,(770) 592-1979
+Zaxby's,"G O A T Chicken, Inc.",8714 E. US Hwy. 36,Avon,IN,46123,(317) 707-7092
+Zaxby's,"G O A T Chicken, Inc.",8168 Upland Way,Camby,IN,46113,(317) 830-8435
+Zaxby's,"Unbridled Chicken, Llc",73 Pacer Dr. NW,Corydon,IN,47112,(812) 347-8026
+Zaxby's,"Harris C.W. Properties, Llc",1021 N. Burkhardt Rd.,Evansville,IN,47715,(812) 602-5515
+Zaxby's,"Barred Rock, Inc.",13460 Bent Grass Ln.,Fishers,IN,46038,(317) 576-9700
+Zaxby's,"Barred Rock, Inc.",1274 N. Emerson Ave.,Greenwood,IN,46143,(317) 497-8190
+Zaxby's,"Barred Rock, Inc.",254 Marlin Dr.,Greenwood,IN,46142,(317) 497-8888
+Zaxby's,"G O A T Chicken, Inc.",8810 Wesleyan Rd.,Indianapolis,IN,46268,(317) 672-2471
+Zaxby's,"Unbridled Chicken, Llc",4277 Mannheim Rd.,Jasper,IN,47546,(812) 559-0949
+Zaxby's,"Unbridled Chicken, Llc",5430 E. Hwy. 62,Jeffersonville,IN,47130,(812) 725-9304
+Zaxby's,"Unbridled Chicken, Llc",2870 Technology Ave.,New Albany,IN,47150,(812) 725-7484
+Zaxby's,"Harris Cw Properties, Llc",8175 High Point Dr.,Newburgh,IN,47630,(812) 490-1199
+Zaxby's,"Barred Rock, Inc.",1792 N. Riley Hwy.,Shelbyville,IN,46176,(317) 699-6568
+Zaxby's,Zaxkc Llc,2035 N. 109th St.,Kansas City,KS,66109,(913) 299-8803
+Zaxby's,"Bardstown-Cornerstone, Llc",816 N. 3rd St.,Bardstown,KY,40004,(502) 348-8088
+Zaxby's,"Bluegrass Specialty Foods, Inc.",100 Cherry Farms Ln.,Bowling Green,KY,42103,(270) 781-1866
+Zaxby's,"Bluegrass Specialty Foods, Inc.",1651 Campbell Ln.,Bowling Green,KY,42104,(270) 846-0000
+Zaxby's,"Mkm Restaurants, Inc.",1801 US Hwy. 31,Bowling Green,KY,42101,(270) 796-8300
+Zaxby's,"Aj Hospitality, Llc",301 Dohoney Trace,Columbia,KY,42728,(270) 380-1010
+Zaxby's,"Under His Wings Of Boyle, Llc",304 Skywatch Dr.,Danville,KY,40422,(589) 236-9133
+Zaxby's,"Bluegrass Specialty Foods, Inc.",3000 N. Dixie Ave.,Elizabethtown,KY,42701,(270) 982-5222
+Zaxby's,"Under His Wings Of Franklin, Llc",1375 Versailles Rd.,Frankfort,KY,40601,(502) 695-0060
+Zaxby's,"Harris C.W. Properties, Llc",1551 Nashville Rd.,Franklin,KY,42134,(270) 586-6707
+Zaxby's,"Credit To Ctc Ky, Llc",1133 Lexington Rd.,Georgetown,KY,40324,(502) 370-4066
+Zaxby's,"Bluegrass Specialty Foods, Inc.",810 Happy Valley Rd.,Glasgow,KY,42141,(270) 629-2445
+Zaxby's,"Bluegrass Specialty Foods, Inc.",4002 Ft. Campbell Blvd.,Hopkinsville,KY,42240,(270) 886-2111
+Zaxby's,Credit To Ctc Ky Llc,1772 Sharkey Way,Lexington,KY,40511,(859) 226-0011
+Zaxby's,Credit To Ctc Ky Llc,531 W. New Cir. Rd.,Lexington,KY,40511,(859) 368-0600
+Zaxby's,Credit To Ctc Ky Llc,104 Sand Lake Dr.,Lexington,KY,40515,(859) 317-9929
+Zaxby's,Credit To Ctc Ky Llc,1115 S. Broadway,Lexington,KY,40504,(859) 523-8543
+Zaxby's,Credit To Ctc Ky Llc,435 Redding Rd.,Lexington,KY,40517,(859) 687-9044
+Zaxby's,"Brownsboro-Cornerstone, Llc",9903 Brownsboro Rd.,Louisville,KY,40241,(502) 677-0808
+Zaxby's,"Cornerstone Equity, Llc",10715 Dixie Hwy.,Louisville,KY,40272,(502) 271-6990
+Zaxby's,"North Dixie-Cornerstone, Llc",4949 Dixie Hwy.,Louisville,KY,40216,(502) 690-7282
+Zaxby's,"Unbridled Chicken, Llc",3423 Fern Valley Rd.,Louisville,KY,40213,(502) 749-3972
+Zaxby's,"Unbridled Chicken, Llc",807 Blankenbaker Pkwy.,Louisville,KY,40243,(502) 742-8600
+Zaxby's,"Unbridled Chicken, Llc",5025 Mud Ln.,Louisville,KY,40229,(502) 632-1400
+Zaxby's,"Unbridled Chicken, Llc",13811 Terra View Trail,Louisville,KY,40245,(502) 919-9013
+Zaxby's,"Cornerstone Restaurants, Llc",148 Spring Place Dr.,Mt. Washington,KY,40047,(502) 866-3088
+Zaxby's,"Harris C.W. Properties, Llc",1209 N. 12 St.,Murray,KY,42071,(270) 761-3333
+Zaxby's,"Under His Wings Of Jessamine, Llc",200 N. Plaza Dr.,Nicholasville,KY,40356,(859) 887-9292
+Zaxby's,"Bluegrass Specialty Foods, Inc.",5030 Frederica St.,Owensboro,KY,42301,(270) 691-6166
+Zaxby's,"Unbridled Chicken, Llc",5276 US Hwy. 60 W.,Paducah,KY,42001,(270) 577-7569
+Zaxby's,"Under His Wings Of Madison, Llc",1111 Kim Kent Dr.,Richmond,KY,40475,(859) 624-9722
+Zaxby's,"Unbridled Chicken, Llc",4455 Freedoms Way,Shelbyville,KY,40065,(502) 633-1150
+Zaxby's,"Shepherdsville-Cornerstone, Llc",539 Conestoga Pkwy.,Shepherdsville,KY,41065,(502) 543-6000
+Zaxby's,"Bluegrass Specialty Foods, Inc.",2039 S. Hwy 27,Somerset,KY,42501,(606) 416-5495
+Zaxby's,"Bc Restaurant Holdings, Llc",4980 Barksdale Blvd.,Bossier City,LA,71112,(318) 584-7117
+Zaxby's,"Bc Restaurant Holdings, Llc",870 Benton Rd.,Bossier City,LA,71111,(318) 584-7106
+Zaxby's,"Geaux Zax I, Llc",1908 W. Hwy. 30,Gonzales,LA,70737,(225) 450-6996
+Zaxby's,"A&M Restaurant Operations, Llc",1608 Sterlington Rd.,Monroe,LA,71203,(318) 537-9126
+Zaxby's,"A&M Restaurant Operations, Llc",1103 S. Service Rd.,Ruston,LA,71270,(318) 202-5862
+Zaxby's,"Bc Restaurant Holdings, Llc",5706 N. Market St.,Shreveport,LA,71107,(318) 489-4271
+Zaxby's,"Bc Restaurant Holdings, Llc",9619 Mansfield Rd.,Shreveport,LA,71118,(318) 606-5332
+Zaxby's,"A&M Restaurant Operations, Llc",145 Wallace Dean Rd.,West Monroe,LA,71291,(318) 512-4183
+Zaxby's,Liberty Cookingham Kc Llc,10430 NE Cookingham Dr.,Kansas City,MO,64157,(816) 415-3979
+Zaxby's,Antioch Kc Llc,5201 NE Antioch Rd.,Kansas City,MO,64119,(816) 326-8724
+Zaxby's,Oak Grove Kc Llc,401 S. Broadway,Oak Grove,MO,64075,(816) 625-1301
+Zaxby's,"Z5 Restaurants, Llc",3220 E. Sunshine St.,Springfield,MO,65804,(417) 368-0423
+Zaxby's,"Z5 Restaurants, Llc",540 West El Camino Alto Dr.,Springfield,MO,65804,(417) 823-9744
+Zaxby's,"Watson Dak, Llc",322 Hawthorne Blvd.,Warrensburg,MO,64093,(660) 422-5631
+Zaxby's,"Oxford Foods, Inc.",101 Medical Center Dr.,Batesville,MS,38606,(662) 561-0338
+Zaxby's,Pass Road Poultry Llc,2441 Pass Rd.,Biloxi,MS,39531,(228) 207-3396
+Zaxby's,"Ole Brook Chicken, Llc",968 Brookway Blvd.,Brookhaven,MS,39601,(601) 833-9121
+Zaxby's,"Oxford Foods, Inc.",804 N. Davis Ave.,Cleveland,MS,38732,(662) 579-3043
+Zaxby's,"1788 Chicken, Llc",99 Hwy. 80 E.,Clinton,MS,39056,(601) 925-5838
+Zaxby's,"Cms Chicken, Inc.",1729 Hwy. 45 N.,Columbus,MS,39705,(662) 327-4606
+Zaxby's,"Dixie Chicken, Llc",1601 Hwy. 72,Corinth,MS,38834,(662) 594-1072
+Zaxby's,"Promenade Partners, Llc",4032 Promenade Pkwy.,D'Iberville,MS,39540,(228) 207-1073
+Zaxby's,"1788 Chicken, Llc",115 Promenade Dr.,Flowood,MS,39232,(601) 919-0801
+Zaxby's,"Oxford Foods, Inc.",1000 W. Park Ave.,Greenwood,MS,38930,(662) 219-0514
+Zaxby's,"Oxford Foods, Inc.",1657 Sunset Dr.,Grenada,MS,38901,(662) 226-9451
+Zaxby's,"Hwy 49 Foods, Llc",11383 Hwy 49,Gulfport,MS,39503,(228) 314-3356
+Zaxby's,"1788 Chicken, Llc",4520 Hardy St.,Hattiesburg,MS,39402,(601) 264-5254
+Zaxby's,"Oxford Foods, Inc.",2575 McIngvale Rd.,Hernando,MS,38632,(662) 429-9949
+Zaxby's,"Oxford Foods, Inc.",761 Goodman Rd.,Horn Lake,MS,38637,(662) 349-8585
+Zaxby's,"1788 Chicken, Llc",6330 Ridgewood Ct. Dr.,Jackson,MS,39211,(601) 952-0662
+Zaxby's,"Rtr, Llc",705 N. 16th Ave.,Laurel,MS,39440,(601) 335-6366
+Zaxby's,"Wp Foods Grandview, Llc",154 Grandview Blvd.,Madison,MS,39110,(601) 898-1117
+Zaxby's,"Ole Brook Chicken Iii, Llc",1750 Simpson Hwy. 49,Magee,MS,39111,(601) 721-1805
+Zaxby's,"Ole Brook Chicken Ii, Llc",205 Anna Dr.,Mccomb,MS,39648,(601) 465-0799
+Zaxby's,"Mms Chicken, Inc.",520 MS-19,Meridian,MS,39301,(601) 286-5471
+Zaxby's,"Oxford Foods, Inc.",450 Park Plaza Dr.,New Albany,MS,38652,(662) 539-7154
+Zaxby's,Spring Chicken Llc,4013 Bienville Blvd.,Ocean Springs,MS,39564,(228) 215-1808
+Zaxby's,"Oxford Foods, Inc.",7480 Commerce Dr.,Olive Branch,MS,38654,(662) 895-2745
+Zaxby's,"Oxford Foods, Inc.",11091 Old Goodman Rd.,Olive Branch,MS,38654,(662) 408-4670
+Zaxby's,"Oxford Foods, Inc.",2574 W. Jackson Ave.,Oxford,MS,38655,(662) 234-1024
+Zaxby's,"Rtr, Llc",1122 Evelyn Gandy Pkwy,Petal,MS,39465,(601) 336-8408
+Zaxby's,"Pontotoc Chicken, Llc",187 MS-17,Pontotoc,MS,38863,(662) 200-2086
+Zaxby's,Philadelphia Chicken Llc,1102 Central Dr.,Philadelphia,MS,39350,(601) 389-8168
+Zaxby's,Wp Foods Richland Llc,102 Marketplace Dr.,Richland,MS,39218,(769) 233-7086
+Zaxby's,"E Hospitality, Llc",302 E. Main St.,Senatobia,MS,38668,(662) 301-8538
+Zaxby's,"Oxford Foods, Inc.",6676 Getwell Rd.,Southaven,MS,38671,(662) 253-8501
+Zaxby's,"Starkville Food Partners, Inc.",829 Hwy. 12,Starkville,MS,39759,(662) 320-9003
+Zaxby's,"Oxford Foods, Inc.",1013 W. Barnes Crossing Rd.,Tupelo,MS,38804,(662) 350-3062
+Zaxby's,"1788 Chicken, Llc",3316 Pemberton Sq.,Vicksburg,MS,39180,(601) 429-8936
+Zaxby's,"West Point Chicken, Llc",5697 Hwy. 45 Alt. S.,West Point,MS,39773,(6620 391-4303
+Zaxby's,"Griffeth Foods, Inc.",701 Leonard Ave.,Albemarle,NC,28001,(704) 982-4440
+Zaxby's,"1St & Goal Nichols Plaza, Llc",1171 Pine Plaza Dr.,Apex,NC,27523,(919) 746-9270
+Zaxby's,Ckc Archdale Llc,10401 S. Main St.,Archdale,NC,27263,(336) 307-4030
+Zaxby's,"Lsc Foods, Inc.",1205 E. Dixie Dr.,Asheboro,NC,27203,(336) 629-5009
+Zaxby's,"Asheville Foods, Llc",1650 Hendersonville Rd.,Asheville,NC,28803,(828) 277-2228
+Zaxby's,"Avants Enterprise, Llc",330 New Leicester Hwy.,Asheville,NC,28806,(828) 575-2160
+Zaxby's,"Avants Enterprise, Llc",425 Smokey Park Hwy.,Asheville,NC,28806,(828) 633-6101
+Zaxby's,"Jjm Nc I, Llc",5337 US Hwy. 158,Bermuda Run,NC,27006,(336) 941-9051
+Zaxby's,"Ssr Boone, Llc",545 Hwy. 105 Ext.,Boone,NC,28607,(828) 266-3477
+Zaxby's,R And L Brevard Llc,205 Asheville Hwy.,Brevard,NC,28712,(828) 884-7071
+Zaxby's,"Georgia Carolina Foods, Inc.",3117 Garden Rd.,Burlington,NC,27215,(336) 524-6150
+Zaxby's,"3M & N, Inc.",80 Brandywood Ct.,Cameron,NC,28326,(910) 436-5700
+Zaxby's,"W&S Cary, Llc",1021 N. Harrison Ave.,Cary,NC,27513,(919) 481-2070
+Zaxby's,"Dhruvin Ii, Inc.",8905 Albemarle Rd.,Charlotte,NC,28277,(704) 910-4088
+Zaxby's,"Tat Foods, Inc.",12857 Hwy. 70 W.,Clayton,NC,27520,(919) 359-6100
+Zaxby's,"Griffeth Restaurants, Inc.",7781 Gateway Ln. NW,Concord,NC,28027,(704) 979-6030
+Zaxby's,"Tfp Foods, Llc",355 Copperfield Blvd. NE,Concord,NC,28025,(704) 782-3663
+Zaxby's,"East Lincoln Foods, Llc",7179 NC 73 Hwy.,Denver,NC,29037,(980) 222-6006
+Zaxby's,"Durham Foods, Inc.",3820 N. Roxboro St.,Durham,NC,27704,(919) 251-9650
+Zaxby's,"W&S Durham, Llc",3520 Hillsborough Rd.,Durham,NC,27705,(919) 973-5693
+Zaxby's,"3M & N, Inc.",501 E. Jackson Blvd.,Erwin,NC,28339,(910) 892-3965
+Zaxby's,"Fry Guys Management Group 1, Llc",4503 Ramsey St.,Fayetteville,NC,28311,(910) 491-0618
+Zaxby's,"Fry Guys Management Group 2, Llc",2166 Skibo Rd.,Fayetteville,NC,28314,(910) 263-8004
+Zaxby's,M.C. Carnes Incorporated,1405 Walter Reed Rd.,Fayetteville,NC,28304,(910) 223-1111
+Zaxby's,"My Fries Are Cold, Llc",9556 Cliffdale Rd.,Fayetteville,NC,28304,(910) 491-7100
+Zaxby's,"In The Ballpark, Inc.",30 McMurray Rd.,Flat Rock,NC,28731,(828) 697-7277
+Zaxby's,Ella&Daxtllc,1341 N. Main St.,Fuquay-Varina,NC,27526,(919) 552-3981
+Zaxby's,"1St And Goal Garner, Llc",20 Eagle Wing Way,Garner,NC,27529,(919) 773-0061
+Zaxby's,"321 Foods, Llc",2430 N. Chester St.,Gastonia,NC,28052,(980) 320-1241
+Zaxby's,"Gastonia Foods, Llc",3460 E. Franklin Blvd.,Gastonia,NC,28056,(704) 879-4310
+Zaxby's,"West Gaston Foods, Llc",2201 W. Franklin Blvd.,Gastonia,NC,28056,(980) 888-4426
+Zaxby's,"Gat Goldsboro Foods, Inc.",104 N. Berkeley Blvd.,Goldsboro,NC,27534,(919) 288-2933
+Zaxby's,"Georgia Carolina Foods Ii, Inc.",501 S. Main St.,Graham,NC,27253,(336) 226-4330
+Zaxby's,"Jjm Nc Ii, Llc",2111 Pyramid Village Blvd.,Greensboro,NC,27405,(336) 375-4500
+Zaxby's,"Bcd Restaurants, Llc",3501 W. Gate City Blvd.,Greensboro,NC,27407,(336) 808-5819
+Zaxby's,"Nc Chicks, Llc",100 Bantiff Way,Greensboro,NC,27406,(336) 378-6001
+Zaxby's,"Zaxbax Greensboro, Llc",1657 New Garden Rd.,Greensboro,NC,27410,(336) 854-0415
+Zaxby's,"Zaxbax Greensboro, Llc",2502 Battleground Ave.,Greensboro,NC,27408,(336) 617-3742
+Zaxby's,"Zaxbax Greensboro, Llc",4630 West Market St.,Greensboro,NC,27407,(336) 323-2602
+Zaxby's,"Trust Foods, L.L.C.",1098 Allen Rd.,Greenville,NC,27834,(252) 752-4754
+Zaxby's,"Trust Foods, L.L.C.",2035 E. Fire Tower Rd.,Greenville,NC,27858,(252) 353-4445
+Zaxby's,"C & D Foods, Inc.",6701 Kee Ln.,Harrisburg,NC,28075,(704) 455-5788
+Zaxby's,"In The Ballpark, Inc.",67 Highlands Sq. Dr.,Hendersonville,NC,28792,(828) 693-4566
+Zaxby's,"C&D Restaurants, Inc.",2383 Springs Rd. NE,Hickory,NC,28601,(828) 256-6001
+Zaxby's,"Stevenmatthew Foods, Inc.",1330 Lenoir Rhyne Blvd. SE,Hickory,NC,28602,(828) 324-2210
+Zaxby's,"Hayes Investments Of High Point, Llc",3895 Brian Jordan Pl.,High Point,NC,27265,(336) 812-3838
+Zaxby's,"Zaxbax Greensboro, Llc",1827 N. Main St.,High Point,NC,27262,(336) 307-2552
+Zaxby's,"1St And Goal Holly Springs Towne Center, Llc",101 Grand Hill Pl.,Holly Springs,NC,27540,(919) 762-0432
+Zaxby's,"Carnes-Pass Foods, Inc.",3015 N. Main St.,Hope Mills,NC,28348,(910) 429-3004
+Zaxby's,"Double A Foods, Llc",16601 Statesville Rd.,Huntersville,NC,28078,(704) 997-6228
+Zaxby's,"Guardian Foodservices, Llc",4120 Western Blvd. Ext.,Jacksonville,NC,28546,(910) 238-2450
+Zaxby's,"Jjm Operations East Mountain, Llc",110 Pineview Ct.,Kernersville,NC,27284,(336) 497-4222
+Zaxby's,"Nc Chicks V, Llc",212 Ingram Dr.,King,NC,27021,(336) 985-6800
+Zaxby's,"At Foods, Inc.",6702 Hwy 64 E.,Knightdale,NC,27545,(919) 261-9995
+Zaxby's,"My Fries Are Cold, Llc",905 US 401 Bypass,Laurinburg,NC,28352,(910) 277-3703
+Zaxby's,"3M & N, Inc.",1665 N. Main St.,Lillington,NC,27546,(910) 814-1665
+Zaxby's,"Lincoln County Foods, Llc",922 E. Main St.,Lincolnton,NC,28092,(704) 735-7767
+Zaxby's,Carnes Incorporated,5011 Fayetteville Rd.,Lumberton,NC,28358,(910) 608-3282
+Zaxby's,"Avants Enterprise, Llc",1192 W. Henderson St.,Marion,NC,28752,(828) 659-9966
+Zaxby's,"Georgia Carolina Foods, Inc.",1316 Mebane Oaks Rd.,Mebane,NC,27302,(919) 304-1260
+Zaxby's,"Dhruvin Iv, Llc",2232 W. Roosevelt Blvd.,Monroe,NC,28110,(704) 283-0100
+Zaxby's,"Dhruvin, Inc.",288 W. Plaza Dr.,Mooresville,NC,28117,(704) 660-2255
+Zaxby's,"Guardian Foodservices, Llc",4970 Arendell St.,Morehead City,NC,28557,(252) 773-0498
+Zaxby's,"Avants Enterprise, Llc",2102 S. Sterling St.,Morganton,NC,28655,(828) 433-5151
+Zaxby's,"Payne Brothers Investments, Llc",826 US Hwy. 64,Murphy,NC,28906,(828) 835-3331
+Zaxby's,"Zaxnash, Llc",101 E. Evans Dr.,Nashville,NC,27856,(252) 459-9511
+Zaxby's,"Guardian Foodservices, Llc",2006 S. Glenburnie Rd.,New Bern,NC,28562,(252) 633-3337
+Zaxby's,"Two Birdz, Llc",940 E. 3rd St.,Pembroke,NC,28372,(910) 775-9028
+Zaxby's,"Zaxpitt, Llc",28 Harper Ln.,Pittsboro,NC,27312,(919) 904-7000
+Zaxby's,"Tba Raleigh Foods, Inc.",8812 Harvest Oaks Dr.,Raleigh,NC,27615,(919) 847-8151
+Zaxby's,"Zaxtech, Llc",7400 Louisburg Rd.,Raleigh,NC,27616,(984) 200-2746
+Zaxby's,"Zaxstate, Llc",2901 Hillsborough St.,Raleigh,NC,27607,(984) 242-0789
+Zaxby's,"Tba Rocky Mount Foods I, Inc.",1410 Jeffrey's Rd.,Rocky Mount,NC,27804,(252) 212-1703
+Zaxby's,"Triple G, Inc.",301 Faith Rd.,Salisbury,NC,28146,(704) 639-9929
+Zaxby's,"My Fries Are Cold, Llc",3220 NC 87 Hwy. S.,Sanford,NC,27332,(919) 777-7269
+Zaxby's,"Brunswick Properties, Llc",4736 Main St.,Shallotte,NC,28470,(910) 754-3500
+Zaxby's,Lincolnton Foods Llc,2005 E. Dixon Blvd.,Shelby,NC,28152,(704) 487-8700
+Zaxby's,"Tat Smith Foods, Inc.",130 Smithfield Crossing Dr.,Smithfield,NC,27577,(919) 938-1700
+Zaxby's,"Mfc Charlotte, Llc",160 Partners Cir.,Southern Pines,NC,28387,(910) 684-8496
+Zaxby's,"Fry Guys Management Group 3, Llc",130 South 3rd St.,Spring Lake,NC,28390,(910) 568-5238
+Zaxby's,R And L Sylva Llc,284 E. Main St.,Sylva,NC,28779,(828) 631-3100
+Zaxby's,"Nc Chicks Iii, Llc",1148 Randolph St.,Thomasville,NC,27360,(336) 313-8636
+Zaxby's,"Wake Foods, Inc.",995 Durham Rd.,Wake Forest,NC,27587,(919) 435-0387
+Zaxby's,"Nc Chicks Ii, Llc",5211 Walkertown Commons Cir.,Walkertown,NC,27051,(336) 595-4522
+Zaxby's,"Bart Foods, Llc",1400 Carolina Ave,Washington,NC,27889,(252) 940-1418
+Zaxby's,R And L Waynesville Llc,424 Russ Ave.,Waynesville,NC,28786,(828) 456-2888
+Zaxby's,"Avants Enterprise, Llc",60 Weaver Blvd.,Weaverville,NC,28787,(828) 484-8523
+Zaxby's,"C&D Restaurants, Inc.",1030 Jake Alexander Blvd. West,Salisbury,NC,28147,(704) 603-4467
+Zaxby's,"My Fries Are Cold, Llc",10 Northfield Center,Whiteville,NC,28472,(910) 640-1887
+Zaxby's,"Zaxwhit, Llc",1100 Sedalia Crossing Lane,Whitsett,NC,27377,(336) 446-6522
+Zaxby's,"Gallus Enterprises, Llc",6811 Gordon Rd.,Wilmington,NC,28411,(910) 392-7000
+Zaxby's,"Gallus Enterprises, Llc",4409 S. 17th St. Ext.,Wilmington,NC,28412,(910) 796-3031
+Zaxby's,"Z-Wilson Foods, Inc.",3019 Raleigh Rd. Pkwy.,Wilson,NC,27896,(252) 991-6444
+Zaxby's,"Nc Chicks Iv, Llc",3179 Peters Creek Pkwy.,Winston-Salem,NC,27103,(336) 997-9188
+Zaxby's,"W&S Nc Management Company, Llc",430 Summit Sq.,Winston-Salem,NC,27105,(336) 377-1028
+Zaxby's,"Zaxbax Greensboro, Llc",3840 Oxford Station Way,Winston-Salem,NC,27101,(336) 659-1267
+Zaxby's,"Jacar Foods, Llc",4135 S. Memorial Dr.,Winterville,NC,28590,(252) 215-5806
+Zaxby's,"Lady Di Midwest City I, Llc",2317 S. Douglas Blvd.,Midwest City,OK,73130,(405) 455-3200
+Zaxby's,"Lady Di S Service, Llc",2720 S. Service Rd.,Moore,OK,73160,(405) 703-2186
+Zaxby's,"Lady Di Mustang I, Llc",1084 E. State Hwy. 152,Mustang,OK,73064,(405) 256-6331
+Zaxby's,"Credit To Ctc Ok, Llc",12807 East 86th St.,Owasso,OK,74055,(918) 928-4242
+Zaxby's,"Credit To Ctc Ok, Llc",1717 S. Yale Ave.,Tulsa,OK,74112,(539) 215-3175
+Zaxby's,"Credit To Ctc Ok, Llc",6995 S. Mingo Rd.,Tulsa,OK,74133,(918) 893-2277
+Zaxby's,"Lady Di Nw Expy I, Llc",5859 Northwest Expy.,Warr Acres,OK,73132,(405) 603-8190
+Zaxby's,"Fowl Play Sc, Llc",1660 E. Greenville St.,Anderson,SC,29621,(864) 225-5223
+Zaxby's,"Fowl Play Sc, Llc",3800 Clemson Blvd.,Anderson,SC,29621,(864) 222-0158
+Zaxby's,"Fowl Play Sc, Llc",652 Hwy 28 Bypass,Anderson,SC,29624,(864) 716-0160
+Zaxby's,"Mg Foods, Inc.",210 Robert Smalls Pkwy.,Beaufort,SC,29906,(843) 379-2100
+Zaxby's,"Ssr Bluffton, Llc",21 Baylor Brook Dr.,Bluffton,SC,29910,(843) 705-3443
+Zaxby's,"Guernsey Holdings Zrc Opco, Llc",221 Blythewood Rd.,Blythewood,SC,29016,(803) 851-0040
+Zaxby's,"Guernsey Holdings Zrc Opco, Llc",821 Knox Abbot Dr.,Cayce,SC,29033,(803) 791-5200
+Zaxby's,"Crescent Moon Foods, Inc.",649 Columbia Ave.,Chapin,SC,29036,(803) 575-8006
+Zaxby's,"Bratt Foods, Inc.",8419 Dorchester Rd.,North Charleston,SC,29420,(843) 767-3637
+Zaxby's,"Bratt Foods, Inc.",3476 Shelby Ray Ct.,Charleston,SC,29414,(843) 763-0466
+Zaxby's,"Melissa Foods, Llc",1018 Folly Rd.,Charleston,SC,29412,(843) 762-1919
+Zaxby's,"Isabella Foods, Llc",1908 Sam Rittenberg Blvd.,Charleston,SC,29407,(843) 769-2707
+Zaxby's,"Clinton Chicken, Llc",18926 Hwy. 72,Clinton,SC,29325,(864) 547-1940
+Zaxby's,"Fowl Play Sc, Llc",9840 Two Notch Rd.,Columbia,SC,29229,(803) 462-0013
+Zaxby's,"Guernsey Holdings Zrc Opco, Llc",7713 Garners Ferry Rd.,Columbia,SC,29206,(803) 776-9232
+Zaxby's,"Guernsey Holdings Zrc Opco, Llc",316 Bush River Rd.,Columbia,SC,29210,(803) 772-9799
+Zaxby's,"Guernsey Holdings Zrc Opco, Llc",1041 Sam's Crossing Dr.,Columbia,SC,29229,(803) 419-2747
+Zaxby's,"Guernsey Holdings Zrc Opco, Llc",2001 N. Beltline Blvd.,Columbia,SC,29204,(803) 787-2100
+Zaxby's,"Guernsey Holdings Zrc Opco, Llc",101 Clemson Rd.,Columbia,SC,29229,(803) 419-1599
+Zaxby's,"Guernsey Holdings Zrc Opco, Llc",1623 Church St.,Conway,SC,29526,(843) 488-2005
+Zaxby's,"Feathered Friendz, Inc.",1555 E. Main St.,Duncan,SC,29334,(864) 486-1500
+Zaxby's,"Guernsey Holdings Zrc Opco, Llc",2298 S. Irby St.,Florence,SC,29505,(843) 665-1444
+Zaxby's,"Guernsey Holdings Zrc Opco, Llc",2211 W. Lucas St.,Florence,SC,29501,(843) 662-8600
+Zaxby's,"Guernsey Holdings Zrc Opco, Llc",2100 Florence Harllee Blvd.,Florence,SC,29506,(843) 662-3900
+Zaxby's,"Guernsey Holdings Zrc Opco, Llc",2099 W. Evans St.,Florence,SC,29501,(843) 665-5200
+Zaxby's,"Fountain Featherz, Llc",350 McCarter Rd.,Fountain Inn,SC,29644,(864) 862-4400
+Zaxby's,"House Hens, Llc",871 Windslow Ave.,Gaffney,SC,29341,(864) 206-4243
+Zaxby's,"Peachy Poultry, Inc.",1526 W. Floyd Baker Blvd.,Gaffney,SC,29341,(864) 489-9291
+Zaxby's,"Gnc Enterprises, Inc.",433 St. James Ave.,Goose Creek,SC,29445,(864) 863-9000
+Zaxby's,"Barnyard Buddies, Llc",1960 Hwy. 101,Greer,SC,29651,(864) 469-6421
+Zaxby's,"Cookin Chickinz, Llc",920 W. Wade Hampton Blvd.,Greer,SC,29651,(864) 968-0701
+Zaxby's,"Guernsey Holdings Zrc Opcp, Llc",1236 S. 4th St.,Hartsville,SC,29550,(843) 339-2600
+Zaxby's,"Luck Of The Cluck, Inc.",11910 Asheville Hwy,Inman,SC,29349,(864) 708-3211
+Zaxby's,"Ballentine Foods, Inc.",1325 Dutch Fork Rd.,Irmo,SC,29063,(803) 638-4845
+Zaxby's,"Fowl Play Sc, Llc",1042 Lake Murray Blvd.,Irmo,SC,29063,(803) 732-0011
+Zaxby's,"Wingz Like Eagles, Llc",400 Exchange Dr.,Laurens,SC,29360,(864) 681-2100
+Zaxby's,"Fowl Play Sc, Llc",5400 Sunset Blvd.,Lexington,SC,29072,(803) 356-2901
+Zaxby's,"Lexington Foods, Inc.",823 Hwy. 378,Lexington,SC,29072,(803) 785-4000
+Zaxby's,"Quality Foods, Inc.",1759 S. Lake Dr.,Lexington,SC,29073,(803) 996-6000
+Zaxby's,"South Carolina Foods, Inc.",2819 Paxville Hwy.,Manning,SC,29102,(803) 505-6777
+Zaxby's,"Big Rooster, Inc.",11872 S. Hwy. 707,Murrells Inlet,SC,29586,(843) 651-1400
+Zaxby's,"Moncks Corner, Llc",507 N. Hwy. 52,Moncks Corner,SC,29461,(843) 482-0641
+Zaxby's,"Guernsey Holdings Zrc Opco, Llc",3725 Oleander Dr.,Myrtle Beach,SC,29577,(843) 839-4020
+Zaxby's,"Guernsey Holdings Zrc Opco, Llc",100 Strand Market Dr.,Myrtle Beach,SC,29588,(843) 215-2025
+Zaxby's,"Guernsey Holdings Zrc Opco, Llc",3858 Renee Dr.,Myrtle Beach,SC,29579,(843) 236-7859
+Zaxby's,"Bratt Foods, Inc.",9141 University Blvd.,North Charleston,SC,29406,(843) 764-3634
+Zaxby's,"Wilson Foods, Llc",6924 Rivers Ave.,North Charleston,SC,29406,(843) 553-8945
+Zaxby's,"Chs Foods, Llc",4845 Tanger Outlet Blvd.,North Charleston,SC,29814,(843) 212-4700
+Zaxby's,"Jevin, Inc.",3820 Hwy. 17 S.,North Myrtle Beach,SC,29582,(843) 427-7252
+Zaxby's,"Guernsey Holdings Zrc Opco, Llc",2572 N. Rd.,Orangeburg,SC,29118,(803) 268-9988
+Zaxby's,"Guernsey Holdings Zrc Opco, Llc",3591 St. Matthews Rd.,Orangeburg,SC,29118,(803) 531-1611
+Zaxby's,"Fowl Play Sc, Llc",7545 U.S. 76,Pendleton,SC,29670,(864) 651-0020
+Zaxby's,"Chicken Pickin', Inc.",2631 Gentry Memorial Hwy.,Pickens,SC,29671,(864) 507-0440
+Zaxby's,"Zaxbax, Llc",7410 Augusta Rd.,Piedmont,SC,29673,(864) 535-6790
+Zaxby's,"A & D Boys, Inc.",2763 Home Depot Blvd.,Rock Hill,SC,29730,(803) 985-5050
+Zaxby's,"A & D Boys, Inc.",2889 Heckle Blvd.,Rock Hill,SC,29732,(803) 366-1550
+Zaxby's,"Roebuck Roosters, Llc",6177 Highway 221,Roebuck,SC,29376,(864) 586-1959
+Zaxby's,"Zaxbax, Llc",120 Kufner Ct.,Simpsonville,SC,29680,(864) 568-0806
+Zaxby's,"Avants Enterprise, Llc",1601 E. Main St.,Spartanburg,SC,29307,(864) 585-0800
+Zaxby's,"Parrish Enterprises, Llc",1910 Boiling Springs Rd.,Spartanburg,SC,29316,(864) 814-7003
+Zaxby's,"Avants Enterprise, Llc","1715 John B. White, Sr. Blvd.",Spartanburg,SC,29301,(864) 576-1505
+Zaxby's,"Zaxbax Spartanburg, Llc",2272 Nazareth Church Rd.,Spartanburg,SC,29301,(864) 438-2148
+Zaxby's,"Azalea Square, Llc",320 Azalea Sq. Blvd.,Summerville,SC,29483,(843) 851-9506
+Zaxby's,"Best Chick, Inc.",1629 Central Ave.,Summerville,SC,29483,(843) 875-9400
+Zaxby's,"Guernsey Holdings Zrc Opco, Llc",1128 Broad St.,Sumter,SC,29150,(803) 775-9464
+Zaxby's,"Guernsey Holdings Zrc Opco, Llc",2030 McCrays Mill Rd.,Sumter,SC,29154,(803) 773-1500
+Zaxby's,"We'Ll Holler, Inc.",3441 Blue Ridge Blvd.,Walhalla,SC,29691,(864) 916-2545
+Zaxby's,"Ward Foods, Inc.",2320 Augusta Rd.,West Columbia,SC,29169,(803) 739-1300
+Zaxby's,"Aluminum Chicken, Llc",1099 Hunters Crossing,Alcoa,TN,37701,(865) 980-9570
+Zaxby's,"Music City Foods, Llc",915 Bell Rd.,Antioch,TN,37013,(615) 296-9856
+Zaxby's,"Harriman Foods, Llc",1510 S. Congress Pkwy.,Athens,TN,37303,(423) 252-0210
+Zaxby's,"Hickory Chick, Llc",471 Old Hickory Blvd.,Brentwood,TN,37027,(615) 627-0723
+Zaxby's,"1796 Chicken, Llc",623 Signal Mountain Rd.,Chattanooga,TN,37405,(423) 490-9913
+Zaxby's,"1796 Chicken, Llc",7643 E. Brainerd Rd.,Chattanooga,TN,37421,(423) 894-2445
+Zaxby's,"1796 Chicken, Llc",4815 Hwy. 58,Chattanooga,TN,37416,(423) 648-5866
+Zaxby's,"1796 Chicken, Llc",3105 Cummings Hwy.,Chattanooga,TN,37419,(423) 661-7778
+Zaxby's,"Avants Chicken, Llc",7328 Shallowford Rd.,Chattanooga,TN,37421,(423) 499-2940
+Zaxby's,"Nesteggz, Inc.",3872 Trenton Rd.,Clarksville,TN,37040,(931) 551-8356
+Zaxby's,"Jetsen, Inc.",2119 Lowes Dr.,Clarksville,TN,37040,(931) 552-7141
+Zaxby's,"Jetsen-Six, Inc.",1694 Fort Campbell Blvd.,Clarksville,TN,37042,(931) 648-9353
+Zaxby's,"Cleveland Foods, Llc",425 Stuart Rd. NE,Cleveland,TN,37312,(423) 428-8657
+Zaxby's,"Cleveland Foods, Llc",1430 NW25th St.,Cleveland,TN,37311,(423) 479-4562
+Zaxby's,"Cleveland Foods, Llc",2481 Treasury Dr. SE,Cleveland,TN,37323,(423) 559-2858
+Zaxby's,"Memphis Foods, Llc",375 New Byhalia Rd.,Collierville,TN,38017,(901) 850-5103
+Zaxby's,"Memphis Foods, Llc",3671 S. Houston Levee Rd.,Collierville,TN,38017,(901) 316-5550
+Zaxby's,"Rtw Foods, Llc",222 S. James Campbell Blvd.,Columbia,TN,38401,(931) 388-5522
+Zaxby's,"Its Allgood Chicken, Inc.",320 Big Mac Dr.,Cookeville,TN,38506,(931) 537-3388
+Zaxby's,"Putnam Foods, Llc",395 W. Jackson St.,Cookeville,TN,38501,(931) 372-1700
+Zaxby's,"Wp Foods Covington, Llc",1639 Hwy. 51 S.,Covington,TN,38019,(901) 313-9011
+Zaxby's,"Memphis Foods, Llc",1420 N. Germantown Pkwy.,Cordova,TN,38016,(901) 624-9497
+Zaxby's,"Memphis Foods, Llc",1180 Houston Levee Rd.,Cordova,TN,38018,(901) 208-8780
+Zaxby's,"1796 Chicken, Llc",300 Able Dr.,Dayton,TN,37321,(423) 428-8282
+Zaxby's,"American Family Foods, Llc",102 Lowe's Dr.,Dickson,TN,37055,(615) 441-3636
+Zaxby's,"Admiral Chicken, Llc",11636 Parkside Dr.,Farragut,TN,37934,(865) 671-1222
+Zaxby's,"Farris & Associates Ii, Inc.",1511 Huntsville Hwy.,Fayetteville,TN,37334,(931) 227-4999
+Zaxby's,"Harpeth River Chicken, Llc",1201 Murfreesboro Rd.,Franklin,TN,37067,(615) 790-0210
+Zaxby's,"Paw Daddy'S, Llc",580 Village Green Dr.,Gallatin,TN,37066,(615) 451-2992
+Zaxby's,"Mojo Foods, Inc.",3280 E. Andrew Johnson Blvd.,Greeneville,TN,37745,(423) 638-4103
+Zaxby's,"Harriman Foods, Llc",2022 Roane State Hwy.,Harriman,TN,37748,(865) 376-4711
+Zaxby's,"Brs Food, Llc",118 N. Anderson Ln.,Hendersonville,TN,37075,(615) 264-9074
+Zaxby's,"Roc Solid Ii Foods, Llc",4115 Lebanon Pike,Hermitage,TN,37076,(615) 454-2045
+Zaxby's,"Epic Family Foods, Llc",5013 Hixson Pike,Hixson,TN,37343,(423) 875-0230
+Zaxby's,"Wp Foods Jackson, Llc",222 Oil Well Rd.,Jackson,TN,38305,(731) 300-4090
+Zaxby's,"Wp Foods Jackson, Llc",1155 Vann Dr.,Jackson,TN,38305,(731) 256-8493
+Zaxby's,"Wp Foods Jackson, Llc",1543 S. Highland Ave.,Jackson,TN,38301,(731) 300-3668
+Zaxby's,"Johnson City Foods, Llc",1823 W. State of Franklin Rd.,Johnson City,TN,37604,(423) 975-0100
+Zaxby's,"Johnson City Foods, Llc",2111 N. Roan St.,Johnson City,TN,37601,(423) 610-0022
+Zaxby's,"Chicken Bluff, Llc",128 N. Cedar Bluff Rd.,Knoxville,TN,37923,(865) 394-9542
+Zaxby's,"Dento Enterprises 2, Llc",2936 Miller Place Way,Knoxville,TN,37924,(865) 281-3669
+Zaxby's,"Dento Enterprises, Llc",4020 Crippen Rd.,Knoxville,TN,37918,(865) 377-3848
+Zaxby's,"Hardin Valley Zax, Llc",10806 Hardin Valley Rd.,Knoxville,TN,37932,(865) 210-8338
+Zaxby's,"Kingston Chicken, Llc",6913 Kingston Pike,Knoxville,TN,37919,(865) 474-1385
+Zaxby's,"Norwood Chicken, Llc",5567 Clinton Hwy,Knoxville,TN,37912,(865) 770-3501
+Zaxby's,"Memphis Foods, Llc",9104 Hwy. 64,Lakeland,TN,38002,(901) 386-9683
+Zaxby's,"H&M Chicken, Llc",1298 E. Ellington Pkwy.,Lewisburg,TN,37091,(931) 422-2005
+Zaxby's,"H&M Chicken, Llc",2119.5 N. Locust Ave.,Lawrenceburg,TN,38464,(931) 244-6670
+Zaxby's,"Cedar City Chicken, Llc",447 Hwy. 109 N.,Lebanon,TN,37090,(615) 470-5816
+Zaxby's,"Wings Over The South, Llc",638 S. Cumberland St.,Lebanon,TN,37087,(615) 449-4566
+Zaxby's,Jbc Zax Llc,855 Hwy 321 N.,Lenoir City,TN,37771,(865) 986-9111
+Zaxby's,"Wp Foods Lexington, Llc",390 W. Church St.,Lexington,TN,38351,(731) 651-4929
+Zaxby's,"River Roc, Llc",2228 Gallatin Pike N.,Madison,TN,37115,(615) 448-6817
+Zaxby's,"Dixie Chicken, Llc",2131 Hillsboro Blvd.,Manchester,TN,37355,(931) 954-5998
+Zaxby's,"Unbridled Chicken, Llc",161 Commons Dr.,Martin,TN,38237,(731) 261-1106
+Zaxby's,Jbc Zax Llc,2335 Marketplace Dr.,Maryville,TN,37801,(865) 379-0414
+Zaxby's,"H&M Chicken, Llc",511 N. Chancery St.,Mcminnville,TN,37110,(931) 474-3939
+Zaxby's,"Memphis Foods, Llc",436 N. Perkins Ext.,Memphis,TN,38117,(901) 779-4079
+Zaxby's,"Memphis Foods, Llc",1831 Kirby Pkwy.,Memphis,TN,38120,(901) 310-4863
+Zaxby's,"Memphis Foods, Llc",2240 Union Ave.,Memphis,TN,38104,(901) 417-7908
+Zaxby's,"Memphis Foods, Llc",3852 Hacks Cross,Memphis,TN,38125,(901) 417-7978
+Zaxby's,"Memphis Foods, Llc",6306 Stage Rd.,Memphis,TN,38134,(901) 454-3803
+Zaxby's,"Memphis Foods, Llc",8537 US Hwy. 51 N.,Millington,TN,38053,(901) 872-0274
+Zaxby's,"Motown Chicken, Llc",486 Davie Crockett Pkwy.,Morristown,TN,37813,(423) 318-8858
+Zaxby's,"South Mount Juliet, Llc",719 S. Mount Juliet Rd.,Mount Juliet,TN,37122,(615) 758-4995
+Zaxby's,"American Family Foods, Llc",2678 S. Church St.,Murfreesboro,TN,37127,(615) 895-5133
+Zaxby's,"Dixie Chicken, Llc",1221 Fortress Blvd.,Murfreesboro,TN,37129,(615) 410-3515
+Zaxby's,"Dixie Chicken, Llc",905 Old Fort Pkwy.,Murfreesboro,TN,37129,(615) 867-7773
+Zaxby's,"Dixie Chicken, Llc",2890 S. Rutherford Blvd.,Murfreesboro,TN,37130,(615) 867-7755
+Zaxby's,"Wtcb Foods, Llc",8000 Hwy. 100,Nashville,TN,37221,(615) 942-9326
+Zaxby's,"Murf'S Bird, Llc",2241 Murfreesboro Pike,Nashville,TN,37241,(615) 627-0721
+Zaxby's,"Southside Chick, Llc",5228 Nolensville Pike,Nashville,TN,37211,(615) 627-0722
+Zaxby's,"Spring Creek Chicken, Llc",1902 Charlotte Ave.,Nashville,TN,37203,(615) 928-6467
+Zaxby's,"Dento Enterprises 3, Llc",779 Cosby Hwy.,Newport,TN,37821,(423) 248-3078
+Zaxby's,"Nuclear Chicken, Llc",1007 Oak Ridge Turnpike,Oak Ridge,TN,37830,(865) 272-3204
+Zaxby's,"1796 Chicken, Llc",8884 Old Lee Hwy.,Ooltewah,TN,37363,(423) 648-6584
+Zaxby's,"New Power Zx, Llc",698 Winfield Dunn Pkwy.,Sevierville,TN,37876,(865) 429-2360
+Zaxby's,"Aj Trews, Llc",10614 Chapman Hwy.,Seymour,TN,37865,(865) 573-8300
+Zaxby's,"Farris & Associates Iii, Inc.",101 Palmer Dr.,Shelbyville,TN,37160,(931) 735-6541
+Zaxby's,"5 Star Chicken, Llc",995 Industrial Blvd.,Smyrna,TN,37167,(615) 355-6935
+Zaxby's,"1796 Chicken, Llc",9347 Springfield Rd.,Soddy Daisy,TN,37379,(423) 648-6491
+Zaxby's,"Shw Foods, Llc",4882 Port Royal Rd.,Spring Hill,TN,37174,(931) 451-5575
+Zaxby's,"Jcw Foods, Llc",3509 Tom Austin Hwy.,Springfield,TN,37172,(615) 384-9611
+Zaxby's,"American Family Foods, Llc",1900 N. Jackson St.,Tullahoma,TN,37388,(931) 461-9640
+Zaxby's,"Unbridled Chicken, Llc",2005 W. Reelfoot Ave.,Union City,TN,38261,(731) 559-1015
+Zaxby's,"White House Foods, Llc",800 Hwy. 76,White House,TN,37188,(615) 334-1347
+Zaxby's,"Farris & Associates, Inc.",2909 Decherd Blvd.,Winchester,TN,37398,(931) 967-2527
+Zaxby's,"Texas Chicken, Llc",381 Old San Antonio Rd.,Buda,TX,78610,(512) 523-8394
+Zaxby's,"San Antonio Foods, Llc",176 Borgfeld Rd.,Cibolo,TX,78108,(210) 659-9388
+Zaxby's,"Texas Chicken, Llc",952 William D. Fitch Pkwy.,College Station,TX,77845,(979) 485-5565
+Zaxby's,"Zell Moore Chicken, Inc.",6807 I-30 Frontage Rd.,Greenville,TX,75402,(430) 242-1248
+Zaxby's,"Bg Foods 621, Llc",701 Keller Pkwy.,Keller,TX,76248,(817) 741-8810
+Zaxby's,"Texas Chicken, Llc",2150 S. Clear Creek Rd.,Killeen,TX,76549,(254) 213-6242
+Zaxby's,"Ja'S Coop, Llc",3405 N. Fourth St.,Longview,TX,75601,(903) 215-0855
+Zaxby's,"Bg Foods 621, Llc",3181 Matlock Rd.,Mansfield,TX,76063,(682) 518-7360
+Zaxby's,"Texas Chicken, Llc",1301 FM 685,Pflugerville,TX,78660,(512) 514-1646
+Zaxby's,"Bg Foods 621, Llc",526 Centennial Blvd.,Richardson,TX,75081,(214) 468-4128
+Zaxby's,"Texas Chicken, Llc",2700 Red Bud Ln.,Round Rock,TX,78665,(512) 369-3370
+Zaxby's,"San Antonio Foods, Llc",11903 Alamo Ranch Pkwy.,San Antonio,TX,78253,(210) 305-4744
+Zaxby's,"San Antonio Foods, Llc",7304 I-35 N.,San Antonio,TX,78233,(210) 767-2617
+Zaxby's,"Texas Chicken, Llc",4002 S. IH 35,San Marcos,TX,78666,(812) 805-6000
+Zaxby's,"Texas Chicken, Llc",2002 S. 31st St.,Temple,TX,76504,(254) 207-0788
+Zaxby's,"Mjm 5G, Llc",778 W. 200 N.,Cedar City,UT,84721,(435) 586-9613
+Zaxby's,"Mjm 5G, Llc",1781 N. 2000 W.,Clinton,UT,84015,(801) 776-2222
+Zaxby's,"Mjm 5G, Llc",7200 S. 700 W.,Midvale,UT,84047,(801) 666-5400
+Zaxby's,"Mjm 5G, Llc",141 W. 12th St.,Ogden,UT,84404,(801) 393-4742
+Zaxby's,"Mjm 5G, Llc",97 W. Center St.,Orem,UT,84057,(801) 224-1466
+Zaxby's,"Mjm 5G, Llc",1814 W. 5400 S.,Taylorsville,UT,84118,(801) 966-1627
+Zaxby's,"Mjm 5G, Llc",1064 N. Main St.,Toole,UT,84074,(435) 843-7880
+Zaxby's,"Mjm 5G, Llc",2683 S. High Commons Way,West Valley,UT,84119,(801) 297-1704
+Zaxby's,Roberts And Lawson Llc,43820 Eastgate Shoppes Dr.,Chantilly,VA,20152,(571) 349-3350
+Zaxby's,"Wahoosville, Llc",1248 Emmet St. N.,Charlottesville,VA,22903,(434) 529-8220
+Zaxby's,"Chesapeake Bay Foods, Inc.",2316 Chesapeake Square Ring Rd.,Chesapeake,VA,23321,(757) 648-8357
+Zaxby's,"Chesapeake Bay Foods, Inc.",125 Hilcrest Pkwy.,Chesapeake,VA,23322,(757) 204-7390
+Zaxby's,"1St & Goal Chester, Llc",2520 Hundred Rd.,Chester,VA,23831,(804) 621-4416
+Zaxby's,"Chesapeake Bay Foods, Inc.",2201 Todds Ln.,Hampton,VA,23666,(757) 915-6925
+Zaxby's,"R And L Lynchburg, Llc",1038 Wards Ferry Rd.,Lynchburg,VA,24502,(434) 237-2651
+Zaxby's,"Zax Of Mechanicsville, Llc",6535 Mechanicsville Turnpike,Mechanicsville,VA,23111,(804) 789-4778
+Zaxby's,"1St & Goal Stonehenge, Llc",911 Walmart Way,Midlothian,VA,23113,(804) 893-5816
+Zaxby's,"Chesapeake Bay Foods, Inc.",12834 Jefferson Ave.,Newport News,VA,23607,(757) 369-7046
+Zaxby's,"Chesapeake Bay Foods, Inc.",531 Oyster Point Rd.,Newport News,VA,23602,(757) 969-1110
+Zaxby's,"1St & Goal Stonebridge, Llc",7100 Tim Price Way,North Chesterfield,VA,23225,(804) 674-1262
+Zaxby's,"Cwc Food Services, Llc",9110 Staples Mill Rd.,Richmond,VA,23228,(804) 756-3706
+Zaxby's,"Cwc Food Services, Llc",5816 W. Broad St.,Richmond,VA,23230,(804) 269-3392
+Zaxby's,"Cwc Food Services, Llc",4798 S. Laburnum Ave.,Richmond,VA,23231,(804) 658-1480
+Zaxby's,"Z Chicken Roanoke, Llc",3206 Ordway Dr.,Roanoke,VA,24017,(540) 566-4046
+Zaxby's,"Chesapeake Bay Foods, Inc.",6120 College Dr.,Suffolk,VA,23435,(757) 335-7111
+Zaxby's,"Chesapeake Bay Foods, Inc.",232 Elson Green Ave.,Virginia Beach,VA,23456,(757) 301-2418
+Zaxby's,"First Cavalier, Llc",1810 S. Loudon St.,Winchester,VA,22601,(540) 450-5127

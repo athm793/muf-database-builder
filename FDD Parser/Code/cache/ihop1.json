@@ -1,0 +1,473 @@
+{
+  "brand": "IHOP",
+  "records": [
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Ta Operating Llc",
+      "raw_address": "3900 Petro Rd",
+      "city": "West Memphis",
+      "state": "AR",
+      "zip": "72301",
+      "restaurant_phone": "(870) 702-5540"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Shiralian Enterprises, Inc.",
+      "raw_address": "29541 Stockdale Hwy",
+      "city": "Bakersfield",
+      "state": "CA",
+      "zip": "93312-9644",
+      "restaurant_phone": "(661) 764-6907"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Hibba Pancakes, Inc.",
+      "raw_address": "12310 South Highway 33",
+      "city": "Santa Nella",
+      "state": "CA",
+      "zip": "95322",
+      "restaurant_phone": "209-826-0741"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Ta Operating Llc",
+      "raw_address": "5821 Dennis McCarthy Drive",
+      "city": "Lebec",
+      "state": "CA",
+      "zip": "93243",
+      "restaurant_phone": "661-663-4341"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "5666 Llc",
+      "raw_address": "981 Cassville-White Road",
+      "city": "Cartersville",
+      "state": "GA",
+      "zip": "30121",
+      "restaurant_phone": "770-607-8885"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "5643 Llc",
+      "raw_address": "122 Truckstop Way",
+      "city": "Jackson",
+      "state": "GA",
+      "zip": "30233-6109",
+      "restaurant_phone": "(770) 775-8188"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Global Concessions, Inc.",
+      "raw_address": "7700 Spine Road, Concourse T",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30320-4201",
+      "restaurant_phone": "(404) 762-0019"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Madison Cakes, Llc",
+      "raw_address": "1881 Eatonton Rd",
+      "city": "Madison",
+      "state": "GA",
+      "zip": "30650",
+      "restaurant_phone": "706 438 1049"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Mph Holdings, Llc",
+      "raw_address": "211 Highway 18 East",
+      "city": "Algona",
+      "state": "IA",
+      "zip": "50511",
+      "restaurant_phone": "5153951234"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Ta Operating Llc",
+      "raw_address": "1805 West Fayette Ave",
+      "city": "Effingham",
+      "state": "IL",
+      "zip": "62401",
+      "restaurant_phone": "217-347-0480"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Oakley Restaurant Llc",
+      "raw_address": "1001 Highway 40",
+      "city": "Oakley",
+      "state": "KS",
+      "zip": "67748-6061",
+      "restaurant_phone": "(785) 672-3565"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Lvp Food Service Concept Llc",
+      "raw_address": "32501 West 200th Street",
+      "city": "Edgerton",
+      "state": "KS",
+      "zip": "66021",
+      "restaurant_phone": "913-882-3501"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Bfs Foods, Inc.",
+      "raw_address": "434 E MAIN STREET",
+      "city": "Hancock",
+      "state": "MD",
+      "zip": "21750",
+      "restaurant_phone": "240-343-8164"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Bfs Foods, Inc.",
+      "raw_address": "2815 Chestnut Ridge Rd.",
+      "city": "Grantsville",
+      "state": "MD",
+      "zip": "21536-2033",
+      "restaurant_phone": "(301) 895-8135"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Great American Real Food Fast, Inc.",
+      "raw_address": "267 North Street",
+      "city": "Houlton",
+      "state": "ME",
+      "zip": "04730",
+      "restaurant_phone": "(207) 521-0290"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Great American Real Food Fast, Inc.",
+      "raw_address": "18 Moosehead Trail",
+      "city": "Newport",
+      "state": "ME",
+      "zip": "04953",
+      "restaurant_phone": "(207) 368-5386"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "5601A, Llc",
+      "raw_address": "21055 West Road",
+      "city": "Woodhaven",
+      "state": "MI",
+      "zip": "48183-3245",
+      "restaurant_phone": "(734) 675-4982"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Tsfr Apple Venture Llc",
+      "raw_address": "333 E. Jefferson Ave",
+      "city": "Detroit",
+      "state": "MI",
+      "zip": "48226-4352",
+      "restaurant_phone": "(313) 879-5141"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Chenega Ih, Llc",
+      "raw_address": "7800 W. Grand River Hwy",
+      "city": "Grand Ledge",
+      "state": "MI",
+      "zip": "48837-8212",
+      "restaurant_phone": "517-412-7374"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Ta Operating Llc",
+      "raw_address": "5922 MO-19",
+      "city": "Cuba",
+      "state": "MO",
+      "zip": "65453",
+      "restaurant_phone": "573-885-3992"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Ta Operating Llc",
+      "raw_address": "100 N Broadway Street",
+      "city": "Oak Grove",
+      "state": "MO",
+      "zip": "64075",
+      "restaurant_phone": "8166251105"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "5656 Llc",
+      "raw_address": "500 Buckhorn Road",
+      "city": "Mebane",
+      "state": "NC",
+      "zip": "27302",
+      "restaurant_phone": "(919) 341-0331"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Fremont 5688 Inc",
+      "raw_address": "2700 E Fremont Street",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip": "89104",
+      "restaurant_phone": "(702) 577-2200"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Ta Operating Llc",
+      "raw_address": "8834 Lake Road",
+      "city": "Seville",
+      "state": "OH",
+      "zip": "44273",
+      "restaurant_phone": "330-769-2053"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Ta Operating Llc",
+      "raw_address": "12906 Deshler Rd.",
+      "city": "North Baltimore",
+      "state": "OH",
+      "zip": "45872",
+      "restaurant_phone": "419-257-3744"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Ta Operating Llc",
+      "raw_address": "12403 US RT35 NW",
+      "city": "Jeffersonville",
+      "state": "OH",
+      "zip": "43128",
+      "restaurant_phone": "740-948-2365"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "2039 Okc, Llc",
+      "raw_address": "801 South Council Rd",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "zip": "73128",
+      "restaurant_phone": "4058767363"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Wwc Spirits, Llc",
+      "raw_address": "777 Casino Avenue",
+      "city": "Thackerville",
+      "state": "OK",
+      "zip": "73459-9774",
+      "restaurant_phone": "(580) 276-1781"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Rwc - Spirits, Llc",
+      "raw_address": "1544 State Highway 9",
+      "city": "Norman",
+      "state": "OK",
+      "zip": "73072",
+      "restaurant_phone": "(405) 322-6226"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Wwc Spirits, Llc",
+      "raw_address": "12252 Ruppe Rd.",
+      "city": "Davis",
+      "state": "OK",
+      "zip": "73030-9253",
+      "restaurant_phone": "(580) 369-4042"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Rocky Restaurants Llc",
+      "raw_address": "33 Stop Plaza Drive",
+      "city": "Mifflintown",
+      "state": "PA",
+      "zip": "17059",
+      "restaurant_phone": "7174368941"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Rocky Restaurants Llc",
+      "raw_address": "2550 State Route 534",
+      "city": "White Haven",
+      "state": "PA",
+      "zip": "18661-4016",
+      "restaurant_phone": "(570) 443-7443"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Ta Operating Llc",
+      "raw_address": "4050 Depot Road",
+      "city": "Erie",
+      "state": "PA",
+      "zip": "16510",
+      "restaurant_phone": "814-899-1919"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Rocky Restaurants Llc",
+      "raw_address": "133 Twin Rocks Rd.",
+      "city": "Lake Ariel",
+      "state": "PA",
+      "zip": "18436-4859",
+      "restaurant_phone": "(570) 689-9112"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Crockett Enterprises, Inc.",
+      "raw_address": "195 Van Hill Road",
+      "city": "Greeneville",
+      "state": "TN",
+      "zip": "37745-7601",
+      "restaurant_phone": "(423) 234-4467"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "5710, Inc.",
+      "raw_address": "160 US Highway 77",
+      "city": "Hillsboro",
+      "state": "TX",
+      "zip": "76645",
+      "restaurant_phone": "(254) 283-6556"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Elite Property Holdings Llc",
+      "raw_address": "20204 Interstate 35",
+      "city": "Lytle",
+      "state": "TX",
+      "zip": "78052",
+      "restaurant_phone": "830-209-5548"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Clyde Travel Center Llc",
+      "raw_address": "8075 South Access Road West",
+      "city": "Clyde",
+      "state": "TX",
+      "zip": "79510",
+      "restaurant_phone": "3258931916"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Rmls Hop Texas, L.L.C.",
+      "raw_address": "704 West Interstate 20",
+      "city": "Big Spring",
+      "state": "TX",
+      "zip": "79720",
+      "restaurant_phone": "432-242-4600"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Ssp America D&B Dfw, Llc",
+      "raw_address": "2610 N International Parkway",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75261-0124",
+      "restaurant_phone": "(972) 973-6433"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Radata Inc.",
+      "raw_address": "1010 Beltway Parkway",
+      "city": "Laredo",
+      "state": "TX",
+      "zip": "78045",
+      "restaurant_phone": "(325) 465-0450"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Kim'S Food Service, Llc",
+      "raw_address": "2241 Highway 271 N",
+      "city": "Pittsburg",
+      "state": "TX",
+      "zip": "75686",
+      "restaurant_phone": "903-855-8010"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Lvp Food Service Concept Llc",
+      "raw_address": "10100 US HWY 59 S",
+      "city": "Shepherd",
+      "state": "TX",
+      "zip": "77371",
+      "restaurant_phone": "936-200-9816"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Ahdaf, Llc",
+      "raw_address": "3004 I-30",
+      "city": "Greenville",
+      "state": "TX",
+      "zip": "75402",
+      "restaurant_phone": "430-562-8899"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Bona Tc 5696, Inc.",
+      "raw_address": "17500 Camino Real",
+      "city": "Kyle",
+      "state": "TX",
+      "zip": "78640",
+      "restaurant_phone": "(737) 977-8460"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Bona Tc 5699, Inc.",
+      "raw_address": "6800 Thompson Road",
+      "city": "Baytown",
+      "state": "TX",
+      "zip": "77521",
+      "restaurant_phone": "346-292-5540"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Kttt Pan House, Llc",
+      "raw_address": "794 Lucky Eagle Dr",
+      "city": "Eagle Pass",
+      "state": "TX",
+      "zip": "78852-2430",
+      "restaurant_phone": "(830) 752-4866"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "5634 Llc",
+      "raw_address": "2516 N. Lee Highway",
+      "city": "Lexington",
+      "state": "VA",
+      "zip": "24450-3335",
+      "restaurant_phone": "(540) 463-3478"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Ta Operating Llc",
+      "raw_address": "1025 Peppers Ferry Road",
+      "city": "Wytheville",
+      "state": "VA",
+      "zip": "24382",
+      "restaurant_phone": "276-228-8676"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Par Mar Oil Co",
+      "raw_address": "1000 Hackers Creek Rd",
+      "city": "Jane Lew",
+      "state": "WV",
+      "zip": "26378",
+      "restaurant_phone": "304-884-7095"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Par Mar Oil Co",
+      "raw_address": "470 Frontage Road",
+      "city": "Mineral Wells",
+      "state": "WV",
+      "zip": "26150",
+      "restaurant_phone": "304-489-8087"
+    },
+    {
+      "brand": "IHOP",
+      "franchisee_name": "Amnsi Llc",
+      "raw_address": "1201 W. North Street",
+      "city": "Kendallville",
+      "state": "IN",
+      "zip": "46755-2841",
+      "restaurant_phone": "260-302-1121"
+    }
+  ]
+}

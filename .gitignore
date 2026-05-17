@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.env
+
+# Virtual environments (per-project, can be regenerated)
+.venv/
+venv/
+
+# Bulk dataset caches — multi-GB downloads, exceed GitHub file limits
+# Regenerate by running the enrich scripts (they auto-download/refresh).
+states/*/bulk/
+**/bulk/cordata*.zip
+**/bulk/cordata*.txt
+**/bulk/active_corps.csv
+**/bulk/business_entities.csv
+**/bulk/*.log
+
+# Debug artifacts from failed scrape attempts (screenshots, HTML dumps)
+states/*/debug/
+*/debug/
+
+# Per-entity drawer text dumps (CA scrape; large, can re-derive)
+states/*/output/drawer_text/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+desktop.ini

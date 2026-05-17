@@ -1,0 +1,28 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.env
+
+# Per-state data — never commit (may contain PII or large datasets)
+states/*/input/*
+!states/*/input/sample_input.csv
+states/*/output/*
+states/*/bulk/*
+states/*/debug/*
+!states/*/.gitkeep
+
+# Legacy locations from before restructure (kept in case anything lingers)
+data/output/*
+!data/output/.gitkeep
+data/input/*
+!data/input/sample_input.csv
+bizfile_debug/
+sunbiz_debug/
+texas_debug/
+
+# IDE
+.vscode/
+.idea/

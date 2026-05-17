@@ -1,0 +1,2120 @@
+{
+  "brand": "Buffalo Wild Wings",
+  "records": [
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Southern Wings Go Two, Llc",
+      "raw_address": "3250 McFarland Boulevard",
+      "city": "Northport",
+      "state": "AL",
+      "zip": "35476",
+      "restaurant_phone": "205-331-4099"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Southern Wings Holdings Two, Llc",
+      "raw_address": "640 Montgomery Highway",
+      "city": "Vestavia Hills",
+      "state": "AL",
+      "zip": "35216",
+      "restaurant_phone": "205-407-4089"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "King Of Wings Inc",
+      "raw_address": "682 East Nees Ave",
+      "city": "Fresno",
+      "state": "CA",
+      "zip": "93720",
+      "restaurant_phone": "559-218-5838"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Sc Wings Garden Grove, Llc",
+      "raw_address": "12879 Harbor Blvd",
+      "city": "Garden Grove",
+      "state": "CA",
+      "zip": "92840",
+      "restaurant_phone": "714-475-0929"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Valley 38, Inc.",
+      "raw_address": "18080 Chatsworth Street",
+      "city": "Granada Hills",
+      "state": "CA",
+      "zip": "91344",
+      "restaurant_phone": "818-363-1179"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Valley 38, Inc.",
+      "raw_address": "38024 47th St E",
+      "city": "Palmdale",
+      "state": "CA",
+      "zip": "93552",
+      "restaurant_phone": "661-382-1135"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Grube Go, Llc",
+      "raw_address": "140 W Valley Blvd Ste B",
+      "city": "Rialto",
+      "state": "CA",
+      "zip": "92376",
+      "restaurant_phone": "909-990-4010"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Sagan Development, Llc",
+      "raw_address": "1420 65th St Ste. 107",
+      "city": "Sacramento",
+      "state": "CA",
+      "zip": "95819",
+      "restaurant_phone": "916-656-0966"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Brothers Hospitality Group 2",
+      "raw_address": "4437 Genesee Avenue",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92117",
+      "restaurant_phone": "858-684-7757"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Kang Wings Llc",
+      "raw_address": "2364 El Camino Real",
+      "city": "Santa Clara",
+      "state": "CA",
+      "zip": "95050",
+      "restaurant_phone": "408-689-8828"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Brothers Hospitality Group, Llc",
+      "raw_address": "513 Sweetwater Rd",
+      "city": "Spring Valley",
+      "state": "CA",
+      "zip": "91977",
+      "restaurant_phone": "858-358-3982"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Aesir Group International, Inc.",
+      "raw_address": "373 E FILLMORE ST",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80907",
+      "restaurant_phone": "719-465-0106"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Aesir Group International, Inc.",
+      "raw_address": "6877 Mesa Ridge Parkway",
+      "city": "Fountain",
+      "state": "CO",
+      "zip": "80817",
+      "restaurant_phone": "719-653-1447"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Winning Wings Llc",
+      "raw_address": "5423 14th Street W",
+      "city": "Bradenton",
+      "state": "FL",
+      "zip": "34207",
+      "restaurant_phone": "941-289-2894"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Dunedin Go, Llc",
+      "raw_address": "1785 Main St",
+      "city": "Dunedin",
+      "state": "FL",
+      "zip": "34698",
+      "restaurant_phone": "727-914-2125"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Wings Of Indian Harbor Llc",
+      "raw_address": "981 East Eau Gallie Blvd, Suite H",
+      "city": "Indian Harbour Beach",
+      "state": "FL",
+      "zip": "32937",
+      "restaurant_phone": "321-319-5251"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Commerce Center Wings Llc",
+      "raw_address": "660 Commerce Center Dr",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32225",
+      "restaurant_phone": "904-929-0511"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "San Jose Wings Llc",
+      "raw_address": "10950 San Jose Blvd Suite #12",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32223",
+      "restaurant_phone": "904-456-8408"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Pablo Creek Wings Llc",
+      "raw_address": "13740 Beach Blvd. Ste C118",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32224",
+      "restaurant_phone": "904-929-0515"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Divine Wing Holdings, Llc",
+      "raw_address": "1270 N Wickham Rd",
+      "city": "Melbourne",
+      "state": "FL",
+      "zip": "32935",
+      "restaurant_phone": "321-325-6454"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Chehar Florida Wings Group Llc",
+      "raw_address": "1425 W Granada Blvd Ste. 9",
+      "city": "Ormond Beach",
+      "state": "FL",
+      "zip": "32174",
+      "restaurant_phone": "754-547-6434"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Winning Wings Llc",
+      "raw_address": "19011 Murdock Circle",
+      "city": "Port Charlotte",
+      "state": "FL",
+      "zip": "33948",
+      "restaurant_phone": "941-295-9464"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Wings Of Rockledge, Llc",
+      "raw_address": "1960 US Highway 1",
+      "city": "Rockledge",
+      "state": "FL",
+      "zip": "32955",
+      "restaurant_phone": "321-282-6232"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Winning Wings Llc",
+      "raw_address": "1635 South Tamiami Trail",
+      "city": "Sarasota",
+      "state": "FL",
+      "zip": "34239",
+      "restaurant_phone": "941-217-7373"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Let'S Go Buffalo Fl, Llc",
+      "raw_address": "4409 13th Street",
+      "city": "St. Cloud",
+      "state": "FL",
+      "zip": "34769",
+      "restaurant_phone": "407-593-4040"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Rassasy Group, Llc",
+      "raw_address": "13149 N Dale Mabry Hwy Suite H",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33618",
+      "restaurant_phone": "813-656-1206"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Southern Hospitality Wings, Llc",
+      "raw_address": "68 5th Street NW",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30308",
+      "restaurant_phone": "404-905-5010"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Southern Hospitality Wings, Llc",
+      "raw_address": "1401-B Oxford Road NE",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30307",
+      "restaurant_phone": "678-904-5570"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Ktp Go Llc",
+      "raw_address": "1080 Braselton Village Parkway",
+      "city": "Braselton",
+      "state": "GA",
+      "zip": "30517",
+      "restaurant_phone": "678-737-4044"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Southern Hospitality Wings, Llc",
+      "raw_address": "5267-3 Buford Hwy NE",
+      "city": "Doraville",
+      "state": "GA",
+      "zip": "30340",
+      "restaurant_phone": "470-977-2337"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Southern Hospitality Wings, Llc",
+      "raw_address": "11244 Tara Blvd",
+      "city": "Hampton",
+      "state": "GA",
+      "zip": "30228",
+      "restaurant_phone": "678-446-3223"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Southern Hospitality Wings, Llc",
+      "raw_address": "911 Duluth Highway",
+      "city": "Lawrenceville",
+      "state": "GA",
+      "zip": "30043",
+      "restaurant_phone": "678-373-4441"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Southern Hospitality Wings, Llc",
+      "raw_address": "4325 Atlanta Highway",
+      "city": "Loganville",
+      "state": "GA",
+      "zip": "30052",
+      "restaurant_phone": "678-277-0078"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Southern Hospitality Wings, Llc",
+      "raw_address": "4650 High Howell Road",
+      "city": "Tucker",
+      "state": "GA",
+      "zip": "30075",
+      "restaurant_phone": "770-847-8100"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Ishwar Valdosta, Llc",
+      "raw_address": "3219 North Oak Street, Suite A",
+      "city": "Valdosta",
+      "state": "GA",
+      "zip": "31605",
+      "restaurant_phone": "229-494-4940"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Ishwar Warner Robbins, Llc",
+      "raw_address": "1012 Highway 96",
+      "city": "Warner Robins",
+      "state": "GA",
+      "zip": "30188",
+      "restaurant_phone": "470-964-5228"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Ktp Go Llc",
+      "raw_address": "Suite 1038",
+      "city": "Woodstock",
+      "state": "GA",
+      "zip": "30189",
+      "restaurant_phone": "470-308-4173"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Infinite Kings Holdings, Llc",
+      "raw_address": "3418 8th Street SW",
+      "city": "Altoona",
+      "state": "IA",
+      "zip": "00000",
+      "restaurant_phone": "515-631-5224"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Ikh Grimes, Llc",
+      "raw_address": "2250 E 1st Street, Ste 300",
+      "city": "Grimes",
+      "state": "IA",
+      "zip": "50111",
+      "restaurant_phone": "515-985-2964"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Ikh Waukee, Llc",
+      "raw_address": "505 E Hickman Road Suite 105",
+      "city": "Waukee",
+      "state": "IA",
+      "zip": "50263",
+      "restaurant_phone": "515-666-1911"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Blazin Hot Nampa Llc",
+      "raw_address": "2310 12th Avenue Road",
+      "city": "Nampa",
+      "state": "ID",
+      "zip": "83686",
+      "restaurant_phone": "208-975-1930"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Blazin Hot Rexburg, Llc",
+      "raw_address": "286 East Moody Road Suite B",
+      "city": "Rexburg",
+      "state": "ID",
+      "zip": "83440",
+      "restaurant_phone": "208-975-1977"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Aurora North Wings, Llc",
+      "raw_address": "1535 Butterfield Rd",
+      "city": "Aurora",
+      "state": "IL",
+      "zip": "60502",
+      "restaurant_phone": "(331) 264-5765"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Belvidere Navi Wings, Llc",
+      "raw_address": "1940 Gateway Center Dr",
+      "city": "Belvidere",
+      "state": "IL",
+      "zip": "61008",
+      "restaurant_phone": "815-975-9087"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Wingspire Buffalo Grove, Llc",
+      "raw_address": "700 East Lake Cook Road",
+      "city": "Buffalo Grove",
+      "state": "IL",
+      "zip": "60089",
+      "restaurant_phone": "847-947-2673"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Chicago Wings Kimball, Inc",
+      "raw_address": "3415 Irving Park Rd",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60618",
+      "restaurant_phone": "872-351-3890"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Chicago Wings Stony, Inc.",
+      "raw_address": "6714 S Stony Island Ave",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60637",
+      "restaurant_phone": "312-585-8560"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "5314 Broadway Wings Inc.",
+      "raw_address": "5316 N. Broadway",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60640",
+      "restaurant_phone": "872-713-7755"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "2820 Armitage Wings Inc.",
+      "raw_address": "2820 W. Armitage",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60647",
+      "restaurant_phone": "872-233-4322"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Wingspire Rogers Park Llc",
+      "raw_address": "7131 North Western Avenue",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60645",
+      "restaurant_phone": "312-854-2838"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "709 Seeley Wings Inc.",
+      "raw_address": "709 South Seeley Avenue",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60612",
+      "restaurant_phone": "312-585-8430"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Chicago Wings Crestwood Inc.",
+      "raw_address": "13426 S. Cicero Ave",
+      "city": "Crestwood",
+      "state": "IL",
+      "zip": "60445",
+      "restaurant_phone": "708-575-7232"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "99 Wings Llc",
+      "raw_address": "1910 Mount Zion Road, Unit F",
+      "city": "Decatur",
+      "state": "IL",
+      "zip": "62521",
+      "restaurant_phone": "217-388-4147"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Wingspire Des Plaines Llc",
+      "raw_address": "1387 Lee Street",
+      "city": "Des Plaines",
+      "state": "IL",
+      "zip": "60018",
+      "restaurant_phone": "224-278-9119"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Wingspire Downers Grove Llc",
+      "raw_address": "945 Ogden Avenue",
+      "city": "Downers Grove",
+      "state": "IL",
+      "zip": "60515",
+      "restaurant_phone": "331-775-2023"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Elgin Wings Llc",
+      "raw_address": "71 Clock Tower Plaza",
+      "city": "Elgin",
+      "state": "IL",
+      "zip": "60120",
+      "restaurant_phone": "630-686-2227"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "2509 95Th Wings Inc.",
+      "raw_address": "2509 West 95th Street",
+      "city": "Evergreen Park",
+      "state": "IL",
+      "zip": "60805",
+      "restaurant_phone": "847-430-4797"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Chicago Wings Harlem, Inc",
+      "raw_address": "4715 N. Harlem Ave",
+      "city": "Harwood Heights",
+      "state": "IL",
+      "zip": "60706",
+      "restaurant_phone": "708-852-5554"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "9404 Joliet Wings Inc.",
+      "raw_address": "9404 Joliet Rd.",
+      "city": "Hodgkins",
+      "state": "IL",
+      "zip": "60525",
+      "restaurant_phone": "708-573-0630"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Huntley Wings Llc",
+      "raw_address": "9830 Route 47",
+      "city": "Huntley",
+      "state": "IL",
+      "zip": "60142",
+      "restaurant_phone": "217-953-7688"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Wingspire Melrose Park Llc",
+      "raw_address": "520 West North Avenue",
+      "city": "Melrose Park",
+      "state": "IL",
+      "zip": "60160",
+      "restaurant_phone": "847-306-3399"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Chicago Wings, Inc.",
+      "raw_address": "3271 W 115th Street",
+      "city": "Merrionette Park",
+      "state": "IL",
+      "zip": "60655",
+      "restaurant_phone": "708-773-0067"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Wingspire Niles Llc",
+      "raw_address": "7509 Oakton St",
+      "city": "Niles",
+      "state": "IL",
+      "zip": "60714",
+      "restaurant_phone": "847-354-4848"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Wingspire Northbrook Llc",
+      "raw_address": "2841 Dundee Road",
+      "city": "Northbrook",
+      "state": "IL",
+      "zip": "60062",
+      "restaurant_phone": "224-723-5011"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Palatine Wings, Llc",
+      "raw_address": "805 E Dundee Rd",
+      "city": "Palatine",
+      "state": "IL",
+      "zip": "60074",
+      "restaurant_phone": "224-435-5503"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Chicagoland Wings Llc",
+      "raw_address": "3837 E Main St",
+      "city": "St. Charles",
+      "state": "IL",
+      "zip": "60174",
+      "restaurant_phone": "630-756-5370"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Woodstock Eastwood Wings, Llc",
+      "raw_address": "150 S Eastwood Dr",
+      "city": "Woodstock",
+      "state": "IL",
+      "zip": "60098",
+      "restaurant_phone": "847-385-3925"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Yorkville Navi Wings, Llc",
+      "raw_address": "1228 N Bridge St.",
+      "city": "Yorkville",
+      "state": "IL",
+      "zip": "60560",
+      "restaurant_phone": "630-385-2083"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "981 N Shadeland Wings Inc",
+      "raw_address": "981 N. Shadeland Avenue",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "46219",
+      "restaurant_phone": "317-463-9009"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Chicago Wings Mooresville Inc",
+      "raw_address": "428 Southbridge Street",
+      "city": "Mooresville",
+      "state": "IN",
+      "zip": "46158",
+      "restaurant_phone": "317-463-6650"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Mighty Wings 1, Inc",
+      "raw_address": "3955 Orchard Lane, Suite B",
+      "city": "Newburgh",
+      "state": "IN",
+      "zip": "47630",
+      "restaurant_phone": "812-758-4343"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "2505 E. Trail St.",
+      "city": "Dodge City",
+      "state": "KS",
+      "zip": "67801",
+      "restaurant_phone": "620-227-5416"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Aesir Group International, Inc.",
+      "raw_address": "6914 Warren Road",
+      "city": "Fort Riley",
+      "state": "KS",
+      "zip": "66442",
+      "restaurant_phone": "785-312-8111"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Mighty Wings Inc.",
+      "raw_address": "2222 US-41",
+      "city": "Henderson",
+      "state": "KY",
+      "zip": "42420",
+      "restaurant_phone": "270-212-0343"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "83 Wings, Llc",
+      "raw_address": "978 Baxter Ave",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40204",
+      "restaurant_phone": "502-276-3366"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "83 Wings, Llc",
+      "raw_address": "3113 S Second Street",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40208",
+      "restaurant_phone": "502-546-6533"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Phasenext Hospitality, Llc",
+      "raw_address": "1 Harborside Drive Terminal A",
+      "city": "East Boston",
+      "state": "MA",
+      "zip": "02128",
+      "restaurant_phone": "857-344-0877"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Flying Bison, Llc",
+      "raw_address": "1020-B Beards Hill Rd",
+      "city": "Aberdeen",
+      "state": "MD",
+      "zip": "21001",
+      "restaurant_phone": "667-229-5303"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Gnm Holdings, Llc",
+      "raw_address": "843 E Fort Avenue",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": "21230",
+      "restaurant_phone": "443-545-2999"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Horseshoe Go, Llc",
+      "raw_address": "1525 Russell Street",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": "21230",
+      "restaurant_phone": "240-898-2892"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Bowie Go Llc",
+      "raw_address": "6901 Laurel Bowie Rd",
+      "city": "Bowie",
+      "state": "MD",
+      "zip": "20715",
+      "restaurant_phone": "240-599-3800"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Burtonsville Go, Llc",
+      "raw_address": "15500 B Old Columbia Pike",
+      "city": "Burtonsville",
+      "state": "MD",
+      "zip": "20866",
+      "restaurant_phone": "240-696-2341"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Rock Grove Wings, Inc",
+      "raw_address": "16256 Fredrick Road",
+      "city": "Gaithersburg",
+      "state": "MD",
+      "zip": "20877",
+      "restaurant_phone": "410-929-7971"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Kensington Go Llc",
+      "raw_address": "10619B Connecticut Avenue",
+      "city": "Kensington",
+      "state": "MD",
+      "zip": "20895",
+      "restaurant_phone": "240-744-4241"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Sk Northway Go, Llc",
+      "raw_address": "672 Old Mill Road Ste I",
+      "city": "Millersville",
+      "state": "MD",
+      "zip": "21108",
+      "restaurant_phone": "410-891-5977"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Belair Go Llc",
+      "raw_address": "7694 Belair Road",
+      "city": "Nottingham",
+      "state": "MD",
+      "zip": "21236",
+      "restaurant_phone": "667-400-5594"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Go Salisbury, Llc",
+      "raw_address": "1303 S. Salisbury Blvd., Unit E",
+      "city": "Salisbury",
+      "state": "MD",
+      "zip": "21801",
+      "restaurant_phone": "443-978-7230"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Sk International Inc.",
+      "raw_address": "2835 Rolling Road",
+      "city": "Windsor Mill",
+      "state": "MD",
+      "zip": "21244",
+      "restaurant_phone": "443-836-5119"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Maine Wings Togo Ii Llc",
+      "raw_address": "34 Western Avenue",
+      "city": "Augusta",
+      "state": "ME",
+      "zip": "04330",
+      "restaurant_phone": "207-378-3888"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Maine Wings Togo, Llc",
+      "raw_address": "180 Waterman Drive",
+      "city": "South Portland",
+      "state": "ME",
+      "zip": "04106",
+      "restaurant_phone": "207-910-6677"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Saginaw Go Opco, Llc",
+      "raw_address": "4880 State St.",
+      "city": "Saginaw",
+      "state": "MI",
+      "zip": "48603",
+      "restaurant_phone": "989-341-3930"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Taylor Mi Opco, Llc",
+      "raw_address": "9895 Telegraph Road",
+      "city": "Taylor",
+      "state": "MI",
+      "zip": "48180",
+      "restaurant_phone": "313-816-5431"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Wingits2, Llc",
+      "raw_address": "7145 East Point Douglas Road Suite 160",
+      "city": "Cottage Grove",
+      "state": "MN",
+      "zip": "55016",
+      "restaurant_phone": "(651) 846-7336"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Trg Bds-Mn, Llc",
+      "raw_address": "4925 County Road 101",
+      "city": "Minnetonka",
+      "state": "MN",
+      "zip": "55345",
+      "restaurant_phone": "952-698-0314"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Trg Bds-Mn, Llc",
+      "raw_address": "4345 Nathan Lane N, Suite L",
+      "city": "Plymouth",
+      "state": "MN",
+      "zip": "55442",
+      "restaurant_phone": "952-698-0315"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Wingit Llc",
+      "raw_address": "1990 Market Drive",
+      "city": "Stillwater",
+      "state": "MN",
+      "zip": "55082",
+      "restaurant_phone": "651-797-5454"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Missouri Wings Inc.",
+      "raw_address": "803 S Jefferson Avenue",
+      "city": "Lebanon",
+      "state": "MO",
+      "zip": "65536",
+      "restaurant_phone": "417-322-6584"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Sodexo Operations Llc",
+      "raw_address": "1100 Northwest Drive",
+      "city": "Maryville",
+      "state": "MO",
+      "zip": "64468",
+      "restaurant_phone": "999-999-9999"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Harnett Cameron Llc",
+      "raw_address": "1504 NC-87",
+      "city": "Cameron",
+      "state": "NC",
+      "zip": "28326",
+      "restaurant_phone": "910-933-0858"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Cumberland Liberty Llc",
+      "raw_address": "#H-3602 Gruber Road",
+      "city": "Fort Bragg",
+      "state": "NC",
+      "zip": "28307",
+      "restaurant_phone": "910-222-3852"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Compass Group Usa, Inc.",
+      "raw_address": "507 Stirling St",
+      "city": "Greensboro",
+      "state": "NC",
+      "zip": "27412",
+      "restaurant_phone": "336-334-5976"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Venus Go 1 Llc",
+      "raw_address": "931 B South Main Street",
+      "city": "Kernersville",
+      "state": "NC",
+      "zip": "27284",
+      "restaurant_phone": "336-515-3165"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Vaap Qsr Llc",
+      "raw_address": "6169 Falls of Neuse Road",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27609",
+      "restaurant_phone": "984-238-0024"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Vinayak, Llc",
+      "raw_address": "927 W. 14th St",
+      "city": "Hastings",
+      "state": "NE",
+      "zip": "68901",
+      "restaurant_phone": "402-817-3200"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Np 80, Llc",
+      "raw_address": "1313 S. Dewey Street",
+      "city": "North Platte",
+      "state": "NE",
+      "zip": "69101",
+      "restaurant_phone": "308-221-2104"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Drmgo Llc",
+      "raw_address": "3116 S 24th St",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "68108",
+      "restaurant_phone": "531-999-8462"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Reva Inc",
+      "raw_address": "3321 Avenue I, Ste 2",
+      "city": "Scottsbluff",
+      "state": "NE",
+      "zip": "69361",
+      "restaurant_phone": "308-337-4943"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Barnegat Wings Llc",
+      "raw_address": "770 Lighthouse Drive",
+      "city": "Barnegat",
+      "state": "NJ",
+      "zip": "08005",
+      "restaurant_phone": "856-203-6162"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Fairlawn Wings Llc",
+      "raw_address": "21-08 Maple Avenue",
+      "city": "Fair Lawn",
+      "state": "NJ",
+      "zip": "07410",
+      "restaurant_phone": "201-583-7470"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Wanaque Wings Llc",
+      "raw_address": "1353 Ringwood Ave",
+      "city": "Haskell",
+      "state": "NJ",
+      "zip": "07420",
+      "restaurant_phone": "973-494-8694"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Fjf Bdubs Two Llc",
+      "raw_address": "2825 John F Kennedy Blvd",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07306",
+      "restaurant_phone": "551-261-4848"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Fjf Bdubs One Llc",
+      "raw_address": "190 Passaic Avenue",
+      "city": "Kearny",
+      "state": "NJ",
+      "zip": "07032",
+      "restaurant_phone": "551-529-5156"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Manahawkin Wings Llc",
+      "raw_address": "650 Route 72 West",
+      "city": "Manahawkin",
+      "state": "NJ",
+      "zip": "08050",
+      "restaurant_phone": "856-886-4976"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Saddle Brook Wings Llc",
+      "raw_address": "487 Market Street",
+      "city": "Saddle Brook",
+      "state": "NJ",
+      "zip": "07663",
+      "restaurant_phone": "201-743-5223"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Sparta Wings Llc",
+      "raw_address": "4 North Village Blvd, Ste A",
+      "city": "Sparta",
+      "state": "NJ",
+      "zip": "07871",
+      "restaurant_phone": "973-494-8626"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Munson Wings Of Voorhees Llc",
+      "raw_address": "1120 White Horse Road",
+      "city": "Voorhees",
+      "state": "NJ",
+      "zip": "08043",
+      "restaurant_phone": "856-567-4988"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Cave Enterprises Operations G Llc",
+      "raw_address": "4190 S Rainbow Blvd",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip": "89103",
+      "restaurant_phone": "702-623-1626"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Cave Enterprises Operations G Llc",
+      "raw_address": "8180 Blue Diamond Road",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip": "89178",
+      "restaurant_phone": "702-659-9264"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Westside Wings New Scotland Llc",
+      "raw_address": "33 New Scotland Avenue",
+      "city": "Albany",
+      "state": "NY",
+      "zip": "12208",
+      "restaurant_phone": "518-992-4912"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Ydk Wings Llc",
+      "raw_address": "2276 31st Street",
+      "city": "Astoria",
+      "state": "NY",
+      "zip": "11105",
+      "restaurant_phone": "518-934-5855"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Munson Of Bellmore Wings Go Llc",
+      "raw_address": "2760 Sunrise Highway",
+      "city": "Bellmore",
+      "state": "NY",
+      "zip": "11710",
+      "restaurant_phone": "(516) 900-5250"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Westside Wings Parkchester, Llc",
+      "raw_address": "1443 Metropolitan Avenue",
+      "city": "Bronx",
+      "state": "NY",
+      "zip": "10462",
+      "restaurant_phone": "347-334-5890"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Westside Wings Coop City Llc",
+      "raw_address": "2059 Bartow Avenue",
+      "city": "Bronx",
+      "state": "NY",
+      "zip": "10475",
+      "restaurant_phone": "718-285-6496"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Vaishav Dev Two Llc",
+      "raw_address": "8925 Ave. D",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11236",
+      "restaurant_phone": "929-833-1530"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "207 Ram Hanuman Llc",
+      "raw_address": "1623 Flatbush Avenue",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11210",
+      "restaurant_phone": "929-610-6775"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Woodcliff Wings, Inc.",
+      "raw_address": "8063 Brewerton Road",
+      "city": "Cicero",
+      "state": "NY",
+      "zip": "13039",
+      "restaurant_phone": "315-362-5857"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Drum Wings, Inc",
+      "raw_address": "26000 US-11",
+      "city": "Evans Mills",
+      "state": "NY",
+      "zip": "13637",
+      "restaurant_phone": "559-218-5838"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Kwality Wings, Inc.",
+      "raw_address": "79-23 Main Street",
+      "city": "Flushing",
+      "state": "NY",
+      "zip": "11367",
+      "restaurant_phone": "718-475-6548"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Wingtopia Llc",
+      "raw_address": "179-19 Hillside Avenue",
+      "city": "Jamaica",
+      "state": "NY",
+      "zip": "11432",
+      "restaurant_phone": "(718)303-2501"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Nhp Wings Llc",
+      "raw_address": "271-20 Union Turnpike",
+      "city": "New Hyde Park",
+      "state": "NY",
+      "zip": "11040",
+      "restaurant_phone": "718-289-4804"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Munson Of 125Th Street Wings Go Llc",
+      "raw_address": "60 West 125th Street",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10027",
+      "restaurant_phone": "646-540-9760"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Munson Of 31St Street Wings Go, Llc",
+      "raw_address": "455 Park Avenue South",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10016",
+      "restaurant_phone": "646-751-0996"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Munson Of 1258 Lexington Ave Wings Go Llc",
+      "raw_address": "1258 Lexington Avenue",
+      "city": "New York City",
+      "state": "NY",
+      "zip": "10028",
+      "restaurant_phone": "646-503-1974"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Aj New York Management, Llc",
+      "raw_address": "125 East Main Street",
+      "city": "Patchogue",
+      "state": "NY",
+      "zip": "11772",
+      "restaurant_phone": "631-730-1859"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Blaze Wings, Llc",
+      "raw_address": "114-14C Sutphin Blvd",
+      "city": "Queens",
+      "state": "NY",
+      "zip": "11434",
+      "restaurant_phone": "718-674-1171"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Sauce Wings Llc",
+      "raw_address": "179-01 Union Turnpike",
+      "city": "Queens",
+      "state": "NY",
+      "zip": "11366",
+      "restaurant_phone": "718-841-6585"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Sunandan Mitra",
+      "raw_address": "2907 Broadway",
+      "city": "Queens",
+      "state": "NY",
+      "zip": "11106",
+      "restaurant_phone": "332-330-6352"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Westside Wings Crosstown Llc",
+      "raw_address": "2330 Watt Street",
+      "city": "Schenectady",
+      "state": "NY",
+      "zip": "12304",
+      "restaurant_phone": "518-831-5441"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Aj New York Management, Llc",
+      "raw_address": "999-25 Montauk Highway",
+      "city": "Shirley",
+      "state": "NY",
+      "zip": "11967",
+      "restaurant_phone": "631-983-6245"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Westside Wings Troy Llc",
+      "raw_address": "120 Hoosick Street",
+      "city": "Troy",
+      "state": "NY",
+      "zip": "12180",
+      "restaurant_phone": "518-629-5939"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Akron Go, Llc",
+      "raw_address": "349 South Main Street",
+      "city": "Akron",
+      "state": "OH",
+      "zip": "44311",
+      "restaurant_phone": "234-542-8888"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Grube Go, Llc",
+      "raw_address": "1 North Hawkins Avenue",
+      "city": "Akron",
+      "state": "OH",
+      "zip": "44313",
+      "restaurant_phone": "234-901-6151"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Synergy Foodwerks Llc",
+      "raw_address": "8520 Winton Rd",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip": "45231",
+      "restaurant_phone": "513-521-6969"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Grube Go, Llc",
+      "raw_address": "7402 Broadview Road",
+      "city": "Cleveland",
+      "state": "OH",
+      "zip": "44134",
+      "restaurant_phone": "216-333-1919"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Grube Go, Llc",
+      "raw_address": "6051 Mayfield Road",
+      "city": "Mayfield Heights",
+      "state": "OH",
+      "zip": "44124",
+      "restaurant_phone": "216-367-6999"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "8Xl Harrisburg, Llc",
+      "raw_address": "4207 Union Deposit Road",
+      "city": "Harrisburg",
+      "state": "PA",
+      "zip": "17111",
+      "restaurant_phone": "223-251-2117"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "8Xl Quentin Llc",
+      "raw_address": "1960 Quentin Rd",
+      "city": "Lebanon",
+      "state": "PA",
+      "zip": "17042",
+      "restaurant_phone": "717-813-7944"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "8Xl Manchester, Llc",
+      "raw_address": "255 Glen Drive",
+      "city": "Manchester",
+      "state": "PA",
+      "zip": "17345",
+      "restaurant_phone": "(223) 236-2421"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Munson Of Mayfair Wings Go Llc",
+      "raw_address": "6410 Frankford Avenue",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19135",
+      "restaurant_phone": "267-277-9692"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Mathew Hospitality Group Llc",
+      "raw_address": "1810 E Ridge Pike",
+      "city": "Royersford",
+      "state": "PA",
+      "zip": "19468",
+      "restaurant_phone": "484-929-2626"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Tennessee Restaurant Partners Llc",
+      "raw_address": "2510 Murfreesboro Pike",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37217",
+      "restaurant_phone": "731-437-2917"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Aspire 2B Hospitality-Gos, Llc",
+      "raw_address": "10255 North Freeway",
+      "city": "Aldine",
+      "state": "TX",
+      "zip": "77037",
+      "restaurant_phone": "346-440-9271"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Westex Wings Management, Llc",
+      "raw_address": "101 W. Broadway Street",
+      "city": "Andrews",
+      "state": "TX",
+      "zip": "79714",
+      "restaurant_phone": "432-223-2234"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Valley Wings Llc",
+      "raw_address": "2715 Boca Chica Boulevard",
+      "city": "Brownsville",
+      "state": "TX",
+      "zip": "78521",
+      "restaurant_phone": "956-452-1676"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Akp786 Management Llc",
+      "raw_address": "14202 Northwest Blvd. Suite 106",
+      "city": "Corpus Christi",
+      "state": "TX",
+      "zip": "78410",
+      "restaurant_phone": "361-777-6057"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Akp786 Management Llc",
+      "raw_address": "5638 Saratoga Blvd Suite #106",
+      "city": "Corpus Christi",
+      "state": "TX",
+      "zip": "78414",
+      "restaurant_phone": "361-808-4485"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Quality Brand Group Wild Wings Llc",
+      "raw_address": "5406 Harry Hines Blvd",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75235",
+      "restaurant_phone": "214-432-3974"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Valley Wings Llc",
+      "raw_address": "1708 West University Drive",
+      "city": "Edinburg",
+      "state": "TX",
+      "zip": "78539",
+      "restaurant_phone": "956-368-7797"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Mrg Venture 81, Llc",
+      "raw_address": "561 Darrington Rd STE P303",
+      "city": "El Paso",
+      "state": "TX",
+      "zip": "79928",
+      "restaurant_phone": "915-955-9646"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Mrg Venture 81 Llc",
+      "raw_address": "2500 North Mesa Street",
+      "city": "El Paso",
+      "state": "TX",
+      "zip": "79902",
+      "restaurant_phone": "915-350-3999"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Quality Brand Group Wild Wings Llc",
+      "raw_address": "11411 Coit Road Suite 150",
+      "city": "Frisco",
+      "state": "TX",
+      "zip": "75035",
+      "restaurant_phone": "469-935-4848"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Aspire 2B Hospitality-Gos, Llc",
+      "raw_address": "4561 FM 1960 Suite B",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77069",
+      "restaurant_phone": "346-509-4312"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Quality Brand Group Wild Wings Llc",
+      "raw_address": "1318 West Pipeline Road",
+      "city": "Hurst",
+      "state": "TX",
+      "zip": "76053",
+      "restaurant_phone": "817-778-4212"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Valley Wings Llc",
+      "raw_address": "2402 Bob Bullock Loop Suite 4",
+      "city": "Laredo",
+      "state": "TX",
+      "zip": "78043",
+      "restaurant_phone": "956-476-6668"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "4221 North Interstate 27",
+      "city": "Lubbock",
+      "state": "TX",
+      "zip": "79403",
+      "restaurant_phone": "806-744-1720"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Aspire 2B Hospitality-Gos, Llc",
+      "raw_address": "6209 Farm to Market Rd 1488",
+      "city": "Magnolia",
+      "state": "TX",
+      "zip": "77354",
+      "restaurant_phone": "281-789-4310"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "3215 N Main Street",
+      "city": "Paris",
+      "state": "TX",
+      "zip": "75460",
+      "restaurant_phone": "903-737-1950"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Spark Restaurant Management, Llc",
+      "raw_address": "118 Southmore Avenue",
+      "city": "Pasadena",
+      "state": "TX",
+      "zip": "77502",
+      "restaurant_phone": "832-240-2626"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Akp786 Management, Llc",
+      "raw_address": "1581 US-181 Frontage 300",
+      "city": "Portland",
+      "state": "TX",
+      "zip": "78374",
+      "restaurant_phone": "361-881-4189"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Compass Group Usa, Inc.",
+      "raw_address": "800 West Campbell Road",
+      "city": "Richardson",
+      "state": "TX",
+      "zip": "75080",
+      "restaurant_phone": "000-000-0000"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Quality Brand Group Wild Wings Llc",
+      "raw_address": "230 West Campbell Road",
+      "city": "Richardson",
+      "state": "TX",
+      "zip": "75080",
+      "restaurant_phone": "214-764-3771"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Urh Aliana Go, Llc",
+      "raw_address": "11115 W. Grand Parkway S. Suite 160",
+      "city": "Richmond",
+      "state": "TX",
+      "zip": "77407",
+      "restaurant_phone": "713-564-8810"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Mj Wings Llc",
+      "raw_address": "2051 Gattis School Road",
+      "city": "Round Rock",
+      "state": "TX",
+      "zip": "78664",
+      "restaurant_phone": "512-271-1991"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Quality Brand Group Wild Wings Llc",
+      "raw_address": "3109 Lakeview Parkway",
+      "city": "Rowlett",
+      "state": "TX",
+      "zip": "75088",
+      "restaurant_phone": "214-764-1787"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Valley Wings Llc",
+      "raw_address": "105 Cesar Javez Road",
+      "city": "San Juan",
+      "state": "TX",
+      "zip": "78589",
+      "restaurant_phone": "956-476-5616"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Belle Holdings, Inc.",
+      "raw_address": "930 Olympia Drive #106",
+      "city": "Charlottesville",
+      "state": "VA",
+      "zip": "22911",
+      "restaurant_phone": "804-613-4160"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Nnp Bgo Herndon Llc",
+      "raw_address": "304 Elden Street",
+      "city": "Herndon",
+      "state": "VA",
+      "zip": "20170",
+      "restaurant_phone": "571-210-4004"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Nnp Bgo Community Plaza Llc",
+      "raw_address": "46950 Community Plaza",
+      "city": "Sterling",
+      "state": "VA",
+      "zip": "20164",
+      "restaurant_phone": "703-652-9499"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Wings Boss Llc",
+      "raw_address": "25246 Pacific Highway South",
+      "city": "Kent",
+      "state": "WA",
+      "zip": "98032",
+      "restaurant_phone": "253-872-6064"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Wings Boss Llc",
+      "raw_address": "10011 Bridgeport Way Ste. 1100",
+      "city": "Lakewood",
+      "state": "WA",
+      "zip": "98499",
+      "restaurant_phone": "253-528-5273"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Wings Boss Llc",
+      "raw_address": "4131 Martin Way E. Ste 102",
+      "city": "Olympia",
+      "state": "WA",
+      "zip": "98516",
+      "restaurant_phone": "564-219-4494"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Wings Boss Llc",
+      "raw_address": "212 Garfield Street South",
+      "city": "Tacoma",
+      "state": "WA",
+      "zip": "98444",
+      "restaurant_phone": "253-534-9291"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Kb Go 4, Inc",
+      "raw_address": "7700 S Lovers Lane Road",
+      "city": "Franklin",
+      "state": "WI",
+      "zip": "53132",
+      "restaurant_phone": "262-450-1866"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Kb Go 2 Inc.",
+      "raw_address": "6969 North Port Washington Road",
+      "city": "Glendale",
+      "state": "WI",
+      "zip": "53217",
+      "restaurant_phone": "414-340-6484"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Kb Go 6 Inc.",
+      "raw_address": "2900 N. Oakland Ave.",
+      "city": "Milwaukee",
+      "state": "WI",
+      "zip": "53211",
+      "restaurant_phone": "414-497-0901"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Kb Go 5, Inc",
+      "raw_address": "1350 Penny Lane",
+      "city": "Oconomowoc",
+      "state": "WI",
+      "zip": "53066",
+      "restaurant_phone": "262-449-2848"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Kb Go 1 Inc.",
+      "raw_address": "2720 N Grandview Blvd #130",
+      "city": "Waukesha",
+      "state": "WI",
+      "zip": "53188",
+      "restaurant_phone": "414-340-6363"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Kb Go 3 Inc.",
+      "raw_address": "6650 W State St Ste E.",
+      "city": "Wauwatosa",
+      "state": "WI",
+      "zip": "53213",
+      "restaurant_phone": "414-497-6668"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Kb Go 7 Inc.",
+      "raw_address": "1621 Miller Park Way",
+      "city": "West Milwaukee",
+      "state": "WI",
+      "zip": "53214",
+      "restaurant_phone": "414-497-0681"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Little General Store, Inc.",
+      "raw_address": "1970 Robert C Byrd Drive",
+      "city": "Beckley",
+      "state": "WV",
+      "zip": "25801",
+      "restaurant_phone": "681-508-8099"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Nnp Bgo Charles Town Llc",
+      "raw_address": "114 Flowing Springs Road",
+      "city": "Charles Town",
+      "state": "WV",
+      "zip": "25414",
+      "restaurant_phone": "681-283-2940"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Little General Store, Inc.",
+      "raw_address": "2395 White Hall Blvd",
+      "city": "Fairmont",
+      "state": "WV",
+      "zip": "26554",
+      "restaurant_phone": "681-531-0100"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Little General Store, Inc.",
+      "raw_address": "2060 3rd Avenue",
+      "city": "Huntington",
+      "state": "WV",
+      "zip": "25703",
+      "restaurant_phone": "304-696-2025"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Laabh Tristate Investments Llc",
+      "raw_address": "90 Dunkin Drive",
+      "city": "Inwood",
+      "state": "WV",
+      "zip": "25428",
+      "restaurant_phone": "304-301-3934"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Patel, Jigar",
+      "raw_address": "2111 S College St",
+      "city": "Auburn",
+      "state": "AL",
+      "zip": "",
+      "restaurant_phone": "(708) 253-2301"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Love'S Country Stores, Inc.",
+      "raw_address": "4703 Main Street",
+      "city": "Joseph City",
+      "state": "AZ",
+      "zip": "",
+      "restaurant_phone": "(405) 302-6619"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Love'S Country Stores, Inc.",
+      "raw_address": "6035 E. Minerva Lane",
+      "city": "Kingman",
+      "state": "AZ",
+      "zip": "",
+      "restaurant_phone": "(405) 302-6619"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Gill, Karandeep",
+      "raw_address": "410 Napa Junction Rd #104",
+      "city": "American Canyon",
+      "state": "CA",
+      "zip": "",
+      "restaurant_phone": "(661) 520-8560"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Gill, Kamaljit",
+      "raw_address": "2914 E. Whitmore Ave",
+      "city": "Ceres",
+      "state": "CA",
+      "zip": "",
+      "restaurant_phone": "kamgill@sbcglobal.net"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Gill, Kamaljit",
+      "raw_address": "SWC Oakdale Rd & Sylvan Ave",
+      "city": "Modesto",
+      "state": "CA",
+      "zip": "",
+      "restaurant_phone": "kamgill@sbcglobal.net"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Lee, Denise",
+      "raw_address": "14523 A",
+      "city": "Van Nuys",
+      "state": "CA",
+      "zip": "",
+      "restaurant_phone": "(747) 900-6175"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Patel, Dhaval",
+      "raw_address": "13748 SW 152nd St",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "",
+      "restaurant_phone": "(941) 893-8584"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "O'Neill, Greg",
+      "raw_address": "2058 Shepherd Road, Unit #9",
+      "city": "Mulberry",
+      "state": "FL",
+      "zip": "",
+      "restaurant_phone": "greg.oneill@purplerockllc.com"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Gillani, Fayyaz",
+      "raw_address": "8075 SW State Rd 200",
+      "city": "Ocala",
+      "state": "FL",
+      "zip": "",
+      "restaurant_phone": "(847) 942-4324"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Fielding, Nathan",
+      "raw_address": "805 Saddle Avenue Suite 140",
+      "city": "Caldwell",
+      "state": "ID",
+      "zip": "",
+      "restaurant_phone": "(208) 520-0507"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Love'S Country Stores, Inc.",
+      "raw_address": "1900 S. State Road 127",
+      "city": "Greenville",
+      "state": "IL",
+      "zip": "",
+      "restaurant_phone": "(405) 302-6619"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Patel, Nilkanth",
+      "raw_address": "31 Light Street",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": "",
+      "restaurant_phone": "(443) 846-4822"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Patel, Hiren",
+      "raw_address": "3231 Spartan Road",
+      "city": "Olney",
+      "state": "MD",
+      "zip": "",
+      "restaurant_phone": "(443) 472-6140"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Thielbar, Ray",
+      "raw_address": "7145 East Point Douglas Road Suite 160",
+      "city": "Cottage Grove",
+      "state": "MN",
+      "zip": "",
+      "restaurant_phone": "(715) 832-5018"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Knodt, Matthew",
+      "raw_address": "144 Depot Dr",
+      "city": "Waconia",
+      "state": "MN",
+      "zip": "",
+      "restaurant_phone": "(612) 584-8501"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Patel, Kamlesh (Mo)",
+      "raw_address": "1479 W South St",
+      "city": "Ozark",
+      "state": "MO",
+      "zip": "",
+      "restaurant_phone": "(219) 433-4998"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Brahmbhatt, Jeet",
+      "raw_address": "TBD",
+      "city": "Greensboro",
+      "state": "NC",
+      "zip": "",
+      "restaurant_phone": "jeet@freshfoods.us"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Thakar, Krunal",
+      "raw_address": "422 US-70",
+      "city": "Havelock",
+      "state": "NC",
+      "zip": "",
+      "restaurant_phone": "(267) 207-4299"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Fresquez, Leeanna",
+      "raw_address": "2200 Sunport Blvd",
+      "city": "Albuquerque",
+      "state": "NM",
+      "zip": "",
+      "restaurant_phone": "(505) 238-0130"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Merritt, Kenneth R. (Ken)",
+      "raw_address": "3110 Rinconada Blvd. Suite 5",
+      "city": "Las Cruces",
+      "state": "NM",
+      "zip": "",
+      "restaurant_phone": "kmerritt@merrittgroup.net"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Velarde, Adam",
+      "raw_address": "907 E. Lake Mead Parkway, Suite 120",
+      "city": "Henderson",
+      "state": "NV",
+      "zip": "",
+      "restaurant_phone": "adam@caveenterprises.com"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Zahid, Mayer",
+      "raw_address": "1901 Silverada Blvd Unit 2B",
+      "city": "Reno",
+      "state": "NV",
+      "zip": "",
+      "restaurant_phone": "mayer@nevadafoodsgroup.com"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Zahid, Mayer",
+      "raw_address": "4978 S. Virginia St",
+      "city": "Reno",
+      "state": "NV",
+      "zip": "",
+      "restaurant_phone": "mayer@nevadafoodsgroup.com"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Legacy Wings (Westside)",
+      "raw_address": "1385 Metropolitan Avenue",
+      "city": "Bronx",
+      "state": "NY",
+      "zip": "",
+      "restaurant_phone": "(516) 603-7234"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Wood, Greg",
+      "raw_address": "1111 Champlain Street",
+      "city": "Ogdensburg",
+      "state": "NY",
+      "zip": "",
+      "restaurant_phone": "(315) 276-9413"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Brattner, Shawn",
+      "raw_address": "1831 Main St",
+      "city": "Peekskill",
+      "state": "NY",
+      "zip": "",
+      "restaurant_phone": "(914) 260-9922"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Shah, Rushit",
+      "raw_address": "1924 Monroe Ave",
+      "city": "Rochester",
+      "state": "NY",
+      "zip": "",
+      "restaurant_phone": "(732) 397-1515"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Shah, Harshil",
+      "raw_address": "11530 Springfield Pike",
+      "city": "Springdale",
+      "state": "OH",
+      "zip": "",
+      "restaurant_phone": "shahharshil3@gmail.com"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Arora, Sarvish",
+      "raw_address": "159 OH-3",
+      "city": "Sunbury",
+      "state": "OH",
+      "zip": "",
+      "restaurant_phone": "(330) 262-5277"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Love'S Country Stores, Inc.",
+      "raw_address": "4400 N. Broadway St.",
+      "city": "Hinton",
+      "state": "OK",
+      "zip": "",
+      "restaurant_phone": "(405) 302-6619"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Rao, Mital",
+      "raw_address": "2008 Oregon Ave",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "",
+      "restaurant_phone": "(267) 255-3950"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Patel, Shital",
+      "raw_address": "101-207 South Conestoga Drive",
+      "city": "Shippensburg",
+      "state": "PA",
+      "zip": "",
+      "restaurant_phone": "patelshital@gmail.com"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Patel, Karan",
+      "raw_address": "2943 S Rutherford Blvd",
+      "city": "Murfreesboro",
+      "state": "TN",
+      "zip": "",
+      "restaurant_phone": "(615) 878-7422"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Karedia, Rahil",
+      "raw_address": "14241 SH 29, Suite 305",
+      "city": "Liberty Hill",
+      "state": "TX",
+      "zip": "",
+      "restaurant_phone": "(832) 790-2147"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Sandhu, Jasmine",
+      "raw_address": "124 E. Griffen Parkway",
+      "city": "Mission",
+      "state": "TX",
+      "zip": "",
+      "restaurant_phone": "(281) 433-7196"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Love'S Country Stores, Inc.",
+      "raw_address": "900 S Eagle St.",
+      "city": "Weimar",
+      "state": "TX",
+      "zip": "",
+      "restaurant_phone": "(405) 302-6619"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Fielding, Nathan",
+      "raw_address": "677 N State Street Suite 2A",
+      "city": "Lindon",
+      "state": "UT",
+      "zip": "",
+      "restaurant_phone": "(208) 520-0507"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Patel, Ankit",
+      "raw_address": "130 E Little Creek Rd",
+      "city": "Norfolk",
+      "state": "VA",
+      "zip": "",
+      "restaurant_phone": "(302) 858-1396"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Datta/Chopra",
+      "raw_address": "5134 Yelm Highway Southeast Suite 400",
+      "city": "Lacey",
+      "state": "WA",
+      "zip": "",
+      "restaurant_phone": "(916) 870-3402"
+    },
+    {
+      "brand": "Buffalo Wild Wings",
+      "franchisee_name": "Little General Store, Inc.",
+      "raw_address": "59 Clubhouse Lane",
+      "city": "Hurricane",
+      "state": "WV",
+      "zip": "",
+      "restaurant_phone": "(304) 904-1095"
+    }
+  ]
+}

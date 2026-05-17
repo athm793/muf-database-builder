@@ -1,0 +1,32 @@
+{
+  "michael davidson|AK": {
+    "company": "MRD, Inc.",
+    "confidence": "HIGH",
+    "source_url": "https://mcdonaldsalaska.ninjagig.com/",
+    "reasoning": "Multiple sources including a McDonald's Alaska job portal branded 'McDonald's/MRD, Inc.' and Alaska corporate records (opencorporates.com/companies/us_ak/54224D) explicitly list Michael Davidson as the registered agent of MRD, Inc., a McDonald's franchisee operating 18+ locations in Anchorage/Southcentral Alaska."
+  },
+  "frank bessasparis|AK": {
+    "company": "NONE",
+    "confidence": "LOW",
+    "source_url": "",
+    "reasoning": "Multiple searches across public records, Alaska business directories, LinkedIn, and Chamber of Commerce listings confirmed Frank Bessasparis resides in Fairbanks, AK, but no source explicitly names an operating LLC or company through which he operates McDonald's franchises."
+  },
+  "john mcdonald|AK": {
+    "company": "NONE",
+    "confidence": "LOW",
+    "source_url": "https://www.federalpay.org/paycheck-protection-program/katch-a-mac-inc-kenai-ak",
+    "reasoning": "Katch-A-Mac Inc. operates the Homer AK McDonald's at 3656 Ben Walters Ln, but PPP data describes it as female-owned and no source explicitly links John McDonald to this entity."
+  },
+  "michael a white|AK": {
+    "company": "M & S Associates, Inc.",
+    "confidence": "HIGH",
+    "source_url": "https://www.dnb.com/business-directory/company-profiles.m__s_associates.2f6fa25f4eeb71a479391c7fba981207.html",
+    "reasoning": "Dun & Bradstreet and Alaska Company Directory both confirm that M & S Associates, Inc. at 2285 Trout St, Juneau, AK 99801 operates a McDonald's franchise with Michael A. White listed as President and Shareholder, matching the provided address and phone number (907-789-4653)."
+  },
+  "gerard f murphy|AL": {
+    "company": "NONE",
+    "confidence": "LOW",
+    "source_url": "https://www.facebook.com/murphymcd/",
+    "reasoning": "While 'Murphy Family Restaurants' is the operating brand for Gerry Murphy's McDonald's franchise covering SE Alabama including the Abbeville area, no cited source explicitly names the specific legal LLC entity tied to Gerard F Murphy at 2716 US Highway 431 South, Abbeville, AL."
+  }
+}

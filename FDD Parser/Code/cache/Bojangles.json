@@ -1,0 +1,5387 @@
+{
+  "brand": "Bojangles",
+  "records": [
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "New Generation Foods, Llc",
+      "raw_address": "7398 US Highway 431",
+      "city": "Albertville",
+      "state": "AL",
+      "zip": "35950",
+      "restaurant_phone": "256-891-6154"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "New Generation Foods, Llc",
+      "raw_address": "1316 Hwy 72 East",
+      "city": "Athens",
+      "state": "AL",
+      "zip": "35611",
+      "restaurant_phone": "256-216-9373"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "New Generation Foods, Llc",
+      "raw_address": "6111 Hwy 431 S",
+      "city": "Brownsboro",
+      "state": "AL",
+      "zip": "35741",
+      "restaurant_phone": "256-585-1653"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken Llc",
+      "raw_address": "1880 Gadsden Highway",
+      "city": "Brimingham",
+      "state": "AL",
+      "zip": "35235",
+      "restaurant_phone": "205-655-8600"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken Llc",
+      "raw_address": "5070 Highway 31",
+      "city": "Calera",
+      "state": "AL",
+      "zip": "35040",
+      "restaurant_phone": "205-668-0146"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken Llc",
+      "raw_address": "15392 US-280",
+      "city": "Chelsea",
+      "state": "AL",
+      "zip": "35043",
+      "restaurant_phone": "205-678-0449"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken, Llc",
+      "raw_address": "25 South Daleville Ave",
+      "city": "Daleville",
+      "state": "AL",
+      "zip": "36322",
+      "restaurant_phone": "334-596-1181"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "New Generation Foods, Llc",
+      "raw_address": "2324 6th Avenue SE",
+      "city": "Decatur",
+      "state": "AL",
+      "zip": "35601",
+      "restaurant_phone": "256-688-4389"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken, Llc",
+      "raw_address": "2794 Ross Clark Circle",
+      "city": "Dothan",
+      "state": "AL",
+      "zip": "36301",
+      "restaurant_phone": "334-699-6828"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken, Llc",
+      "raw_address": "1074 Ross Clark Circle",
+      "city": "Dothan",
+      "state": "AL",
+      "zip": "36303",
+      "restaurant_phone": "334-479-0350"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken, Llc",
+      "raw_address": "901 East Lee Street",
+      "city": "Enterprise",
+      "state": "AL",
+      "zip": "36330",
+      "restaurant_phone": "334-475-3206"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "New Generation Foods, Llc",
+      "raw_address": "109 Cox Creek Pkwy",
+      "city": "Florence",
+      "state": "AL",
+      "zip": "35630",
+      "restaurant_phone": "256-765-7100"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken Llc",
+      "raw_address": "1600 Morris Avenue",
+      "city": "Fultondale",
+      "state": "AL",
+      "zip": "35068",
+      "restaurant_phone": "205-841-4118"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "6647 Highway 46",
+      "city": "Heflin",
+      "state": "AL",
+      "zip": "36264",
+      "restaurant_phone": "256-807-6001"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "New Generation Foods, Llc",
+      "raw_address": "4323 University Drive",
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35816",
+      "restaurant_phone": "256-895-3317"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "New Generation Foods, Llc",
+      "raw_address": "11375 South Memorial Pkwy",
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35803",
+      "restaurant_phone": "256-881-6469"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "New Generation Foods, Llc",
+      "raw_address": "5015 North Memorial Pkwy",
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35810",
+      "restaurant_phone": "256-852-5700"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "New Generation Foods, Llc",
+      "raw_address": "7049 Hwy 72 West",
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35806",
+      "restaurant_phone": "256-513-8272"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "8400 Country Farm Rd.",
+      "city": "Irvington",
+      "state": "AL",
+      "zip": "36544",
+      "restaurant_phone": "334-453-6030"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken Llc",
+      "raw_address": "1061 J.D. and L. Drive SW",
+      "city": "Jacksonville",
+      "state": "AL",
+      "zip": "36265",
+      "restaurant_phone": "256-728-1227"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "New Generation Foods, Llc",
+      "raw_address": "101 J.E. Briscoe Way",
+      "city": "Madison",
+      "state": "AL",
+      "zip": "35758",
+      "restaurant_phone": "256-325-2743"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken Llc",
+      "raw_address": "4780 Eastern Valley Road",
+      "city": "Mccalla",
+      "state": "AL",
+      "zip": "35111",
+      "restaurant_phone": "205-477-7140"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bfcb Restaurants, Llc",
+      "raw_address": "3213 Dauphin Street",
+      "city": "Mobile",
+      "state": "AL",
+      "zip": "36606",
+      "restaurant_phone": "228-327-3147"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Phoenix, Llc",
+      "raw_address": "9066 Eastchasrkway",
+      "city": "Montgomery",
+      "state": "AL",
+      "zip": "36117",
+      "restaurant_phone": "585-615-1484"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "New Generation Foods, Llc",
+      "raw_address": "401 W. Avalon Avenue",
+      "city": "Muscle Shoals",
+      "state": "AL",
+      "zip": "35661",
+      "restaurant_phone": "256-381-8777"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken Llc",
+      "raw_address": "724 2nd Ave East",
+      "city": "Oneonta",
+      "state": "AL",
+      "zip": "35121",
+      "restaurant_phone": "764-254-1920"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Galaten Foods, Llc",
+      "raw_address": "2484 Pepperell Pkwy",
+      "city": "Opelika",
+      "state": "AL",
+      "zip": "36801",
+      "restaurant_phone": "334-737-5581"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken Llc",
+      "raw_address": "31 Holmes Drive",
+      "city": "Oxford",
+      "state": "AL",
+      "zip": "36203",
+      "restaurant_phone": "256-831-9883"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken Llc",
+      "raw_address": "2028 Martin Street",
+      "city": "Pell City",
+      "state": "AL",
+      "zip": "35128",
+      "restaurant_phone": "205-338-4172"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken Llc",
+      "raw_address": "2305 Cobbs Ford Road",
+      "city": "Prattville",
+      "state": "AL",
+      "zip": "36066",
+      "restaurant_phone": "334-21-0123"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "New Generation Foods, Llc",
+      "raw_address": "13810 Highway 43",
+      "city": "Russellville",
+      "state": "AL",
+      "zip": "35653",
+      "restaurant_phone": "256-332-8787"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken Llc",
+      "raw_address": "41135A US-280",
+      "city": "Sylacauga",
+      "state": "AL",
+      "zip": "35150",
+      "restaurant_phone": "256-921-6801"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken Llc",
+      "raw_address": "4309 Veterans Memorial Parkway",
+      "city": "Tuscaloosa",
+      "state": "AL",
+      "zip": "35404",
+      "restaurant_phone": "205-553-2889"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "3910 South Division Street",
+      "city": "Blytheville",
+      "state": "AR",
+      "zip": "72315",
+      "restaurant_phone": "678-640-1212"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "1025 South Crawford Street",
+      "city": "Clarksville",
+      "state": "AR",
+      "zip": "72830",
+      "restaurant_phone": "479-647-7053"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "2005 Hwy 19 North",
+      "city": "Prescott",
+      "state": "AR",
+      "zip": "71587",
+      "restaurant_phone": "870-330-8570"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "17110 Brandy Branch Road",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32234",
+      "restaurant_phone": "904-257-9349"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "12921 Duval Road",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32218",
+      "restaurant_phone": "904-330-3011"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "North American Food Company, Llc",
+      "raw_address": "4828 SW College Road",
+      "city": "Ocala",
+      "state": "FL",
+      "zip": "34474",
+      "restaurant_phone": "352-789-6000"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Chkb, Llc",
+      "raw_address": "5010 Cherokee Street",
+      "city": "Acworth",
+      "state": "GA",
+      "zip": "30101",
+      "restaurant_phone": "770-974-8365"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken, Llc",
+      "raw_address": "6343 Joe Frank Harris Parkway",
+      "city": "Adairsville",
+      "state": "GA",
+      "zip": "30103",
+      "restaurant_phone": "770-769-4197"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "1737 Clark Avenue",
+      "city": "Albany",
+      "state": "GA",
+      "zip": "31705",
+      "restaurant_phone": "229-405-6438"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "3210 Lexington Road",
+      "city": "Athens",
+      "state": "GA",
+      "zip": "30605",
+      "restaurant_phone": "706-850-0316"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Trickum Ops, Llc",
+      "raw_address": "5628 Fulton Industrial Boulevard",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30336",
+      "restaurant_phone": "404-346-9959"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Dncths Atlanta Partners",
+      "raw_address": "7700 Spine Road",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30320",
+      "restaurant_phone": "404-762-1577"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "3971 Buford Highway",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30345",
+      "restaurant_phone": "404-320-1039"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Threeone Corporation, Llc",
+      "raw_address": "1457 Walton Way",
+      "city": "Augusta",
+      "state": "GA",
+      "zip": "30904",
+      "restaurant_phone": "706-722-1380"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "3360 Wrightsboro Road",
+      "city": "Augusta",
+      "state": "GA",
+      "zip": "30909",
+      "restaurant_phone": "706-364-4754"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "3705 Mike Padgett Highway",
+      "city": "Augusta",
+      "state": "GA",
+      "zip": "30906",
+      "restaurant_phone": "706-798-6261"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "2715 Peach Orchard Road",
+      "city": "Augusta",
+      "state": "GA",
+      "zip": "30906",
+      "restaurant_phone": "706-305-4400"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "3835 Appalachian Highway",
+      "city": "Blue Ridge",
+      "state": "GA",
+      "zip": "30513",
+      "restaurant_phone": "762-583-2681"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "3993 Atlanta Highway",
+      "city": "Bogart",
+      "state": "GA",
+      "zip": "30622",
+      "restaurant_phone": "706-353-0727"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "5650 Green Street",
+      "city": "Braselton",
+      "state": "GA",
+      "zip": "30517",
+      "restaurant_phone": "706-654-8438"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "4040 Buford Drive",
+      "city": "Buford",
+      "state": "GA",
+      "zip": "30518",
+      "restaurant_phone": "770-945-4349"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken, Llc",
+      "raw_address": "255 Highway 53",
+      "city": "Calhoun",
+      "state": "GA",
+      "zip": "30701",
+      "restaurant_phone": "706-625-3949"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1665 Ball Ground Highway",
+      "city": "Canton",
+      "state": "GA",
+      "zip": "30114",
+      "restaurant_phone": "770-479-0650"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "3010 East Cherokee Drive",
+      "city": "Canton",
+      "state": "GA",
+      "zip": "30115",
+      "restaurant_phone": "770-479-0935"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Chkb, Llc",
+      "raw_address": "1371 Joe Frank Harris",
+      "city": "Cartersville",
+      "state": "GA",
+      "zip": "30120",
+      "restaurant_phone": "770-382-8984"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken, Llc",
+      "raw_address": "459 East Main Street",
+      "city": "Cartersville",
+      "state": "GA",
+      "zip": "30121",
+      "restaurant_phone": "770-334-8654"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken, Llc",
+      "raw_address": "135 North Main Street",
+      "city": "Cedartown",
+      "state": "GA",
+      "zip": "30125",
+      "restaurant_phone": "770-748-4201"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bountiful Bo'S, Inc.",
+      "raw_address": "1119 North 3rd Avenue",
+      "city": "Chatsworth",
+      "state": "GA",
+      "zip": "30705",
+      "restaurant_phone": "706-695-2590"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Chicken City Bo'S, Llc",
+      "raw_address": "109 South Main Street",
+      "city": "Cleveland",
+      "state": "GA",
+      "zip": "30528",
+      "restaurant_phone": "706-493-9317"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Trickum Ops, Llc",
+      "raw_address": "5140 Old National Highway",
+      "city": "College Park",
+      "state": "GA",
+      "zip": "30349",
+      "restaurant_phone": "404-766-1157"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Galaten Foods, Llc",
+      "raw_address": "7660 Schomburg Road",
+      "city": "Columbus",
+      "state": "GA",
+      "zip": "31909",
+      "restaurant_phone": "706-561-0218"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Galaten Foods, Llc",
+      "raw_address": "2883 Airport Thruway",
+      "city": "Columbus",
+      "state": "GA",
+      "zip": "31909",
+      "restaurant_phone": "706-257-4564"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Galaten Foods, Llc",
+      "raw_address": "3264 Victory Drive",
+      "city": "Columbus",
+      "state": "GA",
+      "zip": "31903",
+      "restaurant_phone": "762-821-1264"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Mm Hospitality Group, Llc",
+      "raw_address": "30733 US Hwy 441 S",
+      "city": "Commerce",
+      "state": "GA",
+      "zip": "30529",
+      "restaurant_phone": "706-336-5852"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "1970 Highway 138",
+      "city": "Conyers",
+      "state": "GA",
+      "zip": "30013",
+      "restaurant_phone": "678-413-4997"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "1525 East 8th Avenue",
+      "city": "Cordele",
+      "state": "GA",
+      "zip": "31015",
+      "restaurant_phone": "229-276-1280"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Mm Hospitality Group, Llc",
+      "raw_address": "491 Historic Highway 441",
+      "city": "Cornelia",
+      "state": "GA",
+      "zip": "30531",
+      "restaurant_phone": "706-776-9222"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Contentment Foods, Llc",
+      "raw_address": "5156 Highway 278",
+      "city": "Covington",
+      "state": "GA",
+      "zip": "30014",
+      "restaurant_phone": "678-625-7102"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Phoenix, Llc",
+      "raw_address": "3285 Keith Bridge Road",
+      "city": "Cumming",
+      "state": "GA",
+      "zip": "30040",
+      "restaurant_phone": "770-889-7920"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "625 Dacula Highway",
+      "city": "Dacula",
+      "state": "GA",
+      "zip": "30019",
+      "restaurant_phone": "770-338-8423"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Phoenix, Llc",
+      "raw_address": "884 College Drive",
+      "city": "Dalton",
+      "state": "GA",
+      "zip": "30720",
+      "restaurant_phone": "706-529-6695"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken, Llc",
+      "raw_address": "1253 Cleveland Hwy",
+      "city": "Dalton",
+      "state": "GA",
+      "zip": "30721",
+      "restaurant_phone": "706-226-7975"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Phoenix, Llc",
+      "raw_address": "25 Main Street",
+      "city": "Dawsonville",
+      "state": "GA",
+      "zip": "30534",
+      "restaurant_phone": "706-265-0091"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Phoenix, Llc",
+      "raw_address": "326 South 400 Center Lane",
+      "city": "Dawsonville",
+      "state": "GA",
+      "zip": "30534",
+      "restaurant_phone": "678-845-6011"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "5884 Buford Highway",
+      "city": "Doraville",
+      "state": "GA",
+      "zip": "30340",
+      "restaurant_phone": "770-458-6399"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "2157 Highway 120",
+      "city": "Duluth",
+      "state": "GA",
+      "zip": "30096",
+      "restaurant_phone": "770-622-0164"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "231 Elbert Street",
+      "city": "Elberton",
+      "state": "GA",
+      "zip": "30635",
+      "restaurant_phone": "706-522-2998"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "301 Highland Crossing",
+      "city": "Ellijay",
+      "state": "GA",
+      "zip": "30540",
+      "restaurant_phone": "828-684-1884"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Threeone At, Llc",
+      "raw_address": "4544 Washington Road",
+      "city": "Evans",
+      "state": "GA",
+      "zip": "30809",
+      "restaurant_phone": "706-855-7570"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "7900 Senoia Road",
+      "city": "Fairburn",
+      "state": "GA",
+      "zip": "30213",
+      "restaurant_phone": "770-964-3220"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "810 South Glynn Street",
+      "city": "Fayetteville",
+      "state": "GA",
+      "zip": "30214",
+      "restaurant_phone": "770-461-0638"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "2121 Friendship Road",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "zip": "30542",
+      "restaurant_phone": "770-965-6486"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Phoenix, Llc",
+      "raw_address": "2051 Battlefield Parkway",
+      "city": "Fort Oglethorpe",
+      "state": "GA",
+      "zip": "30742",
+      "restaurant_phone": "706-866-1001"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "828 West Taylor Street",
+      "city": "Griffin",
+      "state": "GA",
+      "zip": "30223",
+      "restaurant_phone": "678-572-4897"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "5105 Wrightsboro Road",
+      "city": "Grovetown",
+      "state": "GA",
+      "zip": "30813",
+      "restaurant_phone": "706-910-0907"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "208 E Franklin Street",
+      "city": "Hartwell",
+      "state": "GA",
+      "zip": "30643",
+      "restaurant_phone": "706-395-2311"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "387 South Main Street",
+      "city": "Hiawassee",
+      "state": "GA",
+      "zip": "30546",
+      "restaurant_phone": "706-970-2235"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "130 Carter Street",
+      "city": "Hinesville",
+      "state": "GA",
+      "zip": "31313",
+      "restaurant_phone": "912-332-7304"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken, Llc",
+      "raw_address": "2017 Lake Road",
+      "city": "Hiram",
+      "state": "GA",
+      "zip": "30141",
+      "restaurant_phone": "770-222-5409"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1811 Highway 53 West",
+      "city": "Jasper",
+      "state": "GA",
+      "zip": "30143",
+      "restaurant_phone": "706-253-2442"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "4836 Highway 129N",
+      "city": "Jefferson",
+      "state": "GA",
+      "zip": "30549",
+      "restaurant_phone": "706-367-4300"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Trickum Ops, Llc",
+      "raw_address": "4071 Cherokee Street",
+      "city": "Kennesaw",
+      "state": "GA",
+      "zip": "30144",
+      "restaurant_phone": "678-401-6168"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Phoenix, Llc",
+      "raw_address": "2445 North Hwy 27",
+      "city": "Lafayette",
+      "state": "GA",
+      "zip": "30728",
+      "restaurant_phone": "706-638-0197"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Mm Hospitality Group, Llc",
+      "raw_address": "13870 Jones Street",
+      "city": "Lavonia",
+      "state": "GA",
+      "zip": "30553",
+      "restaurant_phone": "706-356-7371"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "1065 Old Peachtree Road NW",
+      "city": "Lawrenceville",
+      "state": "GA",
+      "zip": "30043",
+      "restaurant_phone": "678-376-7342"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Trickum Ops, Llc",
+      "raw_address": "885 Thornton Road",
+      "city": "Lithia Springs",
+      "state": "GA",
+      "zip": "30122",
+      "restaurant_phone": "770-745-9090"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Atlantic Food Company, Llc",
+      "raw_address": "2695 Panola Road",
+      "city": "Lithonia",
+      "state": "GA",
+      "zip": "30058",
+      "restaurant_phone": "770-322-0065"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Atlantic Food Company, Llc",
+      "raw_address": "3150 Turner Hill Road",
+      "city": "Lithonia",
+      "state": "GA",
+      "zip": "30038",
+      "restaurant_phone": "770-484-4434"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "5035 Bill Gardner Parkway",
+      "city": "Locust Grove",
+      "state": "GA",
+      "zip": "30248",
+      "restaurant_phone": "770-957-5421"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "4092 Atlanta Highway",
+      "city": "Loganville",
+      "state": "GA",
+      "zip": "30052",
+      "restaurant_phone": "678-639-0017"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "1840 Eatonton Road",
+      "city": "Madison",
+      "state": "GA",
+      "zip": "30650",
+      "restaurant_phone": "706-438-1327"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "2745 Powder Springs Road SW",
+      "city": "Marietta",
+      "state": "GA",
+      "zip": "30064",
+      "restaurant_phone": "770-943-5990"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Trickum Ops, Llc",
+      "raw_address": "681 Cobb Parkway North",
+      "city": "Marietta",
+      "state": "GA",
+      "zip": "30062",
+      "restaurant_phone": "770-422-6222"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Trickum Ops, Llc",
+      "raw_address": "1183 Franklin Gateway",
+      "city": "Marietta",
+      "state": "GA",
+      "zip": "30067",
+      "restaurant_phone": "678-540-3387"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Threeone Corporations, Llc",
+      "raw_address": "3852 Washington Road",
+      "city": "Martinez",
+      "state": "GA",
+      "zip": "30907",
+      "restaurant_phone": "706-860-8756"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Threeone Corporations, Llc",
+      "raw_address": "343 South Belair Road",
+      "city": "Martinez",
+      "state": "GA",
+      "zip": "30907",
+      "restaurant_phone": "706-504-4560"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "1390 Jonesboro Road",
+      "city": "Mcdonough",
+      "state": "GA",
+      "zip": "30253",
+      "restaurant_phone": "770-914-9490"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "5969 East Lake Parkway",
+      "city": "Mcdonough",
+      "state": "GA",
+      "zip": "30253",
+      "restaurant_phone": "678-432-8838"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "1858 North Columbia Street",
+      "city": "Milledgeville",
+      "state": "GA",
+      "zip": "31061",
+      "restaurant_phone": "478-295-2320"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "1104 North Broad Street",
+      "city": "Monroe",
+      "state": "GA",
+      "zip": "30656",
+      "restaurant_phone": "678-635-3355"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Trickum Ops, Llc",
+      "raw_address": "7340 Jonesboro Road",
+      "city": "Morrow",
+      "state": "GA",
+      "zip": "30260",
+      "restaurant_phone": "770-629-6848"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "R & R Chicken Corporation",
+      "raw_address": "911 1st Avenue",
+      "city": "Moultrie",
+      "state": "GA",
+      "zip": "31768",
+      "restaurant_phone": "229-985-0166"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "2800 Highway 34 East",
+      "city": "Newnan",
+      "state": "GA",
+      "zip": "30265",
+      "restaurant_phone": "678-633-6200"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "9135 Roosevelt Highway",
+      "city": "Palmetto",
+      "state": "GA",
+      "zip": "30268",
+      "restaurant_phone": "770-463-3883"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "1021 East Highway 80",
+      "city": "Pooler",
+      "state": "GA",
+      "zip": "31322",
+      "restaurant_phone": "912-226-2553"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "7111 Highway 21",
+      "city": "Port Wentworth",
+      "state": "GA",
+      "zip": "31407",
+      "restaurant_phone": "912-226-2550"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken, Llc",
+      "raw_address": "5861 Alabama Highway",
+      "city": "Ringgold",
+      "state": "GA",
+      "zip": "30736",
+      "restaurant_phone": "706-937-3350"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "6922 GA Highway 85",
+      "city": "Riverdale",
+      "state": "GA",
+      "zip": "30274",
+      "restaurant_phone": "770-907-3572"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken, Llc",
+      "raw_address": "999 Nathan Dean Parkway",
+      "city": "Rockmart",
+      "state": "GA",
+      "zip": "30153",
+      "restaurant_phone": "678-757-1156"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Chkb, Llc",
+      "raw_address": "708 Martha Berry Boulevard",
+      "city": "Rome",
+      "state": "GA",
+      "zip": "30161",
+      "restaurant_phone": "706-295-2442"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Chkb, Llc",
+      "raw_address": "1507 Turner McCall Parkway",
+      "city": "Rome",
+      "state": "GA",
+      "zip": "30161",
+      "restaurant_phone": "706-235-2442"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Chkb, Llc",
+      "raw_address": "1383 Redmond Circle",
+      "city": "Rome",
+      "state": "GA",
+      "zip": "30165",
+      "restaurant_phone": "706-236-9545"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Northwest Georgia Foods, Inc.",
+      "raw_address": "2915 Martha Berry",
+      "city": "Rome",
+      "state": "GA",
+      "zip": "30161",
+      "restaurant_phone": "706-238-9111"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "4401 Ogeechee Road",
+      "city": "Savannah",
+      "state": "GA",
+      "zip": "31405",
+      "restaurant_phone": "912-777-5468"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Chicken City Bo'S, Llc",
+      "raw_address": "5220 South Cobb Drive",
+      "city": "Smyrna",
+      "state": "GA",
+      "zip": "30080",
+      "restaurant_phone": "470-407-7108"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "3868 Stone Mountain Hwy",
+      "city": "Snellville",
+      "state": "GA",
+      "zip": "30039",
+      "restaurant_phone": "770-972-0841"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "1665 Hudson Bridge Road",
+      "city": "Stockbridge",
+      "state": "GA",
+      "zip": "30281",
+      "restaurant_phone": "678-782-7439"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken, Llc",
+      "raw_address": "11277 Highway 27",
+      "city": "Summerville",
+      "state": "GA",
+      "zip": "30747",
+      "restaurant_phone": "706-808-0191"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "102 West Perennial Drive",
+      "city": "Temple",
+      "state": "GA",
+      "zip": "30179",
+      "restaurant_phone": "770-562-0274"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1826 Washington Road",
+      "city": "Thomson",
+      "state": "GA",
+      "zip": "30824",
+      "restaurant_phone": "706-597-0990"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo Tifton Enterprises, Inc.",
+      "raw_address": "303 South Magnolia Street",
+      "city": "Tifton",
+      "state": "GA",
+      "zip": "31793",
+      "restaurant_phone": "229-382-9041"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1628 South Big A Road",
+      "city": "Toccoa",
+      "state": "GA",
+      "zip": "30577",
+      "restaurant_phone": "706-282-0033"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "3336 Lawrenceville Highway",
+      "city": "Tucker",
+      "state": "GA",
+      "zip": "30084",
+      "restaurant_phone": "770-934-5455"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo Sunlight Enterprises, Inc.",
+      "raw_address": "3661 Inner Perimeter Road",
+      "city": "Valdosta",
+      "state": "GA",
+      "zip": "31602",
+      "restaurant_phone": "229-249-7985"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo Sunlight Enterprises, Inc.",
+      "raw_address": "1725 West Hill Avenue",
+      "city": "Valdosta",
+      "state": "GA",
+      "zip": "31601",
+      "restaurant_phone": "229-242-4202"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "2315 Old Clyattville Road",
+      "city": "Valdosta",
+      "state": "GA",
+      "zip": "31601",
+      "restaurant_phone": "229-588-7706"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "750 Highway 61",
+      "city": "Villa Rica",
+      "state": "GA",
+      "zip": "30180",
+      "restaurant_phone": "770-459-5624"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "495 Booth Road",
+      "city": "Warner Robbins",
+      "state": "GA",
+      "zip": "31088",
+      "restaurant_phone": "478-225-2337"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "820 Highway 96",
+      "city": "Warner Robbins",
+      "state": "GA",
+      "zip": "31088",
+      "restaurant_phone": "478-313-3337"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "4010 Watson Boulevard",
+      "city": "Warner Robbins",
+      "state": "GA",
+      "zip": "31093",
+      "restaurant_phone": "478-333-3932"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "300 Virginia Parkway",
+      "city": "Waynesboro",
+      "state": "GA",
+      "zip": "30830",
+      "restaurant_phone": "706-526-4440"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "268 North Broad Street",
+      "city": "Winder",
+      "state": "GA",
+      "zip": "30680",
+      "restaurant_phone": "678-963-0876"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Trickum Ops, Llc",
+      "raw_address": "12100 Highway 92",
+      "city": "Woodstock",
+      "state": "GA",
+      "zip": "30188",
+      "restaurant_phone": "770-516-7507"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "2072 Eagle Drive",
+      "city": "Woodstock",
+      "state": "GA",
+      "zip": "30189",
+      "restaurant_phone": "770-485-5404"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "1900 The Hill Avenue",
+      "city": "Marion",
+      "state": "IL",
+      "zip": "62959",
+      "restaurant_phone": "618-944-6412"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "3101 S 10th St",
+      "city": "Mt. Vernon",
+      "state": "IL",
+      "zip": "62864",
+      "restaurant_phone": "618-731-7038"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "2007 N Main St",
+      "city": "Normal",
+      "state": "IL",
+      "zip": "61761",
+      "restaurant_phone": "405-208-2449"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "919 South Main St",
+      "city": "Franklin",
+      "state": "KY",
+      "zip": "42134",
+      "restaurant_phone": "270-306-6108"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "126 Lexington Dr",
+      "city": "Duson",
+      "state": "LA",
+      "zip": "70578",
+      "restaurant_phone": "337-873-7880"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "K & M Yardbird, Llc",
+      "raw_address": "2401 Louisville Ave",
+      "city": "Monroe",
+      "state": "LA",
+      "zip": "71201",
+      "restaurant_phone": "318-737-7199"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "K & M Yardbird, Llc",
+      "raw_address": "2202 Farmerville Hwy",
+      "city": "Ruston",
+      "state": "LA",
+      "zip": "71270",
+      "restaurant_phone": "318-202-5100"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "K & M Yardbird, Llc",
+      "raw_address": "402 Thomas Rd",
+      "city": "West Monroe",
+      "state": "LA",
+      "zip": "71292",
+      "restaurant_phone": "318-737-7683"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Integritas Llc",
+      "raw_address": "1312 W Patrick St",
+      "city": "Frederick",
+      "state": "MD",
+      "zip": "21703",
+      "restaurant_phone": "240-575-9305"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bfcb Restaurants, Llc",
+      "raw_address": "7433 S Siwell Road",
+      "city": "Byram",
+      "state": "MS",
+      "zip": "39272",
+      "restaurant_phone": "601-414-9400"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bfcb Restaurants, Llc",
+      "raw_address": "405 W Pineview Dr",
+      "city": "Flowood",
+      "state": "MS",
+      "zip": "39332",
+      "restaurant_phone": "601-321-9385"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Munch Box Llc",
+      "raw_address": "965 Goodman Road",
+      "city": "Horn Lake",
+      "state": "MS",
+      "zip": "38637",
+      "restaurant_phone": "662-510-8483"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "20 Highway 607",
+      "city": "Picayune",
+      "state": "MS",
+      "zip": "39466",
+      "restaurant_phone": "769-717-5068"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "1203 North Academy Street",
+      "city": "Ahoskie",
+      "state": "NC",
+      "zip": "27910",
+      "restaurant_phone": "252-332-3488"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "1209 Laura Village Drive",
+      "city": "Apex",
+      "state": "NC",
+      "zip": "27523",
+      "restaurant_phone": "919-362-1416"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "1581 East Williams Street",
+      "city": "Apex",
+      "state": "NC",
+      "zip": "27539",
+      "restaurant_phone": "919-362-6796"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "320 Airport Road",
+      "city": "Arden",
+      "state": "NC",
+      "zip": "28704",
+      "restaurant_phone": "828-681-0004"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "241 Long Shoals Road",
+      "city": "Arden",
+      "state": "NC",
+      "zip": "28704",
+      "restaurant_phone": "828-585-2248"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "974 Patton Avenue",
+      "city": "Asheville",
+      "state": "NC",
+      "zip": "28806",
+      "restaurant_phone": "828-253-7858"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "654 Hendersonville Highway",
+      "city": "Asheville",
+      "state": "NC",
+      "zip": "28803",
+      "restaurant_phone": "828-274-4735"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "270 Smokey Park Highway",
+      "city": "Asheville",
+      "state": "NC",
+      "zip": "28806",
+      "restaurant_phone": "828-633-6619"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1360 Tunnel Road",
+      "city": "Asheville",
+      "state": "NC",
+      "zip": "28805",
+      "restaurant_phone": "828-298-6001"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "916 West Fort Macon Road",
+      "city": "Atlantic Beach",
+      "state": "NC",
+      "zip": "28512",
+      "restaurant_phone": "252-240-3818"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "112 Highway NC 102 West",
+      "city": "Ayden",
+      "state": "NC",
+      "zip": "28513",
+      "restaurant_phone": "252-746-1225"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Star Enterprises, Inc.",
+      "raw_address": "276 Beatty Road",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "restaurant_phone": "704-820-8018"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "12355 NC Highway 210",
+      "city": "Benson",
+      "state": "NC",
+      "zip": "27504",
+      "restaurant_phone": "919-209-0322"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "426 North Jackson Street",
+      "city": "Beulaville",
+      "state": "NC",
+      "zip": "28518",
+      "restaurant_phone": "910-298-3175"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Star Enterprises, Inc.",
+      "raw_address": "211 North Main Street",
+      "city": "Boiling Springs",
+      "state": "NC",
+      "zip": "28017",
+      "restaurant_phone": "704-434-7444"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "196 Asheville Highway",
+      "city": "Brevard",
+      "state": "NC",
+      "zip": "28712",
+      "restaurant_phone": "828-884-4165"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "65 Veterans Boulevard",
+      "city": "Bryson City",
+      "state": "NC",
+      "zip": "28713",
+      "restaurant_phone": "828-488-0861"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "606 West US Hwy 19E Bypass",
+      "city": "Burnsville",
+      "state": "NC",
+      "zip": "28714",
+      "restaurant_phone": "828-536-2061"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "1400 NC 24/87",
+      "city": "Cameron",
+      "state": "NC",
+      "zip": "28326",
+      "restaurant_phone": "910-436-6400"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1507 Smokey Park Highway",
+      "city": "Candler",
+      "state": "NC",
+      "zip": "28715",
+      "restaurant_phone": "828-670-6829"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "734 Champion Drive",
+      "city": "Canton",
+      "state": "NC",
+      "zip": "28716",
+      "restaurant_phone": "828-648-7040"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "840 East Chatham Street",
+      "city": "Cary",
+      "state": "NC",
+      "zip": "27511",
+      "restaurant_phone": "919-467-7030"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "3025 Winston Hill Drive",
+      "city": "Cary",
+      "state": "NC",
+      "zip": "27513",
+      "restaurant_phone": "919-460-9224"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "5856 Tryon Road",
+      "city": "Cary",
+      "state": "NC",
+      "zip": "27518",
+      "restaurant_phone": "919-424-7922"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "3900 Hwy 55",
+      "city": "Cary",
+      "state": "NC",
+      "zip": "27518",
+      "restaurant_phone": "919-234-1118"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "1194 Cedar Point Highway",
+      "city": "Cedar Point",
+      "state": "NC",
+      "zip": "28584",
+      "restaurant_phone": "252-764-2456"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Aramark Food And Support Services Group, Inc.",
+      "raw_address": "209 South Road",
+      "city": "Chapel Hill",
+      "state": "NC",
+      "zip": "27599",
+      "restaurant_phone": "919-260-6693"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Star Enterprises, Inc.",
+      "raw_address": "231 E. Woodlawn",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28210",
+      "restaurant_phone": "704-523-3678"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Star Enterprises, Inc.",
+      "raw_address": "2929 Freedom Drive",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28208",
+      "restaurant_phone": "704-394-3655"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Star Enterprises, Inc.",
+      "raw_address": "7047 South Boulevard",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28217",
+      "restaurant_phone": "704-552-9233"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Star Enterprises, Inc.",
+      "raw_address": "2501 North Tryon Street",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28206",
+      "restaurant_phone": "704-332-2022"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "F.D.Y., Inc.",
+      "raw_address": "5501 Josh Birmingham Parkway",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28208",
+      "restaurant_phone": "704-359-1106"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Charlotte Regional Visitors Authority",
+      "raw_address": "501 South College Street",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28202",
+      "restaurant_phone": "704-651-8422"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Star Enterprises, Inc.",
+      "raw_address": "3301 Wilkinson Boulevard",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28208",
+      "restaurant_phone": "704-395-9447"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Star Enterprises, Inc.",
+      "raw_address": "4131 Statesville Avenue",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28269",
+      "restaurant_phone": "704-597-6147"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Compass Group, Usa, Inc.",
+      "raw_address": "901 University City Boulevard",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28223",
+      "restaurant_phone": "704-687-0692"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Levy Premium Foodservice Limited Partnership",
+      "raw_address": "800 S Mint St.",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28202",
+      "restaurant_phone": "404-376-1684"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Levy Premium Foodservice Limited Partnership",
+      "raw_address": "5555 Concord Pkwy S.",
+      "city": "Concord",
+      "state": "NC",
+      "zip": "28027",
+      "restaurant_phone": "404-376-1684"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Compass Group Usa, Inc.",
+      "raw_address": "9201 University City Blvd.",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28223",
+      "restaurant_phone": "704-572-6296"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Charlotte Regional Visitors Authority",
+      "raw_address": "2700 E Independence Blvd.",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28205",
+      "restaurant_phone": "704-335-3115"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Ganesh Properties, Inc.",
+      "raw_address": "1020 East 1st Street",
+      "city": "Cherryville",
+      "state": "NC",
+      "zip": "28021",
+      "restaurant_phone": "704-445-0999"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "668 Bragaw Lane",
+      "city": "Chocowinity",
+      "state": "NC",
+      "zip": "27871",
+      "restaurant_phone": "252-946-0266"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "11900 US Highway 70 West",
+      "city": "Clayton",
+      "state": "NC",
+      "zip": "27520",
+      "restaurant_phone": "919-550-4175"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "1404 Sunset Boulevard",
+      "city": "Clinton",
+      "state": "NC",
+      "zip": "28328",
+      "restaurant_phone": "910-592-6100"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "84 West Mills Street",
+      "city": "Columbus",
+      "state": "NC",
+      "zip": "28722",
+      "restaurant_phone": "828-351-3170"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Star Enterprises, Inc.",
+      "raw_address": "7701 Gateway Lane NW",
+      "city": "Concord",
+      "state": "NC",
+      "zip": "28027",
+      "restaurant_phone": "704-979-5347"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "1567 NC Highway 56",
+      "city": "Creedmoor",
+      "state": "NC",
+      "zip": "27522",
+      "restaurant_phone": "919-528-1579"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "901 East Cumberland Street",
+      "city": "Dunn",
+      "state": "NC",
+      "zip": "28834",
+      "restaurant_phone": "910-892-0675"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "4831 North Carolina Highway 55",
+      "city": "Durham",
+      "state": "NC",
+      "zip": "27713",
+      "restaurant_phone": "919-544-7887"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "4521 Roxboro Road North",
+      "city": "Durham",
+      "state": "NC",
+      "zip": "27704",
+      "restaurant_phone": "919-471-0581"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "3558 Hillsborough Road",
+      "city": "Durham",
+      "state": "NC",
+      "zip": "27705",
+      "restaurant_phone": "919-383-6797"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "4600 Garrett Road",
+      "city": "Durham",
+      "state": "NC",
+      "zip": "27707",
+      "restaurant_phone": "919-489-5942"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "1712 South Miami Boulevard",
+      "city": "Durham",
+      "state": "NC",
+      "zip": "27703",
+      "restaurant_phone": "919-596-4330"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "2801 Guess Road",
+      "city": "Durham",
+      "state": "NC",
+      "zip": "27705",
+      "restaurant_phone": "919-477-2362"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "5425 South Miami Boulevard",
+      "city": "Durham",
+      "state": "NC",
+      "zip": "27703",
+      "restaurant_phone": "919-941-5620"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "176 Stratford Lake Drive",
+      "city": "Durham",
+      "state": "NC",
+      "zip": "27713",
+      "restaurant_phone": "919-237-2678"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "A&D Of Greensborough, Inc.",
+      "raw_address": "631 South Van Buren Road",
+      "city": "Eden",
+      "state": "NC",
+      "zip": "27288",
+      "restaurant_phone": "336-623-6404"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "807 West Ehringhaus Road",
+      "city": "Elizabeth City",
+      "state": "NC",
+      "zip": "27909",
+      "restaurant_phone": "252-333-1096"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "3411 Cooperative Way",
+      "city": "Farmville",
+      "state": "NC",
+      "zip": "27828",
+      "restaurant_phone": "252-753-0004"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "700 Upward Road",
+      "city": "Flat Rock",
+      "state": "NC",
+      "zip": "28731",
+      "restaurant_phone": "828-696-9126"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "127 Sparks Crossing",
+      "city": "Forest City",
+      "state": "NC",
+      "zip": "28043",
+      "restaurant_phone": "828-827-0032"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "60 Hunnicut Lane",
+      "city": "Franklin",
+      "state": "NC",
+      "zip": "28734",
+      "restaurant_phone": "864-590-7800"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "1400 Main Street",
+      "city": "Fuquay Varina",
+      "state": "NC",
+      "zip": "27526",
+      "restaurant_phone": "919-557-0749"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "5497 Highway 42 West",
+      "city": "Garner",
+      "state": "NC",
+      "zip": "27529",
+      "restaurant_phone": "919-773-9116"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "3920 Jones Sausage Road",
+      "city": "Garner",
+      "state": "NC",
+      "zip": "27529",
+      "restaurant_phone": "919-662-1621"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "1025 Spence Avenue",
+      "city": "Goldsboro",
+      "state": "NC",
+      "zip": "27530",
+      "restaurant_phone": "252-751-0538"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "2447 US Highway 117 South",
+      "city": "Goldsboro",
+      "state": "NC",
+      "zip": "27530",
+      "restaurant_phone": "252-580-0840"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "233 NC 111 South",
+      "city": "Goldsboro",
+      "state": "NC",
+      "zip": "27534",
+      "restaurant_phone": "919-778-5751"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "811 West Grantham Street",
+      "city": "Goldsboro",
+      "state": "NC",
+      "zip": "27530",
+      "restaurant_phone": "919-583-9808"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "3423 Wayne Memorial Drive",
+      "city": "Goldsboro",
+      "state": "NC",
+      "zip": "27534",
+      "restaurant_phone": "919-947-1760"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "10765 NC 55 Highway East",
+      "city": "Grantsboro",
+      "state": "NC",
+      "zip": "28529",
+      "restaurant_phone": "252-745-2027"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Compass Group Usa, Inc.",
+      "raw_address": "1501 Spring Garden Street",
+      "city": "Greensboro",
+      "state": "NC",
+      "zip": "27412",
+      "restaurant_phone": "336-256-0145"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "1632 Farmville Blvd.",
+      "city": "Greenville",
+      "state": "NC",
+      "zip": "27834",
+      "restaurant_phone": "252-757-3456"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "3701 Memorial Drive",
+      "city": "Greenville",
+      "state": "NC",
+      "zip": "27834",
+      "restaurant_phone": "252-756-0426"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "3210 East 10th Street",
+      "city": "Greenville",
+      "state": "NC",
+      "zip": "27834",
+      "restaurant_phone": "252-758-6517"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "2001 Arlington Boulevard",
+      "city": "Greenville",
+      "state": "NC",
+      "zip": "27834",
+      "restaurant_phone": "252-353-1388"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "321 Greenville Boulevard, SE",
+      "city": "Greenville",
+      "state": "NC",
+      "zip": "27858",
+      "restaurant_phone": "252-756-1784"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "3775 Martin Luther King Jr. Highway",
+      "city": "Greenville",
+      "state": "NC",
+      "zip": "27834",
+      "restaurant_phone": "252-413-0478"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "1001 East Main Street, Highway 70",
+      "city": "Havelock",
+      "state": "NC",
+      "zip": "28532",
+      "restaurant_phone": "252-447-3344"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "1518 Dabney Drive",
+      "city": "Henderson",
+      "state": "NC",
+      "zip": "27536",
+      "restaurant_phone": "252-438-8446"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "1425 East Andrew Avenue",
+      "city": "Henderson",
+      "state": "NC",
+      "zip": "27536",
+      "restaurant_phone": "252-438-7529"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1901 Four Seasons Boulevard",
+      "city": "Hendersonville",
+      "state": "NC",
+      "zip": "28792",
+      "restaurant_phone": "828-692-4514"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "5697 Asheville Highway",
+      "city": "Hendersonville",
+      "state": "NC",
+      "zip": "28791",
+      "restaurant_phone": "828-654-0441"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "330 South Churton Street",
+      "city": "Hillsborough",
+      "state": "NC",
+      "zip": "27278",
+      "restaurant_phone": "919-245-3720"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "840 NC Highway 210",
+      "city": "Holly Ridge",
+      "state": "NC",
+      "zip": "28445",
+      "restaurant_phone": "910-741-8333"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "151 Collins Crossing Road",
+      "city": "Holly Springs",
+      "state": "NC",
+      "zip": "27540",
+      "restaurant_phone": "919-285-2023"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "4197 Freedom Way",
+      "city": "Hubert",
+      "state": "NC",
+      "zip": "28539",
+      "restaurant_phone": "252-208-2856"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cajun Foods Of America, Inc.",
+      "raw_address": "2800 Hickory Boulevard",
+      "city": "Hudson",
+      "state": "NC",
+      "zip": "28638",
+      "restaurant_phone": "828-728-3414"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "2149 Lejeune Boulevard",
+      "city": "Jacksonville",
+      "state": "NC",
+      "zip": "28540",
+      "restaurant_phone": "910-353-4697"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "620 North Marine Boulevard",
+      "city": "Jacksonville",
+      "state": "NC",
+      "zip": "28540",
+      "restaurant_phone": "910-346-3012"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "6973 Western Boulevard Ext.",
+      "city": "Jacksonville",
+      "state": "NC",
+      "zip": "28540",
+      "restaurant_phone": "910-938-9610"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "1693 Halltown Road",
+      "city": "Jacksonville",
+      "state": "NC",
+      "zip": "28546",
+      "restaurant_phone": "910-346-7514"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "931 US Highway 70 East",
+      "city": "James City",
+      "state": "NC",
+      "zip": "28560",
+      "restaurant_phone": "252-633-6212"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Huffbo L.L.C.",
+      "raw_address": "158 Northview Drive",
+      "city": "Jefferson",
+      "state": "NC",
+      "zip": "28640",
+      "restaurant_phone": "336-846-3293"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Huffbo L.L.C.",
+      "raw_address": "1652 NC Highway 67",
+      "city": "Jonesville",
+      "state": "NC",
+      "zip": "28642",
+      "restaurant_phone": "336-835-2991"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "400 West Vernon Avenue",
+      "city": "Kinston",
+      "state": "NC",
+      "zip": "28501",
+      "restaurant_phone": "252-523-1783"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "1028 West New Bern Road",
+      "city": "Kinston",
+      "state": "NC",
+      "zip": "28501",
+      "restaurant_phone": "252-527-1664"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "3007 North Heritage Street",
+      "city": "Kinston",
+      "state": "NC",
+      "zip": "28501",
+      "restaurant_phone": "252-559-2014"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "7525 Knightdale Boulevard",
+      "city": "Knightdale",
+      "state": "NC",
+      "zip": "27545",
+      "restaurant_phone": "919-266-2768"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "7858 US Highway 70 West",
+      "city": "Lagrange",
+      "state": "NC",
+      "zip": "28551",
+      "restaurant_phone": "252-566-3425"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Randolph Restaurant Group, Inc.",
+      "raw_address": "94 Highway 64 West",
+      "city": "Lexington",
+      "state": "NC",
+      "zip": "27292",
+      "restaurant_phone": "336-300-7573"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "1536 North Main Street",
+      "city": "Lillington",
+      "state": "NC",
+      "zip": "27546",
+      "restaurant_phone": "910-814-3700"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "12 Golden Leaf Drive",
+      "city": "Louisburg",
+      "state": "NC",
+      "zip": "27549",
+      "restaurant_phone": "919-496-6879"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1525 North Main Street",
+      "city": "Marion",
+      "state": "NC",
+      "zip": "28752",
+      "restaurant_phone": "828-659-9079"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "2569 Sugar Hill Road",
+      "city": "Marion",
+      "state": "NC",
+      "zip": "28752",
+      "restaurant_phone": "828-559-2684"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "434 Carl Eller Road",
+      "city": "Mars Hill",
+      "state": "NC",
+      "zip": "28754",
+      "restaurant_phone": "828-680-1012"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "6820 NC 135",
+      "city": "Mayodan",
+      "state": "NC",
+      "zip": "27027",
+      "restaurant_phone": "336-427-3097"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cajun Country, Inc.",
+      "raw_address": "3009 North NC Highway 16",
+      "city": "Millers Creek",
+      "state": "NC",
+      "zip": "28651",
+      "restaurant_phone": "336-838-4203"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "3575 Boylston Highway",
+      "city": "Mills River",
+      "state": "NC",
+      "zip": "28759",
+      "restaurant_phone": "828-891-6300"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cajun Foods Of America, Inc.",
+      "raw_address": "1468 Yadkinville Road",
+      "city": "Mocksville",
+      "state": "NC",
+      "zip": "27028",
+      "restaurant_phone": "336-751-1192"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "4229 Arendell Street",
+      "city": "Morehead City",
+      "state": "NC",
+      "zip": "28557",
+      "restaurant_phone": "252-247-0020"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "1000 Claren Circle",
+      "city": "Morrisville",
+      "state": "NC",
+      "zip": "27560",
+      "restaurant_phone": "919-460-7171"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1563 Andrews Road",
+      "city": "Murphy",
+      "state": "NC",
+      "zip": "28906",
+      "restaurant_phone": "828-516-2105"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "101 West Nashville Drive",
+      "city": "Nashville",
+      "state": "NC",
+      "zip": "27856",
+      "restaurant_phone": "252-459-5600"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "1238 South Glenburnie Road",
+      "city": "New Bern",
+      "state": "NC",
+      "zip": "28560",
+      "restaurant_phone": "252-633-1507"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "3770 Martin Luther King Jr",
+      "city": "New Bern",
+      "state": "NC",
+      "zip": "28562",
+      "restaurant_phone": "252-514-6610"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "205 Cranberry Street",
+      "city": "Newland",
+      "state": "NC",
+      "zip": "28657",
+      "restaurant_phone": "828-469-7026"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "7085 Highway 70 East",
+      "city": "Newport",
+      "state": "NC",
+      "zip": "28570",
+      "restaurant_phone": "252-223-3592"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Huffbo, L.L.C.",
+      "raw_address": "1704 2nd Street",
+      "city": "North Wilkesboro",
+      "state": "NC",
+      "zip": "28659",
+      "restaurant_phone": "336-838-9004"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Randolph Restaurant Group, Inc.",
+      "raw_address": "411 North Main Street",
+      "city": "Norwood",
+      "state": "NC",
+      "zip": "28128",
+      "restaurant_phone": "704-474-0495"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "1019 Lewis Street",
+      "city": "Oxford",
+      "state": "NC",
+      "zip": "27565",
+      "restaurant_phone": "919-603-0173"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Randolph Restaurant Group, Inc.",
+      "raw_address": "40 Russett Run",
+      "city": "Pittsboro",
+      "state": "NC",
+      "zip": "27312",
+      "restaurant_phone": "919-542-0067"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "601 US Highway 64 East",
+      "city": "Plymouth",
+      "state": "NC",
+      "zip": "27962",
+      "restaurant_phone": "252-793-3618"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "502 North Pearl Street",
+      "city": "Princeton",
+      "state": "NC",
+      "zip": "27569",
+      "restaurant_phone": "919-936-0385"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "4405 Falls of the Neuse Road",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27609",
+      "restaurant_phone": "919-876-7363"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "1013 New Bern Avenue",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27601",
+      "restaurant_phone": "919-821-3735"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "3301 South Wilmington Street",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27603",
+      "restaurant_phone": "919-772-4512"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "3808 Western Boulevard",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27606",
+      "restaurant_phone": "919-664-8613"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "5409 Capital Boulevard",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27616",
+      "restaurant_phone": "919-872-5820"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "2620 Atlantic Avenue",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27604",
+      "restaurant_phone": "919-546-9701"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "10610 Durant Road",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27614",
+      "restaurant_phone": "919-870-8002"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "4621 New Bern Avenue",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27610",
+      "restaurant_phone": "919-231-9028"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "8680 Glenwood Avenue",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27617",
+      "restaurant_phone": "919-277-0600"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "9919 Fayetteville Street",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27603",
+      "restaurant_phone": "919-557-6843"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "1541 Sunday Drive",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27607",
+      "restaurant_phone": "919-322-2637"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Randolph Restaurant Group, Inc.",
+      "raw_address": "983 High Point Street",
+      "city": "Randleman",
+      "state": "NC",
+      "zip": "27317",
+      "restaurant_phone": "336-495-8199"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "A&D Of Greensborough, Inc.",
+      "raw_address": "1633 Freeway Drive",
+      "city": "Reidsville",
+      "state": "NC",
+      "zip": "27320",
+      "restaurant_phone": "336-634-0227"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "A&D Of Greensborough, Inc.",
+      "raw_address": "2006 Barnes Street",
+      "city": "Reidsville",
+      "state": "NC",
+      "zip": "27320",
+      "restaurant_phone": "336-342-2888"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "8510 Richlands Highway",
+      "city": "Richland",
+      "state": "NC",
+      "zip": "28574",
+      "restaurant_phone": "910-430-0322"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "800 North Main Street",
+      "city": "Robersonville",
+      "state": "NC",
+      "zip": "27871",
+      "restaurant_phone": "252-795-2946"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "590 North Wesleyan Boulevard",
+      "city": "Rocky Mount",
+      "state": "NC",
+      "zip": "27804",
+      "restaurant_phone": "252-451-1990"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "908 English Road",
+      "city": "Rocky Mount",
+      "state": "NC",
+      "zip": "27804",
+      "restaurant_phone": "252-443-7402"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "1834 East Raleigh Street",
+      "city": "Rocky Mount",
+      "state": "NC",
+      "zip": "27801",
+      "restaurant_phone": "252-212-5150"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "900 South Main Street",
+      "city": "Rolesville",
+      "state": "NC",
+      "zip": "27571",
+      "restaurant_phone": "919-453-6243"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "505 Madison Boulevard",
+      "city": "Roxboro",
+      "state": "NC",
+      "zip": "27573",
+      "restaurant_phone": "919-597-9957"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "2257 Shore Road",
+      "city": "Rural Hall",
+      "state": "NC",
+      "zip": "27405",
+      "restaurant_phone": "704-527-2675"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Randolph Restaurant Group, Inc.",
+      "raw_address": "975 Peeler Road",
+      "city": "Salisbury",
+      "state": "NC",
+      "zip": "28147",
+      "restaurant_phone": "704-680-9017"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "773 South Horner Boulevard",
+      "city": "Sanford",
+      "state": "NC",
+      "zip": "27330",
+      "restaurant_phone": "919-776-7613"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "149 Market Street",
+      "city": "Sanford",
+      "state": "NC",
+      "zip": "27332",
+      "restaurant_phone": "919-776-5168"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "275 US Highway 70 East",
+      "city": "Selma",
+      "state": "NC",
+      "zip": "27576",
+      "restaurant_phone": "919-965-6890"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "356 Whiteville Road NW",
+      "city": "Shallotte",
+      "state": "NC",
+      "zip": "28470",
+      "restaurant_phone": "910-755-5501"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Randolph Restaurant Group, Inc.",
+      "raw_address": "14629 Highway 64 West",
+      "city": "Siler City",
+      "state": "NC",
+      "zip": "27344",
+      "restaurant_phone": "919-663-4387"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "1035 Kingold Boulevard",
+      "city": "Snow Hill",
+      "state": "NC",
+      "zip": "28580",
+      "restaurant_phone": "252-747-4355"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "1050 South NC 581",
+      "city": "Spring Hope",
+      "state": "NC",
+      "zip": "27882",
+      "restaurant_phone": "252-303-0003"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "11 Ocean Highway East",
+      "city": "Supply",
+      "state": "NC",
+      "zip": "28462",
+      "restaurant_phone": "910-755-5577"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "64 Walmart Plaza",
+      "city": "Sylva",
+      "state": "NC",
+      "zip": "28779",
+      "restaurant_phone": "828-586-6529"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "101 Market Centre Drive",
+      "city": "Tarboro",
+      "state": "NC",
+      "zip": "27886",
+      "restaurant_phone": "252-823-3450"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Randolph Restaurant Group, Inc.",
+      "raw_address": "422 Albemarle Road",
+      "city": "Troy",
+      "state": "NC",
+      "zip": "27371",
+      "restaurant_phone": "910-572-8160"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "380 NC Highway 43",
+      "city": "Vanceboro",
+      "state": "NC",
+      "zip": "28586",
+      "restaurant_phone": "252-244-0269"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "12109 Cloverleaf Drive",
+      "city": "Wake Forest",
+      "state": "NC",
+      "zip": "27587",
+      "restaurant_phone": "919-554-2243"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "1425 Brogden Woods Drive",
+      "city": "Wake Forest",
+      "state": "NC",
+      "zip": "27587",
+      "restaurant_phone": "919-846-6564"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "110 Vines Landing",
+      "city": "Wallace",
+      "state": "NC",
+      "zip": "28466",
+      "restaurant_phone": "910-285-0401"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "5150 Highway 89 East",
+      "city": "Walnut Cove",
+      "state": "NC",
+      "zip": "27052",
+      "restaurant_phone": "336-591-1060"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "2714 NC 24 West",
+      "city": "Warsaw",
+      "state": "NC",
+      "zip": "28398",
+      "restaurant_phone": "910-293-3414"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "1305 Carolina Avenue",
+      "city": "Washington",
+      "state": "NC",
+      "zip": "27889",
+      "restaurant_phone": "252-975-6067"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1119 Delwood Road",
+      "city": "Waynesville",
+      "state": "NC",
+      "zip": "28786",
+      "restaurant_phone": "828-454-5584"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1850 South Main Street",
+      "city": "Waynesville",
+      "state": "NC",
+      "zip": "28786",
+      "restaurant_phone": "828-246-6060"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "164 Weaver Road",
+      "city": "Weaverville",
+      "state": "NC",
+      "zip": "28787",
+      "restaurant_phone": "828-645-7662"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "2236 Wendell Falls Pwky",
+      "city": "Wendell",
+      "state": "NC",
+      "zip": "27591",
+      "restaurant_phone": "919-366-6598"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "401 East Boulevard",
+      "city": "Williamston",
+      "state": "NC",
+      "zip": "27892",
+      "restaurant_phone": "252-792-7444"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "5033 Raleigh Road Parkway West",
+      "city": "Wilson",
+      "state": "NC",
+      "zip": "27893",
+      "restaurant_phone": "252-237-0026"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "3734 Nash Street North",
+      "city": "Wilson",
+      "state": "NC",
+      "zip": "27896",
+      "restaurant_phone": "252-234-8099"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc",
+      "raw_address": "1800 Tarboro Road",
+      "city": "Wilson",
+      "state": "NC",
+      "zip": "27893",
+      "restaurant_phone": "252-360-4776"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "100 Carson Alley",
+      "city": "Windsor",
+      "state": "NC",
+      "zip": "27983",
+      "restaurant_phone": "252-794-2191"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Proof Of The Pudding",
+      "raw_address": "1834 Wake Forest Rd.",
+      "city": "Winston-Salem",
+      "state": "NC",
+      "zip": "27109",
+      "restaurant_phone": "919-937-7252"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "127 Weaverville Road",
+      "city": "Woodfin",
+      "state": "NC",
+      "zip": "28804",
+      "restaurant_phone": "828-412-4119"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Huffbo, L.L.C.",
+      "raw_address": "624 South State Street",
+      "city": "Yadkinville",
+      "state": "NC",
+      "zip": "27055",
+      "restaurant_phone": "336-677-3755"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "A&D Of Greensborough, Inc.",
+      "raw_address": "1955 NC Highway 86 North",
+      "city": "Yanceyville",
+      "state": "NC",
+      "zip": "27379",
+      "restaurant_phone": "336-694-1230"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "1513 North Arendell Avenue",
+      "city": "Zebulon",
+      "state": "NC",
+      "zip": "27597",
+      "restaurant_phone": "919-404-2272"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Magg Family Holdings, Llc",
+      "raw_address": "4551 Everhard Rd NW",
+      "city": "Canton",
+      "state": "OH",
+      "zip": "44718",
+      "restaurant_phone": "234-209-9257"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "831 Hilliard Rome Road",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43228",
+      "restaurant_phone": "380-203-0326"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "853 S 30th Street",
+      "city": "Heath",
+      "state": "OH",
+      "zip": "43056",
+      "restaurant_phone": "740-281-2810"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Murga Llc",
+      "raw_address": "85 South West End Boulevard",
+      "city": "Quakertown",
+      "state": "PA",
+      "zip": "18951",
+      "restaurant_phone": "267-227-3070"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Emmer, Inc.",
+      "raw_address": "3215 North 5th Street",
+      "city": "Reading",
+      "state": "PA",
+      "zip": "19605",
+      "restaurant_phone": "610-929-8033"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "813 West Greenwood St.",
+      "city": "Abbeville",
+      "state": "SC",
+      "zip": "29620",
+      "restaurant_phone": "864-302-8301"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "123 Simple Savings Drive",
+      "city": "Aiken",
+      "state": "SC",
+      "zip": "29801",
+      "restaurant_phone": "803-226-0857"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "2644 Columbia Highway",
+      "city": "Aiken",
+      "state": "SC",
+      "zip": "29805",
+      "restaurant_phone": "803-594-3900"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1362 Whiskey Road Southeast",
+      "city": "Aiken",
+      "state": "SC",
+      "zip": "29803",
+      "restaurant_phone": "803-594-3700"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "2041 East Greenville Street",
+      "city": "Anderson",
+      "state": "SC",
+      "zip": "29621",
+      "restaurant_phone": "864-226-3899"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "4131 Clemson Boulevard",
+      "city": "Anderson",
+      "state": "SC",
+      "zip": "29621",
+      "restaurant_phone": "864-226-1795"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "656 Highway 28 Bypass",
+      "city": "Anderson",
+      "state": "SC",
+      "zip": "29626",
+      "restaurant_phone": "864-332-0433"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "4397 Highway 24",
+      "city": "Anderson",
+      "state": "SC",
+      "zip": "29629",
+      "restaurant_phone": "864-642-0600"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "100 Hugh Street",
+      "city": "Augusta",
+      "state": "SC",
+      "zip": "29841",
+      "restaurant_phone": "803-594-3701"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "2780 Highway 501",
+      "city": "Aynor",
+      "state": "SC",
+      "zip": "29511",
+      "restaurant_phone": "843-358-3060"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "109 Robert Smalls Parkway",
+      "city": "Beaufort",
+      "state": "SC",
+      "zip": "29906",
+      "restaurant_phone": "843-379-3002"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Campbo",
+      "raw_address": "1114 Cottingham Boulevard North",
+      "city": "Bennettsville",
+      "state": "SC",
+      "zip": "29512",
+      "restaurant_phone": "843-479-1500"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "4011 Highway 9",
+      "city": "Boiling Springs",
+      "state": "SC",
+      "zip": "29316",
+      "restaurant_phone": "864-814-2280"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Frazier Service Company, Llc",
+      "raw_address": "60 East Dekalb Street",
+      "city": "Camden",
+      "state": "SC",
+      "zip": "29020",
+      "restaurant_phone": "803-713-9130"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Campbo",
+      "raw_address": "881 Chesterfield Highway",
+      "city": "Cheraw",
+      "state": "SC",
+      "zip": "29520",
+      "restaurant_phone": "843-537-1636"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo-Ventures, Llc",
+      "raw_address": "1759 J.A. Cochran Bypass",
+      "city": "Chester",
+      "state": "SC",
+      "zip": "29706",
+      "restaurant_phone": "803-581-8120"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Campbo",
+      "raw_address": "1202 West Boulevard",
+      "city": "Chesterfield",
+      "state": "SC",
+      "zip": "29709",
+      "restaurant_phone": "843-623-5999"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "102 Canoy Lane",
+      "city": "Clemson",
+      "state": "SC",
+      "zip": "29631",
+      "restaurant_phone": "864-654-8135"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "310 Springfield Drive",
+      "city": "Clinton",
+      "state": "SC",
+      "zip": "29325",
+      "restaurant_phone": "864-938-1082"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "18985 Highway 72",
+      "city": "Clinton",
+      "state": "SC",
+      "zip": "29325",
+      "restaurant_phone": "864-420-0650"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo-Ventures, Llc",
+      "raw_address": "959 Bethel Street",
+      "city": "Clover",
+      "state": "SC",
+      "zip": "29710",
+      "restaurant_phone": "803-222-6282"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo Benton, Llc",
+      "raw_address": "1617 Church Street",
+      "city": "Conway",
+      "state": "SC",
+      "zip": "29527",
+      "restaurant_phone": "843-248-5481"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo Benton, Llc",
+      "raw_address": "1766 Highway 544",
+      "city": "Conway",
+      "state": "SC",
+      "zip": "29526",
+      "restaurant_phone": "843-349-7000"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "1524 South Main Street",
+      "city": "Darlington",
+      "state": "SC",
+      "zip": "29532",
+      "restaurant_phone": "843-393-3500"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "405 North Second Avenue",
+      "city": "Dillon",
+      "state": "SC",
+      "zip": "29536",
+      "restaurant_phone": "843-841-1614"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Chix And Bix, Llc",
+      "raw_address": "1605 East Main Street",
+      "city": "Duncan",
+      "state": "SC",
+      "zip": "29334",
+      "restaurant_phone": "864-249-3871"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "605 Calhoun Memorial Highway",
+      "city": "Easley",
+      "state": "SC",
+      "zip": "29640",
+      "restaurant_phone": "864-859-7545"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "703 Augusta Road",
+      "city": "Edgefield",
+      "state": "SC",
+      "zip": "29824",
+      "restaurant_phone": "803-336-2320"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "1224 Celebration Boulevard",
+      "city": "Florence",
+      "state": "SC",
+      "zip": "29501",
+      "restaurant_phone": "843-676-1091"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "4025 East Palmetto Street",
+      "city": "Florence",
+      "state": "SC",
+      "zip": "29506",
+      "restaurant_phone": "843-667-9996"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "777 Second Loop Road",
+      "city": "Florence",
+      "state": "SC",
+      "zip": "29505",
+      "restaurant_phone": "843-676-0222"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo-Ventures, Llc",
+      "raw_address": "314 S Sutton Rd.",
+      "city": "Fort Mill",
+      "state": "SC",
+      "zip": "29708",
+      "restaurant_phone": "803-802-1715"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "200 McCarter Road",
+      "city": "Fountain Inn",
+      "state": "SC",
+      "zip": "29644",
+      "restaurant_phone": "864-862-8788"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1705 Floyd Baker",
+      "city": "Gaffney",
+      "state": "SC",
+      "zip": "29341",
+      "restaurant_phone": "864-488-0094"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "940 Hyatt Street",
+      "city": "Gaffney",
+      "state": "SC",
+      "zip": "29341",
+      "restaurant_phone": "864-488-4337"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo Benton, Llc",
+      "raw_address": "1305 North Fraser Street",
+      "city": "Georgetown",
+      "state": "SC",
+      "zip": "29440",
+      "restaurant_phone": "843-436-4646"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "546 Bettis Academy Road",
+      "city": "Graniteville",
+      "state": "SC",
+      "zip": "29829",
+      "restaurant_phone": "803-845-2020"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1107 West Faris Rd",
+      "city": "Greenville",
+      "state": "SC",
+      "zip": "29605",
+      "restaurant_phone": "864-220-0560"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "2419 Laurens Road",
+      "city": "Greenville",
+      "state": "SC",
+      "zip": "29607",
+      "restaurant_phone": "864-234-1067"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "7830 White Horse Road",
+      "city": "Greenville",
+      "state": "SC",
+      "zip": "29611",
+      "restaurant_phone": "864-246-5757"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Chix And Bix, Llc",
+      "raw_address": "2545 Pleasantburg Drive",
+      "city": "Greenville",
+      "state": "SC",
+      "zip": "29609",
+      "restaurant_phone": "864-271-0335"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1127 Bypass Ave",
+      "city": "Greenwood",
+      "state": "SC",
+      "zip": "29649",
+      "restaurant_phone": "864 227-1941"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "573 Bypass 72 N West",
+      "city": "Greenwood",
+      "state": "SC",
+      "zip": "29649",
+      "restaurant_phone": "864 943-4388"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "112 West Wade Hampton Blvd",
+      "city": "Greer",
+      "state": "SC",
+      "zip": "29650",
+      "restaurant_phone": "864 877-4677"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Chix And Bix, Llc",
+      "raw_address": "900 South Buncombe Road",
+      "city": "Greer",
+      "state": "SC",
+      "zip": "29650",
+      "restaurant_phone": "864-968-8108"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Chix And Bix, Llc",
+      "raw_address": "1487 Highway 101 South",
+      "city": "Greer",
+      "state": "SC",
+      "zip": "29651",
+      "restaurant_phone": "864-877-1172"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "1125 South 4th Street",
+      "city": "Hartsville",
+      "state": "SC",
+      "zip": "29550",
+      "restaurant_phone": "843-339-9097"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "11304 Asheville Road",
+      "city": "Inman",
+      "state": "SC",
+      "zip": "29349",
+      "restaurant_phone": "864-473-1130"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Campbo",
+      "raw_address": "516 Hampton Street",
+      "city": "Kershaw",
+      "state": "SC",
+      "zip": "29067",
+      "restaurant_phone": "803-475-7000"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "700 US Highway 52",
+      "city": "Lake City",
+      "state": "SC",
+      "zip": "29560",
+      "restaurant_phone": "843-374-1088"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1792 Highway 14 East",
+      "city": "Landrum",
+      "state": "SC",
+      "zip": "29356",
+      "restaurant_phone": "864-457-2207"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "304 Hillcrest Drive",
+      "city": "Laurens",
+      "state": "SC",
+      "zip": "29360",
+      "restaurant_phone": "864-983-1096"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "7239 Moorefield Memorial Highway",
+      "city": "Liberty",
+      "state": "SC",
+      "zip": "29657",
+      "restaurant_phone": "864-372-6669"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo Benton, Llc",
+      "raw_address": "91 Highway 57",
+      "city": "Little River",
+      "state": "SC",
+      "zip": "29566",
+      "restaurant_phone": "843-399-2860"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "4207 Main Street",
+      "city": "Loris",
+      "state": "SC",
+      "zip": "29569",
+      "restaurant_phone": "843-716-2700"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Frazier Service Company",
+      "raw_address": "497 Highway 601 South",
+      "city": "Lugoff",
+      "state": "SC",
+      "zip": "29078",
+      "restaurant_phone": "803-408-6718"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Chix And Bix, Llc",
+      "raw_address": "12227 Greenville Highway",
+      "city": "Lyman",
+      "state": "SC",
+      "zip": "29365",
+      "restaurant_phone": "864-439-1364"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "2517 East Highway 76",
+      "city": "Marion",
+      "state": "SC",
+      "zip": "29571",
+      "restaurant_phone": "843-289-5132"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "801 East Butler Road",
+      "city": "Mauldin",
+      "state": "SC",
+      "zip": "29662",
+      "restaurant_phone": "864-288-0839"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo Benton, Llc",
+      "raw_address": "12005 Highway 707",
+      "city": "Murrell'S Inlet",
+      "state": "SC",
+      "zip": "29576",
+      "restaurant_phone": "843-357-0707"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo Benton, Llc",
+      "raw_address": "3710 Renee Drive",
+      "city": "Myrtle Beach",
+      "state": "SC",
+      "zip": "29579",
+      "restaurant_phone": "843-903-7000"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo Benton, Llc",
+      "raw_address": "104 Loyola Drive",
+      "city": "Myrtle Beach",
+      "state": "SC",
+      "zip": "29588",
+      "restaurant_phone": "843-650-8880"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo Benton, Llc",
+      "raw_address": "10594 Kings Road",
+      "city": "Myrtle Beach",
+      "state": "SC",
+      "zip": "29572",
+      "restaurant_phone": "843-449-9493"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo Benton, Llc",
+      "raw_address": "1957 10th Avenue",
+      "city": "Myrtle Beach",
+      "state": "SC",
+      "zip": "29577",
+      "restaurant_phone": "843-839-8880"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo Benton, Llc",
+      "raw_address": "589 International Drive",
+      "city": "Myrtle Beach",
+      "state": "SC",
+      "zip": "29579",
+      "restaurant_phone": "843-903-2896"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo Benton, Llc",
+      "raw_address": "8215 North Kings Highway",
+      "city": "Myrtle Beach",
+      "state": "SC",
+      "zip": "29572",
+      "restaurant_phone": "843-839-0693"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1010 Edgefield Road",
+      "city": "North Augusta",
+      "state": "SC",
+      "zip": "29860",
+      "restaurant_phone": "803-599-7638"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Drive-In Usa, Llc",
+      "raw_address": "2941 W. Montaque Avenue",
+      "city": "North Charleston",
+      "state": "SC",
+      "zip": "29418",
+      "restaurant_phone": "843-554-7422"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo Benton, Llc",
+      "raw_address": "1594 Highway 17 North",
+      "city": "North Myrtle Beach",
+      "state": "SC",
+      "zip": "29582",
+      "restaurant_phone": "843-663-1658"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Calhoun Oil Company, Inc.",
+      "raw_address": "110 Chestnut Street",
+      "city": "Orangeburg",
+      "state": "SC",
+      "zip": "29115",
+      "restaurant_phone": "803-516-9002"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Campbo",
+      "raw_address": "608 East McGregor",
+      "city": "Pageland",
+      "state": "SC",
+      "zip": "29728",
+      "restaurant_phone": "843-672-7500"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "7610 Highway 76",
+      "city": "Pendleton",
+      "state": "SC",
+      "zip": "29670",
+      "restaurant_phone": "864-646-4680"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "605 Ann Street",
+      "city": "Pickens",
+      "state": "SC",
+      "zip": "29671",
+      "restaurant_phone": "864-878-4311"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "7475 Augusta Road",
+      "city": "Piedmont",
+      "state": "SC",
+      "zip": "29673",
+      "restaurant_phone": "864-299-8656"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "2095 South Carolina Hwy 86",
+      "city": "Piedmont",
+      "state": "SC",
+      "zip": "29673",
+      "restaurant_phone": "864-845-7494"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Drive-In Usa, Llc",
+      "raw_address": "6270 Savannah Highway",
+      "city": "Ravenel",
+      "state": "SC",
+      "zip": "29470",
+      "restaurant_phone": "843-564-2212"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo-Ventures, Llc",
+      "raw_address": "3229 Lancaster Highway",
+      "city": "Richburg",
+      "state": "SC",
+      "zip": "29729",
+      "restaurant_phone": "803-789-5573"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "6163 Hwy 221",
+      "city": "Roebuck",
+      "state": "SC",
+      "zip": "29376",
+      "restaurant_phone": "864-574-9563"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "300 North Main Street",
+      "city": "Saluda",
+      "state": "SC",
+      "zip": "29138",
+      "restaurant_phone": "864-803-8203"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Calhoun Oil Company, Inc.",
+      "raw_address": "9044 Old St. Matthews Road",
+      "city": "Santee",
+      "state": "SC",
+      "zip": "29142",
+      "restaurant_phone": "803-854-0285"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1011 Highway 123 By-Pass",
+      "city": "Seneca",
+      "state": "SC",
+      "zip": "29678",
+      "restaurant_phone": "864-888-4032"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "10900 Clemson Highway",
+      "city": "Seneca",
+      "state": "SC",
+      "zip": "29678",
+      "restaurant_phone": "864-973-7398"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "615 N.E. Main Street",
+      "city": "Simpsonville",
+      "state": "SC",
+      "zip": "29681",
+      "restaurant_phone": "864-967-9457"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "208 Harrison Bridge Road",
+      "city": "Simpsonville",
+      "state": "SC",
+      "zip": "29680",
+      "restaurant_phone": "864-962-0414"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1800 Ashville Hwy",
+      "city": "Spartanburg",
+      "state": "SC",
+      "zip": "29303",
+      "restaurant_phone": "864-582-3915"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "102 Dorman Center Drive",
+      "city": "Spartanburg",
+      "state": "SC",
+      "zip": "29301",
+      "restaurant_phone": "864-595-8392"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1793 East Main Street",
+      "city": "Spartanburg",
+      "state": "SC",
+      "zip": "29307",
+      "restaurant_phone": "864-582-3178"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1485 Boiling Springs Road",
+      "city": "Spartanburg",
+      "state": "SC",
+      "zip": "29303",
+      "restaurant_phone": "864-342-7980"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "2095 Southport Road",
+      "city": "Spartanburg",
+      "state": "SC",
+      "zip": "29306",
+      "restaurant_phone": "864-208-1711"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "2290 Chesnee Highway",
+      "city": "Spartanburg",
+      "state": "SC",
+      "zip": "29303",
+      "restaurant_phone": "864-597-0196"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "330 John Dodd Road",
+      "city": "Spartanburg",
+      "state": "SC",
+      "zip": "29316",
+      "restaurant_phone": "864-342-7020"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Chix And Bix, Llc",
+      "raw_address": "3031 Wade Hampton Boulevard",
+      "city": "Taylors",
+      "state": "SC",
+      "zip": "29687",
+      "restaurant_phone": "864-603-3645"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "135 South End Circle",
+      "city": "Travelers Rest",
+      "state": "SC",
+      "zip": "29690",
+      "restaurant_phone": "864-834-1830"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo-Ventures, Llc",
+      "raw_address": "534 Rice Avenue",
+      "city": "Union",
+      "state": "SC",
+      "zip": "29379",
+      "restaurant_phone": "864-427-4046"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "3701 Blue Ridge Boulevard",
+      "city": "Walhalla",
+      "state": "SC",
+      "zip": "29691",
+      "restaurant_phone": "864-916-4371"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Drive-In Usa, Llc",
+      "raw_address": "2514 Clements Ferry Road",
+      "city": "Wando",
+      "state": "SC",
+      "zip": "29492",
+      "restaurant_phone": "843-849-7857"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "617 W Main St",
+      "city": "Williamston",
+      "state": "SC",
+      "zip": "29697",
+      "restaurant_phone": "864-786-0755"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Wbcc, Llc",
+      "raw_address": "725 Hwy 321",
+      "city": "Winnsboro",
+      "state": "SC",
+      "zip": "29180",
+      "restaurant_phone": "803-815-0710"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "710 North Main Street",
+      "city": "Woodruff",
+      "state": "SC",
+      "zip": "29388",
+      "restaurant_phone": "864-670-2149"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo-Ventures, Llc",
+      "raw_address": "946 East Liberty Street",
+      "city": "York",
+      "state": "SC",
+      "zip": "29745",
+      "restaurant_phone": "803-684-0074"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Bo'S Hospitality Group, Llc",
+      "raw_address": "1888 South Congress Parkway",
+      "city": "Athens",
+      "state": "TN",
+      "zip": "37303",
+      "restaurant_phone": "423-744-5292"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Trigg Enterprises, Llc",
+      "raw_address": "1030 Volunteer Parkway",
+      "city": "Bristol",
+      "state": "TN",
+      "zip": "37620",
+      "restaurant_phone": "423-968-7600"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken, Llc",
+      "raw_address": "7987 E Brainerd Road",
+      "city": "Chattanooga",
+      "state": "TN",
+      "zip": "37421",
+      "restaurant_phone": "423-531-0062"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Chicken, Llc",
+      "raw_address": "9375 Dayton Pike",
+      "city": "Soddy Daisy",
+      "state": "TN",
+      "zip": "37379",
+      "restaurant_phone": "423-332-2661"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "1920 West Emory Road",
+      "city": "Powell",
+      "state": "TN",
+      "zip": "37849",
+      "restaurant_phone": "865-859-9247"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Phoenix, Llc",
+      "raw_address": "2023 Dayton Blvd",
+      "city": "Red Bank",
+      "state": "TN",
+      "zip": "37415",
+      "restaurant_phone": "423-760-3470"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "4314 TN Highway 66",
+      "city": "Rogersville",
+      "state": "TN",
+      "zip": "37857",
+      "restaurant_phone": "423-293-3733"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "11561 Chapman Highway",
+      "city": "Seymour",
+      "state": "TN",
+      "zip": "37865",
+      "restaurant_phone": "865-286-4227"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Kick'N Chicken, Llc",
+      "raw_address": "4879 Port Royal Road",
+      "city": "Spring Hill",
+      "state": "TN",
+      "zip": "37174",
+      "restaurant_phone": "931-451-7660"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "2804 Memorial Boulevard",
+      "city": "Springfield",
+      "state": "TN",
+      "zip": "37172",
+      "restaurant_phone": "615 380-1380"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Foodster Fusion, Llc",
+      "raw_address": "12016 I-35",
+      "city": "Lorena",
+      "state": "TX",
+      "zip": "76655",
+      "restaurant_phone": "254-655-5001"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "First Biscuit Enterprises, Llc",
+      "raw_address": "3010 E. Farm to Market 544",
+      "city": "Wylie",
+      "state": "TX",
+      "zip": "75098",
+      "restaurant_phone": "469-304-0416"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "11635 Lakeridge Parkway",
+      "city": "Ashland",
+      "state": "VA",
+      "zip": "23005",
+      "restaurant_phone": "804-368-0872"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "4921 Richmond-Tappahannock Hwy",
+      "city": "Aylett",
+      "state": "VA",
+      "zip": "23009",
+      "restaurant_phone": "804-769-2534"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "5740 Virginia Avenue",
+      "city": "Bassett Forks",
+      "state": "VA",
+      "zip": "24055",
+      "restaurant_phone": "276-627-8610"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Randolph Restaurant Group, Inc.",
+      "raw_address": "2211 South Main Street",
+      "city": "Blacksburg",
+      "state": "VA",
+      "zip": "24060",
+      "restaurant_phone": "540-953-0702"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "9265 US Highway 29",
+      "city": "Blairs",
+      "state": "VA",
+      "zip": "24527",
+      "restaurant_phone": "434-836-3500"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Trigg Enterprises, Llc",
+      "raw_address": "1020 Old Airport Road",
+      "city": "Bristol",
+      "state": "VA",
+      "zip": "24201",
+      "restaurant_phone": "540-466-2996"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Pw Foods, Llc",
+      "raw_address": "13549 Carrollton Boulevard",
+      "city": "Carollton",
+      "state": "VA",
+      "zip": "23314",
+      "restaurant_phone": "757-238-8188"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Wilgo Bo, Llc",
+      "raw_address": "2009 Abbey Road",
+      "city": "Charlottesville",
+      "state": "VA",
+      "zip": "22911",
+      "restaurant_phone": "434-293-1190"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Wilgo Bo, Llc",
+      "raw_address": "3370 Seminole Trail",
+      "city": "Charlottesville",
+      "state": "VA",
+      "zip": "22911",
+      "restaurant_phone": "434-284-5862"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Naka Opco, Llc",
+      "raw_address": "3464 S Military Hwy",
+      "city": "Chesapeake",
+      "state": "VA",
+      "zip": "23323",
+      "restaurant_phone": "757-966-1588"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "9841 Chester Road",
+      "city": "Chester",
+      "state": "VA",
+      "zip": "23831",
+      "restaurant_phone": "804-748-7700"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "12121 Bermuda Crossroad Lane",
+      "city": "Chester",
+      "state": "VA",
+      "zip": "23831",
+      "restaurant_phone": "804-748-5044"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Randolph Restaurant Group, Inc.",
+      "raw_address": "2195 N Franklin St.",
+      "city": "Christiansburg",
+      "state": "VA",
+      "zip": "24073",
+      "restaurant_phone": "540-449-5743"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Robo, Llc",
+      "raw_address": "5 Kingston Drive",
+      "city": "Daleville",
+      "state": "VA",
+      "zip": "24083",
+      "restaurant_phone": "540-966-1440"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "106 Sandy Court",
+      "city": "Danville",
+      "state": "VA",
+      "zip": "24541",
+      "restaurant_phone": "434-797-4071"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Young Bo, Llc",
+      "raw_address": "4396 Cleburne Boulevard",
+      "city": "Dublin",
+      "state": "VA",
+      "zip": "24084",
+      "restaurant_phone": "540-674-6794"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Pw Foods, Llc",
+      "raw_address": "931 West Atlantic Street",
+      "city": "Emporia",
+      "state": "VA",
+      "zip": "23847",
+      "restaurant_phone": "434-336-1118"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Pw Foods, Llc",
+      "raw_address": "1501 South Main Street",
+      "city": "Farmville",
+      "state": "VA",
+      "zip": "23901",
+      "restaurant_phone": "434-392-3063"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "14797 Forest Road",
+      "city": "Forest",
+      "state": "VA",
+      "zip": "24551",
+      "restaurant_phone": "434-616-2271"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Pw Foods, Llc",
+      "raw_address": "2307 South Street",
+      "city": "Franklin",
+      "state": "VA",
+      "zip": "23851",
+      "restaurant_phone": "757-304-5114"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Robo, Llc",
+      "raw_address": "20 Bojangles' Way",
+      "city": "Fredericksburg",
+      "state": "VA",
+      "zip": "22406",
+      "restaurant_phone": "540-479-6055"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Robo, Llc",
+      "raw_address": "9815 Hospital Boulevard",
+      "city": "Fredericksburg",
+      "state": "VA",
+      "zip": "22408",
+      "restaurant_phone": "540-376-7158"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Huffbo, Llc",
+      "raw_address": "965 East Stuart Drive",
+      "city": "Galax",
+      "state": "VA",
+      "zip": "24333",
+      "restaurant_phone": "276-238-0400"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Pw Foods, Llc",
+      "raw_address": "1015 West Mercury Boulevard",
+      "city": "Hampton",
+      "state": "VA",
+      "zip": "23666",
+      "restaurant_phone": "757-224-7533"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Pw Foods, Llc",
+      "raw_address": "3351 Commander Shepard Blvd",
+      "city": "Hampton",
+      "state": "VA",
+      "zip": "23666",
+      "restaurant_phone": "757-325-8256"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Wilgo Bo, Llc",
+      "raw_address": "1880 Port Republic Road",
+      "city": "Harrisonburg",
+      "state": "VA",
+      "zip": "22801",
+      "restaurant_phone": "540-208-7945"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "3519 Oaklawn Boulevard",
+      "city": "Hopewell",
+      "state": "VA",
+      "zip": "23860",
+      "restaurant_phone": "804-452-4443"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Gobo, Inc.",
+      "raw_address": "7819 Timberlake Road",
+      "city": "Lynchburg",
+      "state": "VA",
+      "zip": "24502",
+      "restaurant_phone": "434-485-7016"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Gobo2, Inc.",
+      "raw_address": "3280 Old Forest Road",
+      "city": "Lynchburg",
+      "state": "VA",
+      "zip": "24501",
+      "restaurant_phone": "434-316-5359"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "A&D Of Greensborough, Inc.",
+      "raw_address": "1515 Virginia Avenue",
+      "city": "Martinsville",
+      "state": "VA",
+      "zip": "24112",
+      "restaurant_phone": "276-632-5830"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "9330 Atlee Road",
+      "city": "Mechanicsville",
+      "state": "VA",
+      "zip": "23116",
+      "restaurant_phone": "804-730-1166"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "10845 Hull Street Road",
+      "city": "Midlothian",
+      "state": "VA",
+      "zip": "23112",
+      "restaurant_phone": "804-716-1776"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Arrington Enterprises, Inc.",
+      "raw_address": "49 Lakewatch Center Drive",
+      "city": "Moneta",
+      "state": "VA",
+      "zip": "24121",
+      "restaurant_phone": "540-719-2248"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Pw Foods, Llc",
+      "raw_address": "12441 Warwick Boulevard",
+      "city": "Newport News",
+      "state": "VA",
+      "zip": "23606",
+      "restaurant_phone": "757-806-6655"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Naka Opco, Llc",
+      "raw_address": "7519 Tidewater Drive",
+      "city": "Norfolk",
+      "state": "VA",
+      "zip": "23505",
+      "restaurant_phone": "757-588-3773"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "2600 Bensley Commons Boulevard",
+      "city": "North Chesterfield",
+      "state": "VA",
+      "zip": "23237",
+      "restaurant_phone": "804-271-0107"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Pw Foods, Llc",
+      "raw_address": "26206 Lankford Highway",
+      "city": "Onley",
+      "state": "VA",
+      "zip": "23418",
+      "restaurant_phone": "757-789-3300"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "3475 South Crater Road",
+      "city": "Petersburg",
+      "state": "VA",
+      "zip": "23805",
+      "restaurant_phone": "804-732-4443"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Naka Opco, Llc",
+      "raw_address": "3927 Victory Boulevard",
+      "city": "Portsmouth",
+      "state": "VA",
+      "zip": "23701",
+      "restaurant_phone": "757-488-2373"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "1850 Stavemill Crossing Lane",
+      "city": "Powhatan",
+      "state": "VA",
+      "zip": "23139",
+      "restaurant_phone": "804-794-1298"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "2390 Pocahontas Trail",
+      "city": "Quinton",
+      "state": "VA",
+      "zip": "23141",
+      "restaurant_phone": "804-932-4206"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Randolph Restaurant Group, Inc.",
+      "raw_address": "7455 Lee Highway",
+      "city": "Radford",
+      "state": "VA",
+      "zip": "24141",
+      "restaurant_phone": "540-639-0753"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "11 South Laburnum Avenue",
+      "city": "Richmond",
+      "state": "VA",
+      "zip": "23223",
+      "restaurant_phone": "804-222-0883"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "8823 Staples Mill Road",
+      "city": "Richmond",
+      "state": "VA",
+      "zip": "23228",
+      "restaurant_phone": "804-447-3611"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "7413 Midlothian Turnpike",
+      "city": "Richmond",
+      "state": "VA",
+      "zip": "23225",
+      "restaurant_phone": "804-525-4878"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "5441 South Laburnum Avenue",
+      "city": "Richmond",
+      "state": "VA",
+      "zip": "23231",
+      "restaurant_phone": "804-269-3934"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "5207 Brook Road",
+      "city": "Richmond",
+      "state": "VA",
+      "zip": "23227",
+      "restaurant_phone": "252-522-0191"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "A & D Of Greensborough, Inc.",
+      "raw_address": "3860 Greensboro Road",
+      "city": "Ridgeway",
+      "state": "VA",
+      "zip": "24112",
+      "restaurant_phone": "276-632-1530"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Robo, Llc",
+      "raw_address": "4510 Brambleton Avenue",
+      "city": "Roanoke",
+      "state": "VA",
+      "zip": "24018",
+      "restaurant_phone": "540-265-7524"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Robo, Llc",
+      "raw_address": "6065 Peters Creek Road",
+      "city": "Roanoke",
+      "state": "VA",
+      "zip": "24019",
+      "restaurant_phone": "540-204-4292"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Robo, Llc",
+      "raw_address": "4440 Franklin Road",
+      "city": "Roanoke",
+      "state": "VA",
+      "zip": "24014",
+      "restaurant_phone": "540-206-2711"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Arrington Enterprises, Inc.",
+      "raw_address": "20430 Virgil H. Goode",
+      "city": "Rocky Mount",
+      "state": "VA",
+      "zip": "24151",
+      "restaurant_phone": "540-334-2679"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Arrington Enterprises, Inc.",
+      "raw_address": "30 Marketplace Drive",
+      "city": "Rocky Mount",
+      "state": "VA",
+      "zip": "24151",
+      "restaurant_phone": "540-483-7697"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "1755 Callahan Road",
+      "city": "Rustburg",
+      "state": "VA",
+      "zip": "24588",
+      "restaurant_phone": "434-821-3344"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Robo, Llc",
+      "raw_address": "1590 West Main Street",
+      "city": "Salem",
+      "state": "VA",
+      "zip": "24153",
+      "restaurant_phone": "276-745-8161"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Pw Foods, Llc",
+      "raw_address": "784 Moores Ferry Rd.",
+      "city": "Skippers",
+      "state": "VA",
+      "zip": "23879",
+      "restaurant_phone": "434-348-1036"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "2190 Philpott Road",
+      "city": "South Boston",
+      "state": "VA",
+      "zip": "24592",
+      "restaurant_phone": "434-575-7992"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "3605 Old Halifax Road",
+      "city": "South Boston",
+      "state": "VA",
+      "zip": "24592",
+      "restaurant_phone": "434-517-0100"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "1105 East Atlantic Street",
+      "city": "South Hill",
+      "state": "VA",
+      "zip": "23970",
+      "restaurant_phone": "804-447-6910"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Wilgo Bo, Llc",
+      "raw_address": "105 George Cochran Parkway",
+      "city": "Staunton",
+      "state": "VA",
+      "zip": "24401",
+      "restaurant_phone": "540-885-0260"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Mid Atlantic Chicken & Biscuits, Llc",
+      "raw_address": "46160 Potomac Run Plaza",
+      "city": "Sterling",
+      "state": "VA",
+      "zip": "20164",
+      "restaurant_phone": "571-313-0019"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Naka Opco, Llc",
+      "raw_address": "3605 Bridge Road",
+      "city": "Suffolk",
+      "state": "VA",
+      "zip": "23435",
+      "restaurant_phone": "757-483-8899"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Pw Foods, Llc",
+      "raw_address": "2912 Godwin Boulevard",
+      "city": "Suffolk",
+      "state": "VA",
+      "zip": "23434",
+      "restaurant_phone": "757-809-0598"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Robo, Llc",
+      "raw_address": "900 Hardy Road",
+      "city": "Vinton",
+      "state": "VA",
+      "zip": "24179",
+      "restaurant_phone": "540-981-1133"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Pw Foods, Llc",
+      "raw_address": "5753 Northampton Boulevard",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "zip": "23455",
+      "restaurant_phone": "757-460-3883"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Naka Opco, Llc",
+      "raw_address": "1948 Laskin Road",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "zip": "23454",
+      "restaurant_phone": "757-491-5001"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Naka Opco, Llc",
+      "raw_address": "3541 Holland Road",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "zip": "23452",
+      "restaurant_phone": "757-486-2668"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Wilgo Bo, Llc",
+      "raw_address": "191 Gateway Drive",
+      "city": "Winchester",
+      "state": "VA",
+      "zip": "22603",
+      "restaurant_phone": "540-450-8646"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Wilgo Bo, Llc",
+      "raw_address": "130 Crock Wells Mill Drive",
+      "city": "Winchester",
+      "state": "VA",
+      "zip": "22603",
+      "restaurant_phone": "540-450-8708"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Randolph Restaurant Group, Inc.",
+      "raw_address": "210 East Commonwealth Drive",
+      "city": "Wytheville",
+      "state": "VA",
+      "zip": "24382",
+      "restaurant_phone": "276-223-0050"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Pw Foods, Llc",
+      "raw_address": "8017 George Washington Highway",
+      "city": "Yorktown",
+      "state": "VA",
+      "zip": "23692",
+      "restaurant_phone": "757-890-0503"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Randolph Restaurant Group, Inc.",
+      "raw_address": "701 Oakvale Road",
+      "city": "Princeton",
+      "state": "WV",
+      "zip": "24740",
+      "restaurant_phone": "304-425-1404"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "131 Glenn Bridge Road",
+      "city": "Arden",
+      "state": "NC",
+      "zip": "28704",
+      "restaurant_phone": "(828) 684-1884"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Txbo Group Inc",
+      "raw_address": "5502 Statesman Lane",
+      "city": "Frisco",
+      "state": "TX",
+      "zip": "75036",
+      "restaurant_phone": "(818) 235-2180"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "United One Group Llc",
+      "raw_address": "106 Primrose Drive",
+      "city": "New Hyde Park",
+      "state": "NY",
+      "zip": "11040",
+      "restaurant_phone": "(347) 533-7800"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Kok & Ot Inc",
+      "raw_address": "2009 Stonemont Ct.",
+      "city": "Allen",
+      "state": "TX",
+      "zip": "75013",
+      "restaurant_phone": "(972) 800-1138"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Threeone Corporations, Llc",
+      "raw_address": "110 Matthews Station Street, Suite 2H",
+      "city": "Matthews",
+      "state": "NC",
+      "zip": "28105",
+      "restaurant_phone": "(704) 376-4480"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Zenith Usa Investments Llc",
+      "raw_address": "13499 Marmolada Drive",
+      "city": "Frisco",
+      "state": "TX",
+      "zip": "75035",
+      "restaurant_phone": "(214) 274-9418"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Winco, Llc",
+      "raw_address": "2330 Montgomery Highway",
+      "city": "Dothan",
+      "state": "AL",
+      "zip": "36303",
+      "restaurant_phone": "(334) 836-3590"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Cedartown Phoenix, Llc",
+      "raw_address": "901 N. Broad Street, Suite 175",
+      "city": "Rome",
+      "state": "GA",
+      "zip": "30161",
+      "restaurant_phone": "(404) 310-0755"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Gilbo, Llc",
+      "raw_address": "4100 Carmel Road, Suite B176",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28226",
+      "restaurant_phone": "(803) 412-5619"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Copacetic Group, Llc",
+      "raw_address": "3841 Maverick Creek",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78247",
+      "restaurant_phone": "(210) 857-8962"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "One Bo Oc, Llc",
+      "raw_address": "259 Stonebridge Drive",
+      "city": "Savannah",
+      "state": "GA",
+      "zip": "31410",
+      "restaurant_phone": "(803) 412-5619"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Delmarva Bojos, Llc",
+      "raw_address": "602 Rupert Drive",
+      "city": "Greenville",
+      "state": "NC",
+      "zip": "27858",
+      "restaurant_phone": "(757) 695-0044"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Hwy 17 Bo Oc, Llc",
+      "raw_address": "7111 Highway 21",
+      "city": "Port Wentworth",
+      "state": "GA",
+      "zip": "31407",
+      "restaurant_phone": "(803) 412-5619"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Rbt Chicken, Llc",
+      "raw_address": "360 East Dixie Street",
+      "city": "Monteagle",
+      "state": "TN",
+      "zip": "37356",
+      "restaurant_phone": "(404) 358-2438"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Lvp Restaurant Group, Llc",
+      "raw_address": "I-17 & Arcosanti Road",
+      "city": "Cordes Junction",
+      "state": "AZ",
+      "zip": "86333",
+      "restaurant_phone": "(702) 522-8513"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Poulet Brothers Llc",
+      "raw_address": "TBD \u2013 Los Angeles County",
+      "city": "Long Beach",
+      "state": "CA",
+      "zip": "90807",
+      "restaurant_phone": "(310) 871-7524"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "The Pali Guys, Inc.",
+      "raw_address": "TBD",
+      "city": "Tbd",
+      "state": "CA",
+      "zip": "",
+      "restaurant_phone": "(951) 847-8543"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Lvp Restaurant Group, Llc",
+      "raw_address": "1275 Drew Dix Parkway",
+      "city": "Pueblo",
+      "state": "CO",
+      "zip": "81008",
+      "restaurant_phone": "(702) 522-8513"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Lvp Restaurant Group, Llc",
+      "raw_address": "Intersection of I-70 & Hwy 6",
+      "city": "West Rifle",
+      "state": "CO",
+      "zip": "81650",
+      "restaurant_phone": "(702) 522-8513"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "North American Food Company, Llc",
+      "raw_address": "TBD",
+      "city": "Ocala",
+      "state": "FL",
+      "zip": "34474",
+      "restaurant_phone": "(352) 789-6000"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "755 US 29 Highway N",
+      "city": "Athens",
+      "state": "GA",
+      "zip": "30601",
+      "restaurant_phone": "(706) 546-1330"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "R & R Chicken Corporation",
+      "raw_address": "940A GA Highway 122W",
+      "city": "Hahira",
+      "state": "GA",
+      "zip": "31632",
+      "restaurant_phone": "(706) 346-5157"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "119 Highway 138 SE",
+      "city": "Stockbridge",
+      "state": "GA",
+      "zip": "30281",
+      "restaurant_phone": "(706) 318-4007"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Kwik Foods, Llc",
+      "raw_address": "The southwest corner of the Intersection of Hwy-43 & James Chapel Rd. North",
+      "city": "Albany",
+      "state": "LA",
+      "zip": "70711",
+      "restaurant_phone": "(601) 684-7702"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Kwik Foods, Llc",
+      "raw_address": "3140 Highway 190 W",
+      "city": "Hammond",
+      "state": "LA",
+      "zip": "70401",
+      "restaurant_phone": "(601) 684-7702"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Moffett Restaurants Llc",
+      "raw_address": "TBD",
+      "city": "Natchitoches",
+      "state": "LA",
+      "zip": "",
+      "restaurant_phone": "(318) 352-4033"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Matharu Foods, Llc",
+      "raw_address": "TBD",
+      "city": "Lake Linganore",
+      "state": "MD",
+      "zip": "21754",
+      "restaurant_phone": "(301) 514-6820"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Munch Box Llc",
+      "raw_address": "The southwest corner of the Intersection of Goodman & Craft Road",
+      "city": "Olive Branch",
+      "state": "MS",
+      "zip": "38654",
+      "restaurant_phone": "(731) 819-2210"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "3500 New Hope Church Road",
+      "city": "Asheboro",
+      "state": "NC",
+      "zip": "27205",
+      "restaurant_phone": "(800) 655-6837"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "466 Leicester Highway",
+      "city": "Asheville",
+      "state": "NC",
+      "zip": "28806",
+      "restaurant_phone": "(828) 684-1884"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tands, Inc.",
+      "raw_address": "1620 Northside Rd",
+      "city": "Elizabeth City",
+      "state": "NC",
+      "zip": "27909",
+      "restaurant_phone": "(252) 522-0191"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "500 Birch Hutchins Road",
+      "city": "Forest City",
+      "state": "NC",
+      "zip": "28043",
+      "restaurant_phone": "(800) 655-6837"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Tri-Arc Food Systems, Inc.",
+      "raw_address": "1619 Benson Road",
+      "city": "Garner",
+      "state": "NC",
+      "zip": "27529",
+      "restaurant_phone": "(919) 859-1131"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Randolph Restaurant Group, Inc.",
+      "raw_address": "TBD",
+      "city": "Oakboro Or Pittsboro",
+      "state": "NC",
+      "zip": "",
+      "restaurant_phone": "(336) 498-2116"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Ads Restaurants Group, Llc",
+      "raw_address": "1000 Stelton Road",
+      "city": "Piscataway",
+      "state": "NJ",
+      "zip": "08854",
+      "restaurant_phone": "(908) 279-6624"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Rojim Nj Inc.",
+      "raw_address": "TBD",
+      "city": "",
+      "state": "NJ",
+      "zip": "",
+      "restaurant_phone": "(843) 496-6827"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Lvp Restaurant Group, Llc",
+      "raw_address": "The Intersection of I-80 & New Mont Road",
+      "city": "Carlin",
+      "state": "NV",
+      "zip": "89822",
+      "restaurant_phone": "(702) 522-8513"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Lvp Restaurant Group, Llc",
+      "raw_address": "St. Rose Parkway & Maryland Parkway",
+      "city": "Henderson",
+      "state": "NV",
+      "zip": "89052",
+      "restaurant_phone": "(702) 522-8513"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Lvp Restaurant Group, Llc",
+      "raw_address": "6550 S. Decatur Blvd",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip": "89118",
+      "restaurant_phone": "(702) 522-8513"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Lvp Restaurant Group, Llc",
+      "raw_address": "The Intersection of Craig Road & Valley Drive",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip": "89032",
+      "restaurant_phone": "(702) 522-8513"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Lvp Restaurant Group, Llc",
+      "raw_address": "4650 S. Maryland Pkwy",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip": "89119",
+      "restaurant_phone": "(702) 522-8513"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Lvp Restaurant Group, Llc",
+      "raw_address": "Flamingo Road and Hotel Rio Drive",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip": "89103",
+      "restaurant_phone": "(702) 522-8513"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Lvp Restaurant Group, Llc",
+      "raw_address": "9250 Rainbow Blvd",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip": "89139",
+      "restaurant_phone": "(702) 522-8513"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Lvp Restaurant Group, Llc",
+      "raw_address": "4501 Paradise Road",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip": "89119",
+      "restaurant_phone": "(702) 522-8513"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Lvp Restaurant Group, Llc",
+      "raw_address": "TBD \u2013 Vegas strip",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip": "",
+      "restaurant_phone": "(702) 522-8513"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Lvp Restaurant Group, Llc",
+      "raw_address": "The northwest corner of the Intersection of Leppy Hills Blvd. and Florence Way",
+      "city": "West Wendover",
+      "state": "NV",
+      "zip": "89883",
+      "restaurant_phone": "(702) 522-8513"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "US-23 and Penny Way",
+      "city": "Delaware",
+      "state": "OH",
+      "zip": "43015",
+      "restaurant_phone": "(828) 684-1884"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "SWQ Ohio Turnpike & State Route 109",
+      "city": "Delta",
+      "state": "OH",
+      "zip": "43515",
+      "restaurant_phone": "(800) 655-6837"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boj Of Wnc, Llc",
+      "raw_address": "Hwy 60 and Ball Lane",
+      "city": "Zanesville",
+      "state": "OH",
+      "zip": "43701",
+      "restaurant_phone": "(828) 684-1884"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Melanbo Opco Llc",
+      "raw_address": "NWC Hoffmeyer Road & Troxel Blvd",
+      "city": "Florence",
+      "state": "SC",
+      "zip": "29501",
+      "restaurant_phone": "(828) 684-1884"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Drive-In Usa, Llc",
+      "raw_address": "NEC State Road & Nexton Parkway Ext",
+      "city": "Summerville",
+      "state": "SC",
+      "zip": "29486",
+      "restaurant_phone": "(843) 834-3999"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Rbt Enterprises, Llc",
+      "raw_address": "310 Dixie Lee Highway",
+      "city": "Monteagle",
+      "state": "TN",
+      "zip": "37356",
+      "restaurant_phone": "(404) 358-2438"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Htx Chicken, Llc",
+      "raw_address": "SWQ North Highway 146 & Gloria Lane",
+      "city": "Baytown",
+      "state": "TX",
+      "zip": "75521",
+      "restaurant_phone": "(832) 414-1714"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Motom, Llc",
+      "raw_address": "SEC Fry & Tuckerton",
+      "city": "Cypress",
+      "state": "TX",
+      "zip": "77433",
+      "restaurant_phone": "(832) 659-7887"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Lash Foods Llc",
+      "raw_address": "TBD",
+      "city": "The Woodlands",
+      "state": "TX",
+      "zip": "TBD",
+      "restaurant_phone": "(832) 877-4502"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Motom, Llc",
+      "raw_address": "I-10 & Cane Island Parkway",
+      "city": "Katy",
+      "state": "TX",
+      "zip": "77494",
+      "restaurant_phone": "(832) 659-7887"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Foodster Fusion Llc",
+      "raw_address": "I-35 & N Old Temple Rd",
+      "city": "Lorena",
+      "state": "TX",
+      "zip": "76655",
+      "restaurant_phone": "(281) 701-7509"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "First Biscuit Enterprises, Llc",
+      "raw_address": "Northeast Corner of the Intersection of US Hwy 287 and Debbie Lane",
+      "city": "Mansfield",
+      "state": "TX",
+      "zip": "76063",
+      "restaurant_phone": "(860) 978-8149"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Sat Restaurant Group, Llc",
+      "raw_address": "TBD",
+      "city": "Mesquite, Arlington, Or Irving",
+      "state": "TX",
+      "zip": "TBD",
+      "restaurant_phone": "(214) 934-6251"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Motom, Llc",
+      "raw_address": "19230 W Bellfort Blvd.",
+      "city": "Richmond",
+      "state": "TX",
+      "zip": "77407",
+      "restaurant_phone": "(832) 659-7887"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Motom, Llc",
+      "raw_address": "SEQ I-69 & Hwy 36",
+      "city": "Rosenberg",
+      "state": "TX",
+      "zip": "77471",
+      "restaurant_phone": "(832) 659-7887"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Boatx, Llc",
+      "raw_address": "Northwest Corner of the Intersection of US-79 and Kenney Fort Blvd.",
+      "city": "Round Rock",
+      "state": "TX",
+      "zip": "78665",
+      "restaurant_phone": "(832) 443-9962"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "Northeast Corner of the intersection of I-410 Access Road and Southton Road",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78223",
+      "restaurant_phone": "1 (800) 655-6837"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Foodster Fusion Llc",
+      "raw_address": "SWC I-10/FM 775",
+      "city": "Seguin",
+      "state": "TX",
+      "zip": "78155",
+      "restaurant_phone": "(281) 701-7509"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Btt Investments, Llc",
+      "raw_address": "TBD",
+      "city": "Tbd",
+      "state": "TX",
+      "zip": "TBD",
+      "restaurant_phone": "(214) 646-2545"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Htx Chicken, Llc",
+      "raw_address": "Intersection of League City Parkway and Egret Bay Boulevard",
+      "city": "Tuscan Lakes",
+      "state": "TX",
+      "zip": "77573",
+      "restaurant_phone": "(832) 414-1714"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Foodster Fusion Llc",
+      "raw_address": "NWC I-20/State Park Hwy (SH 14)",
+      "city": "Tyler",
+      "state": "TX",
+      "zip": "75706",
+      "restaurant_phone": "(281) 701-7509"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Love'S Travel Stops & Country Stores, Inc.",
+      "raw_address": "NWQ I-35 & Malarbe Street",
+      "city": "West",
+      "state": "TX",
+      "zip": "76691",
+      "restaurant_phone": "1 (800) 655-6837"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Georgia Foods, Llc",
+      "raw_address": "TBD",
+      "city": "Altavista, Bedford, Or Stuart",
+      "state": "VA",
+      "zip": "TBD",
+      "restaurant_phone": "(336) 269-3456"
+    },
+    {
+      "brand": "Bojangles",
+      "franchisee_name": "Integritas Llc",
+      "raw_address": "TBD",
+      "city": "Woodbridge Or Alexandria",
+      "state": "VA",
+      "zip": "TBD",
+      "restaurant_phone": "(603) 858-1121"
+    }
+  ]
+}

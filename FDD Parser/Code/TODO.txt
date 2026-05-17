@@ -1,0 +1,63 @@
+FDD Parser — Open Tasks
+=======================
+
+This file persists tasks across Claude Code sessions. Append new items
+below. Format: each task starts with "## <title>" and a date stamp.
+Mark done by changing "## " to "## [DONE] ".
+
+-------------------------------------------------------------------------------
+## Little Caesars: franchisee names parsed as ID codes (not real names)
+Added: 2026-04-16
+
+Problem:
+  The ~2572 Little Caesars records in the raw CSV have "franchisee_name"
+  values like "3849-0001", "3726-0002" — internal LC franchise/location
+  ID codes, not actual operator names. This means `2_ai_match.py` has no
+  real names to compare; Haiku is inferring identity purely from ID
+  prefix patterns and nearby geography.
+
+  Consequence:
+    - Matches like "3849-0001 ↔ 3849-0012" get merged on prefix logic alone
+    - Edge cases like "3726-0002 ↔ 3776-0002" (different prefix, same suffix)
+      got matched incorrectly in at least one observed case
+    - Downstream Apollo enrichment will have nothing useful to search on
+
+Action:
+  1. Re-run `1_ai_extract.py` on Little Caesars source PDFs and verify
+     whether operator names are present in the raw doc. If they are,
+     fix the extraction prompt/parser to prefer names over location IDs.
+  2. If names are genuinely absent from the LC FDD, flag those records
+     as "name_missing" in the final master CSV so they can be manually
+     reviewed / re-sourced (e.g. from LC corporate registry, state
+     business filings).
+  3. Add a sanity check to `2_ai_match.py` (or a pre-pass) that detects
+     ID-pattern names (regex like `^\d{3,4}-\d{3,4}$`) and either
+     treats them as a separate "unknown-name" bucket or pushes them
+     all to Sonnet instead of Haiku.
+
+-------------------------------------------------------------------------------
+## McDonald's enrichment — status unknown
+Added: 2026-04-16
+
+Context:
+  `1b_mcd_enrich.py` exists and `cache/mcd_enrich_cache.json` is present
+  (2.2 KB — very small, suggests barely started). `mcd_enrich.log`
+  contains some history. Unclear whether this is a one-off run that
+  completed or an in-progress task.
+
+Action:
+  - Review `mcd_enrich.log` to determine state
+  - If incomplete, plan the remaining McDonald's-specific enrichment
+    (what does this script do that `1_ai_extract.py` doesn't?)
+  - Confirm whether its output feeds `2_ai_match.py` or is an
+    independent enrichment pass
+
+-------------------------------------------------------------------------------
+## (Template for future items — copy and fill in)
+Added: YYYY-MM-DD
+
+Problem:
+  (what's wrong / what needs doing)
+
+Action:
+  (concrete next steps)

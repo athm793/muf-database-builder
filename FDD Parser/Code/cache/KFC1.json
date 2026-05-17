@@ -1,0 +1,248 @@
+{
+  "brand": "KFC",
+  "records": [
+    {
+      "brand": "KFC",
+      "franchisee_name": "Lvp Qsr 4 Development Llc",
+      "raw_address": "950 W Old Highway 66",
+      "city": "Ash Fork",
+      "state": "AZ",
+      "zip": "86320",
+      "restaurant_phone": "702/522-8513"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Lvp Qsr 4 Development Llc",
+      "raw_address": "3225 Rincon Road",
+      "city": "Littlefield",
+      "state": "AZ",
+      "zip": "86432",
+      "restaurant_phone": "702/522-8513"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Happy Day, Inc.",
+      "raw_address": "72922 Baker Blvd.",
+      "city": "Baker",
+      "state": "CA",
+      "zip": "92309",
+      "restaurant_phone": "310/748-1348"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Host International, Inc.",
+      "raw_address": "380 World Way",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90045",
+      "restaurant_phone": "201/390-9907"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Happy Avenue 7 L.P.",
+      "raw_address": "32603 Avenue 7",
+      "city": "Madera",
+      "state": "CA",
+      "zip": "93637",
+      "restaurant_phone": "310/748-1348"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Salton City Petroleum, Inc.",
+      "raw_address": "2084 S. Marina Drive",
+      "city": "Salton City",
+      "state": "CA",
+      "zip": "92274",
+      "restaurant_phone": "310/748-1348"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Sass Foods, Inc.",
+      "raw_address": "100 Universal City Plaza",
+      "city": "Universal City",
+      "state": "CA",
+      "zip": "91608",
+      "restaurant_phone": "818/652-5421"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Harman Management Corporation",
+      "raw_address": "5550 East Woodmen Road",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80920",
+      "restaurant_phone": "801/313-8000"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Mission Yogurt, Inc.",
+      "raw_address": "8500 Pena Blvd.",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80249",
+      "restaurant_phone": "303/944-5844"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Lvp Qsr 4 Development Llc",
+      "raw_address": "708 North Main Street",
+      "city": "Lamar",
+      "state": "CO",
+      "zip": "81052",
+      "restaurant_phone": "702/522-8513"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Master Concessionair, Llc",
+      "raw_address": "4200 NW 21 Street (MIA Terminal 5, Pre-S)",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33122",
+      "restaurant_phone": "305/218-1910"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Areas Usa Fltp, Llc",
+      "raw_address": "Mile Post 263",
+      "city": "Ocoee",
+      "state": "FL",
+      "zip": "34761",
+      "restaurant_phone": "305/267-8510"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Areas Usa Fltp, Llc",
+      "raw_address": "Mile Marker 184",
+      "city": "Okeechobee",
+      "state": "FL",
+      "zip": "34972",
+      "restaurant_phone": "305/267-8510"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Areas Usa Fltp, Llc",
+      "raw_address": "Mile Post 94",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "zip": "33414",
+      "restaurant_phone": "305/267-8510"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Areas Usa Fltp, Llc",
+      "raw_address": "Mile Post 299, Florida Turnpike",
+      "city": "Wildwood",
+      "state": "FL",
+      "zip": "34785",
+      "restaurant_phone": "305/267-8510"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Alfarah Restaurant Group Of Il, Inc.",
+      "raw_address": "444 Chicago Ridge Mall",
+      "city": "Chicago Ridge",
+      "state": "IL",
+      "zip": "60415",
+      "restaurant_phone": "708/204-3266"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Bell Great Lakes Llc",
+      "raw_address": "13783 West Oasis Service Road",
+      "city": "Lake Forest",
+      "state": "IL",
+      "zip": "60045",
+      "restaurant_phone": "417/883-3600"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Aramark Services, Inc.",
+      "raw_address": "1441 Gardiner Lane",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40213",
+      "restaurant_phone": "215/238-3000"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "The Tinsley Family Concessions, Inc.",
+      "raw_address": "600 Terminal Drive",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40209",
+      "restaurant_phone": "863/299-7177"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Service America Corporation",
+      "raw_address": "One Arena Plaza",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40202",
+      "restaurant_phone": "502/690-9065"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Ta Operating Llc",
+      "raw_address": "145 Richwood Road",
+      "city": "Walton",
+      "state": "KY",
+      "zip": "41094",
+      "restaurant_phone": "440/617-8931"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Ta Operating Llc",
+      "raw_address": "8560 Greenwood Road",
+      "city": "Greenwood",
+      "state": "LA",
+      "zip": "71033",
+      "restaurant_phone": "440/617-8931"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Ta Operating Llc",
+      "raw_address": "10405 East Airline Highway",
+      "city": "Saint Rose",
+      "state": "LA",
+      "zip": "70087",
+      "restaurant_phone": "440/617-8931"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Areas Usa Mdtp, Llc",
+      "raw_address": "I-95 at Mile Marker 96.8",
+      "city": "North East",
+      "state": "MD",
+      "zip": "21901",
+      "restaurant_phone": "305/267-8510"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Morgan'S Restaurants Of Pennsylvania, Inc.",
+      "raw_address": "20245 Route 19",
+      "city": "Cranberry Township",
+      "state": "PA",
+      "zip": "16066",
+      "restaurant_phone": "469/917-3800"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Ta Operating Llc",
+      "raw_address": "272 Herring Road",
+      "city": "Fair Play",
+      "state": "SC",
+      "zip": "29643",
+      "restaurant_phone": "440/617-8931"
+    },
+    {
+      "brand": "KFC",
+      "franchisee_name": "Compass Group Usa, Inc.",
+      "raw_address": "7100 Corporate Drive",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75024",
+      "restaurant_phone": "303/929-2313"
+    }
+  ]
+}

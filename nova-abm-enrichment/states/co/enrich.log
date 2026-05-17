@@ -1,0 +1,283 @@
+[00:33:55] Run started — input=states/co/input/franchisees.csv, output=states/co/output/enriched.csv
+[00:33:55] Loaded 208 input rows
+[00:33:55] Bulk cache stale or missing — downloading via HTTPS
+[00:33:55] Attempt 1: GET https://data.colorado.gov/api/views/4ykn-tg5h/rows.csv?accessType=DOWNLOAD
+[00:33:55]   existing on disk: 0.00 GB
+[00:33:57]   200 OK; size unknown (chunked)
+[00:34:09]   0.03 GB — 2147 KB/s
+[00:34:19]   0.05 GB — 2333 KB/s
+[00:34:33]   0.08 GB — 2172 KB/s
+[00:34:47]   0.10 GB — 2077 KB/s
+[00:34:53]   0.13 GB — 2312 KB/s
+[00:34:59]   0.16 GB — 2476 KB/s
+[00:35:10]   0.18 GB — 2461 KB/s
+[00:35:20]   0.21 GB — 2480 KB/s
+[00:35:35]   0.23 GB — 2332 KB/s
+[00:35:50]   0.25 GB — 2180 KB/s
+[00:36:05]   0.26 GB — 2022 KB/s
+[00:36:16]   0.29 GB — 2053 KB/s
+[00:36:31]   0.31 GB — 1983 KB/s
+[00:36:45]   0.34 GB — 1967 KB/s
+[00:37:00]   0.36 GB — 1913 KB/s
+[00:37:15]   0.37 GB — 1832 KB/s
+[00:37:30]   0.39 GB — 1778 KB/s
+[00:37:45]   0.41 GB — 1765 KB/s
+[00:38:00]   0.43 GB — 1721 KB/s
+[00:38:15]   0.44 GB — 1680 KB/s
+[00:38:30]   0.46 GB — 1638 KB/s
+[00:38:45]   0.48 GB — 1615 KB/s
+[00:39:00]   0.49 GB — 1586 KB/s
+[00:39:13]   0.52 GB — 1605 KB/s
+[00:39:25]   0.54 GB — 1621 KB/s
+[00:39:40]   0.56 GB — 1596 KB/s
+[00:39:55]   0.57 GB — 1567 KB/s
+[00:40:11]   0.59 GB — 1544 KB/s
+[00:40:26]   0.61 GB — 1525 KB/s
+[00:40:41]   0.62 GB — 1511 KB/s
+[00:40:56]   0.64 GB — 1502 KB/s
+[00:41:11]   0.66 GB — 1497 KB/s
+[00:41:17]   saved to disk: 0.68 GB
+[00:41:17] Download complete: 0.68 GB
+[00:41:17] Will match 5 rows (203 already done or empty)
+[00:41:17] Built lookup table: 10 normalized queries from 5 input rows
+[00:41:17] Streaming D:\PBX Code\MUF Database Builder\nova-abm-enrichment\states\co\bulk\business_entities.csv (0.68 GB) ...
+[00:41:21]   ... 500,000 records scanned, 1 candidate matches so far
+[00:41:24]   ... 1,000,000 records scanned, 1 candidate matches so far
+[00:41:28]   ... 1,500,000 records scanned, 1 candidate matches so far
+[00:41:32]   ... 2,000,000 records scanned, 5 candidate matches so far
+[00:41:36]   ... 2,500,000 records scanned, 6 candidate matches so far
+[00:41:39]   ... 3,000,000 records scanned, 6 candidate matches so far
+[00:41:40] Scan complete: 3,036,065 records, 6 candidate matches across 4 inputs
+[00:41:40] [1/5] Gmrg Acq 1, Llc -> matches=1 | GMRG ACQ 1, LLC
+[00:41:40] [2/5] Mt Food Group, Llc -> matches=1 | MT Food Group, LLC
+[00:41:40] [3/5] Gh Food Group Colorado, Llc -> matches=1 | GH Food Group Colorado LLC
+[00:41:40] [4/5] Hut Rocky Mountain Llc -> matches=1 | Hut Rocky Mountain LLC
+[00:41:40] [5/5] Donahue/Oceguera -> matches=0
+[00:41:40] Match phase done: processed=5, skipped=203
+[00:41:40] Running cross-row analysis ...
+[00:41:40] Rescored 5 rows.
+[00:41:40] Output: D:\PBX Code\MUF Database Builder\nova-abm-enrichment\states\co\output\enriched.csv
+[00:42:00] Run started — input=states/co/input/franchisees.csv, output=states/co/output/enriched.csv
+[00:42:00] Loaded 208 input rows
+[00:42:00] Will match 208 rows (0 already done or empty)
+[00:42:00] Built lookup table: 301 normalized queries from 208 input rows
+[00:42:00] Streaming D:\PBX Code\MUF Database Builder\nova-abm-enrichment\states\co\bulk\business_entities.csv (0.68 GB) ...
+[00:42:04]   ... 500,000 records scanned, 37 candidate matches so far
+[00:42:13]   ... 1,000,000 records scanned, 93 candidate matches so far
+[00:42:17]   ... 1,500,000 records scanned, 137 candidate matches so far
+[00:42:20]   ... 2,000,000 records scanned, 182 candidate matches so far
+[00:42:24]   ... 2,500,000 records scanned, 228 candidate matches so far
+[00:42:28]   ... 3,000,000 records scanned, 278 candidate matches so far
+[00:42:28] Scan complete: 3,036,065 records, 288 candidate matches across 150 inputs
+[00:42:28] [1/208] Gmrg Acq 1, Llc -> matches=1 | GMRG ACQ 1, LLC
+[00:42:28] [2/208] Mt Food Group, Llc -> matches=1 | MT Food Group, LLC
+[00:42:28] [3/208] Gh Food Group Colorado, Llc -> matches=1 | GH Food Group Colorado LLC
+[00:42:28] [4/208] Hut Rocky Mountain Llc -> matches=1 | Hut Rocky Mountain LLC
+[00:42:28] [5/208] Donahue/Oceguera -> matches=0
+[00:42:28] [6/208] Williams, Craig K. -> matches=0
+[00:42:28] [7/208] Premium Loaves Colorado Llc -> matches=1 | Premium Loaves Colorado LLC
+[00:42:28] [8/208] Apple Colorado Llc -> matches=1 | Apple Colorado LLC
+[00:42:28] [9/208] Burgess, Timothy Kent -> matches=0
+[00:42:28] [10/208] Joseph Johnson -> matches=0
+[00:42:28] [11/208] Rea, Michael S. -> matches=0
+[00:42:28] [12/208] Feavel, Jay B. -> matches=0
+[00:42:28] [13/208] Kathleen M Linneman -> matches=0
+[00:42:28] [14/208] Juan Samour -> matches=0
+[00:42:28] [15/208] Todd R Luther -> matches=0
+[00:42:28] [16/208] Haydon, James B. -> matches=0
+[00:42:28] [17/208] James Joseph Boselli -> matches=1 | JAMES JOSEPH, INC.
+[00:42:28] [18/208] Lauren M Addy -> matches=0
+[00:42:28] [19/208] Paul Nelson -> matches=0
+[00:42:28] [20/208] Delgrosso, Brian -> matches=0
+[00:42:28] [21/208] Jason Thompson -> matches=0
+[00:42:28] [22/208] Prellwitz, Philip -> matches=0
+[00:42:28] [23/208] Whirl Colorado Llc -> matches=1 | Whirl Colorado LLC
+[00:42:28] [24/208] Mp & Jp Holdings, Llc (Jeffrey Parker) -> matches=1 | MP & JP Holdings, LLC | owner: Jeffrey Thomas Parker
+[00:42:28] [25/208] Parker 1833 Llc -> matches=1 | PARKER 1833 LLC
+[00:42:28] [26/208] Alarado Enterprises, Llc -> matches=1 | ALARADO ENTERPRISES LLC
+[00:42:28] [27/208] Jason Lessnau -> matches=0
+[00:42:28] [28/208] Sarah K Hill -> matches=0
+[00:42:28] [29/208] Michael S Sandoval -> matches=1 | Michael's, LLC | owner: GREGORY ALAN WAMBOLT
+[00:42:28] [30/208] Kevin T Napier -> matches=0
+[00:42:28] [31/208] Irmg Burger Restaurants, Inc. -> matches=0
+[00:42:28] [32/208] Kasch Partnership Llc -> matches=1 | KASCH PARTNERSHIP LLC | owner: CODY DALE KASCH (offsite agent)
+[00:42:28] [33/208] Co Ops 3 Llc -> matches=1 | CO OPS 3 LLC
+[00:42:28] [34/208] Sean P Connelly -> matches=0
+[00:42:28] [35/208] Dio Mercantile Co -> matches=1 | DIO MERCANTILE CO. | owner: WARREN MICHAEL DIODOSIO
+[00:42:28] [36/208] Bfcco Inc. -> matches=1 | BFCCO, Inc.
+[00:42:28] [37/208] Purvi Naik -> matches=0
+[00:42:28] [38/208] Lauren A Holmberg -> matches=0
+[00:42:28] [39/208] Robert G Luther -> matches=0
+[00:42:28] [40/208] Bell Brand Ranches Inc -> matches=1 | BELL BRAND RANCHES, INC. | owner: Steve Doty
+[00:42:28] [41/208] Lix Brighton Inc -> matches=1 | LIX BRIGHTON, INC.
+[00:42:28] [42/208] Osita, Richard Kenechukwu -> matches=0
+[00:42:28] [43/208] Hynds Bros., Inc. -> matches=1 | HYNDS BROS., INC. | owner: JOHN W HYNDS JR
+[00:42:28] [44/208] Scott G Angelos -> matches=0
+[00:42:28] [45/208] David M Napier -> matches=0
+[00:42:28] [46/208] Douglas R King -> matches=0
+[00:42:28] [47/208] Maria M Reinerth -> matches=0
+[00:42:28] [48/208] Serena Rodgers -> matches=0
+[00:42:28] [49/208] Aesir Group International, Inc. -> matches=1 | AESIR GROUP INTERNATIONAL, INC. | owner: GEORGE JOSEPH HART
+[00:42:28] [50/208] Jardel Enterprises, Inc. -> matches=1 | JARDEL ENTERPRISES, INC. | owner: MICHAEL CHRISTOPHER DELAROSA
+[00:42:28] [51/208] Gwc Enterprises Llc -> matches=0
+[00:42:28] [52/208] Zieglin Inc -> matches=1 | ZIEGLIN, INC. | owner: JULIE LYNN STOCKERT
+[00:42:28] [53/208] Altura Enterprises, Llc -> matches=1 | Altura Enterprises, LLC | owner: SHARON DE MAYELA CABRERA CARRILLO (offsite agent)
+[00:42:28] [54/208] Three Tom Brands, Llc -> matches=0
+[00:42:28] [55/208] Kb Enterprises, Llc -> matches=1 | KB Enterprises Inc. | owner: KELLY ALLEN BROWN
+[00:42:28] [56/208] Gisela T Phelan -> matches=0
+[00:42:28] [57/208] Elias Asfaw -> matches=0
+[00:42:28] [58/208] Brian Boselli -> matches=0
+[00:42:28] [59/208] Chad Furler -> matches=0
+[00:42:28] [60/208] S Todd Mcmillan -> matches=0
+[00:42:28] [61/208] Geta Asfaw -> matches=0
+[00:42:28] [62/208] Jessica M Bucar-Standridge -> matches=0
+[00:42:28] [63/208] Bilikin, Inc. -> matches=1 | BILIKIN INC. | owner: KIM ELAINE ZELLER
+[00:42:28] [64/208] Irmg Burger Of Aurora , Inc -> matches=1 | IRMG BURGER OF AURORA, INC.
+[00:42:28] [65/208] Crc Pretzels, Llc -> matches=1 | CRC Pretzels, LLC | owner: ALLEN LEROY HOOVER (offsite agent)
+[00:42:28] [66/208] Reynolds Restaurant Group Llc -> matches=1 | Reynolds Restaurant Group LLC | owner: MICHELLE RENEE MARCUM
+[00:42:28] [67/208] B&R Breakaway Investments "Llc" Of Colorado -> matches=1 | B&R BreakAway Investments "LLC" of Colorado
+[00:42:28] [68/208] H & V Pretzels, Llc -> matches=1 | H & V Pretzels, LLC
+[00:42:28] [69/208] Nileshkumar Darji, Parulben Darji -> matches=0
+[00:42:28] [70/208] H&V Juice Llc -> matches=1 | H&V Juice LLC | owner: Parul N Darji
+[00:42:28] [71/208] Pbjd Enterprises Inc -> matches=1 | PBJD ENTERPRISES, INC. | owner: BRUCE RICHARD SMITH (offsite agent)
+[00:42:28] [72/208] Eagle Too Corp -> matches=1 | EAGLE TOO CORP. | owner: TODD RANIER WINGERT (offsite agent)
+[00:42:28] [73/208] Treatalicious Inc -> matches=1 | Treatalicious, Inc. | owner: Julie L Stockert
+[00:42:28] [74/208] Eagle Country Ventures Llc -> matches=1 | EAGLE COUNTRY VENTURES, LLC
+[00:42:28] [75/208] Gdq Inc -> matches=1 | GDQ, INC. | owner: DANIEL LEE SMITH (offsite agent)
+[00:42:28] [76/208] Whiting, Troy A. -> matches=0
+[00:42:28] [77/208] 3196 Co, Llc -> matches=1 | 3196 CO, LLC
+[00:42:28] [78/208] Cos Hoover Llc -> matches=1 | COS Hoover LLC | owner: Allen Hoover
+[00:42:28] [79/208] The Gourmet Lady, Llc -> matches=1 | The Gourmet Lady, LLC | owner: matthew dixon
+[00:42:28] [80/208] Cwb Enterprises, Llc -> matches=1 | CWB ENTERPRISES, INC. | owner: BRIAN EUGENE LEACH
+[00:42:28] [81/208] Big Oil & Gas, Llc -> matches=1 | BIG OIL & GAS LLC | owner: CHRISTOPHER TODD RUDY (offsite agent)
+[00:42:28] [82/208] Rothfam Holdings, Llc -> matches=1 | ROTHFAM HOLDINGS LLC
+[00:42:28] [83/208] Pueblo Sandwich Lady, Llc -> matches=1 | Pueblo Sandwich Lady, LLC | owner: Matthew Christopher Dixon Sr.
+[00:42:28] [84/208] Mission Yogurt, Inc. -> matches=1 | MISSION YOGURT, INC.
+[00:42:28] [85/208] Pueblo Chicken, Llc -> matches=1 | Pueblo Chicken LLC | owner: CAMERON LORE SCHOENHOFER (offsite agent)
+[00:42:28] [86/208] Flatirons Pizza, Llc -> matches=1 | Flatirons Pizza, LLC | owner: DAVID DWAYNE MADDOX
+[00:42:28] [87/208] Michael Stripling -> matches=0
+[00:42:28] [88/208] James Nelson -> matches=1 | James Nelson, Inc. | owner: James Nelson
+[00:42:28] [89/208] Laura L Bucar -> matches=0
+[00:42:28] [90/208] Jennifer Long-Walker -> matches=0
+[00:42:28] [91/208] Oldershaw -> matches=0
+[00:42:28] [92/208] Hvt Group Llc -> matches=1 | HVT Group LLC | owner: TREVOR MICHAEL BATES
+[00:42:28] [93/208] Yk & Lee, Inc. -> matches=1 | YK & Lee, Inc. | owner: BYUNG GU YOO (offsite agent)
+[00:42:28] [94/208] Threepeat.Com -> matches=1 | THREEPEAT.COM | owner: RONALD T HARRISON JR
+[00:42:28] [95/208] Colorado Dostana Llc -> matches=1 | Colorado Dostana LLC | owner: Rakesh Parikh
+[00:42:28] [96/208] Tower Ice Cream Ltd -> matches=1 | TOWER ICE CREAM, LTD. | owner: TODD RANIER WINGERT (offsite agent)
+[00:42:28] [97/208] R & D Stores Inc -> matches=1 | R & D STORES, INC. | owner: RICK CRAIG SLATER
+[00:42:28] [98/208] Rd & E Ice Cream Inc -> matches=1 | RD&E Ice Cream Inc. | owner: EMILY ANN KRAFT (offsite agent)
+[00:42:28] [99/208] Bighash, Touraj / Bighash, Gity Z -> matches=0
+[00:42:28] [100/208] Pbjd One Inc -> matches=1 | PBJD-ONE, INC. | owner: BRUCE RICHARD SMITH (offsite agent)
+[00:42:28] [101/208] South Tri Stores Llc -> matches=1 | SOUTH TRI STORES. LLC
+[00:42:28] [102/208] Strub, James A -> matches=0
+[00:42:28] [103/208] Q3 Delta Llc -> matches=1 | Q3 Delta LLC
+[00:42:28] [104/208] Tri-Sweets Inc -> matches=1 | TRI-SWEETS, INC | owner: THU H NGUYEN
+[00:42:28] [105/208] Lototo Ltd -> matches=1 | LOTOTO LTD. | owner: TODD RANIER WINGERT (offsite agent)
+[00:42:28] [106/208] Set Sail Ep Inc -> matches=1 | Set Sail EP Inc | owner: CHRISTIAN ANDREW HILL (offsite agent)
+[00:42:28] [107/208] Win Hof Ltd -> matches=1 | WIN HOF LTD. | owner: TODD RANIER WINGERT (offsite agent)
+[00:42:28] [108/208] Taste And See Dq Llc -> matches=1 | Taste and See DQ LLC
+[00:42:28] [109/208] Lix Ii Llc -> matches=1 | LIX II, LLC
+[00:42:28] [110/208] D & W Stores Ltd -> matches=1 | D & W STORES LTD. | owner: RICHARD GORDON DENHOF (offsite agent)
+[00:42:28] [111/208] Lindberg, Craig A -> matches=0
+[00:42:28] [112/208] Bpw Ops Llc -> matches=1 | BPW Ops LLC
+[00:42:28] [113/208] Lix Thornton Llc -> matches=1 | LIX Thornton, LLC
+[00:42:28] [114/208] The Patrick Family Group Ltd -> matches=1 | THE PATRICK FAMILY GROUP, LTD.
+[00:42:28] [115/208] Huron Store Ltd -> matches=1 | HURON STORE LTD. | owner: TODD RANIER WINGERT (offsite agent)
+[00:42:28] [116/208] P & G Creamery Llc -> matches=1 | P & G Creamery LLC | owner: STEVEN ALAN MESTDAGH
+[00:42:28] [117/208] Gassmann Enterprises Inc -> matches=1 | Gassmann Enterprises, Inc.
+[00:42:28] [118/208] Plaza Stores Ltd -> matches=1 | PLAZA STORES LTD. | owner: RICHARD GORDON DENHOF
+[00:42:28] [119/208] Patrick Company Inc -> matches=1 | PATRICK COMPANY INC.
+[00:42:28] [120/208] D & A Inc -> matches=1 | D&A, INC.>> | owner: Scott Patrick
+[00:42:28] [121/208] Colorado Aurora Inc -> matches=1 | Colorado Aurora LLC
+[00:42:28] [122/208] Ccdq Inc -> matches=1 | CCDQ, INC. | owner: MARGARITA SANTANA-SPODEN
+[00:42:28] [123/208] Ltt Store, Inc -> matches=1 | LTT STORE, INC. | owner: TODD RANIER WINGERT (offsite agent)
+[00:42:28] [124/208] Lix Filmore Llc -> matches=0
+[00:42:28] [125/208] Cool Runnings Llc -> matches=1 | Cool Runnings Inc. LLC
+[00:42:28] [126/208] Wilkerson, Larry K -> matches=0
+[00:42:28] [127/208] Kds Enterprises Inc -> matches=1 | KDS Enterprises LLC | owner: Kent Douglas Stark
+[00:42:28] [128/208] Colorado Fort Morgan Inc -> matches=1 | Colorado Fort Morgan LLC
+[00:42:28] [129/208] Horah Llc -> matches=1 | HORAH LLC | owner: PHILLIP D RASH (offsite agent)
+[00:42:28] [130/208] Colorado Kokopelli Blvd Inc -> matches=1 | Colorado Kokopelli Blvd LLC
+[00:42:28] [131/208] Colorado Linden Group Inc -> matches=1 | Colorado Linden Group LLC
+[00:42:28] [132/208] Colorado North Ave Inc -> matches=1 | Colorado North Ave LLC
+[00:42:28] [133/208] Shri Radha Nilkamal Llc -> matches=1 | Shri Radha Nilkamal LLC | owner: DEEP PATEL
+[00:42:28] [134/208] Lix La Llc -> matches=1 | LIX LA, LLC
+[00:42:28] [135/208] Krafted Investments Llc -> matches=1 | Krafted Investments, LLC | owner: EMILY ANN KRAFT
+[00:42:28] [136/208] Lix Grant Llc -> matches=1 | LIX Grant, LLC
+[00:42:28] [137/208] Rd & C Stores Inc -> matches=1 | RD & C STORES, INC. | owner: EMILY ANN KRAFT (offsite agent)
+[00:42:28] [138/208] Summit Softserve Llc -> matches=1 | Summit Softserve LLC | owner: BABETTE LEE WELMON
+[00:42:28] [139/208] Smith, Zachary Austin -> matches=0
+[00:42:28] [140/208] Rea, Mike -> matches=0
+[00:42:28] [141/208] 1422, Inc. -> matches=1 | 1422, INC. | owner: Colin E Moriarty (offsite agent)
+[00:42:28] [142/208] 1821, Inc. -> matches=1 | 1821, INC. | owner: Colin E Moriarty (offsite agent)
+[00:42:28] [143/208] 1825, Inc. -> matches=1 | 1825 LLC
+[00:42:28] [144/208] 3581 Inc -> matches=1 | 3581 INC | owner: Colin Moriarty (offsite agent)
+[00:42:28] [145/208] 3519, Inc -> matches=1 | 3519, Inc. | owner: Colin E Moriarty (offsite agent)
+[00:42:28] [146/208] 3803 Inc. -> matches=1 | 3803 INC | owner: Colin Moriarty (offsite agent)
+[00:42:28] [147/208] Westminster 1830, Inc. -> matches=1 | WESTMINSTER 1830, INC. | owner: Colin E Moriarty (offsite agent)
+[00:42:28] [148/208] 1818, Inc. -> matches=1 | 1818, INC. | owner: Colin Moriarty (offsite agent)
+[00:42:28] [149/208] 2076, Inc. -> matches=1 | 2076, Inc. | owner: Colin E Moriarty (offsite agent)
+[00:42:28] [150/208] 1831, Inc. -> matches=1 | 1831, INC. | owner: Colin Moriarty (offsite agent)
+[00:42:28] [151/208] 3798, Inc. -> matches=1 | 3798, Inc. | owner: Colin Moriarty (offsite agent)
+[00:42:28] [152/208] 3584 Inc -> matches=1 | 3584 INC | owner: Colin E Moriarty (offsite agent)
+[00:42:28] [153/208] 3574 Co, Llc -> matches=1 | 3574 CO, LLC
+[00:42:28] [154/208] 2111 Co, Llc -> matches=1 | 2111 CO, LLC
+[00:42:28] [155/208] 3500 Co, Llc -> matches=1 | 3500 CO, LLC
+[00:42:28] [156/208] 3073 Co Llc -> matches=1 | 3073 CO LLC
+[00:42:28] [157/208] 1822 Co, Llc -> matches=1 | 1822 CO, LLC
+[00:42:28] [158/208] 1827 Co, Llc -> matches=1 | 1827 CO,  LLC
+[00:42:28] [159/208] 1823 Co Llc -> matches=1 | 1823, LLC | owner: SAMUEL CURTIS STANTON
+[00:42:28] [160/208] 3514 Co, Llc -> matches=1 | 3514 CO, LLC
+[00:42:28] [161/208] Mile & Half Foods Llc -> matches=1 | Mile & Half Foods LLC | owner: MANISHKUMAR NAGINBHAI PATEL (offsite agent)
+[00:42:28] [162/208] La Familia, Inc. -> matches=1 | LA FAMILIA, INC. | owner: RAUL B. MUNIZ (offsite agent)
+[00:42:28] [163/208] 3705, Llc -> matches=1 | 3705, LLC | owner: JAMES PERRY (offsite agent)
+[00:42:28] [164/208] Westland Ventures, Llc -> matches=1 | Westland Ventures, LLC | owner: Sharon Cabrera (offsite agent)
+[00:42:28] [165/208] Fm Juice Company, Llc -> matches=1 | FM Juice Company, LLC | owner: DAVID SCOTT MOSTELLER
+[00:42:28] [166/208] Dia Juice, Llc -> matches=1 | DIA Juice, LLC | owner: DAVID SCOTT MOSTELLER
+[00:42:28] [167/208] Mile High Subs, Llc -> matches=1 | Mile High Subs LLC | owner: TYSON BRIEGEL (offsite agent)
+[00:42:28] [168/208] Co 1333, Llc -> matches=1 | CO 1333 LLC
+[00:42:28] [169/208] Co 1321 Llc -> matches=1 | CO 1321 LLC
+[00:42:28] [170/208] Co 3052 Llc -> matches=1 | CO 3052 LLC
+[00:42:28] [171/208] Jjcs 3056, Llc -> matches=1 | JJCS #3056, LLC | owner: DAVID W DEIST
+[00:42:28] [172/208] Co 968 Llc -> matches=1 | CO 968 LLC
+[00:42:28] [173/208] Sand Dollar, Inc. -> matches=1 | Sand Dollar, Inc. | owner: DAVID W DEIST
+[00:42:28] [174/208] Peak Subs, Llc -> matches=1 | Peak Subs llc | owner: TYSON BRIEGEL (offsite agent)
+[00:42:28] [175/208] 1840 Llc -> matches=1 | 1840 LLC | owner: TYSON BRIEGEL (offsite agent)
+[00:42:28] [176/208] Kram Llc -> matches=1 | Kram LLC | owner: TYSON BRIEGEL (offsite agent)
+[00:42:28] [177/208] Mr Companies, Llc -> matches=1 | MR Companies LLC | owner: MORGAN KAYLA SEDIVEC
+[00:42:28] [178/208] Cmb Entity, Llc -> matches=1 | CMB Entity, LLC | owner: CASEY WRIGHT BUSH (offsite agent)
+[00:42:28] [179/208] Co 2779 Llc -> matches=1 | CO 2779 LLC
+[00:42:28] [180/208] Co 3977, Llc -> matches=1 | CO 3977 LLC
+[00:42:28] [181/208] Ventures With Altitude Llc -> matches=1 | Ventures with Altitude LLC | owner: Michelle E Spidell (offsite agent)
+[00:42:28] [182/208] Co 1147, Llc -> matches=1 | CO 1147 LLC
+[00:42:28] [183/208] Co 3230, Llc -> matches=1 | CO 3230 LLC
+[00:42:28] [184/208] Colorado Black Gold, Llc -> matches=1 | COLORADO BLACK GOLD LLC | owner: CHRISTOPHER TODD RUDY (offsite agent)
+[00:42:28] [185/208] Eam Llc -> matches=1 | EAM LLC | owner: ALEXANDER SOBOLEVSKY (offsite agent)
+[00:42:28] [186/208] 1412, Llc -> matches=1 | 1412 LLC | owner: TYSON BRIEGEL
+[00:42:28] [187/208] Summit Subs, Llc -> matches=1 | Summit Subs LLC | owner: TYSON BRIEGEL (offsite agent)
+[00:42:28] [188/208] 757, Llc -> matches=1 | 757 LLC | owner: TYSON BRIEGEL (offsite agent)
+[00:42:28] [189/208] Karpe Mayo, Llc -> matches=1 | KARpe Mayo, LLC | owner: RYAN DAVID COKER (offsite agent)
+[00:42:28] [190/208] Isw, Inc. -> matches=1 | ISW, Inc. | owner: Dale Stanley
+[00:42:28] [191/208] Jjcs #2822, Llc -> matches=1 | JJCS #2822, LLC | owner: DAVID W DEIST
+[00:42:28] [192/208] Hart, George -> matches=0
+[00:42:28] [193/208] Patel, Bhavesh M. -> matches=0
+[00:42:28] [194/208] Kentucky Fried Chicken Of Alamosa, Inc. -> matches=1 | KENTUCKY FRIED CHICKEN OF ALAMOSA, INC. | owner: JEFFREY DAVID LICKTEIG
+[00:42:28] [195/208] Monument Chicken, Llc -> matches=1 | Monument Chicken LLC | owner: Kelly Marler (offsite agent)
+[00:42:28] [196/208] Pramukh, Llc -> matches=1 | Pramukh, LLC | owner: Rajesh Patel
+[00:42:28] [197/208] Yummy For Your Tummy, Llc -> matches=1 | YUMMY FOR YOUR TUMMY, LLC | owner: Crystal Colemere
+[00:42:28] [198/208] Mam Group, Llc -> matches=0
+[00:42:28] [199/208] Abraham Asfaw -> matches=0
+[00:42:28] [200/208] Shane King -> matches=0
+[00:42:28] [201/208] Sharon S Koenig -> matches=1 | SHARON'S LLC | owner: SHARON FOLEY (offsite agent)
+[00:42:28] [202/208] Toni Rodgers -> matches=0
+[00:42:28] [203/208] Worldwide Restaurant Corporation -> matches=1 | WORLDWIDE RESTAURANT CORPORATION
+[00:42:28] [204/208] Hal W. Mccoy -> matches=0
+[00:42:28] [205/208] Ssp America, Inc. -> matches=1 | SSP America, Inc.
+[00:42:28] [206/208] Cajun Star, Inc. -> matches=1 | Cajun Star, Inc.
+[00:42:28] [207/208] Pop Of Colorado, Inc. -> matches=1 | POP of Colorado, Inc.
+[00:42:28] [208/208] Pop Of Park Meadows, Inc -> matches=1 | POP of Park Meadows, Inc.
+[00:42:28] Match phase done: processed=208, skipped=0
+[00:42:28] Running cross-row analysis ...
+[00:42:28] Rescored 208 rows.
+[00:42:28] Output: D:\PBX Code\MUF Database Builder\nova-abm-enrichment\states\co\output\enriched.csv
