@@ -9,6 +9,15 @@ __pycache__/
 .venv/
 venv/
 
+# Source FDD PDFs — large binaries. The per-PDF extraction caches under
+# FDD Parser/Code/cache/ are the durable artifact, so the PDFs themselves
+# don't need to live in the repo (keeps employee pushes small and fast).
+FDD Parser/Data/**/*.pdf
+FDD Parser/Data/*.pdf
+
+# Pipeline run logs — regenerated every run, no need to track.
+FDD Parser/Code/*.log
+
 # Bulk dataset caches — multi-GB downloads, exceed GitHub file limits
 # Regenerate by running the enrich scripts (they auto-download/refresh).
 states/*/bulk/

@@ -1,0 +1,2635 @@
+{
+  "brand": "Synergy HomeCare",
+  "records": [
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Stan & Jennifer Solomon",
+      "state_full": "Alabama",
+      "raw_address": "114 Trade Center Drive, Suite A",
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35244",
+      "restaurant_phone": "(205) 987-0555"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Andy Luedecke",
+      "state_full": "Alabama",
+      "raw_address": "1048 Stanton Road, Suite D",
+      "city": "Daphne",
+      "state": "AL",
+      "zip": "36526",
+      "restaurant_phone": "(251) 621-1900"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Lee Weeks",
+      "state_full": "Alabama",
+      "raw_address": "3411 Triana Blvd SW, Ste D",
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35805",
+      "restaurant_phone": "(256) 285-3451"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Scott & Lynn Slocum",
+      "state_full": "Alabama",
+      "raw_address": "3320 Skyway Drive, Suite 801",
+      "city": "Opelika",
+      "state": "AL",
+      "zip": "36801",
+      "restaurant_phone": "(334) 203-1850"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Jeremy & Sarah Claridge",
+      "state_full": "Arizona",
+      "raw_address": "13210 W Van Buren St., Suite 100",
+      "city": "Goodyear",
+      "state": "AZ",
+      "zip": "85338",
+      "restaurant_phone": "(623) 246-1000"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Mike & Maria Endredy",
+      "state_full": "Arizona",
+      "raw_address": "1835 W Chandler Blvd, Suite 201A",
+      "city": "Chandler",
+      "state": "AZ",
+      "zip": "85224",
+      "restaurant_phone": "(480) 377-6770"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Kelly & Sarah Engelhardt",
+      "state_full": "Arizona",
+      "raw_address": "10505 N 69th Street, Suite 201",
+      "city": "Paradise Valley",
+      "state": "AZ",
+      "zip": "85253",
+      "restaurant_phone": "(480) 947-1234"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Alan & Liz Wikman",
+      "state_full": "Arizona",
+      "raw_address": "7762 E Florentine Road, Suite C",
+      "city": "Prescott Valley",
+      "state": "AZ",
+      "zip": "86314",
+      "restaurant_phone": "(928) 515-3318"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Kelly & Michael Hyman",
+      "state_full": "Arizona",
+      "raw_address": "3965 E. Foothills Dr., Ste. H",
+      "city": "Sierra Vista",
+      "state": "AZ",
+      "zip": "85635",
+      "restaurant_phone": "(520) 685-1035"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Mike & Maria Endredy",
+      "state_full": "Arizona",
+      "raw_address": "10240 W Bell Road, Suite A",
+      "city": "Sun City",
+      "state": "AZ",
+      "zip": "85351",
+      "restaurant_phone": "(623) 875-7100"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Randy Geyen & Lisa Landvik Geyen",
+      "state_full": "Arizona",
+      "raw_address": "1050 E River Road, Suite 100",
+      "city": "Tucson",
+      "state": "AZ",
+      "zip": "85718",
+      "restaurant_phone": "(520) 327-2771"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Randy Geyen & Lisa Landvik_Geyen",
+      "state_full": "Arizona",
+      "raw_address": "1050 E River Road, Suite 100",
+      "city": "Tucson",
+      "state": "AZ",
+      "zip": "85718",
+      "restaurant_phone": "(520) 327-2771"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Rob & Melissa Dunn",
+      "state_full": "Arizona",
+      "raw_address": "1405 W 16th Street, Suite A, D & E",
+      "city": "Yuma",
+      "state": "AZ",
+      "zip": "85364",
+      "restaurant_phone": "(928) 817-7172"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Angelo Volpi & Lorel Wilhelm-Volpi",
+      "state_full": "Arkansas",
+      "raw_address": "300 South Rodney Parham, Suite 7",
+      "city": "Little Rock",
+      "state": "AR",
+      "zip": "72205",
+      "restaurant_phone": "(501) 313-2811"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Dione Ziemer",
+      "state_full": "Arkansas",
+      "raw_address": "600 Pine Forest Dr., Suite 202",
+      "city": "Maumelle",
+      "state": "AR",
+      "zip": "72113",
+      "restaurant_phone": "(501) 426-7501"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Craig Fett",
+      "state_full": "California",
+      "raw_address": "155 N Riverview Drive, Suite 100",
+      "city": "Anaheim Hills",
+      "state": "CA",
+      "zip": "92808",
+      "restaurant_phone": "(714) 706-1613"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Sam Hishmeh, Tyler Hishmeh & Samantha Saleh",
+      "state_full": "California",
+      "raw_address": "601 E. Daily Dr., Ste. 118",
+      "city": "Camarillo",
+      "state": "CA",
+      "zip": "93010",
+      "restaurant_phone": "(805) 388-9292"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Tom Nelson",
+      "state_full": "California",
+      "raw_address": "2006 Winchester Blvd., Suite D",
+      "city": "Campbell",
+      "state": "CA",
+      "zip": "95008",
+      "restaurant_phone": "(408) 429-8769"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Jeb Butler",
+      "state_full": "California",
+      "raw_address": "5857 Owens Avenue, Suite 300",
+      "city": "Carlsbad",
+      "state": "CA",
+      "zip": "92008",
+      "restaurant_phone": "(760) 990-4289"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Sam Shah",
+      "state_full": "California",
+      "raw_address": "11663 Deerlake Ranch Road",
+      "city": "Chatsworth",
+      "state": "CA",
+      "zip": "9131",
+      "restaurant_phone": "(650) 996-0131"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Craig Fett",
+      "state_full": "California",
+      "raw_address": "1101 California Avenue, Suite 203",
+      "city": "Corona",
+      "state": "CA",
+      "zip": "92881",
+      "restaurant_phone": "(951) 280-9808"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Caroline & Emmnuel Ogunji",
+      "state_full": "California",
+      "raw_address": "1851 Huntington Dr. Ste. 69",
+      "city": "Duarte",
+      "state": "CA",
+      "zip": "91010",
+      "restaurant_phone": "(909) 272-7773"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Roya Ghanimat & Sher Bashir",
+      "state_full": "California",
+      "raw_address": "360 N. Midway Dr., Ste. 103",
+      "city": "Escondido",
+      "state": "CA",
+      "zip": "92027",
+      "restaurant_phone": "(760) 891-5200"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Sweta Solanki",
+      "state_full": "California",
+      "raw_address": "4493 Calypso Terrace",
+      "city": "Fremont",
+      "state": "CA",
+      "zip": "95555",
+      "restaurant_phone": "(510) 461-0997"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Ahmed Abdalla",
+      "state_full": "California",
+      "raw_address": "2595 E Perrin Ave, Suite 103",
+      "city": "Fresno",
+      "state": "CA",
+      "zip": "93720",
+      "restaurant_phone": "(559) 765-4687"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Fadi Alawi",
+      "state_full": "California",
+      "raw_address": "11590 Trask Ave.",
+      "city": "Garden Grove",
+      "state": "CA",
+      "zip": "92843",
+      "restaurant_phone": "(714) 927-3835"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Michael & Tevy Mantong",
+      "state_full": "California",
+      "raw_address": "16152 Beach Blvd, Unit 279",
+      "city": "Huntington Beach",
+      "state": "CA",
+      "zip": "92647",
+      "restaurant_phone": "(714) 509-1880"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Robert Regan",
+      "state_full": "California",
+      "raw_address": "5220 Clark Ave., Suite 345",
+      "city": "Lakewood",
+      "state": "CA",
+      "zip": "90712",
+      "restaurant_phone": "(562) 213-9137"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Angela & Peter Le",
+      "state_full": "California",
+      "raw_address": "7317 El Cajon Blvd, Ste. 202C",
+      "city": "La Mesa",
+      "state": "CA",
+      "zip": "91942",
+      "restaurant_phone": "(619) 648-5222"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Vivian Mendoza",
+      "state_full": "California",
+      "raw_address": "4049 First St., Ste. 223",
+      "city": "Livermore",
+      "state": "CA",
+      "zip": "94551",
+      "restaurant_phone": "(925) 344-3343"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Nia Garcia",
+      "state_full": "California",
+      "raw_address": "2760 E Spring Street, Suite 204",
+      "city": "Long Beach",
+      "state": "CA",
+      "zip": "90806",
+      "restaurant_phone": "(562) 426-9100"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Asha Kumar",
+      "state_full": "California",
+      "raw_address": "852 S. Tremaine Ave.",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90005",
+      "restaurant_phone": "(626) 536-2865"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Oluwafemi Thompson",
+      "state_full": "California",
+      "raw_address": "1112 Ocean Drive, Suite 102B",
+      "city": "Manhattan Beach",
+      "state": "CA",
+      "zip": "90266",
+      "restaurant_phone": "(424) 254-1763"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Augustine Attah",
+      "state_full": "California",
+      "raw_address": "1363 Jacklin Rd.",
+      "city": "Milpitas",
+      "state": "CA",
+      "zip": "95035",
+      "restaurant_phone": "(408) 916-5797"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Samar Nasrawi & Cynthia Syriani",
+      "state_full": "California",
+      "raw_address": "30543 Gill Street",
+      "city": "Murietta",
+      "state": "CA",
+      "zip": "92563",
+      "restaurant_phone": "(951) 691-0418"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Christian Beller",
+      "state_full": "California",
+      "raw_address": "3850 Ramada Dr, Ste D-3A",
+      "city": "Paso Robles",
+      "state": "CA",
+      "zip": "93446",
+      "restaurant_phone": "(805) 400-2136"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Christine & David Sorgman",
+      "state_full": "California",
+      "raw_address": "2003-A Opportunity Drive, Suite 6",
+      "city": "Roseville",
+      "state": "CA",
+      "zip": "95678",
+      "restaurant_phone": "(916) 899-5925"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Duke Chadsey & Teresa Abel",
+      "state_full": "California",
+      "raw_address": "1181 Puerta Del Sol, Suite 120",
+      "city": "San Clemente",
+      "state": "CA",
+      "zip": "92673",
+      "restaurant_phone": "(949) 331-9400"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Emeka & Ogochukwe Okeke",
+      "state_full": "California",
+      "raw_address": "3200 4th Avenue, Suite 205",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92103",
+      "restaurant_phone": "(619) 542-0337"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Greg Enrique",
+      "state_full": "California",
+      "raw_address": "10085 Carroll Canyon Road, Suite 260",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92131",
+      "restaurant_phone": "(858) 707-7599"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Mercy & Michael Egbujor",
+      "state_full": "California",
+      "raw_address": "841 Blossom Hill Road, Suite 108",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "95123",
+      "restaurant_phone": "(408) 662-3871"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Brent & Jessica Davis",
+      "state_full": "California",
+      "raw_address": "25101 The Old Rd, Suite 105",
+      "city": "Santa Clarita",
+      "state": "CA",
+      "zip": "91381",
+      "restaurant_phone": "(661) 502-1858"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Joseph Williams & Christopher Barrett",
+      "state_full": "California",
+      "raw_address": "1541 Ocean Avenue, Ste. 200",
+      "city": "Santa Monica",
+      "state": "CA",
+      "zip": "90401",
+      "restaurant_phone": "(424) 289-6766"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Sudip & Indrani Ghosh",
+      "state_full": "California",
+      "raw_address": "2335 W Foothill Boulevard, Suite 8",
+      "city": "Upland",
+      "state": "CA",
+      "zip": "91786",
+      "restaurant_phone": "(909) 920-0333"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Saida Sayej & Nabil Butros",
+      "state_full": "California",
+      "raw_address": "1661 Botelho Dr., Unit 297",
+      "city": "Walnut Creek",
+      "state": "CA",
+      "zip": "94596",
+      "restaurant_phone": "(925) 588-3318"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Julio & Julia Jimenez",
+      "state_full": "California",
+      "raw_address": "7255 Comstock Ave.",
+      "city": "Whittier",
+      "state": "CA",
+      "zip": "90602",
+      "restaurant_phone": "(562) 512-0558"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Ian & Brooke McClintock",
+      "state_full": "Colorado",
+      "raw_address": "21 E Willamette Ave",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80903",
+      "restaurant_phone": "(719) 203-5848"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Tom Yetzer & Shanna",
+      "state_full": "Colorado",
+      "raw_address": "3749 S King Street",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80236",
+      "restaurant_phone": "(303) 756-9322"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Tom Yetzer & Shanna Tourtlotte",
+      "state_full": "Colorado",
+      "raw_address": "3749 S King Street",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80236",
+      "restaurant_phone": "(303) 756-9322"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Greg Rodolph",
+      "state_full": "Colorado",
+      "raw_address": "23 Inverness Way East, Suite 175",
+      "city": "Englewood",
+      "state": "CO",
+      "zip": "80112",
+      "restaurant_phone": "(303) 953-9924"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Leighton Boyce & Kyle Kobi",
+      "state_full": "Colorado",
+      "raw_address": "2919 17th Avenue, Suite 115",
+      "city": "Longmont",
+      "state": "CO",
+      "zip": "80503",
+      "restaurant_phone": "(720) 204-5788"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Greg Budraitis",
+      "state_full": "Colorado",
+      "raw_address": "8771 Wolff Court, Suite 105",
+      "city": "Westminster",
+      "state": "CO",
+      "zip": "80031",
+      "restaurant_phone": "(303) 465-4663"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Jim & Peter Crossett",
+      "state_full": "Connecticut",
+      "raw_address": "36 Mill Plain Road, Suite 206",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06811",
+      "restaurant_phone": "(203) 731-2560"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Gordon Wall & Margaret Rubano",
+      "state_full": "Connecticut",
+      "raw_address": "152 Saltonstall Parkway, Unit B",
+      "city": "East Haven",
+      "state": "CT",
+      "zip": "06512",
+      "restaurant_phone": "(203) 691-5071"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Theresa Jakubowski & Eric Seitter",
+      "state_full": "Connecticut",
+      "raw_address": "2572 Whitney Avenue, Unit 1",
+      "city": "Hamden",
+      "state": "CT",
+      "zip": "06518",
+      "restaurant_phone": "(203) 695-1578"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "CJ Namdev",
+      "state_full": "Connecticut",
+      "raw_address": "1200 Summer Street, Suite 105",
+      "city": "Stamford",
+      "state": "CT",
+      "zip": "06905",
+      "restaurant_phone": "(203) 661-6969"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Jay Kiley",
+      "state_full": "Connecticut",
+      "raw_address": "12 Cambridge Drive, 2nd Floor",
+      "city": "Trumbull",
+      "state": "CT",
+      "zip": "06611",
+      "restaurant_phone": "(203) 923-8866"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Jay Kiley",
+      "state_full": "Connecticut",
+      "raw_address": "433 Silas Deane Highway, Second Floor",
+      "city": "Wethersfield",
+      "state": "CT",
+      "zip": "06109",
+      "restaurant_phone": "(860) 583-6062"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Bill & Cristina Rambo",
+      "state_full": "Delaware",
+      "raw_address": "4446 Summit Bridge Road, Suite 4",
+      "city": "Middletown",
+      "state": "DE",
+      "zip": "19709",
+      "restaurant_phone": "(302) 272-9218"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Shea Vandross",
+      "state_full": "Florida",
+      "raw_address": "409 Apollo Beach Blvd.",
+      "city": "Apollo Beach",
+      "state": "FL",
+      "zip": "33572",
+      "restaurant_phone": "(813) 524-6996"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Alexandra & Ken Lund",
+      "state_full": "Florida",
+      "raw_address": "1200 N Federal Highway, Suite 200",
+      "city": "Boca Raton",
+      "state": "FL",
+      "zip": "33432",
+      "restaurant_phone": "(561) 210-0300"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Kenneth & Bernadette Gregson",
+      "state_full": "Florida",
+      "raw_address": "4304 32nd St. W",
+      "city": "Bradenton",
+      "state": "FL",
+      "zip": "34205",
+      "restaurant_phone": "(941) 345-4839"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Mayuli Carmona",
+      "state_full": "Florida",
+      "raw_address": "2708 Santa Barbara Blvd., Suite 120",
+      "city": "Cape Coral",
+      "state": "FL",
+      "zip": "33914",
+      "restaurant_phone": "(239) 770-1171"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Frank DeCicco",
+      "state_full": "Florida",
+      "raw_address": "1761 W. Hillsboro Blvd., Ste. 403",
+      "city": "Deerfield Beach",
+      "state": "FL",
+      "zip": "33442",
+      "restaurant_phone": "(754) 266-5600"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Summer Padilla, Louis & Loreena Hernandez",
+      "state_full": "Florida",
+      "raw_address": "1991 Industrial Dr., Ste 220-221",
+      "city": "Deland",
+      "state": "FL",
+      "zip": "32724",
+      "restaurant_phone": "(386) 327-2438"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Vish Rajan",
+      "state_full": "Florida",
+      "raw_address": "601 N Congress Ave, Ste 429",
+      "city": "Delray Beach",
+      "state": "FL",
+      "zip": "33445",
+      "restaurant_phone": "(561) 276-9985"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Dale Dalbey",
+      "state_full": "Florida",
+      "raw_address": "35008 Emerald Coast Pkwy, Suite 401",
+      "city": "Destin",
+      "state": "FL",
+      "zip": "32541",
+      "restaurant_phone": "(850) 687-3965"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Eric & Kobi Jorgensen",
+      "state_full": "Florida",
+      "raw_address": "601 Heritage Dr., Ste.105",
+      "city": "Jupiter",
+      "state": "FL",
+      "zip": "33458",
+      "restaurant_phone": "(561) 634-8691"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Keith Mueller, Mark Piegza, Rob Risk, & Jarod Carter",
+      "state_full": "Florida",
+      "raw_address": "543 North Wymore Rd, Ste 103",
+      "city": "Maitland",
+      "state": "FL",
+      "zip": "32751",
+      "restaurant_phone": "(407) 641-4306"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Lucia & Jorge Robelo",
+      "state_full": "Florida",
+      "raw_address": "1627 SW 37th Avenue, #100",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33145",
+      "restaurant_phone": "(786) 888-0379"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Joel Aramis",
+      "state_full": "Florida",
+      "raw_address": "15715 South Dixie Hwy, Suite 333",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33157",
+      "restaurant_phone": "(305) 394-9898"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Kristen Snell",
+      "state_full": "Florida",
+      "raw_address": "822 N. Donnelly St, Ste C",
+      "city": "Mount Dora",
+      "state": "FL",
+      "zip": "32757",
+      "restaurant_phone": "(352) 720-2354"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Amanda Mancuso",
+      "state_full": "Florida",
+      "raw_address": "2500 Tamiami Trl N., Suite 226",
+      "city": "Naples",
+      "state": "FL",
+      "zip": "34120",
+      "restaurant_phone": "(239) 799-5898"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Carlos Cuesta",
+      "state_full": "Florida",
+      "raw_address": "1501 Robert J Conlan Blvd NE, Ste. 140",
+      "city": "Palm Bay",
+      "state": "FL",
+      "zip": "32905",
+      "restaurant_phone": "(321) 340-3828"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Erin and Phil Shipley",
+      "state_full": "Florida",
+      "raw_address": "2708 US-19 ALT, Ste 602",
+      "city": "Palm Harbor",
+      "state": "FL",
+      "zip": "34683",
+      "restaurant_phone": "(727) 263-2719"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Kurt & Christine Bowman",
+      "state_full": "Florida",
+      "raw_address": "97 West Oak Ave., Ste. 1414",
+      "city": "Panama City",
+      "state": "FL",
+      "zip": "32401",
+      "restaurant_phone": "(850) 661-0362"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Frank DeCicco",
+      "state_full": "Florida",
+      "raw_address": "7366 NW 5th Street",
+      "city": "Plantation",
+      "state": "FL",
+      "zip": "33317",
+      "restaurant_phone": "(954) 765-6172"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Richard & Yesenia Lawler",
+      "state_full": "Florida",
+      "raw_address": "6981 Curtiss Ave., Suite 4",
+      "city": "Sarasota",
+      "state": "FL",
+      "zip": "34231",
+      "restaurant_phone": "(941) 870-9404"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Felicia Coke",
+      "state_full": "Florida",
+      "raw_address": "2035 US Hwy 27N",
+      "city": "Sebring",
+      "state": "FL",
+      "zip": "33872",
+      "restaurant_phone": "(863) 658-4701"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Ashli & Kenisha West",
+      "state_full": "Florida",
+      "raw_address": "5666 Seminole Blvd, Ste 103",
+      "city": "Seminole",
+      "state": "FL",
+      "zip": "33772",
+      "restaurant_phone": "(727) 339-0811"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Anise Alcida",
+      "state_full": "Florida",
+      "raw_address": "1398 SW 160th Ave., Suite 301",
+      "city": "Sunrise",
+      "state": "FL",
+      "zip": "33326",
+      "restaurant_phone": "(954) 932-0195"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Kurt & Christine Bowman",
+      "state_full": "Florida",
+      "raw_address": "2236 Capital Circle NE, Suite 106",
+      "city": "Tallahassee",
+      "state": "FL",
+      "zip": "32308",
+      "restaurant_phone": "(850) 661-0557"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Travis & Jennifer Larimore",
+      "state_full": "Florida",
+      "raw_address": "3500 E. Fletcher Ave., Ste 220",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33613",
+      "restaurant_phone": "(813) 939-4663"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Jeff & Cheryl Tremblay",
+      "state_full": "Florida",
+      "raw_address": "812 Pinebrook Road",
+      "city": "Venice",
+      "state": "FL",
+      "zip": "34285",
+      "restaurant_phone": "(941) 483-9111"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Susan Artigas",
+      "state_full": "Florida",
+      "raw_address": "953 Old Dixie Highway, Ste. B",
+      "city": "Vero Beach",
+      "state": "FL",
+      "zip": "32960",
+      "restaurant_phone": "(772) 758-2226"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Lisemene, Sarah & Frecks Bertrand",
+      "state_full": "Florida",
+      "raw_address": "2460 Metrocentre Blvd.",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "zip": "33407",
+      "restaurant_phone": "(561) 593-8424"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Aneera Shirazee & Saira Rehmatullah",
+      "state_full": "Florida",
+      "raw_address": "12289 Encore at Ovation Way",
+      "city": "Winter Garden",
+      "state": "FL",
+      "zip": "34787",
+      "restaurant_phone": "(689) 201-1904"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Eric & Kobi Jorgensen",
+      "state_full": "Florida",
+      "raw_address": "601 Heritage Dr., Ste. 105",
+      "city": "Jupiter",
+      "state": "FL",
+      "zip": "33458",
+      "restaurant_phone": "(561) 634-8691"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Sue McCormick",
+      "state_full": "Georgia",
+      "raw_address": "3050 Royal Blvd South, Suite 150",
+      "city": "Alpharetta",
+      "state": "GA",
+      "zip": "30022",
+      "restaurant_phone": "(770) 777-4781"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Roosevelt Turnbull",
+      "state_full": "Georgia",
+      "raw_address": "1108 South Wall Street, Suite 3",
+      "city": "Calhoun",
+      "state": "GA",
+      "zip": "30701",
+      "restaurant_phone": "(706) 810-3440"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Priyanka & Amit Patel",
+      "state_full": "Georgia",
+      "raw_address": "203 McCanless Street",
+      "city": "Cartersville",
+      "state": "GA",
+      "zip": "30120",
+      "restaurant_phone": "(770) 766-8787"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Doris Combs-Marshall",
+      "state_full": "Georgia",
+      "raw_address": "2375 Wall Street, SE, Suite 240, Room 14",
+      "city": "Conyers",
+      "state": "GA",
+      "zip": "30013",
+      "restaurant_phone": "(678) 909-3044"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Daniel Bates",
+      "state_full": "Georgia",
+      "raw_address": "30 Industrial Park Rd., Suite 119",
+      "city": "Dawsonville",
+      "state": "GA",
+      "zip": "30534",
+      "restaurant_phone": "(470) 410-7682"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Sheba Harris",
+      "state_full": "Georgia",
+      "raw_address": "7447 Douglas Blvd., Suite 105",
+      "city": "Douglasville",
+      "state": "GA",
+      "zip": "30135",
+      "restaurant_phone": "(770) 881-8509"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Doris Combs-Marshall",
+      "state_full": "Georgia",
+      "raw_address": "5604 Wendy Bagwell Parkway, Suite 321",
+      "city": "Hiram",
+      "state": "GA",
+      "zip": "30141",
+      "restaurant_phone": "(678) 909-3043"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Kike Olagbegi & Sola Aderibigbe",
+      "state_full": "Georgia",
+      "raw_address": "1129 Hospital Dr, Suite 6F",
+      "city": "Stockbridge",
+      "state": "GA",
+      "zip": "30281",
+      "restaurant_phone": "(678) 835-5334"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Dan & Jennifer Armstead and Julius & Joel Bagley",
+      "state_full": "Georgia",
+      "raw_address": "1138 Satellite Blvd, Suite 200",
+      "city": "Suwanee",
+      "state": "GA",
+      "zip": "30024",
+      "restaurant_phone": "(770) 783-2323"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Andrew & Marissa Jones",
+      "state_full": "Idaho",
+      "raw_address": "4413 S. Chaps Ave.",
+      "city": "Boise",
+      "state": "ID",
+      "zip": "83709",
+      "restaurant_phone": "(503) 860-2264"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Natasha & Emmanuel Ohene Opare",
+      "state_full": "Idaho",
+      "raw_address": "330 Shoup Ave., Ste 204",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "zip": "83402",
+      "restaurant_phone": "(208) 360-4067"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Diego & Ana Uribe",
+      "state_full": "Illinois",
+      "raw_address": "426 N. Hough Street",
+      "city": "Barrington",
+      "state": "IL",
+      "zip": "60010",
+      "restaurant_phone": "(847) 304-0123"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Jim & Gaye Aaberg",
+      "state_full": "Illinois",
+      "raw_address": "2403 General Electric Road",
+      "city": "Bloomington",
+      "state": "IL",
+      "zip": "61704",
+      "restaurant_phone": "(309) 808-3047"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Sarah Chowdhury",
+      "state_full": "Illinois",
+      "raw_address": "1802 West Berteau Avenue, Suite 202",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60613",
+      "restaurant_phone": "(773) 868-3183"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Heather Woodard",
+      "state_full": "Illinois",
+      "raw_address": "101 W. Vandalia Street, Suite 125",
+      "city": "Edwardsvile",
+      "state": "IL",
+      "zip": "62025",
+      "restaurant_phone": "(618) 422-6485"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Mark Gould",
+      "state_full": "Illinois",
+      "raw_address": "800 Roosevelt Rd, Bldg B, Ste 222",
+      "city": "Glen Ellyn",
+      "state": "IL",
+      "zip": "60137",
+      "restaurant_phone": "(630) 517-0068"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Joe Galo & Colin Regan",
+      "state_full": "Illinois",
+      "raw_address": "2550 Compass Road, Suite G",
+      "city": "Glenview",
+      "state": "IL",
+      "zip": "60026",
+      "restaurant_phone": "(847) 483-1670"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Ruchir Patel",
+      "state_full": "Illinois",
+      "raw_address": "223 North Route 21",
+      "city": "Gurnee",
+      "state": "IL",
+      "zip": "60031",
+      "restaurant_phone": "(847) 388-0014"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Shad & Melissa Sleeth",
+      "state_full": "Illinois",
+      "raw_address": "7326 N University Street",
+      "city": "Peoria",
+      "state": "IL",
+      "zip": "61614",
+      "restaurant_phone": "(309) 222-8656"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Bailey & Kyana Wilkinson",
+      "state_full": "Illinois",
+      "raw_address": "15507 South Route 59, Ste 107E",
+      "city": "Plainfield",
+      "state": "IL",
+      "zip": "60544",
+      "restaurant_phone": "(815) 567-1110"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Paul & Shelley Fisher",
+      "state_full": "Illinois",
+      "raw_address": "1701 E. Woodfield Road, Suite 611",
+      "city": "Schaumburg",
+      "state": "IL",
+      "zip": "60173",
+      "restaurant_phone": "(630) 237-4460"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Trent Terry",
+      "state_full": "Indiana",
+      "raw_address": "2250 W. 8th Street, Suite 250",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "46260",
+      "restaurant_phone": "(317) 268-5751"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Tanisha Stephenson",
+      "state_full": "Indiana",
+      "raw_address": "9111 Broadway, Suite K",
+      "city": "Merrilville",
+      "state": "IN",
+      "zip": "46410",
+      "restaurant_phone": "(219) 247-8892"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Thomas & Mindy Deckard",
+      "state_full": "Indiana",
+      "raw_address": "1605 Chester Blvd",
+      "city": "Richmond",
+      "state": "IN",
+      "zip": "47374",
+      "restaurant_phone": "(765) 939-2818"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Shad and Melissa Sleeth",
+      "state_full": "Iowa",
+      "raw_address": "1001 Office Park Rd, Ste. 121",
+      "city": "West Des Moines",
+      "state": "IA",
+      "zip": "50265",
+      "restaurant_phone": "(515) 561-9990"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Doug Peterson",
+      "state_full": "Kansas",
+      "raw_address": "9240 Glenwood Street, Suite B",
+      "city": "Overland Park",
+      "state": "KS",
+      "zip": "66212",
+      "restaurant_phone": "(913) 685-9700"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Yasmary Hernandez",
+      "state_full": "Kentucky",
+      "raw_address": "105 Vieux Carre Dr.",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40223",
+      "restaurant_phone": "(502) 509-9007"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Charles & Crystal Crosby",
+      "state_full": "Louisiana",
+      "raw_address": "102-B East Bayou Rd, Ste 1",
+      "city": "Thibodaux",
+      "state": "LA",
+      "zip": "70301",
+      "restaurant_phone": "(985) 228-6828"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Mark Decker",
+      "state_full": "Maryland",
+      "raw_address": "1699 Emmorton Road, Suite 200",
+      "city": "Bel Air",
+      "state": "MD",
+      "zip": "21015",
+      "restaurant_phone": "(410) 569-3302"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Syed Abbas",
+      "state_full": "Maryland",
+      "raw_address": "3909 National Dr., Ste 150",
+      "city": "Burtonsville",
+      "state": "MD",
+      "zip": "20866",
+      "restaurant_phone": "(301) 969-1871"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Mike & Jennifer Diamond",
+      "state_full": "Maryland",
+      "raw_address": "106 Old Padonia Road, Ste 2N",
+      "city": "Cockeysville",
+      "state": "MD",
+      "zip": "21030",
+      "restaurant_phone": "(410) 339-7260"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Karen Burkholder",
+      "state_full": "Maryland",
+      "raw_address": "69 Mayo Road, Suite 204",
+      "city": "Edgewater",
+      "state": "MD",
+      "zip": "21037",
+      "restaurant_phone": "(410) 263-4050"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Hetal Shah",
+      "state_full": "Maryland",
+      "raw_address": "3290 Pine Orchard Lane, Ste 108",
+      "city": "Ellicott City",
+      "state": "MD",
+      "zip": "21042",
+      "restaurant_phone": "(410) 776-7515"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Faruk Kayan",
+      "state_full": "Maryland",
+      "raw_address": "7310 Grove Rd, Ste 106",
+      "city": "Frederick",
+      "state": "MD",
+      "zip": "21704",
+      "restaurant_phone": "(301) 835-2381"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Alward Siyyid, Saira Sherazi & Syed Sherazi",
+      "state_full": "Maryland",
+      "raw_address": "13400 Allnutt Lane",
+      "city": "Highland",
+      "state": "MD",
+      "zip": "20777",
+      "restaurant_phone": "(202) 316-1848"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Ross Fierman",
+      "state_full": "Maryland",
+      "raw_address": "11140 Rockville Pike, Suite 400",
+      "city": "Rockville",
+      "state": "MD",
+      "zip": "20852",
+      "restaurant_phone": "(301) 200-9292"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Uma Das Munshi",
+      "state_full": "Massachusetts",
+      "raw_address": "693 East Central Street, Suite 202",
+      "city": "Franklin",
+      "state": "MA",
+      "zip": "02038",
+      "restaurant_phone": "(781) 762-1114"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Mike Botelho",
+      "state_full": "Massachusetts",
+      "raw_address": "31 Hastings St., Ste. 6BB",
+      "city": "Mendon",
+      "state": "MA",
+      "zip": "01756",
+      "restaurant_phone": "(508) 388-4600"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Aamna Ijaz & Umair Amin",
+      "state_full": "Michigan",
+      "raw_address": "5340 Plymouth Road, Suite 208",
+      "city": "Ann Arbor",
+      "state": "MI",
+      "zip": "48105",
+      "restaurant_phone": "(888) 380-0462"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Shafiq Bari & Zeenat Mannan",
+      "state_full": "Michigan",
+      "raw_address": "23290 Farmington Road",
+      "city": "Farmington",
+      "state": "MI",
+      "zip": "48336",
+      "restaurant_phone": "(248) 919-1244"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Shafiq Bari & Zeenat Mannan",
+      "state_full": "Michigan",
+      "raw_address": "14800 Farmington Road, Suite 107",
+      "city": "Livonia",
+      "state": "MI",
+      "zip": "48154",
+      "restaurant_phone": "(734) 469-4255"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "James Kaufman",
+      "state_full": "Michigan",
+      "raw_address": "22725 Greater Mack Ave., Bldg 1, Ste 203",
+      "city": "St. Clair Shores",
+      "state": "MI",
+      "zip": "48080",
+      "restaurant_phone": "(586) 486-6335"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Bill Adams",
+      "state_full": "Michigan",
+      "raw_address": "4345 Meigs Avenue, Ste 103",
+      "city": "Waterford",
+      "state": "MI",
+      "zip": "48329",
+      "restaurant_phone": "(248) 757-5511"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Jeff Schultz",
+      "state_full": "Michigan",
+      "raw_address": "2268 10th Street",
+      "city": "Wyandotte",
+      "state": "MI",
+      "zip": "48192",
+      "restaurant_phone": "(734) 258-8896"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Brian McDonald",
+      "state_full": "Minnesota",
+      "raw_address": "1879 Station Parkway NW",
+      "city": "Andover",
+      "state": "MN",
+      "zip": "55304",
+      "restaurant_phone": "(763) 205-4440"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Eric & Susan Larson",
+      "state_full": "Minnesota",
+      "raw_address": "2999 West County Road 42, Suite 200",
+      "city": "Burnsville",
+      "state": "MN",
+      "zip": "55306",
+      "restaurant_phone": "(952) 808-6919"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Brianna & Jonathan Beltran",
+      "state_full": "Minnesota",
+      "raw_address": "3348 Sherman Court, Suite 1",
+      "city": "Eagan",
+      "state": "MN",
+      "zip": "55121",
+      "restaurant_phone": "(651) 905-5500"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Mitch Bloom",
+      "state_full": "Minnesota",
+      "raw_address": "7575 Golden Valley Road, Suite 378",
+      "city": "Golden Valley",
+      "state": "MN",
+      "zip": "55427",
+      "restaurant_phone": "(763) 746-2899"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Clinton Broviak",
+      "state_full": "Minnesota",
+      "raw_address": "100 Warren Street, Suite 347",
+      "city": "Mankato",
+      "state": "MN",
+      "zip": "56001",
+      "restaurant_phone": "(507) 769-0828"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Joel and Meredith Bell",
+      "state_full": "Minnesota",
+      "raw_address": "4229 W Frontage Rd NW, Ste 7",
+      "city": "Rochester",
+      "state": "MN",
+      "zip": "55901",
+      "restaurant_phone": "(507) 646-3844"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Jim & Heather Zenk",
+      "state_full": "Minnesota",
+      "raw_address": "2336 Lexington Ave N",
+      "city": "Roseville",
+      "state": "MN",
+      "zip": "55113",
+      "restaurant_phone": "(612) 455-2585"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Alicia Harmon",
+      "state_full": "Minnesota",
+      "raw_address": "2155 Woodlane Drive, Suite 104",
+      "city": "Woodbury",
+      "state": "MN",
+      "zip": "55125",
+      "restaurant_phone": "(612) 256-2214"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Dr. Tracy & Anthony Hall",
+      "state_full": "Mississippi",
+      "raw_address": "5960 Getwell Road, Suite 212",
+      "city": "Southaven",
+      "state": "MS",
+      "zip": "38672",
+      "restaurant_phone": "(662) 932-2828"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Shreka Knight",
+      "state_full": "Mississippi",
+      "raw_address": "398 East Main St., Suite #115",
+      "city": "Tupelo",
+      "state": "MS",
+      "zip": "38804",
+      "restaurant_phone": "(662) 913-7590"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Afifa Yusof",
+      "state_full": "Missouri",
+      "raw_address": "33 East Broadway, Ste 120",
+      "city": "Columbia",
+      "state": "MO",
+      "zip": "65203",
+      "restaurant_phone": "(573) 232-2666"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Doug Peterson",
+      "state_full": "Missouri",
+      "raw_address": "200 NE Missouri Rd., Ste. 232-233",
+      "city": "Lee'S Summit",
+      "state": "MO",
+      "zip": "64086",
+      "restaurant_phone": "(816) 310-1503"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Carly & Marcus Mayer",
+      "state_full": "Missouri",
+      "raw_address": "3910 S. Old Hwy 94, Suite 119",
+      "city": "St. Charles",
+      "state": "MO",
+      "zip": "63304",
+      "restaurant_phone": "(636) 493-8320"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Ryan Morris",
+      "state_full": "Missouri",
+      "raw_address": "2705 Dougherty Ferry Road, Suite 200",
+      "city": "St. Louis",
+      "state": "MO",
+      "zip": "63122",
+      "restaurant_phone": "(314) 835-1100"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Shanna Tourtlotte",
+      "state_full": "Montana",
+      "raw_address": "513 Hilltop, Suite 3",
+      "city": "Billings",
+      "state": "MT",
+      "zip": "59105",
+      "restaurant_phone": "(406) 839-2390"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Matt & Sarah Rintamaki",
+      "state_full": "Montana",
+      "raw_address": "1069 North Meridian Road",
+      "city": "Kalispell",
+      "state": "MT",
+      "zip": "59901",
+      "restaurant_phone": "(406) 797-2711"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Ron & Kim Riggle",
+      "state_full": "Nebraska",
+      "raw_address": "245 S 84th Street, Suite 114",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68510",
+      "restaurant_phone": "(402) 261-2067"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Matt Bratsburg",
+      "state_full": "Nebraska",
+      "raw_address": "5017 Leavenworth Street, Suite 2",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "68106",
+      "restaurant_phone": "(402) 505-7300"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Jason, Jennifer & Mary Portadin",
+      "state_full": "New Jersey",
+      "raw_address": "33 Third Street, Suite 201",
+      "city": "Bordentown",
+      "state": "NJ",
+      "zip": "08505",
+      "restaurant_phone": "(609) 298-0202"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Diana & Chike Agu",
+      "state_full": "New Jersey",
+      "raw_address": "246 Edison Street",
+      "city": "Clifton",
+      "state": "NJ",
+      "zip": "07013",
+      "restaurant_phone": "(973) 513-7222"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Jason, Jennifer & Mary Portadin",
+      "state_full": "New Jersey",
+      "raw_address": "281 Route 34, Suite 204",
+      "city": "Colts Neck",
+      "state": "NJ",
+      "zip": "07722",
+      "restaurant_phone": "(732) 252-5000"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Mable & Binu Philip",
+      "state_full": "New Jersey",
+      "raw_address": "105 Market Pl, Ste 9, Off 5-6",
+      "city": "Glassboro",
+      "state": "NJ",
+      "zip": "08028",
+      "restaurant_phone": "(856) 888-0454"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Dennis & Angela Crippen",
+      "state_full": "New Jersey",
+      "raw_address": "30 Tuckahoe Road",
+      "city": "Marmora",
+      "state": "NJ",
+      "zip": "08223",
+      "restaurant_phone": "(609) 486-6627"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Bennie & Chris Eneh",
+      "state_full": "New Jersey",
+      "raw_address": "1 Ravine Drive",
+      "city": "Matawan",
+      "state": "NJ",
+      "zip": "07747",
+      "restaurant_phone": "(732) 874-5761"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Tony Podias",
+      "state_full": "New Jersey",
+      "raw_address": "115 Route 46 West, Bldg D, Suite 32",
+      "city": "Mountain Lakes",
+      "state": "NJ",
+      "zip": "07046",
+      "restaurant_phone": "(973) 394-5638"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Chika Ezeugwu",
+      "state_full": "New Jersey",
+      "raw_address": "309 Fellowship Road, East Gate Center, Suite 200, Office 10",
+      "city": "Mt. Laurel",
+      "state": "NJ",
+      "zip": "08054",
+      "restaurant_phone": "(856) 460-9135"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Casey Holstein & David Katz",
+      "state_full": "New Jersey",
+      "raw_address": "181 New Road, Suite 313",
+      "city": "Parsippany",
+      "state": "NJ",
+      "zip": "07054",
+      "restaurant_phone": "(973) 808-3475"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Shobhit & Priyamvada Arora",
+      "state_full": "New Jersey",
+      "raw_address": "21 Route 31 North, Suite A6",
+      "city": "Pennington",
+      "state": "NJ",
+      "zip": "08534",
+      "restaurant_phone": "(609) 730-9004"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Mayowa & Ogechi Okubanjo",
+      "state_full": "New Jersey",
+      "raw_address": "904 Coventry Drive",
+      "city": "Phillipsburg",
+      "state": "NJ",
+      "zip": "08865",
+      "restaurant_phone": "(908) 698-4740"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Tina Romero",
+      "state_full": "New Jersey",
+      "raw_address": "15 Corporate Place South, Suite 405",
+      "city": "Piscataway",
+      "state": "NJ",
+      "zip": "08854",
+      "restaurant_phone": "(732) 980-5905"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Ethan Keiser & David Bersson",
+      "state_full": "New Jersey",
+      "raw_address": "1029 Teaneck Road, Suite 3D",
+      "city": "Teaneck",
+      "state": "NJ",
+      "zip": "07666",
+      "restaurant_phone": "(201) 833-1500"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Ivie Omoruyi",
+      "state_full": "New Jersey",
+      "raw_address": "1520 Route 37 East, Suite 2",
+      "city": "Toms River",
+      "state": "NJ",
+      "zip": "08753",
+      "restaurant_phone": "(732) 703-6005"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Ethan Keiser",
+      "state_full": "New York",
+      "raw_address": "261 W 35th Street, Suite 405",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "restaurant_phone": "(212) 928-9500"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Jay Heinlein",
+      "state_full": "New York",
+      "raw_address": "455 Central Park Avenue, Suite 311",
+      "city": "Scarsdale",
+      "state": "NY",
+      "zip": "10583",
+      "restaurant_phone": "(914) 479-5200"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Audra Brennan-Alva",
+      "state_full": "Nevada",
+      "raw_address": "2470 W Horizon Ridge Pkwy, Suite 100",
+      "city": "Henderson",
+      "state": "NV",
+      "zip": "89052",
+      "restaurant_phone": "(702) 323-8421"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Nathan & Amanda Starr",
+      "state_full": "Nevada",
+      "raw_address": "4600 Kietzke Lane, Suite M243",
+      "city": "Reno",
+      "state": "NV",
+      "zip": "89502",
+      "restaurant_phone": "(775) 254-2005"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Stephanie Gill",
+      "state_full": "North Carolina",
+      "raw_address": "1135 Kildaire Farm Rd., Ste. 307",
+      "city": "Cary",
+      "state": "NC",
+      "zip": "27511",
+      "restaurant_phone": "(919) 321-1155"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Domenic Dellosa",
+      "state_full": "North Carolina",
+      "raw_address": "5600 77 Center Drive, Suite 330",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28217",
+      "restaurant_phone": "(704) 897-0496"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Sherry Shepherd",
+      "state_full": "North Carolina",
+      "raw_address": "88 Church St., NE",
+      "city": "Concord",
+      "state": "NC",
+      "zip": "28025",
+      "restaurant_phone": "(980) 282-1169"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Angela & Chad Shook",
+      "state_full": "North Carolina",
+      "raw_address": "301 10th St NW, Ste B-102",
+      "city": "Conover",
+      "state": "NC",
+      "zip": "28613",
+      "restaurant_phone": "(828) 827-4645"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Melanie Warnes",
+      "state_full": "North Carolina",
+      "raw_address": "4819 Emperor Blvd, Ste 400",
+      "city": "Durham",
+      "state": "NC",
+      "zip": "27703",
+      "restaurant_phone": "(919) 200-0959"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Teresa & Carlos Reid",
+      "state_full": "North Carolina",
+      "raw_address": "609 S New Hope Rd, Unit 200B",
+      "city": "Gastonia",
+      "state": "NC",
+      "zip": "28054",
+      "restaurant_phone": "(704) 467-8744"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Samer Harbawi",
+      "state_full": "North Carolina",
+      "raw_address": "204 Muirs Chapel Rd, Suite 100, Off 374",
+      "city": "Greensboro",
+      "state": "NC",
+      "zip": "27410",
+      "restaurant_phone": "(336) 331-8383"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Tsion Endalkachew",
+      "state_full": "North Carolina",
+      "raw_address": "4928 Linksland Dr., Ste. 100",
+      "city": "Holly Springs",
+      "state": "NC",
+      "zip": "27540",
+      "restaurant_phone": "(919) 521-4922"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Adam & Claire Sugg",
+      "state_full": "North Carolina",
+      "raw_address": "105 W. Caswell Street, Suite 207",
+      "city": "Kinston",
+      "state": "NC",
+      "zip": "28551",
+      "restaurant_phone": "(252) 751-5081"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Saveon & Crystal Alston",
+      "state_full": "North Carolina",
+      "raw_address": "4002 Barrett Drive, Suite 103",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27609",
+      "restaurant_phone": "(984) 263-3606"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Mike Rokoski, TJ Dunn, & Adam Slack",
+      "state_full": "North Carolina",
+      "raw_address": "6336 Oleander Dr. Ste. 4",
+      "city": "Wilmington",
+      "state": "NC",
+      "zip": "28403",
+      "restaurant_phone": "(910) 408-5390"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Tim Homer",
+      "state_full": "Ohio",
+      "raw_address": "501 Windsor Park Drive",
+      "city": "Centerville",
+      "state": "OH",
+      "zip": "45459",
+      "restaurant_phone": "(937) 610-0555"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Daphne Slawski & Jeff Mohr",
+      "state_full": "Ohio",
+      "raw_address": "13702 Detroit Ave",
+      "city": "Lakewood",
+      "state": "OH",
+      "zip": "44107",
+      "restaurant_phone": "(216) 785-9375"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Todd Leonard",
+      "state_full": "Ohio",
+      "raw_address": "1715 Indian Wood Circle, Ste. 200",
+      "city": "Maumee",
+      "state": "OH",
+      "zip": "43537",
+      "restaurant_phone": "(419) 220-5002"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Amy and Brian Seiberling",
+      "state_full": "Ohio",
+      "raw_address": "750 E Washington St, Ste D-1",
+      "city": "Medina",
+      "state": "OH",
+      "zip": "44256",
+      "restaurant_phone": "(330) 969-6610"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Ibrahima Diallo",
+      "state_full": "Ohio",
+      "raw_address": "1505 Stonecreek Dr S, Suite 103",
+      "city": "Pickerington",
+      "state": "OH",
+      "zip": "43147",
+      "restaurant_phone": "(614) 965-6760"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Ron Schulman",
+      "state_full": "Ohio",
+      "raw_address": "500 West Wilson Bridge Road, Suite 125",
+      "city": "Worthington",
+      "state": "OH",
+      "zip": "43085",
+      "restaurant_phone": "(614) 259-3900"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Weaam Kassem",
+      "state_full": "Oklahoma",
+      "raw_address": "770 E Britton Rd",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "zip": "73114",
+      "restaurant_phone": "(405) 254-3046"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Weaam Kassem",
+      "state_full": "Oklahoma",
+      "raw_address": "4130 South Harvard Avenue, Suite A-2",
+      "city": "Tulsa",
+      "state": "OK",
+      "zip": "74135",
+      "restaurant_phone": "(918) 727-2117"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Jennifer Giese & Viki Fort",
+      "state_full": "Oregon",
+      "raw_address": "3855 River Road North",
+      "city": "Keizer",
+      "state": "OR",
+      "zip": "97303",
+      "restaurant_phone": "(503) 922-0709"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Randy & Justine Ball",
+      "state_full": "Oregon",
+      "raw_address": "735 SW 11th, Ste. 102",
+      "city": "Redmond",
+      "state": "OR",
+      "zip": "97756",
+      "restaurant_phone": "(541) 512-7049"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Carol Achienza & Nickson Khamasi",
+      "state_full": "Oregon",
+      "raw_address": "8215 SW Tualatin-Sherwood Rd, Suite 200",
+      "city": "Tualatin",
+      "state": "OR",
+      "zip": "97062",
+      "restaurant_phone": "(503) 487-0084"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Negar Jahanbin",
+      "state_full": "Pennsylvania",
+      "raw_address": "450 Parkway Suite C",
+      "city": "Broomall",
+      "state": "PA",
+      "zip": "19008",
+      "restaurant_phone": "(610) 265-2350"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Michelle Lisk",
+      "state_full": "Pennsylvania",
+      "raw_address": "20 Westminster Drive",
+      "city": "Carlisle",
+      "state": "PA",
+      "zip": "17013",
+      "restaurant_phone": "(717) 243-5473"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Tom & Terri Kelly",
+      "state_full": "Pennsylvania",
+      "raw_address": "315 E Lancaster Avenue, Suite A",
+      "city": "Downingtown",
+      "state": "PA",
+      "zip": "19335",
+      "restaurant_phone": "(484) 341-8720"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Chris & Sharon Secchiari, Chris Bernal, and Charlene Porche-Bernal",
+      "state_full": "Pennsylvania",
+      "raw_address": "14 East 6th Street",
+      "city": "Lansdale",
+      "state": "PA",
+      "zip": "19446",
+      "restaurant_phone": "(267) 222-8642"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Manoj Thakur",
+      "state_full": "Pennsylvania",
+      "raw_address": "525 S. 4th Street, Suite #585",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19147",
+      "restaurant_phone": "(267) 499-4700"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Yabo Alfred",
+      "state_full": "Rhode Island",
+      "raw_address": "372 Broadway, Unit A2",
+      "city": "Newport",
+      "state": "RI",
+      "zip": "02840",
+      "restaurant_phone": "(401) 214-1918"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Nolan Graham",
+      "state_full": "South Carolina",
+      "raw_address": "404 Lombard Way",
+      "city": "Chapin",
+      "state": "SC",
+      "zip": "29036",
+      "restaurant_phone": "(803) 582-9275"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Mark Sayegh",
+      "state_full": "South Carolina",
+      "raw_address": "439 Congaree Road, Suite #8",
+      "city": "Greenville",
+      "state": "SC",
+      "zip": "29607",
+      "restaurant_phone": "(864) 751-1913"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Mark Piegza & Bob Risk",
+      "state_full": "South Carolina",
+      "raw_address": "2 Corpus Christi, Suite 101",
+      "city": "Hilton Head",
+      "state": "SC",
+      "zip": "29928",
+      "restaurant_phone": "(843) 310-1078"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Paul Lucido & Zachary Garden",
+      "state_full": "South Carolina",
+      "raw_address": "815 Brightwood Lane",
+      "city": "Matthews",
+      "state": "SC",
+      "zip": "28105",
+      "restaurant_phone": "(716) 997-6417"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Mark Piegza & Bob Risk",
+      "state_full": "South Carolina",
+      "raw_address": "498 Wando Park Bvd., Suite 200",
+      "city": "Mount Pleasant",
+      "state": "SC",
+      "zip": "29464",
+      "restaurant_phone": "(843) 936-2982"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "David & Bonnie Campanella",
+      "state_full": "South Carolina",
+      "raw_address": "1770 India Hook Road, Suite C",
+      "city": "Rock Hill",
+      "state": "SC",
+      "zip": "29732",
+      "restaurant_phone": "(803) 324-6955"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Kim & John Kreber",
+      "state_full": "South Dakota",
+      "raw_address": "335 Sioux Point Road, Suite 150",
+      "city": "Dakota Dunes",
+      "state": "SD",
+      "zip": "57049",
+      "restaurant_phone": "(605) 242-6056"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Kim & John Kreber and Amy and Robbie White",
+      "state_full": "South Dakota",
+      "raw_address": "108 E 38th Street, Suite 600",
+      "city": "Sioux Falls",
+      "state": "SD",
+      "zip": "57105",
+      "restaurant_phone": "(605) 274-2191"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Mark Piegza & Bob Risk",
+      "state_full": "Tennessee",
+      "raw_address": "6441 Bonny Oaks Dr., Ste. D",
+      "city": "Chattanooga",
+      "state": "TN",
+      "zip": "37416",
+      "restaurant_phone": "(423) 287-5925"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Yvonne Coffey & Caitlynn Ball & Chris Ball",
+      "state_full": "Tennessee",
+      "raw_address": "6716 Central Avenue Pike, Suite #8",
+      "city": "Knoxville",
+      "state": "TN",
+      "zip": "37912",
+      "restaurant_phone": "(865) 474-9304"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Dan & Katheryn Root",
+      "state_full": "Tennessee",
+      "raw_address": "1630 NW Broad Street, Suite 201",
+      "city": "Murfreesboro",
+      "state": "TN",
+      "zip": "37129",
+      "restaurant_phone": "(615) 933-6733"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Georgia Green & Zoe Collette",
+      "state_full": "Texas",
+      "raw_address": "211 W. Sealy St., Suite 1",
+      "city": "Alvin",
+      "state": "TX",
+      "zip": "77511",
+      "restaurant_phone": "(281) 824-4538"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Stephanie Rutledge",
+      "state_full": "Texas",
+      "raw_address": "2225 Calder Ave., Suite A",
+      "city": "Beaumont",
+      "state": "TX",
+      "zip": "77701",
+      "restaurant_phone": "(409) 861-2000"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Caroline Tabe",
+      "state_full": "Texas",
+      "raw_address": "3901 Airport Frwy, Suite 116",
+      "city": "Bedford",
+      "state": "TX",
+      "zip": "76021",
+      "restaurant_phone": "(817) 618-9377"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Cletus Udoh",
+      "state_full": "Texas",
+      "raw_address": "4101 S. Texas Ave., Suite 205",
+      "city": "Bryan",
+      "state": "TX",
+      "zip": "77802",
+      "restaurant_phone": "(979) 321-8237"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Andrea & Dana Mosher",
+      "state_full": "Texas",
+      "raw_address": "1104 Wilson Road, Suite C",
+      "city": "Conroe",
+      "state": "TX",
+      "zip": "77301",
+      "restaurant_phone": "(936) 441-7760"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Ida Lapinid",
+      "state_full": "Texas",
+      "raw_address": "3155 S. Lancaster Road, Suite 240",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75216",
+      "restaurant_phone": "(214) 613-6729"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Andre & Ann Marie Fortuna",
+      "state_full": "Texas",
+      "raw_address": "8330 LBJ Fwy, Suite B745",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75243",
+      "restaurant_phone": "(972) 215-7519"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Mark Haselden, Courtney Phillips, and Mike & LeslieWillett",
+      "state_full": "Texas",
+      "raw_address": "16300 Katy Freeway, Suite 185",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77094",
+      "restaurant_phone": "(832) 803-0011"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Beatrice & Rey Ashu",
+      "state_full": "Texas",
+      "raw_address": "2600 S. Loop West, Suite 208",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77054",
+      "restaurant_phone": "(713) 321-2488"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Shaundara Jones",
+      "state_full": "Texas",
+      "raw_address": "12605 East Freeway, Suite 320",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77015",
+      "restaurant_phone": "(281) 973-5225"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Phillip Ibrahim",
+      "state_full": "Texas",
+      "raw_address": "1244 Karla Dr., Ste. 208",
+      "city": "Hurst",
+      "state": "TX",
+      "zip": "76053",
+      "restaurant_phone": "(817) 567-8916"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Douglas & Akua Dickson",
+      "state_full": "Texas",
+      "raw_address": "6220 N Belt Line Rd, Ste 212",
+      "city": "Irving",
+      "state": "TX",
+      "zip": "75063",
+      "restaurant_phone": "(469) 599-7444"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Victor Nava & Juan Contreras",
+      "state_full": "Texas",
+      "raw_address": "305 W 1st Street, Ste 106",
+      "city": "Justin",
+      "state": "TX",
+      "zip": "76247",
+      "restaurant_phone": "(940) 373-5512"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Alicia Reyes",
+      "state_full": "Texas",
+      "raw_address": "407 West Eldorado Parkway Suite 150",
+      "city": "Little Elm",
+      "state": "TX",
+      "zip": "75068",
+      "restaurant_phone": "(469) 722-4874"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Amy & Jeff Peck",
+      "state_full": "Texas",
+      "raw_address": "4608 67th Street, Suite 200",
+      "city": "Lubbock",
+      "state": "TX",
+      "zip": "79414",
+      "restaurant_phone": "(806) 589-0400"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Phillip Ibrahim",
+      "state_full": "Texas",
+      "raw_address": "1244 Karla Dr., Ste.208",
+      "city": "Hurst",
+      "state": "TX",
+      "zip": "76053",
+      "restaurant_phone": "(817) 567-8916"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Laura Valadez",
+      "state_full": "Texas",
+      "raw_address": "4020 N. 22nd St., Ste. 2",
+      "city": "Mcallen",
+      "state": "TX",
+      "zip": "78504",
+      "restaurant_phone": "(956) 467-0086"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Ben Pangelinan",
+      "state_full": "Texas",
+      "raw_address": "2115 Stephens Place",
+      "city": "New Braunfels",
+      "state": "TX",
+      "zip": "78130",
+      "restaurant_phone": "(830) 243-6976"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Syed Saad",
+      "state_full": "Texas",
+      "raw_address": "1212 Coit Road, Suite 109",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75075",
+      "restaurant_phone": "(972) 596-0124"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Fahad & Sahar Mahmood",
+      "state_full": "Texas",
+      "raw_address": "551 South Interstate 35 Frontage Road, Suite 307",
+      "city": "Round Rock",
+      "state": "TX",
+      "zip": "78664",
+      "restaurant_phone": "(512) 338-4470"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Deborah Sanders",
+      "state_full": "Texas",
+      "raw_address": "3701 Outlet Center Drive, Suite 90",
+      "city": "Sealy",
+      "state": "TX",
+      "zip": "77474",
+      "restaurant_phone": "(713) 242-1170"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Alex & Christina Hernandez",
+      "state_full": "Texas",
+      "raw_address": "2501 Palmer Hwy., Ste. 205-B",
+      "city": "Texas City",
+      "state": "TX",
+      "zip": "77590",
+      "restaurant_phone": "(346) 299-5597"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Sherry Carag",
+      "state_full": "Texas",
+      "raw_address": "100 E. Ferguson Street, Suite 920",
+      "city": "Tyler",
+      "state": "TX",
+      "zip": "75702",
+      "restaurant_phone": "(903) 752-8899"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Amanda & Ryan Kropski",
+      "state_full": "Texas",
+      "raw_address": "401 Pitchfork Trail, Suite 705",
+      "city": "Willow Park",
+      "state": "TX",
+      "zip": "76087",
+      "restaurant_phone": "(817) 927-1925"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Bettina McGriggler",
+      "state_full": "Texas",
+      "raw_address": "8940 Fourwinds Drive",
+      "city": "Windcrest",
+      "state": "TX",
+      "zip": "78239",
+      "restaurant_phone": "(210) 267-1252"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Will & Nanci Christensen",
+      "state_full": "Utah",
+      "raw_address": "3263 South Highway 89 Ste. 200B",
+      "city": "Bountiful",
+      "state": "UT",
+      "zip": "84010",
+      "restaurant_phone": "(801) 855-7234"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Will & Nanci Christensen",
+      "state_full": "Utah",
+      "raw_address": "1031 South Bluff St, Ste 13",
+      "city": "Sant George",
+      "state": "UT",
+      "zip": "84770",
+      "restaurant_phone": "(435) 634-8840"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "David & Jennifer Coleman",
+      "state_full": "Utah",
+      "raw_address": "975 E Woodoak Lane, Suite 230",
+      "city": "Murray",
+      "state": "UT",
+      "zip": "84117",
+      "restaurant_phone": "(801) 904-2385"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "David & Jennifer Coleman",
+      "state_full": "Utah",
+      "raw_address": "333 W 2230 N, Ste. #311",
+      "city": "Provo",
+      "state": "UT",
+      "zip": "84604",
+      "restaurant_phone": "(385) 254-0872"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Chris Dobson",
+      "state_full": "Utah",
+      "raw_address": "420 E South Temple, Suite 345",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84111",
+      "restaurant_phone": "(801) 946-0355"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Christina \"Tina\" Neill",
+      "state_full": "Vermont",
+      "raw_address": "145 Pine Haven Shores Road, Suite 2151",
+      "city": "Shelburne",
+      "state": "VT",
+      "zip": "05482",
+      "restaurant_phone": "(802) 399-2142"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Mitch Opalski",
+      "state_full": "Virginia",
+      "raw_address": "3033 Wilson Blvd, Suite 700",
+      "city": "Arlington",
+      "state": "VA",
+      "zip": "22201",
+      "restaurant_phone": "(703) 558-3435"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Matthew Enderle & Beth Pollard",
+      "state_full": "Virginia",
+      "raw_address": "11159 Air Park Road, Suite 4",
+      "city": "Ashland",
+      "state": "VA",
+      "zip": "23005",
+      "restaurant_phone": "(804) 299-3479"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Maisie Bankah & Christian Djan",
+      "state_full": "Virginia",
+      "raw_address": "44330 Mercure Circle Lane, Suite 150",
+      "city": "Dulles",
+      "state": "VA",
+      "zip": "20166",
+      "restaurant_phone": "(703) 665-3990"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Beata Alghabra & Alice Awuah",
+      "state_full": "Virginia",
+      "raw_address": "500 Westwood Office Park",
+      "city": "Fredericksburg",
+      "state": "VA",
+      "zip": "22401",
+      "restaurant_phone": "(571) 752-2991"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Felix & Sabita Gbee",
+      "state_full": "Virginia",
+      "raw_address": "209 Elden Street, Suite 200",
+      "city": "Herndon",
+      "state": "VA",
+      "zip": "20170",
+      "restaurant_phone": "(703) 936-2240"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Noorhan Ishaq",
+      "state_full": "Virginia",
+      "raw_address": "13800 Coppermine Rd., Ste. 126",
+      "city": "Herndon",
+      "state": "VA",
+      "zip": "20171",
+      "restaurant_phone": "(571) 561-8024"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "David & Monica Conroy",
+      "state_full": "Virginia",
+      "raw_address": "2241 G Tackett's Mill Drive",
+      "city": "Lake Ridge",
+      "state": "VA",
+      "zip": "22192",
+      "restaurant_phone": "(571) 677-3500"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Felix & Sabita Gbee",
+      "state_full": "Virginia",
+      "raw_address": "18 W. Market Street, Suite 18",
+      "city": "Leesburg",
+      "state": "VA",
+      "zip": "20176",
+      "restaurant_phone": "(703) 936-2240"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Anthony Murphy",
+      "state_full": "Virginia",
+      "raw_address": "9631 First View Street #8621",
+      "city": "Norfolk",
+      "state": "VA",
+      "zip": "23503",
+      "restaurant_phone": "(757) 514-1116"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Felix & Sabita Gbee",
+      "state_full": "Virginia",
+      "raw_address": "460 McLaws Circle, Ste 150",
+      "city": "Williamsburg",
+      "state": "VA",
+      "zip": "23185",
+      "restaurant_phone": "(757) 766-5180"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Mazen Sheblak",
+      "state_full": "Virginia",
+      "raw_address": "156 Fort Collier Road, Suite 1",
+      "city": "Winchester",
+      "state": "VA",
+      "zip": "22603",
+      "restaurant_phone": "(540) 242-3500"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Bill & Colleen Merriman",
+      "state_full": "Washington",
+      "raw_address": "12301 NE 10th Place, Suite 102",
+      "city": "Bellevue",
+      "state": "WA",
+      "zip": "98005",
+      "restaurant_phone": "(425) 462-5300"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Tracy & Michelle Powers",
+      "state_full": "Washington",
+      "raw_address": "1595 NW Gilman Blvd., Suite 7",
+      "city": "Issaquah",
+      "state": "WA",
+      "zip": "98027",
+      "restaurant_phone": "(425) 988-3759"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Patrick & Marie Johansing",
+      "state_full": "Washington",
+      "raw_address": "30 S. Louisiana St., Ste. 211",
+      "city": "Kennewick",
+      "state": "WA",
+      "zip": "99336",
+      "restaurant_phone": "(509) 572-3972"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Tracy & Michelle Powers",
+      "state_full": "Washington",
+      "raw_address": "4720 200th Street SW, Suite 107",
+      "city": "Lynnwood",
+      "state": "WA",
+      "zip": "98036",
+      "restaurant_phone": "(425) 98-3759"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Brad & Becky Rossman",
+      "state_full": "Washington",
+      "raw_address": "2949 Limited Lane NW, Suite A",
+      "city": "Olympia",
+      "state": "WA",
+      "zip": "98502",
+      "restaurant_phone": "(360) 338-0837"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Ray & Carole Fitzgibbon",
+      "state_full": "Washington",
+      "raw_address": "9131 California Avenue, SW, Suite 2",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98136",
+      "restaurant_phone": "(206) 420-4934"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Bill & Colleen Merriman",
+      "state_full": "Washington",
+      "raw_address": "4317 NE Thurston Way, Suite 230",
+      "city": "Vancouver",
+      "state": "WA",
+      "zip": "98662",
+      "restaurant_phone": "(360) 891-1506"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Chris Lowe",
+      "state_full": "West Virginia",
+      "raw_address": "3548 US Rt 60",
+      "city": "Barboursville",
+      "state": "WV",
+      "zip": "25504",
+      "restaurant_phone": "(304) 202-7845"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Ruth & Mark Busalacchi",
+      "state_full": "Wisconsin",
+      "raw_address": "4810 South 76th Street, Suite 102",
+      "city": "Greenfield",
+      "state": "WI",
+      "zip": "53220",
+      "restaurant_phone": "(414) 763-8368"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Russell Bercier",
+      "state_full": "Wisconsin",
+      "raw_address": "6320 Monona Drive, Suite 215",
+      "city": "Monona",
+      "state": "WI",
+      "zip": "53716",
+      "restaurant_phone": "(608) 400-2941"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Kevin Baker & Diane Baker",
+      "state_full": "Wisconsin",
+      "raw_address": "204 S Main Street",
+      "city": "Waupaca",
+      "state": "WI",
+      "zip": "54981",
+      "restaurant_phone": "(715) 942-8100"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Rande & Rita Pouppirt",
+      "state_full": "Wyoming",
+      "raw_address": "2400 Dunn Ave, Suite A",
+      "city": "Cheyenne",
+      "state": "WY",
+      "zip": "82001",
+      "restaurant_phone": "(307) 426-4177"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Kley Achterhof & Tara Garrett",
+      "state_full": "Wyoming",
+      "raw_address": "841 Broadway Street, Suite 208",
+      "city": "Sheridan",
+      "state": "WY",
+      "zip": "82801",
+      "restaurant_phone": "(307) 274-3177"
+    },
+    {
+      "brand": "Synergy HomeCare",
+      "franchisee_name": "Ray & Carole Fitzgibbon",
+      "state_full": "Washington",
+      "raw_address": "9131 California Avenue SW, Suite 2",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98136",
+      "restaurant_phone": "(206) 420-4934"
+    }
+  ]
+}

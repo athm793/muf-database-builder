@@ -1,0 +1,5115 @@
+{
+  "brand": "Right at Home",
+  "records": [
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Beau Green, Bradford Meythalyer",
+      "state_full": "Alabama",
+      "raw_address": "1446 Montgomery Hwy, STE B",
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35216",
+      "restaurant_phone": "(205) 460-1062"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Beau Green, Bradford Meythalyer",
+      "state_full": "Alabama",
+      "raw_address": "9 Office Park Cir, STE 210",
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35223",
+      "restaurant_phone": "(205) 874-9414"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Beau Green, Bradford Meythalyer",
+      "state_full": "Alabama",
+      "raw_address": "240-C Johnson St SE",
+      "city": "Decatur",
+      "state": "AL",
+      "zip": "35602",
+      "restaurant_phone": "(256) 260-0911"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Beau Green, Bradford Meythalyer",
+      "state_full": "Alabama",
+      "raw_address": "2045 Cecil Ashburn Dr, STE 100",
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35802",
+      "restaurant_phone": "(256) 585-3140"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Beau Green, Bradford Meythalyer",
+      "state_full": "Alabama",
+      "raw_address": "7121 Halcyon Park Dr",
+      "city": "Montgomery",
+      "state": "AL",
+      "zip": "36117",
+      "restaurant_phone": "(334) 517-1045"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Beau Green, Bradford Meythalyer",
+      "state_full": "Alabama",
+      "raw_address": "320 Hargrove Road East",
+      "city": "Tuscaloosa",
+      "state": "AL",
+      "zip": "35401",
+      "restaurant_phone": "(659) 734-0660"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Beau Green, Bradford Meythalyer",
+      "state_full": "Alabama",
+      "raw_address": "6420 Hillcrest Park Ct Suite A",
+      "city": "Mobile",
+      "state": "AL",
+      "zip": "36695",
+      "restaurant_phone": "(251) 459-8671"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Beau Green, Bradford Meythalyer",
+      "state_full": "Alabama",
+      "raw_address": "1510 2nd Ave NW",
+      "city": "Cullman",
+      "state": "AL",
+      "zip": "35055",
+      "restaurant_phone": "(256) 297-3456"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Becky Leuer, Mark Leuer",
+      "state_full": "Arizona",
+      "raw_address": "17035 N 67th Ave, STE 11",
+      "city": "Glendale",
+      "state": "AZ",
+      "zip": "85308",
+      "restaurant_phone": "(480) 632-1100"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Leo Brennan",
+      "state_full": "Arizona",
+      "raw_address": "13851 W Lamar Blvd, STE E-101",
+      "city": "Goodyear",
+      "state": "AZ",
+      "zip": "85338",
+      "restaurant_phone": "(623) 547-0700"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Adam Bliss, Kola Bliss",
+      "state_full": "Arizona",
+      "raw_address": "210 W Continental Rd, STE 224",
+      "city": "Green Valley",
+      "state": "AZ",
+      "zip": "85622",
+      "restaurant_phone": "(520) 777-4175"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Becky Leuer, Mark Leuer",
+      "state_full": "Arizona",
+      "raw_address": "832 W Baseline Rd, STE 16",
+      "city": "Mesa",
+      "state": "AZ",
+      "zip": "85210",
+      "restaurant_phone": "(480) 632-1100"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Sunir Kochhar, Karen Kochhar",
+      "state_full": "Arizona",
+      "raw_address": "12480 N Rancho Vistoso Blvd, STE 110",
+      "city": "Oro Valley",
+      "state": "AZ",
+      "zip": "85755",
+      "restaurant_phone": "(520) 268-8608"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Chris Slagle",
+      "state_full": "Arizona",
+      "raw_address": "2929 N 44TH ST, STE 340",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85018",
+      "restaurant_phone": "(602) 800-6758"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Adam Reeback, Jack Pochardt",
+      "state_full": "Arizona",
+      "raw_address": "14040 N Cave Creek Rd, STE 209",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "zip": "85022",
+      "restaurant_phone": "(602) 493-0085"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Adam Bliss, Kola Bliss",
+      "state_full": "Arizona",
+      "raw_address": "7371 E Tanque Verde Rd",
+      "city": "Tucson",
+      "state": "AZ",
+      "zip": "85715",
+      "restaurant_phone": "(520) 777-4175"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Adam Bliss, Kola Bliss",
+      "state_full": "Arizona",
+      "raw_address": "174 S Coronado Dr Ste B",
+      "city": "Sierra Vista",
+      "state": "AZ",
+      "zip": "85635",
+      "restaurant_phone": "(520) 499-2495"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Brent & Andrea Morgan",
+      "state_full": "Arizona",
+      "raw_address": "4902 S Val Vista Dr Ste 110",
+      "city": "Gilbert",
+      "state": "AZ",
+      "zip": "85298",
+      "restaurant_phone": "(480) 900-9077"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Kyle & Rebecca McCarthy",
+      "state_full": "Arkansas",
+      "raw_address": "3190 Bella Vista Way",
+      "city": "Bella Vista",
+      "state": "AR",
+      "zip": "72714",
+      "restaurant_phone": "(479) 855-6000"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Lauren and Michael Miller",
+      "state_full": "Arkansas",
+      "raw_address": "3903 Hwy 7 N, STE A",
+      "city": "Hot Springs Village",
+      "state": "AR",
+      "zip": "71909",
+      "restaurant_phone": "(501) 321-4962"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Michael Miller, Lauren Miller",
+      "state_full": "Arkansas",
+      "raw_address": "16607 Cantrell Rd, STE 6",
+      "city": "Little Rock",
+      "state": "AR",
+      "zip": "72223",
+      "restaurant_phone": "(501) 673-3167"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Randy Price, Susan Price, Matt Blocker",
+      "state_full": "Arkansas",
+      "raw_address": "4425 Jefferson Ave",
+      "city": "Texarkana",
+      "state": "AR",
+      "zip": "71854",
+      "restaurant_phone": "(870) 361-8030"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "David Bullard, Kamala Bullard",
+      "state_full": "California",
+      "raw_address": "9057 A Soquel Dr, STE D",
+      "city": "Aptos",
+      "state": "CA",
+      "zip": "95003",
+      "restaurant_phone": "(831) 662-0400"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Larry Anthony",
+      "state_full": "California",
+      "raw_address": "499 N Canon Dr, Ste 404",
+      "city": "Beverly Hills",
+      "state": "CA",
+      "zip": "90210",
+      "restaurant_phone": "(310) 694-5002"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Calvin Forbes, Sho Akao",
+      "state_full": "California",
+      "raw_address": "224 E Olive Ave, STE 304",
+      "city": "Burbank",
+      "state": "CA",
+      "zip": "91502",
+      "restaurant_phone": "(818) 956-5905"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Dan Bishop",
+      "state_full": "California",
+      "raw_address": "433 Airport Blvd, STE 109",
+      "city": "Burlingame",
+      "state": "CA",
+      "zip": "94010",
+      "restaurant_phone": "(650) 373-2101"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Phil Chandler",
+      "state_full": "California",
+      "raw_address": "4476 Market St, STE 604",
+      "city": "Ventura",
+      "state": "CA",
+      "zip": "93003",
+      "restaurant_phone": "(805) 389-5320"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ronke Iselen, Lucky Islen",
+      "state_full": "California",
+      "raw_address": "3137 Castro Valley Blvd, STE 201",
+      "city": "Castro Valley",
+      "state": "CA",
+      "zip": "94546",
+      "restaurant_phone": "(510) 690-9612"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Renee Concialdi, Joe Concialdi",
+      "state_full": "California",
+      "raw_address": "328 E San Bernardino Rd",
+      "city": "Covina",
+      "state": "CA",
+      "zip": "91723",
+      "restaurant_phone": "(626) 584-8131"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Vernon Atwood",
+      "state_full": "California",
+      "raw_address": "5252 Orange Ave, STE 209",
+      "city": "Cypress",
+      "state": "CA",
+      "zip": "90630",
+      "restaurant_phone": "(562) 653-4480"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Melanie Delgado",
+      "state_full": "California",
+      "raw_address": "525 W Bradley Ave",
+      "city": "El Cajon",
+      "state": "CA",
+      "zip": "92020-1211",
+      "restaurant_phone": "(619) 937-2330"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Pat James, Greg James",
+      "state_full": "California",
+      "raw_address": "17155 Newhope St, STE 0",
+      "city": "Fountain Valley",
+      "state": "CA",
+      "zip": "92708",
+      "restaurant_phone": "(714) 485-4120"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Suraj Kairamkonda",
+      "state_full": "California",
+      "raw_address": "5550 N Palm Ave",
+      "city": "Fresno",
+      "state": "CA",
+      "zip": "93704",
+      "restaurant_phone": "(559) 228-8918"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Brent & Andrea Morgan",
+      "state_full": "Arizona",
+      "raw_address": "4902 S Val Vista Dr, Ste 110",
+      "city": "Gilbert",
+      "state": "AZ",
+      "zip": "85298",
+      "restaurant_phone": "(480) 900-9077"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Vernon Atwood",
+      "state_full": "California",
+      "raw_address": "16388 Colima Rd, STE 109",
+      "city": "Hacienda Heights",
+      "state": "CA",
+      "zip": "91745",
+      "restaurant_phone": "(626) 961-0500"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "George Dzimiri",
+      "state_full": "California",
+      "raw_address": "1119 S State St",
+      "city": "Hemet",
+      "state": "CA",
+      "zip": "92543",
+      "restaurant_phone": "(951) 291-9881"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Vernon Atwood",
+      "state_full": "California",
+      "raw_address": "15061 Springdale St, STE 203",
+      "city": "Huntington Beach",
+      "state": "CA",
+      "zip": "92649",
+      "restaurant_phone": "(562) 653-4480"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Frank Billante",
+      "state_full": "California",
+      "raw_address": "23421 S Pointe Dr, STE 150",
+      "city": "Laguna Hills",
+      "state": "CA",
+      "zip": "92653",
+      "restaurant_phone": "(949) 215-5151"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Larry Anthony",
+      "state_full": "California",
+      "raw_address": "10780 Santa Monica Blvd, STE 345",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90025",
+      "restaurant_phone": "(310) 694-5001"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Morgan Carson, Tessa Williams, Rick and Diane Carson",
+      "state_full": "California",
+      "raw_address": "611 Scenic Dr",
+      "city": "Modesto",
+      "state": "CA",
+      "zip": "95350",
+      "restaurant_phone": "(209) 579-9445"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Frank Billante",
+      "state_full": "California",
+      "raw_address": "74040 Hwy 111, STE J",
+      "city": "Palm Desert",
+      "state": "CA",
+      "zip": "92260",
+      "restaurant_phone": "(760) 340-1919"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Renee Concialdi, Joe Concialdi",
+      "state_full": "California",
+      "raw_address": "1250 E Walnut St, STE 220",
+      "city": "Pasadena",
+      "state": "CA",
+      "zip": "91106",
+      "restaurant_phone": "(626) 584-8130"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Martin Murallon, Nila Murallon",
+      "state_full": "California",
+      "raw_address": "2865 Sunrise Blvd, STE 102",
+      "city": "Rancho Cordova",
+      "state": "CA",
+      "zip": "95742",
+      "restaurant_phone": "(916) 302-4243"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Andy Cohen",
+      "state_full": "California",
+      "raw_address": "7365 Carnelian St, STE 213",
+      "city": "Rancho Cucamonga",
+      "state": "CA",
+      "zip": "91730",
+      "restaurant_phone": "(909) 466-5472"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Andy Cohen",
+      "state_full": "California",
+      "raw_address": "10134 6th St, STE J",
+      "city": "Rancho Cucamonga",
+      "state": "CA",
+      "zip": "91730",
+      "restaurant_phone": "(909) 466-5472"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Gulraj Shahpuri",
+      "state_full": "California",
+      "raw_address": "483 Seaport Crt, STE 104",
+      "city": "Redwood City",
+      "state": "CA",
+      "zip": "94063",
+      "restaurant_phone": "(650) 361-1265"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Martin Murallon, Nila Murallon",
+      "state_full": "California",
+      "raw_address": "4065 Southampton St",
+      "city": "Roseville",
+      "state": "CA",
+      "zip": "95747",
+      "restaurant_phone": "(916) 302-4243"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Suraj Kairamkonda",
+      "state_full": "California",
+      "raw_address": "1300 National Dr, STE 140",
+      "city": "Sacramento",
+      "state": "CA",
+      "zip": "95834",
+      "restaurant_phone": "(916) 779-0601"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Cal Forbes, Sho Akao",
+      "state_full": "California",
+      "raw_address": "8369 Vickers St, STE 203",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92111",
+      "restaurant_phone": "(858) 277-5900"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Erica Carlisle",
+      "state_full": "California",
+      "raw_address": "1221 Farmers Ln, Ste A",
+      "city": "Santa Rosa",
+      "state": "CA",
+      "zip": "95405",
+      "restaurant_phone": "(707) 843-5192"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Riaz Danekari",
+      "state_full": "California",
+      "raw_address": "901 Campisi Way, Suite 180",
+      "city": "Campbell",
+      "state": "CA",
+      "zip": "95008",
+      "restaurant_phone": "(408) 982-3388"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Lorette Oliver",
+      "state_full": "California",
+      "raw_address": "310 Via Vera Cruz, STE 207",
+      "city": "San Marcos",
+      "state": "CA",
+      "zip": "92708",
+      "restaurant_phone": "(760) 752-2888"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jessica Price, Joe Price",
+      "state_full": "California",
+      "raw_address": "121 Paul Dr, STE A2",
+      "city": "San Rafael",
+      "state": "CA",
+      "zip": "94903",
+      "restaurant_phone": "(415) 233-7855"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Dan Boyle",
+      "state_full": "California",
+      "raw_address": "250 N Golden Circle Dr, STE 205",
+      "city": "Santa Ana",
+      "state": "CA",
+      "zip": "92705",
+      "restaurant_phone": "(714) 730-2647"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Tina Kreider, Larry Kreider",
+      "state_full": "California",
+      "raw_address": "226 E Canon Perdido St, STE B",
+      "city": "Santa Barbara",
+      "state": "CA",
+      "zip": "93101",
+      "restaurant_phone": "(805) 962-0555"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Tim Petlin",
+      "state_full": "California",
+      "raw_address": "1750 14th St, Unit A",
+      "city": "Santa Monica",
+      "state": "CA",
+      "zip": "90404",
+      "restaurant_phone": "(310) 313-0600"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Larry Anthony",
+      "state_full": "California",
+      "raw_address": "5121 Van Nuys Blvd, STE 204",
+      "city": "Sherman Oaks",
+      "state": "CA",
+      "zip": "91403",
+      "restaurant_phone": "(818) 235-1400"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Lorette Oliver",
+      "state_full": "California",
+      "raw_address": "29379 Rancho California Rd, STE 206",
+      "city": "Temecula",
+      "state": "CA",
+      "zip": "92591",
+      "restaurant_phone": "(951) 506-9628"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Terry Jeffers, Lisa Jeffers",
+      "state_full": "California",
+      "raw_address": "12189 7th St, STE 6",
+      "city": "Yucaipa",
+      "state": "CA",
+      "zip": "92399",
+      "restaurant_phone": "(909) 795-8838"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Victoria Kharitonova and Riaz Danekari",
+      "state_full": "California",
+      "raw_address": "901 Campisi Way, Suite 180",
+      "city": "Campbell",
+      "state": "CA",
+      "zip": "95008",
+      "restaurant_phone": "(669) 295-2600"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Harpreet Kaur",
+      "state_full": "California",
+      "raw_address": "1451 Rimpau Ave, Suite 202",
+      "city": "Corona",
+      "state": "CA",
+      "zip": "92879",
+      "restaurant_phone": "(951) 621-1700"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Peter Carrillo",
+      "state_full": "California",
+      "raw_address": "3233 Arlington Ave, Ste 107",
+      "city": "Riverside",
+      "state": "CA",
+      "zip": "92506",
+      "restaurant_phone": "(951) 783-4686"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Sagar and Seema Patel",
+      "state_full": "California",
+      "raw_address": "26635 Agoura Rd, STE 220",
+      "city": "Calabasas",
+      "state": "CA",
+      "zip": "91302",
+      "restaurant_phone": "(818) 963-9208"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Regina Le-Grand-Sawyer",
+      "state_full": "California",
+      "raw_address": "1341 Gray Ave",
+      "city": "Yuba City",
+      "state": "CA",
+      "zip": "95991",
+      "restaurant_phone": "(530) 237-3600"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Nikhil Chauhan",
+      "state_full": "California",
+      "raw_address": "5700 Stoneridge Mall Rd, STE 330",
+      "city": "Pleasanton",
+      "state": "CA",
+      "zip": "94588",
+      "restaurant_phone": "(925) 401-5261"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Beant & Ravinder Sandhu",
+      "state_full": "California",
+      "raw_address": "2336 W Sunnyside Ave, STE C",
+      "city": "Visalia",
+      "state": "CA",
+      "zip": "93277",
+      "restaurant_phone": "(559) 802-3736"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Kreisler Ng",
+      "state_full": "California",
+      "raw_address": "4510 E Pacific Coast Hwy, STE 240",
+      "city": "Long Beach",
+      "state": "CA",
+      "zip": "90804",
+      "restaurant_phone": "(562) 786-6773"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Morgan Carson, Tessa Williams, Rick and Diane Carson",
+      "state_full": "California",
+      "raw_address": "3591 Sacramento Dr, Ste 100",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93401",
+      "restaurant_phone": "(805) 702-7272"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Rick Demshki",
+      "state_full": "California",
+      "raw_address": "2790 Skypark Dr, Ste 206",
+      "city": "Torrance",
+      "state": "CA",
+      "zip": "90505",
+      "restaurant_phone": "(310) 601-5726"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jimmy Wong, Oanh Tran",
+      "state_full": "California",
+      "raw_address": "39572 Stevenson Plc, Ste 130",
+      "city": "Fremont",
+      "state": "CA",
+      "zip": "94539",
+      "restaurant_phone": "(510) 648-3527"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Anastasia Khan, Zafeer Khan",
+      "state_full": "California",
+      "raw_address": "2975 Bowers Ave, STE 215",
+      "city": "Santa Clara",
+      "state": "CA",
+      "zip": "95051",
+      "restaurant_phone": "(408) 792-6138"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Sacha & Mary Butts",
+      "state_full": "California",
+      "raw_address": "1919 Williams St, STE 220",
+      "city": "Simi Valley",
+      "state": "CA",
+      "zip": "93065",
+      "restaurant_phone": "(805) 222-4675"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Shana Yu",
+      "state_full": "Colorado",
+      "raw_address": "4810 Riverbend Rd, Ste A",
+      "city": "Boulder",
+      "state": "CO",
+      "zip": "80301",
+      "restaurant_phone": "(303) 313-3073"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Chuck Gallegos",
+      "state_full": "Colorado",
+      "raw_address": "6855 S Havana St, STE 620",
+      "city": "Centennial",
+      "state": "CO",
+      "zip": "80112",
+      "restaurant_phone": "(720) 875-1800"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Patrick McCann, Patti Walter",
+      "state_full": "Colorado",
+      "raw_address": "330 E Mulberry St, STE 1900",
+      "city": "Fort Collins",
+      "state": "CO",
+      "zip": "80524",
+      "restaurant_phone": "(970) 494-1111"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Meshelle McKendry, David McKendry",
+      "state_full": "Colorado",
+      "raw_address": "2777 Crossroads Blvd, STE 3",
+      "city": "Grand Junction",
+      "state": "CO",
+      "zip": "81506",
+      "restaurant_phone": "(970) 697-1331"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Meshelle McKendry, David McKendry",
+      "state_full": "Colorado",
+      "raw_address": "214 8th St, Ste 215",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "zip": "81601",
+      "restaurant_phone": "(970) 456-4610"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "TJ Henley, Wendy Henley",
+      "state_full": "Colorado",
+      "raw_address": "135 Winters Dr",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80907",
+      "restaurant_phone": "(719) 634-4999"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Lisa Randall, Tim Randall",
+      "state_full": "Connecticut",
+      "raw_address": "100 Mill Plain Rd, 3rd Floor",
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06468",
+      "restaurant_phone": "(203) 300-5954"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "DeMarcus (Marc) Brooks",
+      "state_full": "Connecticut",
+      "raw_address": "7 Tokeneke Rd",
+      "city": "Darien",
+      "state": "CT",
+      "zip": "06820",
+      "restaurant_phone": "(203) 202-9488"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Tracy Weiss",
+      "state_full": "Connecticut",
+      "raw_address": "900 Straits Tpke",
+      "city": "Middlebury",
+      "state": "CT",
+      "zip": "06762",
+      "restaurant_phone": "(203) 269-4400"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Susan Malafronte",
+      "state_full": "Connecticut",
+      "raw_address": "200 Bridgeport Ave",
+      "city": "Milford",
+      "state": "CT",
+      "zip": "06460",
+      "restaurant_phone": "(203) 713-8855"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Lisa Randall, Tim Randall",
+      "state_full": "Connecticut",
+      "raw_address": "518 Monroe Tpke, 2nd Floor",
+      "city": "Monroe",
+      "state": "CT",
+      "zip": "06468",
+      "restaurant_phone": "(203) 261-5777"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Dave Harrison",
+      "state_full": "Connecticut",
+      "raw_address": "49 Sherwood Ter",
+      "city": "Old Saybrook",
+      "state": "CT",
+      "zip": "06475",
+      "restaurant_phone": "(860) 339-5299"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Dave Harrison",
+      "state_full": "Connecticut",
+      "raw_address": "823 Boston Post Rd, STE 2D",
+      "city": "Old Saybrook",
+      "state": "CT",
+      "zip": "06475",
+      "restaurant_phone": "(860) 339-5299"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Tracy Weiss",
+      "state_full": "Connecticut",
+      "raw_address": "7 Wallace Row",
+      "city": "Wallingford",
+      "state": "CT",
+      "zip": "06492",
+      "restaurant_phone": "(203) 269-4400"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Lisa Randall, Tim Randall",
+      "state_full": "Connecticut",
+      "raw_address": "8 Wright St, 1st Floor",
+      "city": "Westport",
+      "state": "CT",
+      "zip": "06880",
+      "restaurant_phone": "(203) 293-5780"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Bob Scandura",
+      "state_full": "Connecticut",
+      "raw_address": "30 Jordan Ln, 3rd Floor",
+      "city": "Wethersfield",
+      "state": "CT",
+      "zip": "06109",
+      "restaurant_phone": "(860) 436-9757"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Rebecca Gilbert-Johnson",
+      "state_full": "Connecticut",
+      "raw_address": "630 Tolland Stage Rd",
+      "city": "Tolland",
+      "state": "CT",
+      "zip": "06084",
+      "restaurant_phone": "(860) 871-7117"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Mohamed Sharif, Ayni Sharif",
+      "state_full": "District Of Columbia",
+      "raw_address": "1818 New York Ave NE, STE 219",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20002",
+      "restaurant_phone": "(202) 269-0008"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Danielle Dyer",
+      "state_full": "Florida",
+      "raw_address": "27657 Old 41 Rd",
+      "city": "Bonita Springs",
+      "state": "FL",
+      "zip": "34135",
+      "restaurant_phone": "(239) 949-1070"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jeramie Snelling",
+      "state_full": "Florida",
+      "raw_address": "548 48th St Ct E",
+      "city": "Bradenton",
+      "state": "FL",
+      "zip": "34208",
+      "restaurant_phone": "(941) 357-1959"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Reid Grier",
+      "state_full": "Florida",
+      "raw_address": "200 Knuth Road, Ste 150E",
+      "city": "Boynton Beach",
+      "state": "FL",
+      "zip": "33436",
+      "restaurant_phone": "(561) 774-8080"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jeramie Snelling",
+      "state_full": "Florida",
+      "raw_address": "304 S Belcher Rd, STE A",
+      "city": "Clearwater",
+      "state": "FL",
+      "zip": "33765",
+      "restaurant_phone": "(727) 400-4700"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Glenn Fechtenburg, Emily Fechtenburg",
+      "state_full": "Florida",
+      "raw_address": "792 E Montrose St",
+      "city": "Clermont",
+      "state": "FL",
+      "zip": "34711",
+      "restaurant_phone": "(352) 835-0101"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Suresh Chugani",
+      "state_full": "Florida",
+      "raw_address": "1249 Stirling Rd, STE 14",
+      "city": "Dania Beach",
+      "state": "FL",
+      "zip": "33004",
+      "restaurant_phone": "(954) 589-0035"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Grace Nguyen, Peter Nguyen",
+      "state_full": "Florida",
+      "raw_address": "10 Fairway Dr, STE 105",
+      "city": "Deerfield Beach",
+      "state": "FL",
+      "zip": "33441",
+      "restaurant_phone": "(561) 910-1843"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Rosalei Olazar",
+      "state_full": "Florida",
+      "raw_address": "233 N Amelia Ave",
+      "city": "Deland",
+      "state": "FL",
+      "zip": "32724",
+      "restaurant_phone": "(386) 279-0493"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Grace Nguyen, Peter Nguyen",
+      "state_full": "Florida",
+      "raw_address": "7000 W Atlantic Ave",
+      "city": "Delray Beach",
+      "state": "FL",
+      "zip": "33446",
+      "restaurant_phone": "(561) 910-1843"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Reid Grier",
+      "state_full": "Florida",
+      "raw_address": "1615 S Congress Ave, STE 103",
+      "city": "Delray Beach",
+      "state": "FL",
+      "zip": "33445",
+      "restaurant_phone": "(561) 214-4499"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Heidi Nyvoll, Arnt Nyvoll",
+      "state_full": "Florida",
+      "raw_address": "2960 S McCall Rd, STE 205",
+      "city": "Englewood",
+      "state": "FL",
+      "zip": "34224",
+      "restaurant_phone": "(941) 999-2609"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Reid Grier",
+      "state_full": "Florida",
+      "raw_address": "10175 Fortune Pky, STE 202",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32256",
+      "restaurant_phone": "(904) 201-3566"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Reid Grier",
+      "state_full": "Florida",
+      "raw_address": "8461 Lake Worth Rd, STE 1-250",
+      "city": "Lake Worth",
+      "state": "FL",
+      "zip": "33467",
+      "restaurant_phone": "(561) 440-2273"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Rob Hoffman, Barbara Hoffman",
+      "state_full": "Florida",
+      "raw_address": "740 Florida Central Pky, STE 2056",
+      "city": "Longwood",
+      "state": "FL",
+      "zip": "32750",
+      "restaurant_phone": "(321) 295-7849"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Reid Grier",
+      "state_full": "Florida",
+      "raw_address": "7270 NW 12th St, Airport Executive Tower II, STE 700",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33126",
+      "restaurant_phone": "(305) 697-9722"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Reid Grier",
+      "state_full": "Florida",
+      "raw_address": "1380 NE Miami Gardens Dr, STE 242A",
+      "city": "North Miami Beach",
+      "state": "FL",
+      "zip": "33179",
+      "restaurant_phone": "(786) 783-3265"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Paul Lallanilla",
+      "state_full": "Florida",
+      "raw_address": "8520 Government Dr, Unit 6",
+      "city": "New Port Richey",
+      "state": "FL",
+      "zip": "34654",
+      "restaurant_phone": "(727) 844-3570"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Nikki Magyar, Adam Magyar",
+      "state_full": "Florida",
+      "raw_address": "711 W Colonial Dr",
+      "city": "Orlando",
+      "state": "FL",
+      "zip": "32804",
+      "restaurant_phone": "(407) 757-0981"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Reid Grier",
+      "state_full": "Florida",
+      "raw_address": "7270 NW 12th St, Airport Executive Tower II STE 700",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33126",
+      "restaurant_phone": "(305) 697-9722"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Reid Grier",
+      "state_full": "Florida",
+      "raw_address": "4440 PGA Blvd, STE 600",
+      "city": "Palm Beach Gardens",
+      "state": "FL",
+      "zip": "33410",
+      "restaurant_phone": "(561) 282-6106"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Donna Cooper",
+      "state_full": "Florida",
+      "raw_address": "1905 W Baker St, STE A",
+      "city": "Plant City",
+      "state": "FL",
+      "zip": "33567",
+      "restaurant_phone": "(813) 764-9290"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jeramie Snelling",
+      "state_full": "Florida",
+      "raw_address": "2344 Bee Ridge Rd, STE 110",
+      "city": "Sarasota",
+      "state": "FL",
+      "zip": "34239",
+      "restaurant_phone": "(941) 929-1966"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Christine Blum",
+      "state_full": "Florida",
+      "raw_address": "5327 Commercial Way B105",
+      "city": "Spring Hill",
+      "state": "FL",
+      "zip": "34607",
+      "restaurant_phone": "(352) 694-1087"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jeramie Snelling",
+      "state_full": "Florida",
+      "raw_address": "137 S Pebble Beach Blvd, STE 204",
+      "city": "Sun City Center",
+      "state": "FL",
+      "zip": "33573",
+      "restaurant_phone": "(813) 800-2273"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "William Booker Moore III, Sharon Weeden",
+      "state_full": "Florida",
+      "raw_address": "1204 Miccosukee Rd, STE 2",
+      "city": "Tallahassee",
+      "state": "FL",
+      "zip": "32308",
+      "restaurant_phone": "(850) 765-4701"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jeramie Snelling",
+      "state_full": "Florida",
+      "raw_address": "8010 Woodland Ctr Blvd, STE 200",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33614",
+      "restaurant_phone": "(813) 514-4724"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Glenn Fechtenburg, Emily Fechtenburg",
+      "state_full": "Florida",
+      "raw_address": "2540 County Rd 561",
+      "city": "Tavares",
+      "state": "FL",
+      "zip": "32778",
+      "restaurant_phone": "(352) 835-0101"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Miriam Juarbe, Antonio Juarbe",
+      "state_full": "Florida",
+      "raw_address": "1535 N Park Dr, STE 100",
+      "city": "Weston",
+      "state": "FL",
+      "zip": "33326",
+      "restaurant_phone": "(954) 530-3840"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Kari Janes",
+      "state_full": "Florida",
+      "raw_address": "1897 Palm Beach Lakes Blvd, Ste 211",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "zip": "33409",
+      "restaurant_phone": "(561) 494-6511"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Paul Lallanilla",
+      "state_full": "Florida",
+      "raw_address": "6272 Abbott Station Dr, STE 102",
+      "city": "Zephyrhills",
+      "state": "FL",
+      "zip": "33542",
+      "restaurant_phone": "(727) 844-3570"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Peter and Grace Nguyen",
+      "state_full": "Florida",
+      "raw_address": "1500 Gateway Boulevard, STE 220",
+      "city": "Boynton Beach",
+      "state": "FL",
+      "zip": "33426",
+      "restaurant_phone": "(561) 662-9838"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Nicole Rodriguez, Anna Rodriguez, Mauricio Chavarriaga",
+      "state_full": "Florida",
+      "raw_address": "10007 Wellness Way, STE 100",
+      "city": "Orlando",
+      "state": "FL",
+      "zip": "32832",
+      "restaurant_phone": "(407) 219-4142"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Karine & Alexandre (Alex) Alquier",
+      "state_full": "Florida",
+      "raw_address": "8751 W Broward Blvd",
+      "city": "Plantation",
+      "state": "FL",
+      "zip": "33324",
+      "restaurant_phone": "(954) 357-2048"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Sidney Chugani",
+      "state_full": "Florida",
+      "raw_address": "7857 W Sample Rd, Ste 136",
+      "city": "Coral Springs",
+      "state": "FL",
+      "zip": "33065",
+      "restaurant_phone": "(954) 866-9750"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Kari Janes",
+      "state_full": "Florida",
+      "raw_address": "3375 20th ST, STE 200",
+      "city": "Vero Beach",
+      "state": "FL",
+      "zip": "32960",
+      "restaurant_phone": "(772) 217-4020"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Christine Blum",
+      "state_full": "Florida",
+      "raw_address": "1665 SW Highway 484, Ste 106",
+      "city": "Ocala",
+      "state": "FL",
+      "zip": "34473",
+      "restaurant_phone": "(352) 363-5552"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Karine & Alexandre (Alex) Alquier",
+      "state_full": "Florida",
+      "raw_address": "1000 SE Monterey Commons Blvd., Suite 204",
+      "city": "Stuart",
+      "state": "FL",
+      "zip": "34996",
+      "restaurant_phone": "(772) 291-2474"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Rosalei Olazar",
+      "state_full": "Florida",
+      "raw_address": "145 E Rich Ave, STE H",
+      "city": "Deland",
+      "state": "FL",
+      "zip": "32724",
+      "restaurant_phone": "(386) 279-0493"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Brian Turner",
+      "state_full": "Florida",
+      "raw_address": "18001 Old Cutler Rd, STE 554",
+      "city": "Palmetto Bay",
+      "state": "FL",
+      "zip": "33157",
+      "restaurant_phone": "(786) 305-5822"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Peter Morrissey",
+      "state_full": "Florida",
+      "raw_address": "4455 Bayou Blvd, STE B",
+      "city": "Pensacola",
+      "state": "FL",
+      "zip": "32503",
+      "restaurant_phone": "(850) 530-0058"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Anna Oirik",
+      "state_full": "Florida",
+      "raw_address": "15327 NW 60th Ave, STE 240",
+      "city": "Miami Lakes",
+      "state": "FL",
+      "zip": "",
+      "restaurant_phone": "(203) 819-8872"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Robert Brown, Susan Brown",
+      "state_full": "Georgia",
+      "raw_address": "4625 Alexander Dr, STE 210",
+      "city": "Alpharetta",
+      "state": "GA",
+      "zip": "30022",
+      "restaurant_phone": "(770) 343-6235"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Sandi Cooper, Aziza Cooper-Diallo",
+      "state_full": "Georgia",
+      "raw_address": "448 Ralph D Abernathy Blvd, STE 2",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30312",
+      "restaurant_phone": "(404) 522-0029"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Mark Ross, Nicole Ross",
+      "state_full": "Georgia",
+      "raw_address": "2131 Pace St",
+      "city": "Covington",
+      "state": "GA",
+      "zip": "30015",
+      "restaurant_phone": "(678) 712-6636"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Mark Ross, Nicole Ross",
+      "state_full": "Georgia",
+      "raw_address": "320 W Lanier Ave, STE 200",
+      "city": "Fayetteville",
+      "state": "GA",
+      "zip": "30214",
+      "restaurant_phone": "(678) 568-4727"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Amy Morrissey, Pete Morrissey",
+      "state_full": "Georgia",
+      "raw_address": "731 Queen City Pky, STE 103",
+      "city": "Gainesville",
+      "state": "GA",
+      "zip": "30501",
+      "restaurant_phone": "(770) 535-3007"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Amy Morrissey, Pete Morrissey",
+      "state_full": "Georgia",
+      "raw_address": "731 Queen City Pky, STE 102",
+      "city": "Gainesville",
+      "state": "GA",
+      "zip": "30501",
+      "restaurant_phone": "(770) 535-3007"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Teddrick Brown",
+      "state_full": "Georgia",
+      "raw_address": "2860 HWY 54, STE 203",
+      "city": "Peachtree City",
+      "state": "GA",
+      "zip": "30269",
+      "restaurant_phone": "(678) 519-4064"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Rodriguez, Mauricio Chavarriaga",
+      "state_full": "Florida",
+      "raw_address": "10007 Wellness Way, STE 100",
+      "city": "Orlando",
+      "state": "FL",
+      "zip": "32832",
+      "restaurant_phone": "(407) 219-4142"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jay DeVille",
+      "state_full": "Georgia",
+      "raw_address": "11 John Davenport Dr, STE B",
+      "city": "Rome",
+      "state": "GA",
+      "zip": "30165",
+      "restaurant_phone": "(706) 290-7701"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Mark Ross, Nicole Ross",
+      "state_full": "Georgia",
+      "raw_address": "2330 Scenic Hwy S, STE 401",
+      "city": "Snellville",
+      "state": "GA",
+      "zip": "30078",
+      "restaurant_phone": "(678) 712-6636"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Lori Bochat, Doug Bochat",
+      "state_full": "Georgia",
+      "raw_address": "3211 S Cherokee Ln, STE 610",
+      "city": "Woodstock",
+      "state": "GA",
+      "zip": "30188",
+      "restaurant_phone": "(678) 403-1636"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Pete Morrissey",
+      "state_full": "Georgia",
+      "raw_address": "1731 Meriweather Dr, STE 101",
+      "city": "Watkinsville",
+      "state": "GA",
+      "zip": "30677",
+      "restaurant_phone": "(706) 769-7277"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Olivia Busenbark",
+      "state_full": "Hawaii",
+      "raw_address": "98-021 Kamehameha Hwy, STE 323",
+      "city": "Aiea",
+      "state": "HI",
+      "zip": "96701",
+      "restaurant_phone": "(808) 797-2111"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Paige Bennion, Lucas Miller",
+      "state_full": "Idaho",
+      "raw_address": "6126 W State St, STE 313",
+      "city": "Boise",
+      "state": "ID",
+      "zip": "83703",
+      "restaurant_phone": "(208) 639-1649"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Brian Wetters, Kathy Wetters",
+      "state_full": "Illinois",
+      "raw_address": "133 S Batavia Ave, PO Box 145",
+      "city": "Batavia",
+      "state": "IL",
+      "zip": "60510",
+      "restaurant_phone": "(630) 717-8477"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Heather Lantry",
+      "state_full": "Illinois",
+      "raw_address": "101 W Grand Ave, STE 208",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60654",
+      "restaurant_phone": "(773) 775-4677"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Matt Field, Rachel Field",
+      "state_full": "Illinois",
+      "raw_address": "9560 W 147TH ST",
+      "city": "Orland Park",
+      "state": "IL",
+      "zip": "60462",
+      "restaurant_phone": "(708) 873-9007"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "David Eustis",
+      "state_full": "Illinois",
+      "raw_address": "1 Regency Plaza Dr",
+      "city": "Collinsville",
+      "state": "IL",
+      "zip": "62234",
+      "restaurant_phone": "(618) 215-6797"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Mike Steiner, Jonathan (Josh) Steiner",
+      "state_full": "Illinois",
+      "raw_address": "33205 N US Highway 45",
+      "city": "Grayslake",
+      "state": "IL",
+      "zip": "60030",
+      "restaurant_phone": "(847) 984-0103"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Matt Field, Rachel Field",
+      "state_full": "Illinois",
+      "raw_address": "185 Milwaukee Ave, STE 200",
+      "city": "Lincolnshire",
+      "state": "IL",
+      "zip": "60069",
+      "restaurant_phone": "(847) 374-8400"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jeanette Palmer",
+      "state_full": "Illinois",
+      "raw_address": "662 E Northwest Hwy",
+      "city": "Mt. Prospect",
+      "state": "IL",
+      "zip": "60056",
+      "restaurant_phone": "(847) 392-1200"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Brian Wetters, Kathy Wetters",
+      "state_full": "Illinois",
+      "raw_address": "1783 S Washington St, STE 108B",
+      "city": "Naperville",
+      "state": "IL",
+      "zip": "60565",
+      "restaurant_phone": "(630) 717-8477"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Matt and Rachel Field",
+      "state_full": "Illinois",
+      "raw_address": "9560 W 147TH ST",
+      "city": "Orland Park",
+      "state": "IL",
+      "zip": "60462",
+      "restaurant_phone": "(708) 873-9007"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Amy Marsico, Nabon Marsico",
+      "state_full": "Illinois",
+      "raw_address": "400 W Lake St, STE 112-C",
+      "city": "Roselle",
+      "state": "IL",
+      "zip": "60172",
+      "restaurant_phone": "(630) 529-4000"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Heather Lantry",
+      "state_full": "Illinois",
+      "raw_address": "8424 Skokie Blvd, STE 212",
+      "city": "Skokie",
+      "state": "IL",
+      "zip": "60077",
+      "restaurant_phone": "(847) 675-7945"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jeanette Palmer",
+      "state_full": "Illinois",
+      "raw_address": "513 W Main St",
+      "city": "West Dundee",
+      "state": "IL",
+      "zip": "60118",
+      "restaurant_phone": "(847) 396-9000"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Brian Braggs, Kari Burg",
+      "state_full": "Illinois",
+      "raw_address": "4507 N Sterling Ave, STE 303",
+      "city": "Peoria",
+      "state": "IL",
+      "zip": "61615",
+      "restaurant_phone": "(309) 364-6500"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Van Andrews & Tambra McMinn",
+      "state_full": "Indiana",
+      "raw_address": "921 E 86th ST, STE 108",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "46240",
+      "restaurant_phone": "(317) 995-4379"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Van Andrews & Tambra McMinn",
+      "state_full": "Indiana",
+      "raw_address": "5602 Madison Ave",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "46227",
+      "restaurant_phone": "(317) 536-0231"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Troy Turner",
+      "state_full": "Indiana",
+      "raw_address": "500 W Lincoln Hwy, STE E-2",
+      "city": "Merrillville",
+      "state": "IN",
+      "zip": "46410",
+      "restaurant_phone": "(219) 682-1977"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jon Lawson",
+      "state_full": "Indiana",
+      "raw_address": "3601 Edison Rd, STE E",
+      "city": "South Bend",
+      "state": "IN",
+      "zip": "46615",
+      "restaurant_phone": "(574) 395-6030"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jay DeVille",
+      "state_full": "Georgia",
+      "raw_address": "11 John Davenport Dr STE B",
+      "city": "Rome",
+      "state": "GA",
+      "zip": "30165",
+      "restaurant_phone": "(706) 290-7701"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Mark Ross, Nicole Ross",
+      "state_full": "Georgia",
+      "raw_address": "2330 Scenic Hwy S STE 401",
+      "city": "Snellville",
+      "state": "GA",
+      "zip": "30078",
+      "restaurant_phone": "(678) 712-6636"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Lori Bochat, Doug Bochat",
+      "state_full": "Georgia",
+      "raw_address": "3211 S Cherokee Ln STE 610",
+      "city": "Woodstock",
+      "state": "GA",
+      "zip": "30188",
+      "restaurant_phone": "(678) 403-1636"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Pete Morrissey",
+      "state_full": "Georgia",
+      "raw_address": "1731 Meriweather Dr STE 101",
+      "city": "Watkinsville",
+      "state": "GA",
+      "zip": "30677",
+      "restaurant_phone": "(706) 769-7277"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Olivia Busenbark",
+      "state_full": "Hawaii",
+      "raw_address": "98-021 Kamehameha Hwy STE 323",
+      "city": "Aiea",
+      "state": "HI",
+      "zip": "96701",
+      "restaurant_phone": "(808) 797-2111"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Paige Bennion, Lucas Miller",
+      "state_full": "Idaho",
+      "raw_address": "6126 W State St STE 313",
+      "city": "Boise",
+      "state": "ID",
+      "zip": "83703",
+      "restaurant_phone": "(208) 639-1649"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Heather Lantry",
+      "state_full": "Illinois",
+      "raw_address": "101 W Grand Ave STE 208",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60654",
+      "restaurant_phone": "(773) 775-4677"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Matt Field, Rachel Field",
+      "state_full": "Illinois",
+      "raw_address": "185 Milwaukee Ave STE 200",
+      "city": "Lincolnshire",
+      "state": "IL",
+      "zip": "60069",
+      "restaurant_phone": "(847) 374-8400"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Brian Wetters, Kathy Wetters",
+      "state_full": "Illinois",
+      "raw_address": "1783 S Washington St STE 108B",
+      "city": "Naperville",
+      "state": "IL",
+      "zip": "60565",
+      "restaurant_phone": "(630) 717-8477"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jeanette Palmer",
+      "state_full": "Illinois",
+      "raw_address": "513 W Main St, STE 303",
+      "city": "West Dundee",
+      "state": "IL",
+      "zip": "60118",
+      "restaurant_phone": "(847) 396-9000"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Brian Braggs, Kari Burg",
+      "state_full": "Illinois",
+      "raw_address": "4507 N Sterling Ave",
+      "city": "Peoria",
+      "state": "IL",
+      "zip": "61615",
+      "restaurant_phone": "(309) 364-6500"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Troy Turner",
+      "state_full": "Indiana",
+      "raw_address": "500 W Lincoln Hwy STE E-2",
+      "city": "Merrillville",
+      "state": "IN",
+      "zip": "46410",
+      "restaurant_phone": "(219) 682-1977"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Bradley Cannon",
+      "state_full": "Indiana",
+      "raw_address": "1400 Main St, STE 168",
+      "city": "Clarksville",
+      "state": "IN",
+      "zip": "47129",
+      "restaurant_phone": "(812) 285-9100"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Hammad Qayyum",
+      "state_full": "Indiana",
+      "raw_address": "2346 S Lynhurst Dr STE D101",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "46241",
+      "restaurant_phone": "(317) 956-5935"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Stephanie Humphries",
+      "state_full": "Iowa",
+      "raw_address": "2616 1st Ave NE",
+      "city": "Cedar Rapids",
+      "state": "IA",
+      "zip": "52402",
+      "restaurant_phone": "(319) 826-6608"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Stephanie Humphries",
+      "state_full": "Iowa",
+      "raw_address": "6301 University Ave #1125",
+      "city": "Cedar Falls",
+      "state": "IA",
+      "zip": "50613",
+      "restaurant_phone": "(319) 826-6608"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Stephanie Humphries",
+      "state_full": "Iowa",
+      "raw_address": "2600 University Ave STE 210",
+      "city": "West Des Moines",
+      "state": "IA",
+      "zip": "50266",
+      "restaurant_phone": "(515) 222-1550"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Zach & Don Peterson",
+      "state_full": "Iowa",
+      "raw_address": "1210 Highway 6 E, STE 300",
+      "city": "Iowa City",
+      "state": "IA",
+      "zip": "52241",
+      "restaurant_phone": "(319) 359-1488"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Scott Sjoberg, Kami Sjoberg",
+      "state_full": "Kansas",
+      "raw_address": "5750 W 95th St STE 122",
+      "city": "Overland Park",
+      "state": "KS",
+      "zip": "66207",
+      "restaurant_phone": "(913) 338-1919"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Scott Sjoberg, Kami Sjoberg",
+      "state_full": "Kansas",
+      "raw_address": "4800 Rainbow Blvd STE 200C",
+      "city": "Westwood",
+      "state": "KS",
+      "zip": "66205",
+      "restaurant_phone": "(913) 336-1419"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Carla Shepherd, Jacque Herdzina",
+      "state_full": "Kansas",
+      "raw_address": "7348 W 21st, STE 101",
+      "city": "Wichita",
+      "state": "KS",
+      "zip": "67205",
+      "restaurant_phone": "(316) 721-6001"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Eric Hudson, Rebecca Hudson",
+      "state_full": "Kentucky",
+      "raw_address": "1050 Chinoe Rd, STE 101",
+      "city": "Lexington",
+      "state": "KY",
+      "zip": "40502",
+      "restaurant_phone": "(859) 264-0270"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Beau Green, Bradford Meythaler",
+      "state_full": "Kentucky",
+      "raw_address": "1830 Destiny Ln, STE 106",
+      "city": "Bowling Green",
+      "state": "KY",
+      "zip": "42104",
+      "restaurant_phone": "(270) 467-1900"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Terri Fenno, Tony Fenno",
+      "state_full": "Kentucky",
+      "raw_address": "1522 Dixie Hwy, STE 30",
+      "city": "Park Hills",
+      "state": "KY",
+      "zip": "41011",
+      "restaurant_phone": "(859) 442-5111"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Bradley Cannon",
+      "state_full": "Kentucky",
+      "raw_address": "500 Executive Park",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40207",
+      "restaurant_phone": "(502) 897-0580"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Bradley Cannon",
+      "state_full": "Kentucky",
+      "raw_address": "150 Kings Daughters Dr",
+      "city": "Frankfort",
+      "state": "KY",
+      "zip": "40601",
+      "restaurant_phone": "(502) 300-5051"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Bradley Cannon",
+      "state_full": "Kentucky",
+      "raw_address": "1107 Crowne Pointe Dr Ste 209",
+      "city": "Elizabethtown",
+      "state": "KY",
+      "zip": "42701",
+      "restaurant_phone": "(270) 390-0046"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Bruce Isenberg, Jennifer Eisler",
+      "state_full": "Louisiana",
+      "raw_address": "850 Kaliste Saloom Rd STE 107",
+      "city": "Lafayette",
+      "state": "LA",
+      "zip": "70508",
+      "restaurant_phone": "(337) 806-9171"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Loren Berot, Harry Spring",
+      "state_full": "Louisiana",
+      "raw_address": "209 Canal St, STE A",
+      "city": "Metairie",
+      "state": "LA",
+      "zip": "70005",
+      "restaurant_phone": "(504) 780-8128"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Loren Berot, Harry Spring",
+      "state_full": "Louisiana",
+      "raw_address": "1301 Brownswitch Rd STE E",
+      "city": "Slidell",
+      "state": "LA",
+      "zip": "70461",
+      "restaurant_phone": "(985) 288-5940"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jay Kenney, Rosaleen Doherty",
+      "state_full": "Maine",
+      "raw_address": "51 US Route 1, STE R-1",
+      "city": "Scarborough",
+      "state": "ME",
+      "zip": "04070",
+      "restaurant_phone": "(207) 707-6011"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Melanie Lawary",
+      "state_full": "Maryland",
+      "raw_address": "801 Compass Way, STE 4",
+      "city": "Annapolis",
+      "state": "MD",
+      "zip": "21401",
+      "restaurant_phone": "(410) 846-0142"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Omari Swinton, Phyllis Swinton",
+      "state_full": "Maryland",
+      "raw_address": "3455 Wilkens Ave, STE 200",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": "21229",
+      "restaurant_phone": "(443) 835-4413"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Hammad Qayyum",
+      "state_full": "Indiana",
+      "raw_address": "2346 S Lynhurst Dr, STE D101",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "46241",
+      "restaurant_phone": "(317) 956-5935"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Stephanie Humphries",
+      "state_full": "Iowa",
+      "raw_address": "2600 University Ave, STE 210",
+      "city": "West Des Moines",
+      "state": "IA",
+      "zip": "50266",
+      "restaurant_phone": "(515) 222-1550"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Scott Sjoberg, Kami Sjoberg",
+      "state_full": "Kansas",
+      "raw_address": "5750 W 95th St, STE 122",
+      "city": "Overland Park",
+      "state": "KS",
+      "zip": "66207",
+      "restaurant_phone": "(913) 338-1919"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Scott Sjoberg, Kami Sjoberg",
+      "state_full": "Kansas",
+      "raw_address": "4800 Rainbow Blvd, STE 200C",
+      "city": "Westwood",
+      "state": "KS",
+      "zip": "66205",
+      "restaurant_phone": "(913) 336-1419"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Bradley Cannon",
+      "state_full": "Kentucky",
+      "raw_address": "1107 Crowne Pointe Dr, Ste 209",
+      "city": "Elizabethtown",
+      "state": "KY",
+      "zip": "42701",
+      "restaurant_phone": "(270) 390-0046"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Bruce Isenberg, Jennifer Eisler",
+      "state_full": "Louisiana",
+      "raw_address": "850 Kaliste Saloom Rd, STE 107",
+      "city": "Lafayette",
+      "state": "LA",
+      "zip": "70508",
+      "restaurant_phone": "(337) 806-9171"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Loren Berot, Harry Spring",
+      "state_full": "Louisiana",
+      "raw_address": "1301 Brownswitch Rd, STE E",
+      "city": "Slidell",
+      "state": "LA",
+      "zip": "70461",
+      "restaurant_phone": "(985) 288-5940"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Don Orlando, Peggy Orlando",
+      "state_full": "Maryland",
+      "raw_address": "350 Granary Rd, STE 1",
+      "city": "Forest Hill",
+      "state": "MD",
+      "zip": "21050",
+      "restaurant_phone": "(443) 371-7145"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Don Orlando, Peggy Orlando",
+      "state_full": "Maryland",
+      "raw_address": "260 Gateway Dr, STE 3-4C",
+      "city": "Bel Air",
+      "state": "MD",
+      "zip": "21014",
+      "restaurant_phone": "(443) 371-7145"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Sandy Chester, Rob Chester",
+      "state_full": "Maryland",
+      "raw_address": "155 E Main St",
+      "city": "Elkton",
+      "state": "MD",
+      "zip": "21921",
+      "restaurant_phone": "(717) 407-5142"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Steve Luber",
+      "state_full": "Maryland",
+      "raw_address": "340 E Patrick St, STE 103",
+      "city": "Frederick",
+      "state": "MD",
+      "zip": "21701",
+      "restaurant_phone": "(866) 696-2211"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jean Long, Eileen McLaughlin, Steve Luber",
+      "state_full": "Maryland",
+      "raw_address": "222 East Oak Ridge Dr, STE 800",
+      "city": "Hagerstown",
+      "state": "MD",
+      "zip": "21740",
+      "restaurant_phone": "(301) 739-2900"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Omari Swinton, Phyllis Swinton",
+      "state_full": "Maryland",
+      "raw_address": "1450 Mercantile Ln, STE 127",
+      "city": "Largo",
+      "state": "MD",
+      "zip": "20774",
+      "restaurant_phone": "(301) 255-0066"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Omari Swinton, Phyllis Swinton",
+      "state_full": "Maryland",
+      "raw_address": "11821 Parklawn Dr, STE 302",
+      "city": "Rockville",
+      "state": "MD",
+      "zip": "20852",
+      "restaurant_phone": "(301) 255-0066"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Brian Turner",
+      "state_full": "Maryland",
+      "raw_address": "3200 Crain Hwy, STE 101",
+      "city": "Waldorf",
+      "state": "MD",
+      "zip": "20603",
+      "restaurant_phone": "(301) 645-0040"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ted Bernhardt",
+      "state_full": "Massachusetts",
+      "raw_address": "60 Great Rd",
+      "city": "Bedford",
+      "state": "MA",
+      "zip": "01730",
+      "restaurant_phone": "(781) 275-1400"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jim Pellegrine, Sandy Pellegrine",
+      "state_full": "Massachusetts",
+      "raw_address": "56 Leonard St, Unit 6",
+      "city": "Foxboro",
+      "state": "MA",
+      "zip": "02035",
+      "restaurant_phone": "(508) 668-8001"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Lanette Duggan",
+      "state_full": "Massachusetts",
+      "raw_address": "325 Ayer Rd, STE 120B",
+      "city": "Harvard",
+      "state": "MA",
+      "zip": "01451",
+      "restaurant_phone": "(978) 391-1700"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Rosaleen Doherty, Jay Kenney",
+      "state_full": "Massachusetts",
+      "raw_address": "350 Main St",
+      "city": "Haverhill",
+      "state": "MA",
+      "zip": "01830",
+      "restaurant_phone": "(978) 373-8010"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Helen Valko, Vladimir Zarkhin",
+      "state_full": "Massachusetts",
+      "raw_address": "1191 Chestnut St, STE 2-4",
+      "city": "Newton",
+      "state": "MA",
+      "zip": "02464",
+      "restaurant_phone": "(617) 597-1500"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Andrew Schneeloch",
+      "state_full": "Massachusetts",
+      "raw_address": "800 Hingham St, STE 203S",
+      "city": "Rockland",
+      "state": "MA",
+      "zip": "02370",
+      "restaurant_phone": "(781) 681-3545"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Rosaleen Doherty, Jay Kenney",
+      "state_full": "Massachusetts",
+      "raw_address": "6 Lynde St",
+      "city": "Salem",
+      "state": "MA",
+      "zip": "01970",
+      "restaurant_phone": "(978) 744-5151"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Rosaleen Doherty, Jay Kenney",
+      "state_full": "Massachusetts",
+      "raw_address": "2 Florence St",
+      "city": "Malden",
+      "state": "MA",
+      "zip": "02148",
+      "restaurant_phone": "(617) 623-9300"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Amar Patel",
+      "state_full": "Massachusetts",
+      "raw_address": "8 Church St",
+      "city": "Westborough",
+      "state": "MA",
+      "zip": "01581",
+      "restaurant_phone": "(508) 599-1122"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Rosaleen Doherty, Jay Kenney",
+      "state_full": "Massachusetts",
+      "raw_address": "192 South St, Ste 100",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02111",
+      "restaurant_phone": "(617) 639-5505"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Brian Kelley",
+      "state_full": "Michigan",
+      "raw_address": "2355 E Stadium Blvd, STE 2",
+      "city": "Ann Arbor",
+      "state": "MI",
+      "zip": "48230",
+      "restaurant_phone": "(734) 971-5000"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jeff Welsh, Robert Welsh",
+      "state_full": "Michigan",
+      "raw_address": "10 W Square Lake Rd, STE 102",
+      "city": "Bloomfield Hills",
+      "state": "MI",
+      "zip": "48302",
+      "restaurant_phone": "(248) 629-1330"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Don Orlando, Peggy Orlando",
+      "state_full": "Maryland",
+      "raw_address": "350 Granary Rd STE 1",
+      "city": "Forest Hill",
+      "state": "MD",
+      "zip": "21050",
+      "restaurant_phone": "(443) 371-7145"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Don Orlando, Peggy Orlando",
+      "state_full": "Maryland",
+      "raw_address": "260 Gateway Dr STE 3-4C",
+      "city": "Bel Air",
+      "state": "MD",
+      "zip": "21014",
+      "restaurant_phone": "(443) 371-7145"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Barry Paxton, Sandra Paxton",
+      "state_full": "Michigan",
+      "raw_address": "734 W Grand River Ave",
+      "city": "Brighton",
+      "state": "MI",
+      "zip": "48116",
+      "restaurant_phone": "(810) 225-4724"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Claudine Marosi-Dein, Scott Dein",
+      "state_full": "Michigan",
+      "raw_address": "22226 Garrison St, STE 250",
+      "city": "Dearborn",
+      "state": "MI",
+      "zip": "48124",
+      "restaurant_phone": "(313) 203-3076"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Barry Paxton, Sandra Paxton",
+      "state_full": "Michigan",
+      "raw_address": "325 E Grand River Ave, STE 317",
+      "city": "East Lansing",
+      "state": "MI",
+      "zip": "48823",
+      "restaurant_phone": "(810) 225-4724"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Scott Hill",
+      "state_full": "Michigan",
+      "raw_address": "2240 E Hill Rd, STE A",
+      "city": "Grand Blanc",
+      "state": "MI",
+      "zip": "48439",
+      "restaurant_phone": "(810) 232-2433"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Chris Hedberg, Matt Hedberg",
+      "state_full": "Michigan",
+      "raw_address": "1035 Charlevoix Dr, STE 300",
+      "city": "Grand Ledge",
+      "state": "MI",
+      "zip": "48837",
+      "restaurant_phone": "(517) 622-1472"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jeff Welsh, Robert Welsh",
+      "state_full": "Michigan",
+      "raw_address": "18000 Mack Ave, STE B",
+      "city": "Grosse Pointe",
+      "state": "MI",
+      "zip": "48230",
+      "restaurant_phone": "(586) 777-7993"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Kay Mykala, John Mykala",
+      "state_full": "Michigan",
+      "raw_address": "744 W Michigan Ave, STE 301B",
+      "city": "Jackson",
+      "state": "MI",
+      "zip": "49201",
+      "restaurant_phone": "(517) 768-0900"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "John Mykala, Kay Mykala",
+      "state_full": "Michigan",
+      "raw_address": "2990 Business One Drive",
+      "city": "Kalamazoo",
+      "state": "MI",
+      "zip": "49048",
+      "restaurant_phone": "(269) 762-6110"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jim Gall, Melinda Gall",
+      "state_full": "Michigan",
+      "raw_address": "5103 Eastman Ave, STE 147",
+      "city": "Midland",
+      "state": "MI",
+      "zip": "48640",
+      "restaurant_phone": "(989) 486-9557"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Kim Sexton",
+      "state_full": "Michigan",
+      "raw_address": "930 S Telegraph Rd",
+      "city": "Monroe",
+      "state": "MI",
+      "zip": "48161",
+      "restaurant_phone": "(734) 240-4974"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Barry Paxton, Sandra Paxton",
+      "state_full": "Michigan",
+      "raw_address": "42705 Grand River Ave, STE 16",
+      "city": "Novi",
+      "state": "MI",
+      "zip": "48375",
+      "restaurant_phone": "(810) 225-4724"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Barry Nabozny",
+      "state_full": "Michigan",
+      "raw_address": "1111 Main St, STE A",
+      "city": "St. Joseph",
+      "state": "MI",
+      "zip": "49085",
+      "restaurant_phone": "(269) 428-9100"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Troy Turner",
+      "state_full": "Michigan",
+      "raw_address": "3737 Lake Eastbrook Blvd SE, STE 208",
+      "city": "Grand Rapids",
+      "state": "MI",
+      "zip": "49546",
+      "restaurant_phone": "(616) 315-2200"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Paul Blom, Bob White",
+      "state_full": "Minnesota",
+      "raw_address": "2626 E 82nd St, STE 150",
+      "city": "Bloomington",
+      "state": "MN",
+      "zip": "55425",
+      "restaurant_phone": "(952) 854-6122"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Barry Maring, Russell Maring",
+      "state_full": "Minnesota",
+      "raw_address": "103 Graystone Plaza",
+      "city": "Detroit Lakes",
+      "state": "MN",
+      "zip": "56501",
+      "restaurant_phone": "(218) 235-2366"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Lucas Hamm",
+      "state_full": "Minnesota",
+      "raw_address": "4640 Slater Rd, Ste 140",
+      "city": "Eagan",
+      "state": "MN",
+      "zip": "55122",
+      "restaurant_phone": "(612) 230-6763"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Carissa Reynertson",
+      "state_full": "Minnesota",
+      "raw_address": "730 Apollo Dr, STE 160",
+      "city": "Lino Lakes",
+      "state": "MN",
+      "zip": "55014",
+      "restaurant_phone": "(651) 461-3222"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Will Bradham",
+      "state_full": "Mississippi",
+      "raw_address": "3670 Highway 61 N",
+      "city": "Cleveland",
+      "state": "MS",
+      "zip": "38732",
+      "restaurant_phone": "(662) 621-9898"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Marvin Bush, Rachel Howell",
+      "state_full": "Mississippi",
+      "raw_address": "1989 Bush Dairy Rd",
+      "city": "Laurel",
+      "state": "MS",
+      "zip": "39443",
+      "restaurant_phone": "(601) 426-6333"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Cindy Sigworth, Don Doran",
+      "state_full": "Mississippi",
+      "raw_address": "8400A Ocean Springs Rd",
+      "city": "Ocean Springs",
+      "state": "MS",
+      "zip": "39564",
+      "restaurant_phone": "(228) 334-5304"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Don Doran, Liberty Fontana",
+      "state_full": "Mississippi",
+      "raw_address": "6340 Kiln Delisle Rd, STE A",
+      "city": "Pass Christian",
+      "state": "MS",
+      "zip": "39571",
+      "restaurant_phone": "(228) 255-9225"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Karla Strickland, Dawn Hardenburg, Robert Strickland",
+      "state_full": "Mississippi",
+      "raw_address": "113 Town Creek Dr, STE A",
+      "city": "Saltillo",
+      "state": "MS",
+      "zip": "38866",
+      "restaurant_phone": "(662) 260-4102"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Will Bradham",
+      "state_full": "Mississippi",
+      "raw_address": "12183 MS Highway 182 W, Ste 103A",
+      "city": "Starkville",
+      "state": "MS",
+      "zip": "39759",
+      "restaurant_phone": "(662) 384-8880"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jeff Guinn, Kim Guinn",
+      "state_full": "Missouri",
+      "raw_address": "2000 Forum Blvd, STE 2",
+      "city": "Columbia",
+      "state": "MO",
+      "zip": "65203",
+      "restaurant_phone": "(573) 777-8770"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ashley Hanf, Linda Hanf, Mark Hanf",
+      "state_full": "Missouri",
+      "raw_address": "5545 N Oak TrFy, STE 19",
+      "city": "Kansas City",
+      "state": "MO",
+      "zip": "64118",
+      "restaurant_phone": "(816) 453-2000"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Amanda Modayil, Ashwin Modayil",
+      "state_full": "Missouri",
+      "raw_address": "1927 S National Ave, STE C",
+      "city": "Springfield",
+      "state": "MO",
+      "zip": "65804",
+      "restaurant_phone": "(417) 350-1004"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Brian Cook",
+      "state_full": "Missouri",
+      "raw_address": "521 SE 2nd St, Ste D",
+      "city": "Lee'S Summit",
+      "state": "MO",
+      "zip": "64063",
+      "restaurant_phone": "(816) 277-0837"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ed Wilson",
+      "state_full": "Missouri",
+      "raw_address": "1288 Jungermann Rd",
+      "city": "St Peters",
+      "state": "MO",
+      "zip": "63376",
+      "restaurant_phone": "(636) 379-9955"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ed Wilson",
+      "state_full": "Missouri",
+      "raw_address": "121 Hunter Ave, STE 202",
+      "city": "St. Louis",
+      "state": "MO",
+      "zip": "63124",
+      "restaurant_phone": "(314) 567-5545"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "John Arnott, Rowena Arnott",
+      "state_full": "Montana",
+      "raw_address": "1645 Parkhill Dr, STE 6",
+      "city": "Billings",
+      "state": "MT",
+      "zip": "59102",
+      "restaurant_phone": "(406) 894-2400"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Kadie Agrignan, Raouf Agrignan",
+      "state_full": "Nebraska",
+      "raw_address": "3883 Normal Blvd, STE 206",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68506",
+      "restaurant_phone": "(402) 488-4421"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Kristin Starkel, Jeremy Starkel",
+      "state_full": "Nebraska",
+      "raw_address": "100 N 34th St, STE D",
+      "city": "Norfolk",
+      "state": "NE",
+      "zip": "68701",
+      "restaurant_phone": "(402) 316-4689"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Kristi Benning",
+      "state_full": "Nebraska",
+      "raw_address": "13304 W Center Rd, STE 225",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "68144",
+      "restaurant_phone": "(402) 697-7536"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Adam Bliss, Kola Bliss",
+      "state_full": "Nevada",
+      "raw_address": "50 S Stephanie St, STE 203",
+      "city": "Henderson",
+      "state": "NV",
+      "zip": "89012",
+      "restaurant_phone": "(702) 434-8700"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Stacy Slatter, Shawn Slatter",
+      "state_full": "Nevada",
+      "raw_address": "2911 N Tenaya Way, STE 106",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip": "89128",
+      "restaurant_phone": "(702) 367-3400"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Pete Kuzmich, Elizabeth Brown",
+      "state_full": "Nevada",
+      "raw_address": "10635 Double R Blvd, STE 100",
+      "city": "Reno",
+      "state": "NV",
+      "zip": "89521",
+      "restaurant_phone": "(775) 826-7999"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Will Bradham",
+      "state_full": "Mississippi",
+      "raw_address": "12183 MS Highway 182 W Ste 103A",
+      "city": "Starkville",
+      "state": "MS",
+      "zip": "39759",
+      "restaurant_phone": "(662) 384-8880"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Maria Gruning",
+      "state_full": "New Hampshire",
+      "raw_address": "150 Nashua Rd, Unit C",
+      "city": "Londonderry",
+      "state": "NH",
+      "zip": "03053",
+      "restaurant_phone": "(603) 216-9296"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Maria Gruning",
+      "state_full": "New Hampshire",
+      "raw_address": "170 Commerce Way, STE 256",
+      "city": "Portsmouth",
+      "state": "NH",
+      "zip": "03801",
+      "restaurant_phone": "(603) 247-6188"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Darlene Bosco",
+      "state_full": "New Jersey",
+      "raw_address": "902 Main St, STE 205",
+      "city": "Belmar",
+      "state": "NJ",
+      "zip": "07719",
+      "restaurant_phone": "(732) 775-3003"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Darlene Bosco",
+      "state_full": "New Jersey",
+      "raw_address": "1989 Route 88, Unit A",
+      "city": "Brick",
+      "state": "NJ",
+      "zip": "08724",
+      "restaurant_phone": "(732) 451-0120"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "John Major, Jacqueline Doris Major",
+      "state_full": "New Jersey",
+      "raw_address": "10 Fairmount Ave, STE A",
+      "city": "Chatham",
+      "state": "NJ",
+      "zip": "07928",
+      "restaurant_phone": "(973) 701-9833"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Brian Maroney, Chris Campbell",
+      "state_full": "New Jersey",
+      "raw_address": "1415 Marlton Pike E, STE 505",
+      "city": "Cherry Hill",
+      "state": "NJ",
+      "zip": "08034",
+      "restaurant_phone": "(856) 795-9707"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Lew & Maria Dalupang",
+      "state_full": "New Jersey",
+      "raw_address": "273 Palisade Ave",
+      "city": "Cliffside Park",
+      "state": "NJ",
+      "zip": "07010",
+      "restaurant_phone": "(973) 949-5444"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Beth Sholom, Jamie Sholom",
+      "state_full": "New Jersey",
+      "raw_address": "1405 NJ-18, STE 203",
+      "city": "East Brunswick",
+      "state": "NJ",
+      "zip": "08857",
+      "restaurant_phone": "(732) 967-0900"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Erika Ackerman, Jeffrey Ackerman",
+      "state_full": "New Jersey",
+      "raw_address": "121 Shelley Dr, STE 2A",
+      "city": "Hackettstown",
+      "state": "NJ",
+      "zip": "07840",
+      "restaurant_phone": "(908) 651-5408"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Lew & Maria Dalupang",
+      "state_full": "New Jersey",
+      "raw_address": "1107 Goffle Rd",
+      "city": "Hawthorne",
+      "state": "NJ",
+      "zip": "07506",
+      "restaurant_phone": "(973) 949-5444"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Carla Kuebler, Janet Kuebler",
+      "state_full": "New Jersey",
+      "raw_address": "105 Omni Dr",
+      "city": "Hillsborough",
+      "state": "NJ",
+      "zip": "08844",
+      "restaurant_phone": "(908) 281-7961"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Brian Maroney & Christina Maroney",
+      "state_full": "New Jersey",
+      "raw_address": "222 New Rd, Central Park E, STE 108",
+      "city": "Linwood",
+      "state": "NJ",
+      "zip": "08221",
+      "restaurant_phone": "(609) 788-8236"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Mary Wagner & Cassy Sullivan",
+      "state_full": "New Jersey",
+      "raw_address": "104 Broadway, Ste 2B",
+      "city": "Denville",
+      "state": "NJ",
+      "zip": "07834",
+      "restaurant_phone": "(973) 400-4170"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Maria Dalupang, Lew Dalupang",
+      "state_full": "New Jersey",
+      "raw_address": "320 Kinderkamack Rd",
+      "city": "Oradell",
+      "state": "NJ",
+      "zip": "07649",
+      "restaurant_phone": "(201) 489-3399"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Maeghan Scott, Melodie Toby",
+      "state_full": "New Jersey",
+      "raw_address": "47 Park Ave, STE 203",
+      "city": "West Orange",
+      "state": "NJ",
+      "zip": "07052",
+      "restaurant_phone": "(973) 669-1822"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Deborah Kenny, Timothy Shultz",
+      "state_full": "New Mexico",
+      "raw_address": "6721 Academy Rd NE, STE C",
+      "city": "Albuquerque",
+      "state": "NM",
+      "zip": "87109",
+      "restaurant_phone": "(505) 266-5888"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jerome Hanway, Victoria Walck, Dan Contreras, Melanie Delgado",
+      "state_full": "New Mexico",
+      "raw_address": "225 E Idaho Ave, STE 12",
+      "city": "Las Cruces",
+      "state": "NM",
+      "zip": "88005",
+      "restaurant_phone": "(575) 636-1335"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Zubin Kapadia",
+      "state_full": "New York",
+      "raw_address": "58-47 Francis Lewis Blvd, STE 102",
+      "city": "Bayside",
+      "state": "NY",
+      "zip": "11364",
+      "restaurant_phone": "(718) 423-1930"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Enrie Morales",
+      "state_full": "New York",
+      "raw_address": "3265 Johnson Ave, STE 305",
+      "city": "Bronx",
+      "state": "NY",
+      "zip": "10463",
+      "restaurant_phone": "(718) 884-4663"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Walter Ochoa",
+      "state_full": "New York",
+      "raw_address": "355 Ovington Avenue, Ste 103",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zip": "11209",
+      "restaurant_phone": "(347) 554-8400"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Tony Gagliano",
+      "state_full": "New York",
+      "raw_address": "1111 Route 110, STE 207",
+      "city": "Farmingdale",
+      "state": "NY",
+      "zip": "11735",
+      "restaurant_phone": "(516) 307-8070"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Zubin Kapadia",
+      "state_full": "New York",
+      "raw_address": "400 Post Ave, STE 302",
+      "city": "Westbury",
+      "state": "NY",
+      "zip": "11590",
+      "restaurant_phone": "(516) 513-1070"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Stacey Ellis, James Davis",
+      "state_full": "New York",
+      "raw_address": "640 New Loudon Rd, STE 103",
+      "city": "Latham",
+      "state": "NY",
+      "zip": "12110",
+      "restaurant_phone": "(518) 757-4040"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jamie Robinson",
+      "state_full": "New York",
+      "raw_address": "85 Echo Ave, STE 5",
+      "city": "Miller Place",
+      "state": "NY",
+      "zip": "11764",
+      "restaurant_phone": "(631) 509-1409"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Regi Mathews, Geetha Mathews, Nathan Mathews",
+      "state_full": "New York",
+      "raw_address": "69 S Bedford Rd",
+      "city": "Mount Kisco",
+      "state": "NY",
+      "zip": "10549",
+      "restaurant_phone": "(914) 864-0588"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Vishal Patel",
+      "state_full": "New York",
+      "raw_address": "1368 Route 9W, STE 1",
+      "city": "Highland Falls",
+      "state": "NY",
+      "zip": "10928",
+      "restaurant_phone": "(845) 859-4148"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Joyce Barocas, Albert Eshoo",
+      "state_full": "New York",
+      "raw_address": "30 Broad St, 14th Floor, STE 1415",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10004",
+      "restaurant_phone": "(646) 480-4930"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Gregg Simons",
+      "state_full": "New York",
+      "raw_address": "180 W 80th St, Chesterfield Suites, STE 203",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10024",
+      "restaurant_phone": "(212) 877-2273"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Geetha, Regi, Nathan Mathews",
+      "state_full": "New York",
+      "raw_address": "69 S Bedford Rd",
+      "city": "Mount Kisco",
+      "state": "NY",
+      "zip": "10549",
+      "restaurant_phone": "(914) 864-0588"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Lilethe Acevedo",
+      "state_full": "New York",
+      "raw_address": "212 Medford Ave, RR 112",
+      "city": "Patchogue",
+      "state": "NY",
+      "zip": "11772",
+      "restaurant_phone": "(631) 207-2626"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Gregg Balbera, Eileen Balbera",
+      "state_full": "New York",
+      "raw_address": "754 Old Country Rd",
+      "city": "Plainview",
+      "state": "NY",
+      "zip": "11803",
+      "restaurant_phone": "(516) 719-5999"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Gregg Balbera, Eileen Balbera",
+      "state_full": "New York",
+      "raw_address": "732 Smithtown Bypass, STE 102B",
+      "city": "Smithtown",
+      "state": "NY",
+      "zip": "11787",
+      "restaurant_phone": "(516) 719-5999"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jamie Robinson",
+      "state_full": "New York",
+      "raw_address": "53 Hill St, STE 5366",
+      "city": "Southampton",
+      "state": "NY",
+      "zip": "11968",
+      "restaurant_phone": "(631) 509-1409"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Walter Ochoa",
+      "state_full": "New York",
+      "raw_address": "800 Manor Rd, STE 2",
+      "city": "Staten Island",
+      "state": "NY",
+      "zip": "10314",
+      "restaurant_phone": "(347) 554-8400"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Lou Giampa",
+      "state_full": "New York",
+      "raw_address": "172 S Broadway, STE 2A",
+      "city": "White Plains",
+      "state": "NY",
+      "zip": "10605",
+      "restaurant_phone": "(914) 468-1944"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Barry Maring, Russell Maring",
+      "state_full": "North Dakota",
+      "raw_address": "2534 University Dr S, STE 604",
+      "city": "Fargo",
+      "state": "ND",
+      "zip": "58103",
+      "restaurant_phone": "(701) 997-0400"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "John Retzloff",
+      "state_full": "North Carolina",
+      "raw_address": "100 N Main St, STE 107",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "restaurant_phone": "(704) 412-3366"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ken Helmuth",
+      "state_full": "North Carolina",
+      "raw_address": "301 McCullough Dr, STE 431",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28262",
+      "restaurant_phone": "(980) 475-1849"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ken Helmuth",
+      "state_full": "North Carolina",
+      "raw_address": "4905 Pine Cone Dr, STE 2",
+      "city": "Durham",
+      "state": "NC",
+      "zip": "27707",
+      "restaurant_phone": "(919) 237-2333"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ken Helmuth",
+      "state_full": "North Carolina",
+      "raw_address": "107 Kilson Dr, STE 106",
+      "city": "Mooresville",
+      "state": "NC",
+      "zip": "28117",
+      "restaurant_phone": "(704) 230-1305"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jennifer Selden",
+      "state_full": "North Carolina",
+      "raw_address": "2202 Wrightsville Ave, STE 112",
+      "city": "Wilmington",
+      "state": "NC",
+      "zip": "28403",
+      "restaurant_phone": "(910) 765-0755"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Greg Brewer, Jackie Brewer",
+      "state_full": "North Carolina",
+      "raw_address": "3314 Healy Dr, STE 105",
+      "city": "Winston-Salem",
+      "state": "NC",
+      "zip": "27103",
+      "restaurant_phone": "(336) 760-7131"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ken Helmuth",
+      "state_full": "North Carolina",
+      "raw_address": "7520 E Independence Blvd, Ste 280",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28227",
+      "restaurant_phone": "(980) 475-1849"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jon Campbell",
+      "state_full": "North Carolina",
+      "raw_address": "1904 Brevard Rd",
+      "city": "Arden",
+      "state": "NC",
+      "zip": "28704",
+      "restaurant_phone": "(828) 344-6134"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Elise Braverman-Plotkin, Shalom Plotkin",
+      "state_full": "Ohio",
+      "raw_address": "21403 Chagrin Blvd, STE 220",
+      "city": "Beachwood",
+      "state": "OH",
+      "zip": "44122",
+      "restaurant_phone": "(216) 752-2222"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Lynn Daugherty",
+      "state_full": "Ohio",
+      "raw_address": "3329 Dayton-Xenia RD",
+      "city": "Beavercreek",
+      "state": "OH",
+      "zip": "45432",
+      "restaurant_phone": "(937) 429-9465"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Terri Fenno, Tony Fenno",
+      "state_full": "Ohio",
+      "raw_address": "10999 Reed Hartman Highway, STE 229",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip": "45242",
+      "restaurant_phone": "(513) 321-4444"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Tony Fenno, Terri Fenno",
+      "state_full": "Ohio",
+      "raw_address": "11162 Luschek Dr",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip": "45241",
+      "restaurant_phone": "(513) 321-4444"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Praveen Vaida",
+      "state_full": "Ohio",
+      "raw_address": "8828 Commerce Loop Dr",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43240",
+      "restaurant_phone": "(614) 734-1110"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Sherrie Baldwin",
+      "state_full": "Ohio",
+      "raw_address": "416 N Main St",
+      "city": "Findlay",
+      "state": "OH",
+      "zip": "45840",
+      "restaurant_phone": "(567) 525-5775"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Elise Braverman-Plotkin, Shalom Plotkin",
+      "state_full": "Ohio",
+      "raw_address": "675 Alpha Dr, STE G",
+      "city": "Highland Heights",
+      "state": "OH",
+      "zip": "44143",
+      "restaurant_phone": "(440) 490-8777"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Sandra Bullock, Michael Bullock",
+      "state_full": "Ohio",
+      "raw_address": "1045 Mackenzie Dr",
+      "city": "Lima",
+      "state": "OH",
+      "zip": "45805",
+      "restaurant_phone": "(419) 228-4663"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "John Baldwin",
+      "state_full": "Ohio",
+      "raw_address": "133 E John St",
+      "city": "Maumee",
+      "state": "OH",
+      "zip": "43537",
+      "restaurant_phone": "(567) 336-6062"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Lalitha Reddy",
+      "state_full": "Ohio",
+      "raw_address": "620 E Smith Rd, STE W-4",
+      "city": "Medina",
+      "state": "OH",
+      "zip": "44256",
+      "restaurant_phone": "(330) 721-7590"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Donn Kramer",
+      "state_full": "Ohio",
+      "raw_address": "7123 Pearl Rd, STE 106",
+      "city": "Middleburg Heights",
+      "state": "OH",
+      "zip": "44130",
+      "restaurant_phone": "(440) 842-2787"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Trina Slatinsky",
+      "state_full": "Ohio",
+      "raw_address": "5800 Monroe St, Bldg H, STE 3",
+      "city": "Sylvania",
+      "state": "OH",
+      "zip": "43560",
+      "restaurant_phone": "(419) 882-1111"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Holly Holton",
+      "state_full": "Ohio",
+      "raw_address": "12927 Stonecreek Dr, STE B",
+      "city": "Pickerington",
+      "state": "OH",
+      "zip": "43147",
+      "restaurant_phone": "(614) 452-4045"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Chrisy Heiss",
+      "state_full": "Ohio",
+      "raw_address": "219 Scammel St",
+      "city": "Marietta",
+      "state": "OH",
+      "zip": "45750",
+      "restaurant_phone": "(740) 538-5301"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "April Wintermoyer",
+      "state_full": "Ohio",
+      "raw_address": "630 Market St, STE F",
+      "city": "Steubenville",
+      "state": "OH",
+      "zip": "43952",
+      "restaurant_phone": "(304) 277-3236"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Albano Mahilaj",
+      "state_full": "Ohio",
+      "raw_address": "20575 Center Ridge Rd, Ste 312",
+      "city": "Rocky River",
+      "state": "OH",
+      "zip": "44116",
+      "restaurant_phone": "(216) 350-3530"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jacque Herdzina, Joel Herdzina, Dee Horne, Carla Shepherd",
+      "state_full": "Oklahoma",
+      "raw_address": "2948 Via Esperanza",
+      "city": "Edmond",
+      "state": "OK",
+      "zip": "73013",
+      "restaurant_phone": "(405) 471-6201"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jacque Herdzina, Joel Herdzina, Dee Horne, Carla Shepherd",
+      "state_full": "Oklahoma",
+      "raw_address": "3750 W Main St, STE AA",
+      "city": "Norman",
+      "state": "OK",
+      "zip": "73072",
+      "restaurant_phone": "(405) 471-6201"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Crystal Self, Greg Self",
+      "state_full": "Oklahoma",
+      "raw_address": "4430 NW 50th St, STE N",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "zip": "73112",
+      "restaurant_phone": "(405) 605-6064"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Greg Jennings",
+      "state_full": "Oklahoma",
+      "raw_address": "9717 E 42nd St, STE 101",
+      "city": "Tulsa",
+      "state": "OK",
+      "zip": "74146",
+      "restaurant_phone": "(918) 289-0000"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jacque Herdzina, Joel Herdzina, Dee Horne, Carla Shepherd",
+      "state_full": "Oklahoma",
+      "raw_address": "2324 N Perkins Rd",
+      "city": "Stillwater",
+      "state": "OK",
+      "zip": "74075",
+      "restaurant_phone": "(405) 571-0080"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Andy Mosman",
+      "state_full": "Oregon",
+      "raw_address": "2195 NE Professional Ct, STE 15",
+      "city": "Bend",
+      "state": "OR",
+      "zip": "97701",
+      "restaurant_phone": "(541) 633-7436"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Edward Mosman, Carol Mosman",
+      "state_full": "Oregon",
+      "raw_address": "1639 Oak St, STE E-G",
+      "city": "Eugene",
+      "state": "OR",
+      "zip": "97401",
+      "restaurant_phone": "(541) 833-5051"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Brooke Fredericks, James Fredericks",
+      "state_full": "Oregon",
+      "raw_address": "749 Golf View Dr, STE B",
+      "city": "Medford",
+      "state": "OR",
+      "zip": "97504",
+      "restaurant_phone": "(541) 414-0800"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "James Hutchinson, Charles Lisa, Janice Martino",
+      "state_full": "Pennsylvania",
+      "raw_address": "352 Main St, STE 102",
+      "city": "Denver",
+      "state": "PA",
+      "zip": "17517",
+      "restaurant_phone": "(610) 208-0661"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Tom Domke",
+      "state_full": "Pennsylvania",
+      "raw_address": "1514 Electric Ave",
+      "city": "East Pittsburgh",
+      "state": "PA",
+      "zip": "15112",
+      "restaurant_phone": "(412) 824-0700"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ron Brodsky",
+      "state_full": "Pennsylvania",
+      "raw_address": "101 S 3rd St, STE 201",
+      "city": "Easton",
+      "state": "PA",
+      "zip": "18042",
+      "restaurant_phone": "(610) 253-9605"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Sandy Chester, Rob Chester",
+      "state_full": "Pennsylvania",
+      "raw_address": "5406 Lincoln Hwy, STE 5",
+      "city": "Gap",
+      "state": "PA",
+      "zip": "17527",
+      "restaurant_phone": "(717) 407-5142"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Stacy Hepinger",
+      "state_full": "Pennsylvania",
+      "raw_address": "100 Perry Hwy, STE 109",
+      "city": "Harmony",
+      "state": "PA",
+      "zip": "16037",
+      "restaurant_phone": "(724) 473-8080"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Sam Gupta",
+      "state_full": "Pennsylvania",
+      "raw_address": "100 Perry Hwy, STE 109",
+      "city": "Harmony",
+      "state": "PA",
+      "zip": "16037",
+      "restaurant_phone": "(724) 473-8080"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Chris Campbell, Maria Campbell",
+      "state_full": "Pennsylvania",
+      "raw_address": "501 Washington Ln, STE 301",
+      "city": "Jenkintown",
+      "state": "PA",
+      "zip": "19046",
+      "restaurant_phone": "(215) 995-2674"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Denise Bernstein",
+      "state_full": "Pennsylvania",
+      "raw_address": "340 E Maple Ave, STE 209",
+      "city": "Langhorne",
+      "state": "PA",
+      "zip": "19047",
+      "restaurant_phone": "(267) 568-2638"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Steve Gettins, Christina Gettins",
+      "state_full": "Pennsylvania",
+      "raw_address": "100 W Main St, STE 511",
+      "city": "Lansdale",
+      "state": "PA",
+      "zip": "19446",
+      "restaurant_phone": "(215) 368-2199"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Subhash (Sam) Gupta",
+      "state_full": "Pennsylvania",
+      "raw_address": "1346 Silver Ln, STE 103",
+      "city": "Coraopolis",
+      "state": "PA",
+      "zip": "15108",
+      "restaurant_phone": "(412) 788-6226"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Daniel Nath",
+      "state_full": "Pennsylvania",
+      "raw_address": "3637 Washington Rd, STE 4",
+      "city": "Mcmurray",
+      "state": "PA",
+      "zip": "15317",
+      "restaurant_phone": "(724) 350-8800"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Theodore Pease",
+      "state_full": "Pennsylvania",
+      "raw_address": "111 Carlton Pl",
+      "city": "Media",
+      "state": "PA",
+      "zip": "19063",
+      "restaurant_phone": "(610) 566-6650"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Tom Domke",
+      "state_full": "Pennsylvania",
+      "raw_address": "4099 William Penn Hwy, STE 808",
+      "city": "Monroeville",
+      "state": "PA",
+      "zip": "15146",
+      "restaurant_phone": "(412) 294-0490"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Daniel Nath",
+      "state_full": "Pennsylvania",
+      "raw_address": "1201 Hulton Rd",
+      "city": "Oakmont",
+      "state": "PA",
+      "zip": "15139",
+      "restaurant_phone": "(412) 828-6686"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Shawla Clark",
+      "state_full": "Pennsylvania",
+      "raw_address": "2047 Locust St, 4th Floor",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19103",
+      "restaurant_phone": "(267) 773-8525"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Veronica Fraser",
+      "state_full": "Pennsylvania",
+      "raw_address": "7047 Germantown Ave, STE 103",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19119",
+      "restaurant_phone": "(267) 437-4017"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Steve Gettins, Christina Gettins",
+      "state_full": "Pennsylvania",
+      "raw_address": "2103 E High St, STE 100",
+      "city": "Pottstown",
+      "state": "PA",
+      "zip": "19464",
+      "restaurant_phone": "(610) 458-5050"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Crystal Self, Greg Self",
+      "state_full": "Oklahoma",
+      "raw_address": "4430 NW 50th St STE N",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "zip": "73112",
+      "restaurant_phone": "(405) 605-6064"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Greg Jennings",
+      "state_full": "Oklahoma",
+      "raw_address": "9717 E 42nd St STE 101",
+      "city": "Tulsa",
+      "state": "OK",
+      "zip": "74146",
+      "restaurant_phone": "(918) 289-0000"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Andy Mosman",
+      "state_full": "Oregon",
+      "raw_address": "2195 NE Professional Ct STE 15",
+      "city": "Bend",
+      "state": "OR",
+      "zip": "97701",
+      "restaurant_phone": "(541) 633-7436"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Edward Mosman, Carol Mosman",
+      "state_full": "Oregon",
+      "raw_address": "1639 Oak St STE E-G",
+      "city": "Eugene",
+      "state": "OR",
+      "zip": "97401",
+      "restaurant_phone": "(541) 833-5051"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Brooke Fredericks, James Fredericks",
+      "state_full": "Oregon",
+      "raw_address": "749 Golf View Dr STE B",
+      "city": "Medford",
+      "state": "OR",
+      "zip": "97504",
+      "restaurant_phone": "(541) 414-0800"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ron Brodsky",
+      "state_full": "Pennsylvania",
+      "raw_address": "101 S 3rd St STE 201",
+      "city": "Easton",
+      "state": "PA",
+      "zip": "18042",
+      "restaurant_phone": "(610) 253-9605"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Sandy Chester, Rob Chester",
+      "state_full": "Pennsylvania",
+      "raw_address": "5406 Lincoln Hwy STE 5",
+      "city": "Gap",
+      "state": "PA",
+      "zip": "17527",
+      "restaurant_phone": "(717) 407-5142"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Stacy Hepinger",
+      "state_full": "Pennsylvania",
+      "raw_address": "100 Perry Hwy STE 109",
+      "city": "Harmony",
+      "state": "PA",
+      "zip": "16037",
+      "restaurant_phone": "(724) 473-8080"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Sam Gupta",
+      "state_full": "Pennsylvania",
+      "raw_address": "100 Perry Hwy STE 109",
+      "city": "Harmony",
+      "state": "PA",
+      "zip": "16037",
+      "restaurant_phone": "(724) 473-8080"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Chris Campbell, Maria Campbell",
+      "state_full": "Pennsylvania",
+      "raw_address": "501 Washington Ln STE 301",
+      "city": "Jenkintown",
+      "state": "PA",
+      "zip": "19046",
+      "restaurant_phone": "(215) 995-2674"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Denise Bernstein",
+      "state_full": "Pennsylvania",
+      "raw_address": "340 E Maple Ave STE 209",
+      "city": "Langhorne",
+      "state": "PA",
+      "zip": "19047",
+      "restaurant_phone": "(267) 568-2638"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Steve Gettins, Christina Gettins",
+      "state_full": "Pennsylvania",
+      "raw_address": "100 W Main St STE 511",
+      "city": "Lansdale",
+      "state": "PA",
+      "zip": "19446",
+      "restaurant_phone": "(215) 368-2199"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Subhash (Sam) Gupta",
+      "state_full": "Pennsylvania",
+      "raw_address": "1346 Silver Ln STE 103",
+      "city": "Coraopolis",
+      "state": "PA",
+      "zip": "15108",
+      "restaurant_phone": "(412) 788-6226"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Daniel Nath",
+      "state_full": "Pennsylvania",
+      "raw_address": "3637 Washington Rd STE 4",
+      "city": "Mcmurray",
+      "state": "PA",
+      "zip": "15317",
+      "restaurant_phone": "(724) 350-8800"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Tom Domke",
+      "state_full": "Pennsylvania",
+      "raw_address": "4099 William Penn Hwy STE 808",
+      "city": "Monroeville",
+      "state": "PA",
+      "zip": "15146",
+      "restaurant_phone": "(412) 294-0490"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Veronica Fraser",
+      "state_full": "Pennsylvania",
+      "raw_address": "7047 Germantown Ave STE 103",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19119",
+      "restaurant_phone": "(267) 437-4017"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Steve Gettins, Christina Gettins",
+      "state_full": "Pennsylvania",
+      "raw_address": "2103 E High St STE 100",
+      "city": "Pottstown",
+      "state": "PA",
+      "zip": "19464",
+      "restaurant_phone": "(610) 458-5050"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ashley Creedon, Steve Gettins",
+      "state_full": "Pennsylvania",
+      "raw_address": "501 S Washington St STE 2200",
+      "city": "Scranton",
+      "state": "PA",
+      "zip": "18505",
+      "restaurant_phone": "(570) 562-3000"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "James Hutchinson, Charles Lisa, Janice Martino",
+      "state_full": "Pennsylvania",
+      "raw_address": "529 Reading Ave, V-1",
+      "city": "West Reading",
+      "state": "PA",
+      "zip": "19611",
+      "restaurant_phone": "(610) 208-0661"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ben Aydin",
+      "state_full": "Pennsylvania",
+      "raw_address": "1541 Alta Dr STE 304",
+      "city": "Whitehall",
+      "state": "PA",
+      "zip": "18052",
+      "restaurant_phone": "(484) 350-3075"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Dominic Cole",
+      "state_full": "Pennsylvania",
+      "raw_address": "1491 S Queen St",
+      "city": "York",
+      "state": "PA",
+      "zip": "17403",
+      "restaurant_phone": "(717) 779-1786"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Naomi Cotrone, Asher Fink",
+      "state_full": "Rhode Island",
+      "raw_address": "730 Warwick Avenue",
+      "city": "Warwick",
+      "state": "RI",
+      "zip": "02888",
+      "restaurant_phone": "(401) 383-1950"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Matthew Minotti",
+      "state_full": "South Carolina",
+      "raw_address": "658 Rutledge Ave STE B",
+      "city": "Charleston",
+      "state": "SC",
+      "zip": "29403",
+      "restaurant_phone": "(843) 580-5120"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Renee Pfister, Mike Pfister",
+      "state_full": "South Carolina",
+      "raw_address": "101 Fendley St STE B",
+      "city": "Clemson",
+      "state": "SC",
+      "zip": "29631",
+      "restaurant_phone": "(864) 653-5875"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Stephan Swafford",
+      "state_full": "South Carolina",
+      "raw_address": "2130 Woodside Executive Ct",
+      "city": "Aiken",
+      "state": "SC",
+      "zip": "29803",
+      "restaurant_phone": "(803) 278-0250"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Renee Pfister, Mike Pfister",
+      "state_full": "South Carolina",
+      "raw_address": "3401 Hwy 153 STE D",
+      "city": "Piedmont",
+      "state": "SC",
+      "zip": "29673",
+      "restaurant_phone": "(864) 609-1656"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "James Ryan",
+      "state_full": "South Carolina",
+      "raw_address": "1125 N Anderson Rd STE 102",
+      "city": "Rock Hill",
+      "state": "SC",
+      "zip": "29730",
+      "restaurant_phone": "(803) 227-3087"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Bre Willoughby, Harry Willoughby",
+      "state_full": "South Carolina",
+      "raw_address": "1500 Hwy 17 N, The Courtyard STE 106",
+      "city": "Surfside Beach",
+      "state": "SC",
+      "zip": "29575",
+      "restaurant_phone": "(843) 651-4848"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Charles Brown, Ada Brown, Mike Brown",
+      "state_full": "South Carolina",
+      "raw_address": "1904 Sunset Blvd STE D",
+      "city": "West Columbia",
+      "state": "SC",
+      "zip": "29169",
+      "restaurant_phone": "(803) 551-4004"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Mindy Beale",
+      "state_full": "South Carolina",
+      "raw_address": "2639 Broad St STE F",
+      "city": "Camden",
+      "state": "SC",
+      "zip": "29020",
+      "restaurant_phone": "(803) 677-4357"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jennifer Sall",
+      "state_full": "South Carolina",
+      "raw_address": "901 S Pine St STE 100",
+      "city": "Spartanburg",
+      "state": "SC",
+      "zip": "29302",
+      "restaurant_phone": "(864) 319-2752"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Tony Mau, Kayla McInerney",
+      "state_full": "South Dakota",
+      "raw_address": "1400 W Russell St",
+      "city": "Sioux Falls",
+      "state": "SD",
+      "zip": "57104",
+      "restaurant_phone": "(605) 275-0071"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Beau Green, Bradford Meythaler",
+      "state_full": "Tennessee",
+      "raw_address": "130 Hillcrest Dr STE 106",
+      "city": "Clarksville",
+      "state": "TN",
+      "zip": "37043",
+      "restaurant_phone": "(931) 896-2681"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Bryan Hensley, Ryan Naegele",
+      "state_full": "Tennessee",
+      "raw_address": "5138 Preschool Ln STE 106",
+      "city": "Hixson",
+      "state": "TN",
+      "zip": "37343",
+      "restaurant_phone": "(423) 803-2898"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Rick Wilson, Joy Wilson",
+      "state_full": "Tennessee",
+      "raw_address": "9050 Executive Park Dr STE A-201",
+      "city": "Knoxville",
+      "state": "TN",
+      "zip": "37923",
+      "restaurant_phone": "(865) 766-5718"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ashley Creedon, Steve Gettins",
+      "state_full": "Pennsylvania",
+      "raw_address": "501 S Washington St, STE 2200",
+      "city": "Scranton",
+      "state": "PA",
+      "zip": "18505",
+      "restaurant_phone": "(570) 562-3000"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ben Aydin",
+      "state_full": "Pennsylvania",
+      "raw_address": "1541 Alta Dr, STE 304",
+      "city": "Whitehall",
+      "state": "PA",
+      "zip": "18052",
+      "restaurant_phone": "(484) 350-3075"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Matthew Minotti",
+      "state_full": "South Carolina",
+      "raw_address": "658 Rutledge Ave, STE B",
+      "city": "Charleston",
+      "state": "SC",
+      "zip": "29403",
+      "restaurant_phone": "(843) 580-5120"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Renee Pfister, Mike Pfister",
+      "state_full": "South Carolina",
+      "raw_address": "101 Fendley St, STE B",
+      "city": "Clemson",
+      "state": "SC",
+      "zip": "29631",
+      "restaurant_phone": "(864) 653-5875"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Renee Pfister, Mike Pfister",
+      "state_full": "South Carolina",
+      "raw_address": "3401 Hwy 153, STE D",
+      "city": "Piedmont",
+      "state": "SC",
+      "zip": "29673",
+      "restaurant_phone": "(864) 609-1656"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "James Ryan",
+      "state_full": "South Carolina",
+      "raw_address": "1125 N Anderson Rd, STE 102",
+      "city": "Rock Hill",
+      "state": "SC",
+      "zip": "29730",
+      "restaurant_phone": "(803) 227-3087"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Bre Willoughby, Harry Willoughby",
+      "state_full": "South Carolina",
+      "raw_address": "1500 Hwy 17 N, The Courtyard, STE 106",
+      "city": "Surfside Beach",
+      "state": "SC",
+      "zip": "29575",
+      "restaurant_phone": "(843) 651-4848"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Charles Brown, Ada Brown, Mike Brown",
+      "state_full": "South Carolina",
+      "raw_address": "1904 Sunset Blvd, STE D",
+      "city": "West Columbia",
+      "state": "SC",
+      "zip": "29169",
+      "restaurant_phone": "(803) 551-4004"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Mindy Beale",
+      "state_full": "South Carolina",
+      "raw_address": "2639 Broad St, STE F",
+      "city": "Camden",
+      "state": "SC",
+      "zip": "29020",
+      "restaurant_phone": "(803) 677-4357"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jennifer Sall",
+      "state_full": "South Carolina",
+      "raw_address": "901 S Pine St, STE 100",
+      "city": "Spartanburg",
+      "state": "SC",
+      "zip": "29302",
+      "restaurant_phone": "(864) 319-2752"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Beau Green, Bradford Meythaler",
+      "state_full": "Tennessee",
+      "raw_address": "130 Hillcrest Dr, STE 106",
+      "city": "Clarksville",
+      "state": "TN",
+      "zip": "37043",
+      "restaurant_phone": "(931) 896-2681"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Bryan Hensley, Ryan Naegele",
+      "state_full": "Tennessee",
+      "raw_address": "5138 Preschool Ln, STE 106",
+      "city": "Hixson",
+      "state": "TN",
+      "zip": "37343",
+      "restaurant_phone": "(423) 803-2898"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Rick Wilson, Joy Wilson",
+      "state_full": "Tennessee",
+      "raw_address": "9050 Executive Park Dr, STE A-201",
+      "city": "Knoxville",
+      "state": "TN",
+      "zip": "37923",
+      "restaurant_phone": "(865) 766-5718"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ryan Naegele, Bryan Hensley",
+      "state_full": "Tennessee",
+      "raw_address": "1020 William Blount Dr",
+      "city": "Maryville",
+      "state": "TN",
+      "zip": "37801",
+      "restaurant_phone": "(865) 351-4437"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Bill Love, Christy Love",
+      "state_full": "Tennessee",
+      "raw_address": "7225 Riverdale Bend Rd, STE 105",
+      "city": "Memphis",
+      "state": "TN",
+      "zip": "38125",
+      "restaurant_phone": "(901) 309-7933"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Beau Green, Bradford Meythaler",
+      "state_full": "Tennessee",
+      "raw_address": "519 Uptown Sq",
+      "city": "Murfreesboro",
+      "state": "TN",
+      "zip": "37129",
+      "restaurant_phone": "(615) 809-2283"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Beau Green, Bradford Meythaler",
+      "state_full": "Tennessee",
+      "raw_address": "1321 Murfreesboro Pike, STE 520",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37217-2648",
+      "restaurant_phone": "(615) 360-0006"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Bryan Hensley, Ryan Naegele",
+      "state_full": "Tennessee",
+      "raw_address": "141 Inman St E",
+      "city": "Cleveland",
+      "state": "TN",
+      "zip": "37311",
+      "restaurant_phone": "(423) 599-3659"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Benjamin Clepper, Emely Aleman",
+      "state_full": "Tennessee",
+      "raw_address": "10922 Chapman Hwy, Ste 120",
+      "city": "Seymour",
+      "state": "TN",
+      "zip": "37865",
+      "restaurant_phone": "(865) 266-1010"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Courtney Hochhalter",
+      "state_full": "Texas",
+      "raw_address": "830 Julie Rivers Dr, STE 604",
+      "city": "Sugar Land",
+      "state": "TX",
+      "zip": "77478",
+      "restaurant_phone": "(713) 581-8160"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Edwin Young",
+      "state_full": "Texas",
+      "raw_address": "5555 N Lamar Blvd, STE C111",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78751",
+      "restaurant_phone": "(512) 465-9900"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Edwin Young",
+      "state_full": "Texas",
+      "raw_address": "348 Stone Hill Dr, STE 110",
+      "city": "Brenham",
+      "state": "TX",
+      "zip": "77833",
+      "restaurant_phone": "(979) 221-6685"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Dale Christian, Jennifer Christian",
+      "state_full": "Texas",
+      "raw_address": "3644 Coppercrest Dr, STE 102",
+      "city": "Bryan",
+      "state": "TX",
+      "zip": "77802",
+      "restaurant_phone": "(979) 422-2284"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Harley Cohen",
+      "state_full": "Texas",
+      "raw_address": "11551 Forest Central Dr, STE 116",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75243",
+      "restaurant_phone": "(214) 340-9900"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Michelle Rankine",
+      "state_full": "Texas",
+      "raw_address": "650 S Edmonds Ln, Ste 108",
+      "city": "Lewisville",
+      "state": "TX",
+      "zip": "75067",
+      "restaurant_phone": "(214) 383-0555"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Quentas Jones, Felicia Jones",
+      "state_full": "Texas",
+      "raw_address": "8851 Camp Bowie W Blvd, STE 220",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76116",
+      "restaurant_phone": "(817) 560-2727"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Kristen Carlson",
+      "state_full": "Texas",
+      "raw_address": "1623 Broadway",
+      "city": "Galveston",
+      "state": "TX",
+      "zip": "77550",
+      "restaurant_phone": "(409) 740-7400"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Kristen Carlson",
+      "state_full": "Texas",
+      "raw_address": "1409 39th St",
+      "city": "Galveston",
+      "state": "TX",
+      "zip": "77550",
+      "restaurant_phone": "(409) 740-7400"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Sandra Heintz, Dan Heintz",
+      "state_full": "Texas",
+      "raw_address": "9538 Huffmeister Rd",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77095",
+      "restaurant_phone": "(832) 924-3160"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Greg Carson",
+      "state_full": "Texas",
+      "raw_address": "1148 W Pioneer Pkwy",
+      "city": "Arlington",
+      "state": "TX",
+      "zip": "76013",
+      "restaurant_phone": "(972) 790-2699"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Darlene Williams",
+      "state_full": "Texas",
+      "raw_address": "474 N Broadway, STE B",
+      "city": "Joshua",
+      "state": "TX",
+      "zip": "76058",
+      "restaurant_phone": "(817) 506-4016"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jeffrey Clark",
+      "state_full": "Texas",
+      "raw_address": "451 Guadalupe St, Ste 204",
+      "city": "Kerrville",
+      "state": "TX",
+      "zip": "78028",
+      "restaurant_phone": "(830) 315-3131"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Kristin Wahn, Jim Royal",
+      "state_full": "Texas",
+      "raw_address": "1214 Stonehollow Dr, STE A",
+      "city": "Kingwood",
+      "state": "TX",
+      "zip": "77339",
+      "restaurant_phone": "(281) 358-9922"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Randy Price, Susan Price, Matt Blocker",
+      "state_full": "Texas",
+      "raw_address": "2010 Gilmer Rd, STE 101",
+      "city": "Longview",
+      "state": "TX",
+      "zip": "75604",
+      "restaurant_phone": "(903) 714-2872"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Darlene Williams",
+      "state_full": "Texas",
+      "raw_address": "1006 Legacy Ranch Rd, STE 102",
+      "city": "Waxahachie",
+      "state": "TX",
+      "zip": "75165",
+      "restaurant_phone": "(469) 672-4880"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Randy Price, Susan Price, Matt Blocker",
+      "state_full": "Texas",
+      "raw_address": "507 E Hospital St, STE 103",
+      "city": "Nacogdoches",
+      "state": "TX",
+      "zip": "75965",
+      "restaurant_phone": "(936) 253-6744"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Bill Love, Christy Love",
+      "state_full": "Tennessee",
+      "raw_address": "7225 Riverdale Bend Rd STE 105",
+      "city": "Memphis",
+      "state": "TN",
+      "zip": "38125",
+      "restaurant_phone": "(901) 309-7933"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Beau Green, Bradford Meythaler",
+      "state_full": "Tennessee",
+      "raw_address": "1321 Murfreesboro Pike STE 520",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37217-2648",
+      "restaurant_phone": "(615) 360-0006"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Benjamin Clepper, Emely Aleman",
+      "state_full": "Tennessee",
+      "raw_address": "10922 Chapman Hwy Ste 120",
+      "city": "Seymour",
+      "state": "TN",
+      "zip": "37865",
+      "restaurant_phone": "(865) 266-1010"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Courtney Hochhalter",
+      "state_full": "Texas",
+      "raw_address": "830 Julie Rivers Dr STE 604",
+      "city": "Sugar Land",
+      "state": "TX",
+      "zip": "77478",
+      "restaurant_phone": "(713) 581-8160"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Edwin Young",
+      "state_full": "Texas",
+      "raw_address": "5555 N Lamar Blvd STE C111",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78751",
+      "restaurant_phone": "(512) 465-9900"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Edwin Young",
+      "state_full": "Texas",
+      "raw_address": "348 Stone Hill Dr STE 110",
+      "city": "Brenham",
+      "state": "TX",
+      "zip": "77833",
+      "restaurant_phone": "(979) 221-6685"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Dale Christian, Jennifer Christian",
+      "state_full": "Texas",
+      "raw_address": "3644 Coppercrest Dr STE 102",
+      "city": "Bryan",
+      "state": "TX",
+      "zip": "77802",
+      "restaurant_phone": "(979) 422-2284"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Harley Cohen",
+      "state_full": "Texas",
+      "raw_address": "11551 Forest Central Dr STE 116",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75243",
+      "restaurant_phone": "(214) 340-9900"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Michelle Rankine",
+      "state_full": "Texas",
+      "raw_address": "650 S Edmonds Ln Ste 108",
+      "city": "Lewisville",
+      "state": "TX",
+      "zip": "75067",
+      "restaurant_phone": "(214) 383-0555"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Quentas Jones, Felicia Jones",
+      "state_full": "Texas",
+      "raw_address": "8851 Camp Bowie W Blvd STE 220",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76116",
+      "restaurant_phone": "(817) 560-2727"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Kristin Wahn, Jim Royal",
+      "state_full": "Texas",
+      "raw_address": "1214 Stonehollow Dr STE A",
+      "city": "Kingwood",
+      "state": "TX",
+      "zip": "77339",
+      "restaurant_phone": "(281) 358-9922"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Darlene Williams",
+      "state_full": "Texas",
+      "raw_address": "1006 Legacy Ranch Rd STE 102",
+      "city": "Waxahachie",
+      "state": "TX",
+      "zip": "75165",
+      "restaurant_phone": "(469) 672-4880"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Randy Price, Susan Price, Matt Blocker",
+      "state_full": "Texas",
+      "raw_address": "507 E Hospital St STE 103",
+      "city": "Nacogdoches",
+      "state": "TX",
+      "zip": "75965",
+      "restaurant_phone": "(936) 253-6744"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Dario Lara, Pilar Suarez",
+      "state_full": "Texas",
+      "raw_address": "800 US Hwy 287",
+      "city": "Rhome",
+      "state": "TX",
+      "zip": "76078",
+      "restaurant_phone": "(817) 636-6100"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Rachel Reynolds, Mark Reynolds",
+      "state_full": "Texas",
+      "raw_address": "1101 Ridge Rd, STE 203",
+      "city": "Rockwall",
+      "state": "TX",
+      "zip": "75087",
+      "restaurant_phone": "(469) 314-1774"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Sydney Greenwalt",
+      "state_full": "Texas",
+      "raw_address": "2681 Gattis School Rd STE 250",
+      "city": "Round Rock",
+      "state": "TX",
+      "zip": "78664",
+      "restaurant_phone": "(512) 531-9453"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Paul Mery, April Mery",
+      "state_full": "Texas",
+      "raw_address": "8700 Crownhill Blvd STE 706",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78209",
+      "restaurant_phone": "(210) 308-9346"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Edwin Young",
+      "state_full": "Texas",
+      "raw_address": "174 S Guadalupe St STE 207",
+      "city": "San Marcos",
+      "state": "TX",
+      "zip": "78666",
+      "restaurant_phone": "(512) 291-9495"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Bruce Lewis, Tracey Banks",
+      "state_full": "Texas",
+      "raw_address": "1800 N Teague Dr STE 210",
+      "city": "Sherman",
+      "state": "TX",
+      "zip": "75090",
+      "restaurant_phone": "(833) 923-2273"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Tate Wilder, Mindy Wilder",
+      "state_full": "Texas",
+      "raw_address": "2219 Sawdust Rd, Ste 601",
+      "city": "The Woodlands",
+      "state": "TX",
+      "zip": "77380",
+      "restaurant_phone": "(281) 402-8859"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Randy Price, Susan Price, Matt Blocker",
+      "state_full": "Texas",
+      "raw_address": "420 E Fifth St",
+      "city": "Tyler",
+      "state": "TX",
+      "zip": "75701",
+      "restaurant_phone": "(903) 253-0778"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Trung Giang",
+      "state_full": "Texas",
+      "raw_address": "605 Towne Oaks Dr STE B",
+      "city": "Waco",
+      "state": "TX",
+      "zip": "76710",
+      "restaurant_phone": "(254) 399-0788"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Trung Giang",
+      "state_full": "Texas",
+      "raw_address": "1005 Marlandwood Rd Ste 107",
+      "city": "Temple",
+      "state": "TX",
+      "zip": "76502",
+      "restaurant_phone": "(254) 326-4461"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Spencer Robinson, Trung Giang",
+      "state_full": "Texas",
+      "raw_address": "6300 W Loop S, STE 430",
+      "city": "Bellaire",
+      "state": "TX",
+      "zip": "77401",
+      "restaurant_phone": "(713) 838-0100"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Randy Price, Susan Price, Matt Blocker",
+      "state_full": "Texas",
+      "raw_address": "4626 Summerhill Rd",
+      "city": "Texarkana",
+      "state": "TX",
+      "zip": "75503",
+      "restaurant_phone": "(903) 253-0778"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Randy Price, Susan Price, Matt Blocker",
+      "state_full": "Texas",
+      "raw_address": "217 N Palestine St Unit H",
+      "city": "Athens",
+      "state": "TX",
+      "zip": "75751",
+      "restaurant_phone": "(903) 705-7196"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Randy Price, Susan Price, Matt Blocker",
+      "state_full": "Texas",
+      "raw_address": "1610 Posey Ln, STE 4",
+      "city": "Sulphur Springs",
+      "state": "TX",
+      "zip": "75482",
+      "restaurant_phone": "(903) 689-7060"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jobin Mathai",
+      "state_full": "Texas",
+      "raw_address": "1111 W Mockingbird Ln Ste 1330",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75247",
+      "restaurant_phone": "(325) 387-8373"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Sandra Chiles",
+      "state_full": "Texas",
+      "raw_address": "3305 Altamesa Blvd",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76133",
+      "restaurant_phone": "(817) 264-6999"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Randy Price, Susan Price, Matt Blocker",
+      "state_full": "Texas",
+      "raw_address": "2626 Calder St, Unit 203",
+      "city": "Beaumont",
+      "state": "TX",
+      "zip": "77702",
+      "restaurant_phone": "(409) 288-1121"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Randy Price, Susan Price, Matt Blocker",
+      "state_full": "Texas",
+      "raw_address": "4721 Garth Rd, Ste D300",
+      "city": "Baytown",
+      "state": "TX",
+      "zip": "77521",
+      "restaurant_phone": "(346) 660-2884"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Randy Price, Susan Price, Matt Blocker",
+      "state_full": "Texas",
+      "raw_address": "522 N Broadway Ave",
+      "city": "Tyler",
+      "state": "TX",
+      "zip": "75702",
+      "restaurant_phone": "(903) 253-0778"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Eduardo Pe\u00f1alosa",
+      "state_full": "Texas",
+      "raw_address": "4025 E Southcross Blvd STE 28",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78222",
+      "restaurant_phone": "(210) 688-8551"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Hanh Hoang",
+      "state_full": "Texas",
+      "raw_address": "4220 Cartwright Rd STE 503",
+      "city": "Missouri City",
+      "state": "TX",
+      "zip": "77459",
+      "restaurant_phone": "(281) 357-9688"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Abby Savran",
+      "state_full": "Texas",
+      "raw_address": "5222 Reading Way",
+      "city": "Rosenberg",
+      "state": "TX",
+      "zip": "77471",
+      "restaurant_phone": "(346) 266-0333"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Tate Wilder, Mindy Wilder",
+      "state_full": "Texas",
+      "raw_address": "2219 Sawdust Rd Ste 601",
+      "city": "The Woodlands",
+      "state": "TX",
+      "zip": "77380",
+      "restaurant_phone": "(281) 402-8859"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "David Shultz, Tim Shultz, Deborah Kenny",
+      "state_full": "Texas",
+      "raw_address": "5764 N Mesa St",
+      "city": "El Paso",
+      "state": "TX",
+      "zip": "79912",
+      "restaurant_phone": "(915) 293-2021"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Randy Price, Susan Price, Matt Blocker",
+      "state_full": "Texas",
+      "raw_address": "3004 50th St, STE C",
+      "city": "Lubbock",
+      "state": "TX",
+      "zip": "",
+      "restaurant_phone": "(806) 224-0620"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Frank Barton",
+      "state_full": "Utah",
+      "raw_address": "5965 S 900 E STE 225",
+      "city": "Murray",
+      "state": "UT",
+      "zip": "84107",
+      "restaurant_phone": "(801) 758-0630"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Frank Barton",
+      "state_full": "Utah",
+      "raw_address": "535 E 4500 S, STE D210",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84107",
+      "restaurant_phone": "(801) 758-0630"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Frank Barton",
+      "state_full": "Utah",
+      "raw_address": "845 S Main St, STE B4",
+      "city": "Bountiful",
+      "state": "UT",
+      "zip": "84010",
+      "restaurant_phone": "(385) 231-1159"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Mark Willder, Erin Willder",
+      "state_full": "Utah",
+      "raw_address": "2230 N University Pkwy STE 4A",
+      "city": "Provo",
+      "state": "UT",
+      "zip": "84604",
+      "restaurant_phone": "(801) 373-1373"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Cassy Sullivan",
+      "state_full": "Virginia",
+      "raw_address": "3825 W Hundred Rd",
+      "city": "Chester",
+      "state": "VA",
+      "zip": "23831",
+      "restaurant_phone": "(804) 715-4607"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Phill Turner",
+      "state_full": "Virginia",
+      "raw_address": "8260 Willow Oaks Corporate Dr, STE 320",
+      "city": "Fairfax",
+      "state": "VA",
+      "zip": "22031",
+      "restaurant_phone": "(703) 538-4584"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Michael Lawrence",
+      "state_full": "Virginia",
+      "raw_address": "2124 Jefferson Davis Hwy STE 101",
+      "city": "Stafford",
+      "state": "VA",
+      "zip": "22554",
+      "restaurant_phone": "(540) 720-0734"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Peter Lawrence",
+      "state_full": "Virginia",
+      "raw_address": "918 Amherst St",
+      "city": "Winchester",
+      "state": "VA",
+      "zip": "22601",
+      "restaurant_phone": "(540) 686-7882"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Dan Tifft",
+      "state_full": "Virginia",
+      "raw_address": "184 Business Park Dr STE 205",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "zip": "23462",
+      "restaurant_phone": "(757) 985-2057"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Tyler Saeli",
+      "state_full": "Virginia",
+      "raw_address": "4282 Ivy Road",
+      "city": "Charlottesville",
+      "state": "VA",
+      "zip": "22903",
+      "restaurant_phone": "(434) 424-0700"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Steve Morris, Sharon Morris",
+      "state_full": "Washington",
+      "raw_address": "114 W Magnolia St STE 503",
+      "city": "Bellingham",
+      "state": "WA",
+      "zip": "98225",
+      "restaurant_phone": "(360) 982-2743"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Mark Johnston",
+      "state_full": "Washington",
+      "raw_address": "909 SE Everett Mall Way STE C319",
+      "city": "Everett",
+      "state": "WA",
+      "zip": "98208",
+      "restaurant_phone": "(425) 290-1714"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ben Solomon, Jay Solomon",
+      "state_full": "Washington",
+      "raw_address": "6010 20th St E STE 7",
+      "city": "Fife",
+      "state": "WA",
+      "zip": "98424",
+      "restaurant_phone": "(253) 904-8215"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ili Johnson, Tyson Johnson",
+      "state_full": "Washington",
+      "raw_address": "8805 N Harborview Dr STE 202",
+      "city": "Gig Harbor",
+      "state": "WA",
+      "zip": "98332",
+      "restaurant_phone": "(253) 509-0729"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Steve Morris, Sharon Morris",
+      "state_full": "Washington",
+      "raw_address": "317 S 2nd St STE 149",
+      "city": "Mount Vernon",
+      "state": "WA",
+      "zip": "98273",
+      "restaurant_phone": "(360) 982-2743"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ben Solomon, Jay Solomon",
+      "state_full": "Washington",
+      "raw_address": "11222 Roosevelt Way NE",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98125",
+      "restaurant_phone": "(206) 774-1100"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Nick Paul",
+      "state_full": "Washington",
+      "raw_address": "104 S Freya St., Suite 226B, Tapio Center, Turquoise Flag Bldg",
+      "city": "Spokane",
+      "state": "WA",
+      "zip": "99202",
+      "restaurant_phone": "(509) 315-5787"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Frank Barton",
+      "state_full": "Utah",
+      "raw_address": "5965 S 900 E, STE 225",
+      "city": "Murray",
+      "state": "UT",
+      "zip": "84107",
+      "restaurant_phone": "(801) 758-0630"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Mark Willder, Erin Willder",
+      "state_full": "Utah",
+      "raw_address": "2230 N University Pkwy, STE 4A",
+      "city": "Provo",
+      "state": "UT",
+      "zip": "84604",
+      "restaurant_phone": "(801) 373-1373"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Michael Lawrence",
+      "state_full": "Virginia",
+      "raw_address": "2124 Jefferson Davis Hwy, STE 101",
+      "city": "Stafford",
+      "state": "VA",
+      "zip": "22554",
+      "restaurant_phone": "(540) 720-0734"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Dan Tifft",
+      "state_full": "Virginia",
+      "raw_address": "184 Business Park Dr, STE 205",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "zip": "23462",
+      "restaurant_phone": "(757) 985-2057"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Steve Morris, Sharon Morris",
+      "state_full": "Washington",
+      "raw_address": "114 W Magnolia St, STE 503",
+      "city": "Bellingham",
+      "state": "WA",
+      "zip": "98225",
+      "restaurant_phone": "(360) 982-2743"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Mark Johnston",
+      "state_full": "Washington",
+      "raw_address": "909 SE Everett Mall Way, STE C319",
+      "city": "Everett",
+      "state": "WA",
+      "zip": "98208",
+      "restaurant_phone": "(425) 290-1714"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ben Solomon, Jay Solomon",
+      "state_full": "Washington",
+      "raw_address": "6010 20th St E, STE 7",
+      "city": "Fife",
+      "state": "WA",
+      "zip": "98424",
+      "restaurant_phone": "(253) 904-8215"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Ili Johnson, Tyson Johnson",
+      "state_full": "Washington",
+      "raw_address": "8805 N Harborview Dr, STE 202",
+      "city": "Gig Harbor",
+      "state": "WA",
+      "zip": "98332",
+      "restaurant_phone": "(253) 509-0729"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Steve Morris, Sharon Morris",
+      "state_full": "Washington",
+      "raw_address": "317 S 2nd St, STE 149",
+      "city": "Mount Vernon",
+      "state": "WA",
+      "zip": "98273",
+      "restaurant_phone": "(360) 982-2743"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Katung Aduwak, Tanya Bridges",
+      "state_full": "Washington",
+      "raw_address": "14220 Interurban Ave S, STE 224",
+      "city": "Tukwila",
+      "state": "WA",
+      "zip": "98168",
+      "restaurant_phone": "(206) 880-2221"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Eric Hicks",
+      "state_full": "West Virginia",
+      "raw_address": "5185 US Route 60, STE 29",
+      "city": "Huntington",
+      "state": "WV",
+      "zip": "25705",
+      "restaurant_phone": "(304) 453-4663"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Eric Hicks",
+      "state_full": "West Virginia",
+      "raw_address": "1599 2nd Ave",
+      "city": "Charleston",
+      "state": "WV",
+      "zip": "25387",
+      "restaurant_phone": "(304) 344-0586"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "April Wintermoyer",
+      "state_full": "West Virginia",
+      "raw_address": "3174 Earl L Core Rd, Ste 7",
+      "city": "Morgantown",
+      "state": "WV",
+      "zip": "26508",
+      "restaurant_phone": "(304) 296-6600"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Andrea Brown, Chris Brown",
+      "state_full": "Wisconsin",
+      "raw_address": "4311 N Lightning Dr, STE 3",
+      "city": "Appleton",
+      "state": "WI",
+      "zip": "54913",
+      "restaurant_phone": "(920) 257-4667"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "George Diekelman, Andrew Ruzek",
+      "state_full": "Wisconsin",
+      "raw_address": "W177 N9886 Rivercrest Dr, STE 262",
+      "city": "Germantown",
+      "state": "WI",
+      "zip": "53022",
+      "restaurant_phone": "(262) 255-2222"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Michael Callaghan",
+      "state_full": "Wisconsin",
+      "raw_address": "6044 8th Ave",
+      "city": "Kenosha",
+      "state": "WI",
+      "zip": "53143",
+      "restaurant_phone": "(262) 654-5410"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Lisa McComb, Shawn McComb",
+      "state_full": "Wisconsin",
+      "raw_address": "131 W Layton Ave, STE 307",
+      "city": "Milwaukee",
+      "state": "WI",
+      "zip": "53207",
+      "restaurant_phone": "(414) 877-1795"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Anna Lezotte",
+      "state_full": "Wisconsin",
+      "raw_address": "315 E Main St, Unit 2",
+      "city": "Waunakee",
+      "state": "WI",
+      "zip": "53597",
+      "restaurant_phone": "(608) 850-7335"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jon Bain",
+      "state_full": "Wisconsin",
+      "raw_address": "9600 W Greenfield Ave",
+      "city": "West Allis",
+      "state": "WI",
+      "zip": "53214",
+      "restaurant_phone": "(262) 347-3005"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Lisa McComb, Shawn McComb",
+      "state_full": "Wisconsin",
+      "raw_address": "316 E Silver Spring Dr, Ste 213",
+      "city": "Whitefish Bay",
+      "state": "WI",
+      "zip": "53217",
+      "restaurant_phone": "(414) 877-1795"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Katung Aduwak, Tanya Bridges",
+      "state_full": "Washington",
+      "raw_address": "14220 Interurban Ave S STE 224",
+      "city": "Tukwila",
+      "state": "WA",
+      "zip": "98168",
+      "restaurant_phone": "(206) 880-2221"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "RAHCOPD",
+      "state_full": "Oregon",
+      "raw_address": "6600 SW 105th Ave, STE 140",
+      "city": "Beaverton",
+      "state": "OR",
+      "zip": "97008",
+      "restaurant_phone": "(503) 574-3674"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "RAHCOPD",
+      "state_full": "Oregon",
+      "raw_address": "1111 NE Flanders St., STE 205",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97232",
+      "restaurant_phone": "(503) 764-9836"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "RAHCOPD",
+      "state_full": "Oregon",
+      "raw_address": "6600 SW 105th Ave., STE 140",
+      "city": "Beaverton",
+      "state": "OR",
+      "zip": "97008",
+      "restaurant_phone": "(503) 574-3674"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "RAHCOHHS",
+      "state_full": "South Carolina",
+      "raw_address": "29 Plantation Park Dr, STE 704",
+      "city": "Bluffton",
+      "state": "SC",
+      "zip": "29910",
+      "restaurant_phone": "(843) 815-7890"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "RAHCOHHS",
+      "state_full": "Georgia",
+      "raw_address": "114 Canal St, STE 401",
+      "city": "Pooler",
+      "state": "GA",
+      "zip": "31322",
+      "restaurant_phone": "(912) 691-8752"
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Bruce & Julie Isenberg, Jennifer Eisler",
+      "state_full": "Louisiana",
+      "raw_address": "",
+      "city": "",
+      "state": "LA",
+      "zip": "",
+      "restaurant_phone": ""
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Reetu Gill & Navtej Dhaliwal",
+      "state_full": "California",
+      "raw_address": "",
+      "city": "",
+      "state": "CA",
+      "zip": "",
+      "restaurant_phone": ""
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Zhajeid Greene & Keshini Simmons",
+      "state_full": "Washington",
+      "raw_address": "",
+      "city": "",
+      "state": "WA",
+      "zip": "",
+      "restaurant_phone": ""
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Sharon Weeden",
+      "state_full": "Florida",
+      "raw_address": "",
+      "city": "",
+      "state": "FL",
+      "zip": "",
+      "restaurant_phone": ""
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Asia Beene",
+      "state_full": "Georgia",
+      "raw_address": "",
+      "city": "",
+      "state": "GA",
+      "zip": "",
+      "restaurant_phone": ""
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Emerigh Mini",
+      "state_full": "Florida",
+      "raw_address": "",
+      "city": "",
+      "state": "FL",
+      "zip": "",
+      "restaurant_phone": ""
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Hafid Chrifi-Alaoui & Saeed Bahemia",
+      "state_full": "Indiana",
+      "raw_address": "",
+      "city": "",
+      "state": "IN",
+      "zip": "",
+      "restaurant_phone": ""
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Scott & Tina Roberts",
+      "state_full": "Florida",
+      "raw_address": "",
+      "city": "",
+      "state": "FL",
+      "zip": "",
+      "restaurant_phone": ""
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Anna Margarita De Jesus",
+      "state_full": "California",
+      "raw_address": "",
+      "city": "",
+      "state": "CA",
+      "zip": "",
+      "restaurant_phone": ""
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Walter Ochoa",
+      "state_full": "New York",
+      "raw_address": "",
+      "city": "",
+      "state": "NY",
+      "zip": "",
+      "restaurant_phone": ""
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Carla Silvani",
+      "state_full": "Texas",
+      "raw_address": "",
+      "city": "",
+      "state": "TX",
+      "zip": "",
+      "restaurant_phone": ""
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Trevor & Catherine Stantus",
+      "state_full": "Washington",
+      "raw_address": "",
+      "city": "",
+      "state": "WA",
+      "zip": "",
+      "restaurant_phone": ""
+    },
+    {
+      "brand": "Right at Home",
+      "franchisee_name": "Jay & Janki Patel",
+      "state_full": "Virginia",
+      "raw_address": "",
+      "city": "",
+      "state": "VA",
+      "zip": "",
+      "restaurant_phone": ""
+    }
+  ]
+}

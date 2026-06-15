@@ -1,0 +1,4585 @@
+{
+  "brand": "Comfort Keepers",
+  "records": [
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Roger Duncan",
+      "state_full": "Alaska",
+      "raw_address": "7985 E. 16th Ave., Ste 201",
+      "city": "Anchorage",
+      "state": "AK",
+      "zip": "99504",
+      "restaurant_phone": "(907) 334-3000"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Richard Goedde",
+      "state_full": "Alabama",
+      "raw_address": "80 Spring Branch Road, Ste B",
+      "city": "Alexandria",
+      "state": "AL",
+      "zip": "36250",
+      "restaurant_phone": "(256) 237-6685"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Brent Watson",
+      "state_full": "Alabama",
+      "raw_address": "3514 Martin Street S, Suite 101",
+      "city": "Cropwell",
+      "state": "AL",
+      "zip": "35054",
+      "restaurant_phone": "(205) 338-7909"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Robert Franklin",
+      "state_full": "Alabama",
+      "raw_address": "28119 N Main St, Ste C",
+      "city": "Daphne",
+      "state": "AL",
+      "zip": "36526",
+      "restaurant_phone": "(251) 621-5555"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Richard Goedde, Garrett Sullivan",
+      "state_full": "Alabama",
+      "raw_address": "1428 Wheatherly Rd, SE, Ste 200",
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35803",
+      "restaurant_phone": "(256) 382-1955"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Brian Phillips",
+      "state_full": "Alabama",
+      "raw_address": "3929 Airport Boulevard",
+      "city": "Mobile",
+      "state": "AL",
+      "zip": "36609",
+      "restaurant_phone": "(251) 202-4860"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Christopher Jane",
+      "state_full": "Alabama",
+      "raw_address": "119 S 8th St, Ste A",
+      "city": "Opelika",
+      "state": "AL",
+      "zip": "36801",
+      "restaurant_phone": "(334) 749-8461"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Gary Halstead",
+      "state_full": "Arkansas",
+      "raw_address": "701 NW McNelly Rd, Ste 5",
+      "city": "Bentonville",
+      "state": "AR",
+      "zip": "72712",
+      "restaurant_phone": "(479) 268-5668"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Sheriolyn Curry - 34",
+      "state_full": "Arizona",
+      "raw_address": "1347 N Alma School Rd, Ste 230",
+      "city": "Chandler",
+      "state": "AZ",
+      "zip": "85224",
+      "restaurant_phone": "(480) 659-9201"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Cynthia Harris",
+      "state_full": "Arizona",
+      "raw_address": "214 N Sitgreaves St.",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "zip": "86001",
+      "restaurant_phone": "(928) 774-0888"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Cynthia Harris",
+      "state_full": "Arizona",
+      "raw_address": "16810 E Avenue of the Fountains, Ste 200B",
+      "city": "Fountain Hills",
+      "state": "AZ",
+      "zip": "85268",
+      "restaurant_phone": "(480) 459-2800"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Ryan Schlichter",
+      "state_full": "Arizona",
+      "raw_address": "6499 S Kings Ranch Rd, Ste 8",
+      "city": "Gold Canyon",
+      "state": "AZ",
+      "zip": "85118",
+      "restaurant_phone": "(480) 701-0530"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Ryan Schlichter",
+      "state_full": "Arizona",
+      "raw_address": "2250 McCulloch Blvd N, Ste C",
+      "city": "Lake Havasu City",
+      "state": "AZ",
+      "zip": "86403",
+      "restaurant_phone": "(928) 855-0005"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Philip Senff, Roger Duncan - 4",
+      "state_full": "Arizona",
+      "raw_address": "2400 W Dunlap Ave, Ste 1",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85021",
+      "restaurant_phone": "(602) 441-4256"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Clarissa Johnston - 3",
+      "state_full": "Arizona",
+      "raw_address": "4837 E 5th St, Ste 101",
+      "city": "Tucson",
+      "state": "AZ",
+      "zip": "85711",
+      "restaurant_phone": "(520) 731-1000"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX",
+      "state_full": "California",
+      "raw_address": "1070 Marina Village Pkwy, Ste 102B",
+      "city": "Alameda",
+      "state": "CA",
+      "zip": "94501",
+      "restaurant_phone": "(510) 239-4397"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Jeffrey Henry - 2",
+      "state_full": "California",
+      "raw_address": "7342 Orangethorpe Ave, Ste B-109",
+      "city": "Buena Park",
+      "state": "CA",
+      "zip": "90621",
+      "restaurant_phone": "(714) 521-1337"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Beth Menor",
+      "state_full": "California",
+      "raw_address": "3833 Schaefer Ave, Ste J",
+      "city": "Chino",
+      "state": "CA",
+      "zip": "91710",
+      "restaurant_phone": "(909) 902-0100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Cindy Zaragoza - 2",
+      "state_full": "California",
+      "raw_address": "220 N Glenoaks Blvd, Ste A",
+      "city": "Burbank",
+      "state": "CA",
+      "zip": "91502",
+      "restaurant_phone": "(818) 841-4040"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Vincent Maffeo",
+      "state_full": "California",
+      "raw_address": "6060 Sunrise Vista Dr., Ste. 1180",
+      "city": "Citrus Heights",
+      "state": "CA",
+      "zip": "95610",
+      "restaurant_phone": "(916) 560-9100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Michael Craig - 2",
+      "state_full": "California",
+      "raw_address": "420 W Baseline Rd, Ste D",
+      "city": "Claremont",
+      "state": "CA",
+      "zip": "91711",
+      "restaurant_phone": "(909) 625-6151"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Gyorgy Bassola",
+      "state_full": "California",
+      "raw_address": "830 Orange Avenue, Suite J2",
+      "city": "Coronado",
+      "state": "CA",
+      "zip": "92118",
+      "restaurant_phone": "(619) 435-6318"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Myles McNamara - 2",
+      "state_full": "California",
+      "raw_address": "17915 Ventura Blvd, Ste 216",
+      "city": "Encino",
+      "state": "CA",
+      "zip": "91316",
+      "restaurant_phone": "(818) 776-5060"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "John Hatch - 3",
+      "state_full": "California",
+      "raw_address": "2224 N Fine Avenue, Ste 101",
+      "city": "Fresno",
+      "state": "CA",
+      "zip": "93727",
+      "restaurant_phone": "(559) 456-8064"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Karen Brumm",
+      "state_full": "California",
+      "raw_address": "18351 Beach Blvd., Suite H",
+      "city": "Huntington Beach",
+      "state": "CA",
+      "zip": "92648",
+      "restaurant_phone": "(714) 846-3535"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Stephen Simmons",
+      "state_full": "California",
+      "raw_address": "1673 Lewis Street",
+      "city": "Kingsburg",
+      "state": "CA",
+      "zip": "93631",
+      "restaurant_phone": "(559) 897-5161"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Sheryl LaBrada - 2",
+      "state_full": "California",
+      "raw_address": "11900 La Mirada Blvd, #109",
+      "city": "La Mirada",
+      "state": "CA",
+      "zip": "90638",
+      "restaurant_phone": "(562) 947-9740"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Kelleen Corfield - 2",
+      "state_full": "California",
+      "raw_address": "30011 Ivy Glenn Dr, Ste 102-B",
+      "city": "Laguna Niguel",
+      "state": "CA",
+      "zip": "92677",
+      "restaurant_phone": "(949) 481-6900"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX",
+      "state_full": "California",
+      "raw_address": "43713 20th St. West, Ste 3",
+      "city": "Lancaster",
+      "state": "CA",
+      "zip": "93534",
+      "restaurant_phone": "(661) 723-8180"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Sheryl LaBrada",
+      "state_full": "California",
+      "raw_address": "5500 E Atherton St, Suite 200",
+      "city": "Long Beach",
+      "state": "CA",
+      "zip": "90815",
+      "restaurant_phone": "(562) 947-9740"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Michael Craig - 2",
+      "state_full": "California",
+      "raw_address": "1902 Westwood Blvd, #214",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90025",
+      "restaurant_phone": "(310) 598-3960"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "William Cardenas",
+      "state_full": "California",
+      "raw_address": "5478 Wilshire Blvd, Ste 218",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90036",
+      "restaurant_phone": "(323) 932-9777"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Neil Goforth",
+      "state_full": "California",
+      "raw_address": "901 H Street",
+      "city": "Marysville",
+      "state": "CA",
+      "zip": "95901",
+      "restaurant_phone": "(530) 749-8800"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Margaret Ortiz - 2",
+      "state_full": "California",
+      "raw_address": "478 E Yosemite Ave, Ste C",
+      "city": "Merced",
+      "state": "CA",
+      "zip": "95340",
+      "restaurant_phone": "(209) 726-8007"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Kamini Singh",
+      "state_full": "California",
+      "raw_address": "40 N Park Victoria Dr, Ste G",
+      "city": "Milpitas",
+      "state": "CA",
+      "zip": "95035",
+      "restaurant_phone": "(669) 321-5300"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Vincent Maffeo - 2",
+      "state_full": "California",
+      "raw_address": "5831 Stoddard Road, Suite 802",
+      "city": "Modesto",
+      "state": "CA",
+      "zip": "95354",
+      "restaurant_phone": "(209) 543-0444"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Cindy Zaragoza - 3",
+      "state_full": "California",
+      "raw_address": "517 Falling Leaf Alley",
+      "city": "Monrovia",
+      "state": "CA",
+      "zip": "91016",
+      "restaurant_phone": "(626) 254-0100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Paula McMahon",
+      "state_full": "California",
+      "raw_address": "615 Main Street",
+      "city": "Morro Bay",
+      "state": "CA",
+      "zip": "93442",
+      "restaurant_phone": "(805) 528-8862"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Kelleen Corfield - 4",
+      "state_full": "California",
+      "raw_address": "1748 W. Katella Ave, Ste 207",
+      "city": "Orange",
+      "state": "CA",
+      "zip": "92867",
+      "restaurant_phone": "(714) 744-3800"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "David Sommerfeld - 2",
+      "state_full": "California",
+      "raw_address": "45445 Portola Ave. Ste. 6",
+      "city": "Palm Desert",
+      "state": "CA",
+      "zip": "92260",
+      "restaurant_phone": "(760) 340-2166"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Michael Craig - 2",
+      "state_full": "California",
+      "raw_address": "1147 South Fair Oaks Ave.",
+      "city": "Pasadena",
+      "state": "CA",
+      "zip": "91105",
+      "restaurant_phone": "(626) 498-2427"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX - 7",
+      "state_full": "California",
+      "raw_address": "391 Taylor Blvd, Ste 210",
+      "city": "Pleasant Hill",
+      "state": "CA",
+      "zip": "94523",
+      "restaurant_phone": "(925) 469-9555"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Jimmy",
+      "state_full": "California",
+      "raw_address": "31629 Outer Hwy 10 S, Ste. F",
+      "city": "Redlands",
+      "state": "CA",
+      "zip": "92373",
+      "restaurant_phone": "(951) 682-2660"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Jimmy Hammond / Scott Aceto - 2",
+      "state_full": "California",
+      "raw_address": "31629 Outer Hwy 10 S, Ste. F",
+      "city": "Redlands",
+      "state": "CA",
+      "zip": "92373",
+      "restaurant_phone": "(951) 682-2660"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Jimmy Hammond / Scott Aceto",
+      "state_full": "California",
+      "raw_address": "17050 Arnold Dr.",
+      "city": "Riverside",
+      "state": "CA",
+      "zip": "92518",
+      "restaurant_phone": "(951) 682-2660"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Vincent Maffeo - 3",
+      "state_full": "California",
+      "raw_address": "333 University Avenue, Ste 200",
+      "city": "Sacramento",
+      "state": "CA",
+      "zip": "95825",
+      "restaurant_phone": "(916) 560-9100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Vincent Maffeo - 2",
+      "state_full": "California",
+      "raw_address": "3400 Cottage Way #G5",
+      "city": "Sacramento",
+      "state": "CA",
+      "zip": "95825",
+      "restaurant_phone": "(916) 260-0654"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Sheri Harvey - 7",
+      "state_full": "California",
+      "raw_address": "4420 Rainier Ave, Ste 202",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92120",
+      "restaurant_phone": "(619) 795-6036"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX - 3",
+      "state_full": "California",
+      "raw_address": "2061 Clarmar Way, Ste B",
+      "city": "San Jose",
+      "state": "CA",
+      "zip": "95128",
+      "restaurant_phone": "(408) 446-1199"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Charles Grandelli",
+      "state_full": "California",
+      "raw_address": "1815-D Contra Costa Street",
+      "city": "Sand City",
+      "state": "CA",
+      "zip": "93955",
+      "restaurant_phone": "(831) 886-0475"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Myles McNamara - 2",
+      "state_full": "California",
+      "raw_address": "23900 Lyons Ave",
+      "city": "Santa Clarita",
+      "state": "CA",
+      "zip": "91321",
+      "restaurant_phone": "(661) 287-4200"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Max Snitkovsky - 2",
+      "state_full": "California",
+      "raw_address": "429 Santa Monica Bvd, Ste 220",
+      "city": "Santa Monica",
+      "state": "CA",
+      "zip": "90401",
+      "restaurant_phone": "(310) 474-5544"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Vincent Maffeo",
+      "state_full": "California",
+      "raw_address": "14570 Mono Way, Suite G",
+      "city": "Sonora",
+      "state": "CA",
+      "zip": "95370",
+      "restaurant_phone": "(209) 532-4500"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Vincent Maffeo",
+      "state_full": "California",
+      "raw_address": "1625 W March Ln, Suite 201",
+      "city": "Stockton",
+      "state": "CA",
+      "zip": "95207",
+      "restaurant_phone": "(209) 944-2001"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Scott Aceto - 2",
+      "state_full": "California",
+      "raw_address": "41593 Winchester Rd, Ste 200",
+      "city": "Temecula",
+      "state": "CA",
+      "zip": "92590",
+      "restaurant_phone": "(951) 401-4045"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Andrew Smith - 4 / Sal Penta - 6",
+      "state_full": "California",
+      "raw_address": "3249 Old Conejo Road",
+      "city": "Thousand Oaks",
+      "state": "CA",
+      "zip": "91320",
+      "restaurant_phone": "(805) 658-2600"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Sheryl LaBrada",
+      "state_full": "California",
+      "raw_address": "21171 South Western Ave, Ste 220",
+      "city": "Torrance",
+      "state": "CA",
+      "zip": "90501",
+      "restaurant_phone": "(310) 272-5541"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Anastasia Preciado - 2",
+      "state_full": "California",
+      "raw_address": "91 Cernon Street, Suite B",
+      "city": "Vacaville",
+      "state": "CA",
+      "zip": "95688",
+      "restaurant_phone": "(707) 446-0606"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Anastasia Preciado",
+      "state_full": "California",
+      "raw_address": "123 Court St.",
+      "city": "Woodland",
+      "state": "CA",
+      "zip": "95695",
+      "restaurant_phone": "(530) 666-4300"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Katherine Coleman / Nathan Miller",
+      "state_full": "Colorado",
+      "raw_address": "425 Wilcox Street #170",
+      "city": "Castle Rock",
+      "state": "CO",
+      "zip": "80104",
+      "restaurant_phone": "(303) 993-1111"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Nathan Miller - 2",
+      "state_full": "Colorado",
+      "raw_address": "6898 S University Blvd, Ste 230",
+      "city": "Centennial",
+      "state": "CO",
+      "zip": "80122",
+      "restaurant_phone": "(303) 722-3242"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Nathan Miller - 2",
+      "state_full": "Colorado",
+      "raw_address": "5390 N Academy Blvd, #230",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80918",
+      "restaurant_phone": "(719) 522-9100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Katherine Coleman",
+      "state_full": "Colorado",
+      "raw_address": "1633 Fillmore St, Ste 370",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80206",
+      "restaurant_phone": "(720) 779-2020"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Brent Eggeman - 23",
+      "state_full": "Colorado",
+      "raw_address": "6845 Broadway Street",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80221",
+      "restaurant_phone": "(303) 457-4200"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Nathan Miller",
+      "state_full": "Colorado",
+      "raw_address": "950 S Cherry St. G-8",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80246",
+      "restaurant_phone": "(720) 779-2020"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Nathan Miller - 53",
+      "state_full": "Colorado",
+      "raw_address": "10200 E Girard Ave, Ste B-450",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80231",
+      "restaurant_phone": "(303) 722-3242"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Linda Schaffer / Erin Youngblood",
+      "state_full": "Colorado",
+      "raw_address": "691 CR 233, A-6",
+      "city": "Durango",
+      "state": "CO",
+      "zip": "81301",
+      "restaurant_phone": "(970) 515-7055"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Ora Lee",
+      "state_full": "Colorado",
+      "raw_address": "514 28 1/4 Road, Ste 5",
+      "city": "Grand Junction",
+      "state": "CO",
+      "zip": "81501",
+      "restaurant_phone": "(970) 241-8818"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Mark / Carolyn McGoldrick",
+      "state_full": "Connecticut",
+      "raw_address": "6 Stony Hill Road, Ste 200",
+      "city": "Bethel",
+      "state": "CT",
+      "zip": "06801",
+      "restaurant_phone": "(203) 924-4949"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Mark / Carolyn McGoldrick - 2",
+      "state_full": "Connecticut",
+      "raw_address": "116 Cottage Grove Rd, Ste 205",
+      "city": "Bloomfield",
+      "state": "CT",
+      "zip": "06002",
+      "restaurant_phone": "(860) 242-7739"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Nicholas Miller",
+      "state_full": "Connecticut",
+      "raw_address": "276 Hazard Ave, S-3",
+      "city": "Enfield",
+      "state": "CT",
+      "zip": "06082",
+      "restaurant_phone": "(860) 749-0428"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Garrett Sullivan",
+      "state_full": "Connecticut",
+      "raw_address": "150 Boston Post Road",
+      "city": "Madison",
+      "state": "CT",
+      "zip": "06443",
+      "restaurant_phone": "(203) 453-2100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Mark / Carolyn McGoldrick - 2",
+      "state_full": "Connecticut",
+      "raw_address": "500 Howe Ave, Ste 200",
+      "city": "Shelton",
+      "state": "CT",
+      "zip": "06484",
+      "restaurant_phone": "(203) 924-4949"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Garrett Sullivan",
+      "state_full": "Connecticut",
+      "raw_address": "669 Center Street",
+      "city": "Wallingford",
+      "state": "CT",
+      "zip": "06492",
+      "restaurant_phone": "(203) 697-1030"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Garrett Sullivan",
+      "state_full": "Connecticut",
+      "raw_address": "785 Broad Street Ext.",
+      "city": "Waterford",
+      "state": "CT",
+      "zip": "06385",
+      "restaurant_phone": "(203) 453-2100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Mark / Carolyn McGoldrick - 2",
+      "state_full": "Connecticut",
+      "raw_address": "181 Post Road West, Suite 17",
+      "city": "Westport",
+      "state": "CT",
+      "zip": "06880",
+      "restaurant_phone": "(203) 924-4949"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Jamie Ramage - 3",
+      "state_full": "Delaware",
+      "raw_address": "92 Reads Way, Ste. 207",
+      "city": "New Castle",
+      "state": "DE",
+      "zip": "19720",
+      "restaurant_phone": "(302) 322-6717"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Matt / Tyler Auker - 2",
+      "state_full": "Florida",
+      "raw_address": "498 Palm Springs Dr, Ste 240",
+      "city": "Altamonte Springs",
+      "state": "FL",
+      "zip": "32701",
+      "restaurant_phone": "(407) 774-4457"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Frederick Svejda",
+      "state_full": "Florida",
+      "raw_address": "206 S Moon Avenue",
+      "city": "Brandon",
+      "state": "FL",
+      "zip": "33511",
+      "restaurant_phone": "(813) 649-8191"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Tracy Kelley",
+      "state_full": "Florida",
+      "raw_address": "1064 West Hwy 50, Ste 215",
+      "city": "Clermont",
+      "state": "FL",
+      "zip": "34711",
+      "restaurant_phone": "(352) 717-2222"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Angela Zeck - 3",
+      "state_full": "Florida",
+      "raw_address": "4801 S University Drive, Suite 3070",
+      "city": "Davie",
+      "state": "FL",
+      "zip": "33328",
+      "restaurant_phone": "(954) 947-7954"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Ryan Kennedy - 6",
+      "state_full": "Florida",
+      "raw_address": "2605 W Atlantic Ave, Ste A102",
+      "city": "Delray Beach",
+      "state": "FL",
+      "zip": "33445",
+      "restaurant_phone": "(561) 499-8382"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "David Mahoney - 2",
+      "state_full": "Florida",
+      "raw_address": "901 S Federal Hwy, Ste 100",
+      "city": "Ft. Lauderdale",
+      "state": "FL",
+      "zip": "33316",
+      "restaurant_phone": "(954) 825-0155"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Thomas Dean - 3",
+      "state_full": "Florida",
+      "raw_address": "12480 Brantley Commons Ct",
+      "city": "Ft. Myers",
+      "state": "FL",
+      "zip": "33907",
+      "restaurant_phone": "(239) 590-8999"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Michelle Ibrahim",
+      "state_full": "Florida",
+      "raw_address": "1301 North Orange Ave., Ste. 104",
+      "city": "Green Cove Springs",
+      "state": "FL",
+      "zip": "32043",
+      "restaurant_phone": "(904) 854-0740"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX",
+      "state_full": "Florida",
+      "raw_address": "1035 NW 57th St",
+      "city": "Gainesville",
+      "state": "FL",
+      "zip": "32605",
+      "restaurant_phone": "(352) 331-7760"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Steve Phillip",
+      "state_full": "Florida",
+      "raw_address": "450 N. Park Rd, Suite 501",
+      "city": "Hollywood",
+      "state": "FL",
+      "zip": "33021",
+      "restaurant_phone": "(954) 920-0055"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Lindsey Haller - 2",
+      "state_full": "Florida",
+      "raw_address": "2244 Hwy 44 W",
+      "city": "Inverness",
+      "state": "FL",
+      "zip": "34453",
+      "restaurant_phone": "(352) 726-4547"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Michelle Ibrahim",
+      "state_full": "Florida",
+      "raw_address": "9951 Atlantic Blvd, Ste 220",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32225",
+      "restaurant_phone": "(904) 298-2273"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Kathryn Murphy - 3",
+      "state_full": "Florida",
+      "raw_address": "12276 San Jose Blvd, Ste 304",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32224",
+      "restaurant_phone": "(904) 230-9220"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "MarkCarolyn McGoldrick",
+      "state_full": "Connecticut",
+      "raw_address": "6 Stony Hill Road, Ste 200",
+      "city": "Bethel",
+      "state": "CT",
+      "zip": "06801",
+      "restaurant_phone": "(203) 924-4949"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "MarkCarolyn McGoldrick - 2",
+      "state_full": "Connecticut",
+      "raw_address": "116 Cottage Grove Rd, Ste 205",
+      "city": "Bloomfield",
+      "state": "CT",
+      "zip": "06002",
+      "restaurant_phone": "(860) 242-7739"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "MarkCarolyn McGoldrick - 2",
+      "state_full": "Connecticut",
+      "raw_address": "500 Howe Ave, Ste 200",
+      "city": "Shelton",
+      "state": "CT",
+      "zip": "06484",
+      "restaurant_phone": "(203) 924-4949"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "MarkCarolyn McGoldrick - 2",
+      "state_full": "Connecticut",
+      "raw_address": "181 Post Road West, Suite 17",
+      "city": "Westport",
+      "state": "CT",
+      "zip": "06880",
+      "restaurant_phone": "(203) 924-4949"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "MattTyler Auker - 2",
+      "state_full": "Florida",
+      "raw_address": "498 Palm Springs Dr, Ste 240",
+      "city": "Altamonte Springs",
+      "state": "FL",
+      "zip": "32701",
+      "restaurant_phone": "(407) 774-4457"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Ryan Kennedy - 3",
+      "state_full": "Florida",
+      "raw_address": "601 Heritage Dr, Ste 211",
+      "city": "Jupiter",
+      "state": "FL",
+      "zip": "33458",
+      "restaurant_phone": "(561) 694-1950"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Tracy Kelley",
+      "state_full": "Florida",
+      "raw_address": "852 John Young Pkwy",
+      "city": "Kissimmee",
+      "state": "FL",
+      "zip": "34741",
+      "restaurant_phone": "(407) 250-9100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX",
+      "state_full": "Florida",
+      "raw_address": "785 CR 466",
+      "city": "Lady Lake",
+      "state": "FL",
+      "zip": "32159",
+      "restaurant_phone": "(352) 259-0893"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Tracy Kelley - 42",
+      "state_full": "Florida",
+      "raw_address": "902 S. Florida Avenue, Ste 201",
+      "city": "Lakeland",
+      "state": "FL",
+      "zip": "33803",
+      "restaurant_phone": "(863) 701-9100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Stacey Fuhrman - 4",
+      "state_full": "Florida",
+      "raw_address": "7411 114th Avenue, Suite 306",
+      "city": "Largo",
+      "state": "FL",
+      "zip": "33773",
+      "restaurant_phone": "(727) 772-7300"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Tracy Kelley - 2",
+      "state_full": "Florida",
+      "raw_address": "17901 Hunting Bow Cr, Ste 101",
+      "city": "Lutz",
+      "state": "FL",
+      "zip": "33558",
+      "restaurant_phone": "(813) 920-4440"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Ryan Kennedy",
+      "state_full": "Florida",
+      "raw_address": "776 E John Sims Pkwy",
+      "city": "Niceville",
+      "state": "FL",
+      "zip": "32578",
+      "restaurant_phone": "(850) 279-6310"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX - 2",
+      "state_full": "Florida",
+      "raw_address": "1315 SE 25th Loop, Ste 102",
+      "city": "Ocala",
+      "state": "FL",
+      "zip": "34471",
+      "restaurant_phone": "(352) 259-0893"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Anthony Brooks - 3",
+      "state_full": "Florida",
+      "raw_address": "1750 W Broadway St, Ste 101",
+      "city": "Oviedo",
+      "state": "FL",
+      "zip": "32765",
+      "restaurant_phone": "(407) 542-7821"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Ryan Kennedy",
+      "state_full": "Florida",
+      "raw_address": "2617-B W 23rd St",
+      "city": "Panama City",
+      "state": "FL",
+      "zip": "32405",
+      "restaurant_phone": "(850) 791-6700"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Ryan Kennedy - 2",
+      "state_full": "Florida",
+      "raw_address": "1149 Creighton Rd #5",
+      "city": "Pensacola",
+      "state": "FL",
+      "zip": "32504",
+      "restaurant_phone": "(850) 791-6700"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Thomas Dean",
+      "state_full": "Florida",
+      "raw_address": "949 Tamiami Trl, Ste 203",
+      "city": "Port Charlotte",
+      "state": "FL",
+      "zip": "33953",
+      "restaurant_phone": "(941) 235-9111"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "MattTyler Auker - 2",
+      "state_full": "Florida",
+      "raw_address": "3959 Nova Rd, Ste 26",
+      "city": "Port Orange",
+      "state": "FL",
+      "zip": "32127",
+      "restaurant_phone": "(386) 322-8882"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Itay Shalev",
+      "state_full": "Florida",
+      "raw_address": "2033 Wood St, Ste 215",
+      "city": "Sarasota",
+      "state": "FL",
+      "zip": "34237",
+      "restaurant_phone": "(941) 921-4747"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Tracy Kelley",
+      "state_full": "Florida",
+      "raw_address": "2918 Sparta Rd",
+      "city": "Sebring",
+      "state": "FL",
+      "zip": "33875",
+      "restaurant_phone": "(863) 385-9100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Frederick Svejda",
+      "state_full": "Florida",
+      "raw_address": "910 N Pebble Beach Blvd",
+      "city": "Sun City Center",
+      "state": "FL",
+      "zip": "33573",
+      "restaurant_phone": "(813) 649-8191"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Mathews Thomas - 3",
+      "state_full": "Florida",
+      "raw_address": "7819 N Dale Mabry Hwy, Ste 200",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33614",
+      "restaurant_phone": "(813) 935-3600"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Patricia Bell",
+      "state_full": "Florida",
+      "raw_address": "327 S Washington Ave",
+      "city": "Titusville",
+      "state": "FL",
+      "zip": "32796",
+      "restaurant_phone": "(321) 268-3310"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Ryan Kennedy",
+      "state_full": "Florida",
+      "raw_address": "1962 26th Ave",
+      "city": "Vero Beach",
+      "state": "FL",
+      "zip": "32960",
+      "restaurant_phone": "(772) 999-3944"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Jennifer Jack-Wunder",
+      "state_full": "Georgia",
+      "raw_address": "2475 Northwinds Pkwy, Ste 200",
+      "city": "Alpharetta",
+      "state": "GA",
+      "zip": "30009",
+      "restaurant_phone": "(770) 753-6457"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Misty Havard",
+      "state_full": "Georgia",
+      "raw_address": "1489 Blue Ridge Hwy, Ste D & E",
+      "city": "Blairsville",
+      "state": "GA",
+      "zip": "30512",
+      "restaurant_phone": "(706) 835-2607"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Matt Tyler Auker - 2",
+      "state_full": "Florida",
+      "raw_address": "3959 Nova Rd, Ste 26",
+      "city": "Port Orange",
+      "state": "FL",
+      "zip": "32127",
+      "restaurant_phone": "(386) 322-8882"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Jennifer Jack-Wunder",
+      "state_full": "Georgia",
+      "raw_address": "205 Waleska Road, Ste 1C",
+      "city": "Canton",
+      "state": "GA",
+      "zip": "30114",
+      "restaurant_phone": "(770) 887-0499"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "George Abbott",
+      "state_full": "Georgia",
+      "raw_address": "3575 Macon Road, Ste 23",
+      "city": "Columbus",
+      "state": "GA",
+      "zip": "31907",
+      "restaurant_phone": "(706) 562-1211"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Carla Brown - 2",
+      "state_full": "Georgia",
+      "raw_address": "990 Iris Drive SW, Ste 101",
+      "city": "Conyers",
+      "state": "GA",
+      "zip": "30094",
+      "restaurant_phone": "(770) 987-9997"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Jennifer Jack-Wunder",
+      "state_full": "Georgia",
+      "raw_address": "110 Samaritan Dr, Suite 208",
+      "city": "Cumming",
+      "state": "GA",
+      "zip": "30040",
+      "restaurant_phone": "(770) 887-0499"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Jennifer Jack-Wunder",
+      "state_full": "Georgia",
+      "raw_address": "439 Green Street N.W.",
+      "city": "Gainesville",
+      "state": "GA",
+      "zip": "30501",
+      "restaurant_phone": "(770) 232-6187"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Greg Johnson - 2",
+      "state_full": "Georgia",
+      "raw_address": "6290 Abbotts Bridge Rd, Ste 302",
+      "city": "Johns Creek",
+      "state": "GA",
+      "zip": "30097",
+      "restaurant_phone": "(770) 765-0033"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Mary Lewis - 2",
+      "state_full": "Georgia",
+      "raw_address": "5344 Five Forks Trickum Rd, SW",
+      "city": "Lilburn",
+      "state": "GA",
+      "zip": "30047",
+      "restaurant_phone": "(470) 299-3192"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Dale Enix - 2",
+      "state_full": "Georgia",
+      "raw_address": "240 Cherokee St, Ste 302",
+      "city": "Marietta",
+      "state": "GA",
+      "zip": "30060",
+      "restaurant_phone": "(678) 354-0102"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Scott Weeks",
+      "state_full": "Georgia",
+      "raw_address": "7370 Hodgson Memorial Dr, Ste C-8",
+      "city": "Savannah",
+      "state": "GA",
+      "zip": "31406",
+      "restaurant_phone": "(912) 356-0111"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Scott Register",
+      "state_full": "Georgia",
+      "raw_address": "3470 N Valdosta Rd",
+      "city": "Valdosta",
+      "state": "GA",
+      "zip": "31602",
+      "restaurant_phone": "(229) 241-0002"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Scott Register",
+      "state_full": "Georgia",
+      "raw_address": "2717 Windemere Dr, Ste FC",
+      "city": "Valdosta",
+      "state": "GA",
+      "zip": "31602",
+      "restaurant_phone": "(229) 241-0002"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Roxanne Bauer",
+      "state_full": "Iowa",
+      "raw_address": "3420 Elmore Ave.",
+      "city": "Davenport",
+      "state": "IA",
+      "zip": "52807",
+      "restaurant_phone": "(563) 424-7777"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "James Nickerson",
+      "state_full": "Iowa",
+      "raw_address": "19 S Center St, Ste 2",
+      "city": "Marshalltown",
+      "state": "IA",
+      "zip": "50158",
+      "restaurant_phone": "(641) 752-0715"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Shasta Gamble - 23",
+      "state_full": "Iowa",
+      "raw_address": "1300 Metro East Dr, Ste 110",
+      "city": "Pleasant Hill",
+      "state": "IA",
+      "zip": "50327",
+      "restaurant_phone": "(515) 243-0011"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Shasta Gamble - 23",
+      "state_full": "Iowa",
+      "raw_address": "6200 Aurora Ave, Ste 200W",
+      "city": "Urbandale",
+      "state": "IA",
+      "zip": "50322",
+      "restaurant_phone": "(515) 243-0011"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Andrew Thornock Yukie Hiratsuka",
+      "state_full": "Idaho",
+      "raw_address": "820 E Best Ave",
+      "city": "Coeur D'Alene",
+      "state": "ID",
+      "zip": "83814",
+      "restaurant_phone": "(208) 765-9511"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Kenny Lyman",
+      "state_full": "Idaho",
+      "raw_address": "3023 Copper Point Dr, Ste 107",
+      "city": "Meridian",
+      "state": "ID",
+      "zip": "83642",
+      "restaurant_phone": "(208) 895-8822"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Kenny Lyman",
+      "state_full": "Idaho",
+      "raw_address": "250 2nd Ave S, Ste A",
+      "city": "Twin Falls",
+      "state": "ID",
+      "zip": "83301",
+      "restaurant_phone": "(208) 874-0664"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Anna Holden - 2",
+      "state_full": "Illinois",
+      "raw_address": "1400 E. Lake Cook Rd, Ste 110",
+      "city": "Buffalo Grove",
+      "state": "IL",
+      "zip": "60089",
+      "restaurant_phone": "(847) 215-8550"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Anna Holden - 2",
+      "state_full": "Illinois",
+      "raw_address": "4849 N Milwaukee Ave, Ste 202",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60630",
+      "restaurant_phone": "(847) 215-8550"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Itay Shalev Anna Holden",
+      "state_full": "Illinois",
+      "raw_address": "1 E Superior St, Ste 605",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60611",
+      "restaurant_phone": "(312) 470-6070"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Christina Clark",
+      "state_full": "Illinois",
+      "raw_address": "1398 N Oakland, Ste 300",
+      "city": "Decatur",
+      "state": "IL",
+      "zip": "62522",
+      "restaurant_phone": "(217) 429-6666"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Eric Augustyn",
+      "state_full": "Illinois",
+      "raw_address": "15 Crystal Lake Ave, Ste 300",
+      "city": "Crystal Lake",
+      "state": "IL",
+      "zip": "60014",
+      "restaurant_phone": "(312) 877-0807"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Anna Holden - 2",
+      "state_full": "Illinois",
+      "raw_address": "675 Tollgate Road, Suite O",
+      "city": "Elgin",
+      "state": "IL",
+      "zip": "60123",
+      "restaurant_phone": "(847) 215-8550"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Kathleen Fielmann - 5",
+      "state_full": "Illinois",
+      "raw_address": "977 N. Oaklawn Ave, Ste 106",
+      "city": "Elmhurst",
+      "state": "IL",
+      "zip": "60126",
+      "restaurant_phone": "(630) 834-8366"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Jason Blunck",
+      "state_full": "Illinois",
+      "raw_address": "332 W Marion Ave, Ste N2",
+      "city": "Forsyth",
+      "state": "IL",
+      "zip": "62535",
+      "restaurant_phone": "(217) 429-6666"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Andrew Thornock, Yukie Hiratsuka",
+      "state_full": "Idaho",
+      "raw_address": "820 E Best Ave",
+      "city": "Coeur D'Alene",
+      "state": "ID",
+      "zip": "83814",
+      "restaurant_phone": "(208) 765-9511"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Itay Shalev, Anna Holden",
+      "state_full": "Illinois",
+      "raw_address": "1 E Superior St, Ste 605",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60611",
+      "restaurant_phone": "(312) 470-6070"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Eric Augustyn - 32",
+      "state_full": "Illinois",
+      "raw_address": "888 E Belvidere Rd, Ste 302",
+      "city": "Grayslake",
+      "state": "IL",
+      "zip": "60030",
+      "restaurant_phone": "(847) 231-4100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "A. Jane Michaelis",
+      "state_full": "Illinois",
+      "raw_address": "1000 Essington Rd",
+      "city": "Joliet",
+      "state": "IL",
+      "zip": "60435",
+      "restaurant_phone": "(815) 730-7900"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "William Finn",
+      "state_full": "Illinois",
+      "raw_address": "1300 Iroquois Drive, Suite 132",
+      "city": "Naperville",
+      "state": "IL",
+      "zip": "60563",
+      "restaurant_phone": "(630) 219-4160"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Michael McGinn - 2",
+      "state_full": "Illinois",
+      "raw_address": "1627 Colonial Pkwy",
+      "city": "Palatine",
+      "state": "IL",
+      "zip": "60067",
+      "restaurant_phone": "(847) 221-5300"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Sydney Schmidt - 2",
+      "state_full": "Illinois",
+      "raw_address": "7225 W 105th St",
+      "city": "Palos Hills",
+      "state": "IL",
+      "zip": "60465",
+      "restaurant_phone": "(708) 598-1900"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Anna Holden",
+      "state_full": "Illinois",
+      "raw_address": "2604 Dempster St, Ste 205",
+      "city": "Park Ridge",
+      "state": "IL",
+      "zip": "60068",
+      "restaurant_phone": "(847) 250-2424"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Julie Carnegie Reams",
+      "state_full": "Illinois",
+      "raw_address": "7620 N University St, Suite 103",
+      "city": "Peoria",
+      "state": "IL",
+      "zip": "61614",
+      "restaurant_phone": "(309) 685-7777"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Mark Podemski - 3",
+      "state_full": "Illinois",
+      "raw_address": "4855 E State Street, Ste 22",
+      "city": "Rockford",
+      "state": "IL",
+      "zip": "61108",
+      "restaurant_phone": "(815) 229-9100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Douglas Johnson",
+      "state_full": "Indiana",
+      "raw_address": "4334 E Third Street, Suite 200",
+      "city": "Bloomington",
+      "state": "IN",
+      "zip": "47401",
+      "restaurant_phone": "(812) 822-0145"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Douglas Johnson",
+      "state_full": "Indiana",
+      "raw_address": "3136 N National Rd, Suite H",
+      "city": "Columbus",
+      "state": "IN",
+      "zip": "47201",
+      "restaurant_phone": "(812) 372-2222"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Lisa Webb",
+      "state_full": "Indiana",
+      "raw_address": "3027 N. Thirty Ct.",
+      "city": "Connersville",
+      "state": "IN",
+      "zip": "47331",
+      "restaurant_phone": "(765) 827-2001"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Angela Zeck",
+      "state_full": "Indiana",
+      "raw_address": "111 SE 3rd St., Ste. 200",
+      "city": "Evansville",
+      "state": "IN",
+      "zip": "47708",
+      "restaurant_phone": "(812) 402-5970"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Steve Oakley - 2",
+      "state_full": "Indiana",
+      "raw_address": "3182 Mallard Cove Lane",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "zip": "46804",
+      "restaurant_phone": "(260) 484-5858"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Keith Llanto - 2",
+      "state_full": "Indiana",
+      "raw_address": "6910 N Main St, Ste 3, Unit 47",
+      "city": "Granger",
+      "state": "IN",
+      "zip": "46530",
+      "restaurant_phone": "(574) 277-4121"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Marco Ramos",
+      "state_full": "Indiana",
+      "raw_address": "8715 Kennedy Ave",
+      "city": "Highland",
+      "state": "IN",
+      "zip": "46322",
+      "restaurant_phone": "(219) 838-0808"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Timothy Paul - 4",
+      "state_full": "Indiana",
+      "raw_address": "1335 Sadlier Circle East Dr.",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "46239",
+      "restaurant_phone": "(317) 757-6085"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Steve Oakley",
+      "state_full": "Indiana",
+      "raw_address": "1819 S Plate St",
+      "city": "Kokomo",
+      "state": "IN",
+      "zip": "46902",
+      "restaurant_phone": "(765) 868-9230"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Charles Moore",
+      "state_full": "Indiana",
+      "raw_address": "1719 State St, Ste C",
+      "city": "La Porte",
+      "state": "IN",
+      "zip": "46350",
+      "restaurant_phone": "(219) 362-9800"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Scott Skinner",
+      "state_full": "Indiana",
+      "raw_address": "1803 South Creasy Lane",
+      "city": "Lafayette",
+      "state": "IN",
+      "zip": "47905",
+      "restaurant_phone": "(765) 449-9797"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Angela Zeck",
+      "state_full": "Indiana",
+      "raw_address": "2515 E. Market Street",
+      "city": "Logansport",
+      "state": "IN",
+      "zip": "46947",
+      "restaurant_phone": "(574) 992-2816"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Kevin Williams",
+      "state_full": "Indiana",
+      "raw_address": "1417 State St",
+      "city": "New Albany",
+      "state": "IN",
+      "zip": "47150",
+      "restaurant_phone": "(812) 944-5006"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Charles Moore",
+      "state_full": "Indiana",
+      "raw_address": "2664 Willlowcreek Rd, Unit C",
+      "city": "Portage",
+      "state": "IN",
+      "zip": "46368",
+      "restaurant_phone": "(219) 763-9898"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "James Caldwell",
+      "state_full": "Indiana",
+      "raw_address": "635 Ohio Street",
+      "city": "Terre Haute",
+      "state": "IN",
+      "zip": "47807",
+      "restaurant_phone": "(812) 232-9766"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Eric Augustyn - 2",
+      "state_full": "Kansas",
+      "raw_address": "8101 College Blvd, Ste 100",
+      "city": "Overland Park",
+      "state": "KS",
+      "zip": "66210",
+      "restaurant_phone": "(913) 295-9203"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Eric Augustyn",
+      "state_full": "Kansas",
+      "raw_address": "121 E Walnut St",
+      "city": "Salina",
+      "state": "KS",
+      "zip": "67401",
+      "restaurant_phone": "(785) 825-1055"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Eric Augustyn",
+      "state_full": "Kansas",
+      "raw_address": "8200 E 34th St N, Bldg 1200, Ste 1207",
+      "city": "Wichita",
+      "state": "KS",
+      "zip": "67226",
+      "restaurant_phone": "(316) 773-7775"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Terrance Stewart",
+      "state_full": "Kentucky",
+      "raw_address": "2017 29th St",
+      "city": "Ashland",
+      "state": "KY",
+      "zip": "41101",
+      "restaurant_phone": "(606) 324-1369"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "(Jeffrey) Todd McGee",
+      "state_full": "Kentucky",
+      "raw_address": "730 Fairview Avenue, Suite A3",
+      "city": "Bowling Green",
+      "state": "KY",
+      "zip": "42101",
+      "restaurant_phone": "(270) 782-3600"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Kevin Williams - 2",
+      "state_full": "Kentucky",
+      "raw_address": "3609 Alexandria Pike",
+      "city": "Cold Spring",
+      "state": "KY",
+      "zip": "41076",
+      "restaurant_phone": "(859) 491-5777"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Clair Egger - 2",
+      "state_full": "Kentucky",
+      "raw_address": "3228 Summit Square Pl, Ste 260",
+      "city": "Lexington",
+      "state": "KY",
+      "zip": "40509",
+      "restaurant_phone": "(859) 224-1124"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Levi Reames",
+      "state_full": "Kentucky",
+      "raw_address": "401 Frederica St, Bldg B, Ste 102",
+      "city": "Owensboro",
+      "state": "KY",
+      "zip": "42301",
+      "restaurant_phone": "(270) 685-5045"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Levi Reames",
+      "state_full": "Kentucky",
+      "raw_address": "1865 E Parrish Ave",
+      "city": "Owensboro",
+      "state": "KY",
+      "zip": "42303",
+      "restaurant_phone": ""
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Sarah Short",
+      "state_full": "Kentucky",
+      "raw_address": "110 Richie Ln, Ste D",
+      "city": "Somerset",
+      "state": "KY",
+      "zip": "42503",
+      "restaurant_phone": "(606) 676-9888"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Eric Augustyn",
+      "state_full": "Louisiana",
+      "raw_address": "4626 Jamestown Ave, Ste 4",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "zip": "70808",
+      "restaurant_phone": "(225) 925-1303"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Erin Baker - 2",
+      "state_full": "Massachusetts",
+      "raw_address": "79 Oak Street",
+      "city": "Newton",
+      "state": "MA",
+      "zip": "02460",
+      "restaurant_phone": "(617) 916-2825"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Ruth McNaughton - 3",
+      "state_full": "Massachusetts",
+      "raw_address": "34 Main St. Extension, Ste 403",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "restaurant_phone": "(508) 746-4800"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Barbara Buggy - 2",
+      "state_full": "Massachusetts",
+      "raw_address": "2 Franklin St.",
+      "city": "Stoneham",
+      "state": "MA",
+      "zip": "02180",
+      "restaurant_phone": "(978) 664-6700"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Jeneen Sasso",
+      "state_full": "Massachusetts",
+      "raw_address": "21G Olympia Ave, Ste 25",
+      "city": "Woburn",
+      "state": "MA",
+      "zip": "01801",
+      "restaurant_phone": "(781) 721-5522"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Solange Sol",
+      "state_full": "Maryland",
+      "raw_address": "1202 West Street, Suite 102",
+      "city": "Annapolis",
+      "state": "MD",
+      "zip": "21401",
+      "restaurant_phone": "(301) 658-6665"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Merline Jeshuram",
+      "state_full": "Maryland",
+      "raw_address": "145 W Ostend St., Suite 615",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": "21230",
+      "restaurant_phone": "(677) 206-5179"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Nick Bryan",
+      "state_full": "Maryland",
+      "raw_address": "805 E Old Town Road, Suite C",
+      "city": "Cumberland",
+      "state": "MD",
+      "zip": "21502",
+      "restaurant_phone": "(240) 362-7074"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Nick Bryan",
+      "state_full": "Maryland",
+      "raw_address": "10351 Southern Maryland Blvd, Ste 201",
+      "city": "Dunkirk",
+      "state": "MD",
+      "zip": "20754",
+      "restaurant_phone": "(443) 328-4464"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Richard Howe",
+      "state_full": "Maryland",
+      "raw_address": "8103 Ocean Gateway",
+      "city": "Easton",
+      "state": "MD",
+      "zip": "21601",
+      "restaurant_phone": "(410) 822-4414"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "David Gibson",
+      "state_full": "Maryland",
+      "raw_address": "340 W. Patrick St.",
+      "city": "Frederick",
+      "state": "MD",
+      "zip": "21701",
+      "restaurant_phone": "(240) 651-5876"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Solange Sol - 3",
+      "state_full": "Maryland",
+      "raw_address": "7310 Ritchie Hwy, Suite 411",
+      "city": "Glen Burnie",
+      "state": "MD",
+      "zip": "21061",
+      "restaurant_phone": "(301) 296-1822"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "David Gibson",
+      "state_full": "Maryland",
+      "raw_address": "5840 Hubbard Dr",
+      "city": "North Bethesda",
+      "state": "MD",
+      "zip": "20852",
+      "restaurant_phone": "(301) 340-0100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Steven Rothwell - 2",
+      "state_full": "Maryland",
+      "raw_address": "1134 York Rd, Suite 308",
+      "city": "Lutherville-Timonium",
+      "state": "MD",
+      "zip": "21093",
+      "restaurant_phone": "(443) 275-9029"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "David Gibson - 5",
+      "state_full": "Maryland",
+      "raw_address": "414 Hungerford Dr, Ste 448",
+      "city": "Rockville",
+      "state": "MD",
+      "zip": "20850",
+      "restaurant_phone": "(301) 340-0100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Solange Sol - 2",
+      "state_full": "Maryland",
+      "raw_address": "4518 Beech Rd, Suite 100",
+      "city": "Temple Hills",
+      "state": "MD",
+      "zip": "20748",
+      "restaurant_phone": "(301) 296-1700"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Sean Welton - 2",
+      "state_full": "Maine",
+      "raw_address": "661 Main St., Ste #2",
+      "city": "Damariscotta",
+      "state": "ME",
+      "zip": "04543",
+      "restaurant_phone": "(207) 563-2273"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Roger Duncan",
+      "state_full": "Maine",
+      "raw_address": "360 US-1",
+      "city": "Scarborough",
+      "state": "ME",
+      "zip": "04074",
+      "restaurant_phone": "(207) 885-9600"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Roger Duncan - 2",
+      "state_full": "Maine",
+      "raw_address": "253 US Route 1",
+      "city": "Scarborough",
+      "state": "ME",
+      "zip": "04074",
+      "restaurant_phone": "(207) 885-9600"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Roy Schultheiss - 2",
+      "state_full": "Michigan",
+      "raw_address": "701 E. Midland Street",
+      "city": "Bay City",
+      "state": "MI",
+      "zip": "48706",
+      "restaurant_phone": "(989) 684-8448"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Erin White",
+      "state_full": "Michigan",
+      "raw_address": "7 West Square Lake Rd",
+      "city": "Bloomfield Hills",
+      "state": "MI",
+      "zip": "48302",
+      "restaurant_phone": "(248) 957-9717"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Larry Irwin",
+      "state_full": "Michigan",
+      "raw_address": "125 Irwin St.",
+      "city": "Brooklyn",
+      "state": "MI",
+      "zip": "49230",
+      "restaurant_phone": "(517) 481-2177"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Albert Jones",
+      "state_full": "Michigan",
+      "raw_address": "4029 Lapeer Rd",
+      "city": "Burton",
+      "state": "MI",
+      "zip": "48509",
+      "restaurant_phone": "(810) 249-2561"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Krista Kuligowski - 3",
+      "state_full": "Michigan",
+      "raw_address": "42621 Garfield Road, Ste 101B",
+      "city": "Clinton Township",
+      "state": "MI",
+      "zip": "48038",
+      "restaurant_phone": "(586) 231-0526"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "John Bryan Dunn, Jordan Kloss",
+      "state_full": "Michigan",
+      "raw_address": "7910 Ann Arbor Street, Ste. 2",
+      "city": "Dexter",
+      "state": "MI",
+      "zip": "48130",
+      "restaurant_phone": "(734) 418-9186"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Erin White - 2",
+      "state_full": "Michigan",
+      "raw_address": "33312 Grand River Ave, Ste. 200",
+      "city": "Farmington Hills",
+      "state": "MI",
+      "zip": "48336",
+      "restaurant_phone": "(248) 919-8760"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Linnea Freriks - 2",
+      "state_full": "Michigan",
+      "raw_address": "837 Maple Ave, Ste 20",
+      "city": "Holland",
+      "state": "MI",
+      "zip": "49423",
+      "restaurant_phone": "(616) 395-2653"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Erin White",
+      "state_full": "Michigan",
+      "raw_address": "903 E. Clinton Street, Suite 102",
+      "city": "Howell",
+      "state": "MI",
+      "zip": "48843",
+      "restaurant_phone": "(810) 229-0200"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Thomas LaMacchia",
+      "state_full": "Michigan",
+      "raw_address": "1118 Centennial Way",
+      "city": "Lansing",
+      "state": "MI",
+      "zip": "48917",
+      "restaurant_phone": "(517) 321-4010"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Larry Irwin",
+      "state_full": "Michigan",
+      "raw_address": "14989 S Dixie Hwy, Suite C",
+      "city": "Monroe",
+      "state": "MI",
+      "zip": "48161",
+      "restaurant_phone": "(517) 481-2177"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Michael Kruckeberg, Misty Novakowski - 2",
+      "state_full": "Michigan",
+      "raw_address": "981 N Mill St",
+      "city": "Plymouth",
+      "state": "MI",
+      "zip": "48170",
+      "restaurant_phone": "(734) 522-9390"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Albert Jones",
+      "state_full": "Michigan",
+      "raw_address": "936 Military St",
+      "city": "Port Huron",
+      "state": "MI",
+      "zip": "48060",
+      "restaurant_phone": "(810) 987-4663"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Nadine Fish, Linnea Freriks",
+      "state_full": "Michigan",
+      "raw_address": "1601 W. Centre Ave., Lowr 105",
+      "city": "Portage",
+      "state": "MI",
+      "zip": "49024",
+      "restaurant_phone": "(269) 375-5466"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Nadine Fish, Linnea Freriks",
+      "state_full": "Michigan",
+      "raw_address": "3275 Cooley Ct, Ste 130",
+      "city": "Portage",
+      "state": "MI",
+      "zip": "49024",
+      "restaurant_phone": "(269) 375-5466"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Albert Jones",
+      "state_full": "Michigan",
+      "raw_address": "1130 Tienken Ct, Ste 203",
+      "city": "Rochester Hills",
+      "state": "MI",
+      "zip": "48306",
+      "restaurant_phone": "(248) 651-9880"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Christopher Butler",
+      "state_full": "Michigan",
+      "raw_address": "18000 Cove St., Ste #203",
+      "city": "Spring Lake",
+      "state": "MI",
+      "zip": "49456",
+      "restaurant_phone": "(616) 846-5890"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Linnea Freriks",
+      "state_full": "Michigan",
+      "raw_address": "2800 Niles Rd, Ste 1",
+      "city": "St. Joseph",
+      "state": "MI",
+      "zip": "49085",
+      "restaurant_phone": "(269) 556-9999"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Russell Knopp",
+      "state_full": "Michigan",
+      "raw_address": "1755 Barlow Street",
+      "city": "Traverse City",
+      "state": "MI",
+      "zip": "49686",
+      "restaurant_phone": "(231) 929-9044"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "John Bryan Dunn, Jordan Kloss",
+      "state_full": "Michigan",
+      "raw_address": "2836 W Jefferson Ave, Ste 101",
+      "city": "Trenton",
+      "state": "MI",
+      "zip": "48183",
+      "restaurant_phone": "(734) 676-6643"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Thomas Berard",
+      "state_full": "Minnesota",
+      "raw_address": "2006 1st Avenue N., Suite 205",
+      "city": "Anoka",
+      "state": "MN",
+      "zip": "55303",
+      "restaurant_phone": "(763) 786-1000"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Manish Parikh - 2",
+      "state_full": "Minnesota",
+      "raw_address": "1870 50th St E, Ste 7",
+      "city": "Inver Grove Heights",
+      "state": "MN",
+      "zip": "55077",
+      "restaurant_phone": "(651) 330-3071"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Jennifer Bauernfeind - 4",
+      "state_full": "Minnesota",
+      "raw_address": "524 Central Ave",
+      "city": "Osseo",
+      "state": "MN",
+      "zip": "55369",
+      "restaurant_phone": "(763) 273-4207"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Sam Thorson, Sue Thorson",
+      "state_full": "Minnesota",
+      "raw_address": "3735 Roosevelt Road",
+      "city": "Saint Cloud",
+      "state": "MN",
+      "zip": "56301",
+      "restaurant_phone": "(320) 230-9939"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Larvel Bunker, Peter Heimdahl - 2",
+      "state_full": "Minnesota",
+      "raw_address": "275 East 4th Street, Suite 345",
+      "city": "Saint Paul",
+      "state": "MN",
+      "zip": "55101",
+      "restaurant_phone": "(651) 796-2540"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Thomas Berard",
+      "state_full": "Minnesota",
+      "raw_address": "4525 White Bear Pkwy, #231",
+      "city": "White Bear Lake",
+      "state": "MN",
+      "zip": "55110",
+      "restaurant_phone": "(651) 789-0317"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Melody Harpur",
+      "state_full": "Missouri",
+      "raw_address": "1918 N. Kingshighway, Ste 109, Doctor's Park",
+      "city": "Cape Girardeau",
+      "state": "MO",
+      "zip": "63703",
+      "restaurant_phone": "(573) 339-1777"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Brian Phillips",
+      "state_full": "Mississippi",
+      "raw_address": "302 Courthouse Rd, Suite C",
+      "city": "Gulfport",
+      "state": "MS",
+      "zip": "39501",
+      "restaurant_phone": "(228) 867-9700"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Brian Phillips",
+      "state_full": "Mississippi",
+      "raw_address": "5910 US Hwy 49, Suite 5",
+      "city": "Hattiesburg",
+      "state": "MS",
+      "zip": "39401",
+      "restaurant_phone": "(601) 296-6300"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Brian Phillips",
+      "state_full": "Mississippi",
+      "raw_address": "1553 East County Line Rd",
+      "city": "Jackson",
+      "state": "MS",
+      "zip": "39211",
+      "restaurant_phone": "(601) 206-1234"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Larry Todd - 2",
+      "state_full": "Mississippi",
+      "raw_address": "499 Gloster Creek Village, Ste. H11",
+      "city": "Tupelo",
+      "state": "MS",
+      "zip": "38801",
+      "restaurant_phone": "(662) 841-8477"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Melanie Twitchell",
+      "state_full": "Montana",
+      "raw_address": "95 Indian Trail Rd, 41st Street East, Suite 220",
+      "city": "Kalispell",
+      "state": "MT",
+      "zip": "59901",
+      "restaurant_phone": "(406) 755-4030"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Bruce Brennan, Fathema Matcheswala - 3",
+      "state_full": "North Carolina",
+      "raw_address": "1616 Evans Road, Suite 103",
+      "city": "Cary",
+      "state": "NC",
+      "zip": "27513",
+      "restaurant_phone": "(919) 650-2784"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "John Reynolds - 3",
+      "state_full": "North Carolina",
+      "raw_address": "8000 Corporate Center Dr., Ste. 111",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28226",
+      "restaurant_phone": "(704) 543-8220"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Christopher Couchell",
+      "state_full": "North Carolina",
+      "raw_address": "2186 Lynn Road, Suite C",
+      "city": "Columbus",
+      "state": "NC",
+      "zip": "28722",
+      "restaurant_phone": "(864) 573-2353"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "John Reynolds",
+      "state_full": "North Carolina",
+      "raw_address": "18141 W Catawba Ave. #23",
+      "city": "Cornelius",
+      "state": "NC",
+      "zip": "28031",
+      "restaurant_phone": "(704) 663-3989"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Manish Parikh - 23",
+      "state_full": "Minnesota",
+      "raw_address": "1870 50th St E, Ste 7",
+      "city": "Inver Grove Heights",
+      "state": "MN",
+      "zip": "55077",
+      "restaurant_phone": "(651) 330-3071"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Sam Sue Thorson",
+      "state_full": "Minnesota",
+      "raw_address": "3735 Roosevelt Road",
+      "city": "Saint Cloud",
+      "state": "MN",
+      "zip": "56301",
+      "restaurant_phone": "(320) 230-9939"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Eric Augustyn - 2",
+      "state_full": "North Carolina",
+      "raw_address": "1415 West NC Highway 54, Suite 209",
+      "city": "Durham",
+      "state": "NC",
+      "zip": "27707",
+      "restaurant_phone": "(919) 338-2044"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Deborah Huston - 2",
+      "state_full": "North Carolina",
+      "raw_address": "915 Bingham Dr.",
+      "city": "Fayetteville",
+      "state": "NC",
+      "zip": "28304",
+      "restaurant_phone": "(910) 900-8311"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Steven Worley",
+      "state_full": "North Carolina",
+      "raw_address": "450 Airport Rd",
+      "city": "Fletcher",
+      "state": "NC",
+      "zip": "28732",
+      "restaurant_phone": "(828) 687-1199"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Jane Thompson",
+      "state_full": "North Carolina",
+      "raw_address": "1932 Fleming Road",
+      "city": "Greensboro",
+      "state": "NC",
+      "zip": "27410",
+      "restaurant_phone": "(336) 664-5787"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "John Reynolds",
+      "state_full": "North Carolina",
+      "raw_address": "444 4th Street SW",
+      "city": "Hickory",
+      "state": "NC",
+      "zip": "28602",
+      "restaurant_phone": "(828) 431-2273"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "John Reynolds",
+      "state_full": "North Carolina",
+      "raw_address": "378 Williamson Rd., Suite 202",
+      "city": "Mooresville",
+      "state": "NC",
+      "zip": "28117",
+      "restaurant_phone": "(704) 878-2505"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "John Reynolds",
+      "state_full": "North Carolina",
+      "raw_address": "512 Klumac Rd, Ste 11",
+      "city": "Salisbury",
+      "state": "NC",
+      "zip": "28144",
+      "restaurant_phone": "(704) 630-0370"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Kristin Kane",
+      "state_full": "North Carolina",
+      "raw_address": "112 Pine Street",
+      "city": "Shallotte",
+      "state": "NC",
+      "zip": "28470",
+      "restaurant_phone": "(910) 575-5700"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Chad McGlothlin",
+      "state_full": "North Carolina",
+      "raw_address": "170 South Page St.",
+      "city": "Southern Pines",
+      "state": "NC",
+      "zip": "28387",
+      "restaurant_phone": "(910) 246-8000"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Alyssa Kelly",
+      "state_full": "North Carolina",
+      "raw_address": "219 Racine Dr., Ste. A250, 5058 Wrightsville Ave.",
+      "city": "Wilmington",
+      "state": "NC",
+      "zip": "28403",
+      "restaurant_phone": "(910) 342-9200"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Joel Peterson",
+      "state_full": "North Dakota",
+      "raw_address": "1205 4th Ave South #2",
+      "city": "Fargo",
+      "state": "ND",
+      "zip": "58103",
+      "restaurant_phone": "(701) 237-0004"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Richard Magill - 3",
+      "state_full": "Nebraska",
+      "raw_address": "8710 F Street, Ste. 128",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "68127",
+      "restaurant_phone": "(402) 991-9880"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Richard Magill - 3",
+      "state_full": "Nebraska",
+      "raw_address": "4060 Vinton St., Suite 100",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "68105",
+      "restaurant_phone": "(402) 991-9880"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Doreen Rosimos",
+      "state_full": "New Hampshire",
+      "raw_address": "55 B Main Street",
+      "city": "Keene",
+      "state": "NH",
+      "zip": "03431",
+      "restaurant_phone": "(603) 352-2227"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Doreen Rosimos - 2",
+      "state_full": "New Hampshire",
+      "raw_address": "50 Bridge Street, Suite 306",
+      "city": "Manchester",
+      "state": "NH",
+      "zip": "03101",
+      "restaurant_phone": "(603) 628-6363"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Martha Swats",
+      "state_full": "New Hampshire",
+      "raw_address": "12 Yeaton Rd, Ste B6",
+      "city": "Plymouth",
+      "state": "NH",
+      "zip": "03264",
+      "restaurant_phone": "(603) 536-6060"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Stephanie Howe",
+      "state_full": "New Jersey",
+      "raw_address": "991 US Hwy 22 W, Ste 200",
+      "city": "Bridgewater",
+      "state": "NJ",
+      "zip": "08807",
+      "restaurant_phone": "(908) 864-8044"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Michael Grim, James Winn - 2",
+      "state_full": "New Jersey",
+      "raw_address": "523 Hollywood Ave., Ste. 207",
+      "city": "Cherry Hill",
+      "state": "NJ",
+      "zip": "08002",
+      "restaurant_phone": "(856) 857-6120"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Steven Ippolito - 2",
+      "state_full": "New Jersey",
+      "raw_address": "491 Closter Dock Rd",
+      "city": "Closter",
+      "state": "NJ",
+      "zip": "07624",
+      "restaurant_phone": "(201) 784-6200"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "James Winn",
+      "state_full": "New Jersey",
+      "raw_address": "7 Lincoln Highway, Ste 216",
+      "city": "Edison",
+      "state": "NJ",
+      "zip": "08820",
+      "restaurant_phone": "(732) 530-3636"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Marc Jeffries - 2",
+      "state_full": "New Jersey",
+      "raw_address": "160 Main St, Bldg B, Ste 7",
+      "city": "Flemington",
+      "state": "NJ",
+      "zip": "08822",
+      "restaurant_phone": "(908) 806-2220"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Kelly Marrero - 3",
+      "state_full": "New Jersey",
+      "raw_address": "160 S Pitney Rd, Ste 2B",
+      "city": "Galloway",
+      "state": "NJ",
+      "zip": "08205",
+      "restaurant_phone": "(609) 277-7855"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Alyssa Kelly",
+      "state_full": "North Carolina",
+      "raw_address": "219 Racine Dr., Ste. A",
+      "city": "Wilmington",
+      "state": "NC",
+      "zip": "28403",
+      "restaurant_phone": "(910) 342-9200"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Michael Grim James Winn - 2",
+      "state_full": "New Jersey",
+      "raw_address": "523 Hollywood Ave., Ste. 207",
+      "city": "Cherry Hill",
+      "state": "NJ",
+      "zip": "08002",
+      "restaurant_phone": "(856) 857-6120"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Stephanie Howe",
+      "state_full": "New Jersey",
+      "raw_address": "355 Applegarth Rd.",
+      "city": "Monroe Township",
+      "state": "NJ",
+      "zip": "08831",
+      "restaurant_phone": "(732) 521-1777"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Pooja Chandawalla - 3",
+      "state_full": "New Jersey",
+      "raw_address": "31 Park St, 2nd Floor",
+      "city": "Montclair",
+      "state": "NJ",
+      "zip": "07042",
+      "restaurant_phone": "(973) 707-2310"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Stephanie Howe - 3",
+      "state_full": "New Jersey",
+      "raw_address": "118 Washington St, #100",
+      "city": "Morristown",
+      "state": "NJ",
+      "zip": "07960",
+      "restaurant_phone": "(908) 890-2888"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Stephanie Howe - 3",
+      "state_full": "New Jersey",
+      "raw_address": "30 W Park Pl",
+      "city": "Morristown",
+      "state": "NJ",
+      "zip": "07960",
+      "restaurant_phone": "(609) 741-6400"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Anne Fannan James Winn",
+      "state_full": "New Jersey",
+      "raw_address": "410 Andbro Drive, Unit #1",
+      "city": "Pitman",
+      "state": "NJ",
+      "zip": "08071",
+      "restaurant_phone": "(856) 582-1054"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Stephanie Howe",
+      "state_full": "New Jersey",
+      "raw_address": "2360 Rt 33, Ste 103",
+      "city": "Robbinsville",
+      "state": "NJ",
+      "zip": "08691",
+      "restaurant_phone": "(609) 890-2888"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Dipen Patel - 2",
+      "state_full": "New Jersey",
+      "raw_address": "350 W. Passaic St.",
+      "city": "Rochelle Park",
+      "state": "NJ",
+      "zip": "07662",
+      "restaurant_phone": "(201) 880-7089"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Kristina Munsch - 2",
+      "state_full": "New Jersey",
+      "raw_address": "58 Harmon Cove Towers",
+      "city": "Secaucus",
+      "state": "NJ",
+      "zip": "07094",
+      "restaurant_phone": "(201) 340-2238"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "James Winn - 4",
+      "state_full": "New Jersey",
+      "raw_address": "697 Broad St.",
+      "city": "Shrewsbury",
+      "state": "NJ",
+      "zip": "07702",
+      "restaurant_phone": "(732) 710-4289"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Stephanie Howe",
+      "state_full": "New Jersey",
+      "raw_address": "600 Mule Rd. Ste. #6",
+      "city": "Toms River",
+      "state": "NJ",
+      "zip": "08757",
+      "restaurant_phone": "(732) 557-0010"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Stephanie Howe",
+      "state_full": "New Jersey",
+      "raw_address": "1 Mountain Blvd, #3",
+      "city": "Warren",
+      "state": "NJ",
+      "zip": "07059",
+      "restaurant_phone": "(732) 369-3639"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Albert Bernal - 2",
+      "state_full": "New Mexico",
+      "raw_address": "9151 High Assets Way NW",
+      "city": "Albuquerque",
+      "state": "NM",
+      "zip": "87120",
+      "restaurant_phone": "(505) 232-7070"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Tonia Crowley",
+      "state_full": "New Mexico",
+      "raw_address": "755 S Telshor Blvd, Ste C101",
+      "city": "Las Cruces",
+      "state": "NM",
+      "zip": "88011",
+      "restaurant_phone": "(575) 521-4400"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Linda Schaffer Denise Moreno",
+      "state_full": "New Mexico",
+      "raw_address": "1202 N Main St, NE, Ste. C-103",
+      "city": "Los Lunas",
+      "state": "NM",
+      "zip": "87031",
+      "restaurant_phone": "(505) 515-0001"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Cindy Lewis",
+      "state_full": "New Mexico",
+      "raw_address": "1410 S Main St",
+      "city": "Roswell",
+      "state": "NM",
+      "zip": "88203",
+      "restaurant_phone": "(575) 624-9999"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Roger Duncan",
+      "state_full": "New Mexico",
+      "raw_address": "1301 Luisa St, Ste C",
+      "city": "Santa Fe",
+      "state": "NM",
+      "zip": "87505",
+      "restaurant_phone": "(505) 982-1298"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Gina Jolliff - 2",
+      "state_full": "Nevada",
+      "raw_address": "2920 N Green Valley Pkwy, Ste. 412",
+      "city": "Henderson",
+      "state": "NV",
+      "zip": "89014",
+      "restaurant_phone": "(702) 564-2277"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Gino Catalli",
+      "state_full": "Nevada",
+      "raw_address": "9402 Del Webb Blvd.",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip": "89134",
+      "restaurant_phone": "(702) 385-1000"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Robert Redding - 2",
+      "state_full": "Nevada",
+      "raw_address": "1575 Delucchi Lane, Suite 210",
+      "city": "Reno",
+      "state": "NV",
+      "zip": "89502",
+      "restaurant_phone": "(775) 770-2000"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "James Rice",
+      "state_full": "New York",
+      "raw_address": "6 Green St",
+      "city": "Floral Park",
+      "state": "NY",
+      "zip": "11001",
+      "restaurant_phone": "(516) 328-7100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Deborah Desantos - 2",
+      "state_full": "New York",
+      "raw_address": "2297 Middle Country Rd. Suite D",
+      "city": "Centereach",
+      "state": "NY",
+      "zip": "11720",
+      "restaurant_phone": "(631) 862-5252"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Teresa Nix",
+      "state_full": "New York",
+      "raw_address": "1301 Trumansburg Rd, Ste A",
+      "city": "Ithaca",
+      "state": "NY",
+      "zip": "14850",
+      "restaurant_phone": "(607) 272-0444"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Lindsey Lean - 2",
+      "state_full": "New York",
+      "raw_address": "366 North Broadway, Suite PHW",
+      "city": "Jericho",
+      "state": "NY",
+      "zip": "11753",
+      "restaurant_phone": "(516) 827-4270"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Lisa McNee",
+      "state_full": "New York",
+      "raw_address": "1120 Avenue of the Americas, 4th Floor",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10036",
+      "restaurant_phone": "(212) 221-3262"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Susan Kryszak",
+      "state_full": "New York",
+      "raw_address": "3075 Southwestern Blvd, Ste 206",
+      "city": "Orchard Park",
+      "state": "NY",
+      "zip": "14127",
+      "restaurant_phone": "(716) 674-0061"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Joy Traille",
+      "state_full": "New York",
+      "raw_address": "32 N Division St, Suite 2",
+      "city": "Peekskill",
+      "state": "NY",
+      "zip": "10566",
+      "restaurant_phone": "(914) 734-2616"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Stephanie Howe - 3",
+      "state_full": "New Jersey",
+      "raw_address": "118 Washington St, #100, 30 W Park Pl",
+      "city": "Morristown",
+      "state": "NJ",
+      "zip": "07960",
+      "restaurant_phone": "(908) 741-6400"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Anne Fannan, James Winn",
+      "state_full": "New Jersey",
+      "raw_address": "410 Andbro Drive, Unit #1",
+      "city": "Pitman",
+      "state": "NJ",
+      "zip": "08071",
+      "restaurant_phone": "(856) 582-1054"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Linda Schaffer, Denise Moreno",
+      "state_full": "New Mexico",
+      "raw_address": "1202 N Main St, NE, Ste. C-103",
+      "city": "Los Lunas",
+      "state": "NM",
+      "zip": "87031",
+      "restaurant_phone": "(505) 515-0001"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "James Rice, Deborah Desantos - 2",
+      "state_full": "New York",
+      "raw_address": "6 Green St",
+      "city": "Floral Park",
+      "state": "NY",
+      "zip": "11001",
+      "restaurant_phone": "(516) 328-7100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "James Rice, Deborah Desantos - 2",
+      "state_full": "New York",
+      "raw_address": "2297 Middle Country Rd, Suite D",
+      "city": "Centereach",
+      "state": "NY",
+      "zip": "11720",
+      "restaurant_phone": "(631) 862-5252"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Roger Duncan",
+      "state_full": "New York",
+      "raw_address": "1163 Pittsford-Victor Rd, Ste 215",
+      "city": "Pittsford",
+      "state": "NY",
+      "zip": "14534",
+      "restaurant_phone": "(585) 249-0100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Lindsey Lean - 3",
+      "state_full": "New York",
+      "raw_address": "8 Manetto Hill Rd, Ste 1",
+      "city": "Plainview",
+      "state": "NY",
+      "zip": "11803",
+      "restaurant_phone": "(516) 827-4270"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Helene Korbin, Carol Lemire",
+      "state_full": "New York",
+      "raw_address": "31 Main Rd, Ste 9",
+      "city": "Riverhead",
+      "state": "NY",
+      "zip": "11901",
+      "restaurant_phone": "(631) 369-6080"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Roger Duncan",
+      "state_full": "New York",
+      "raw_address": "1401 Stone Rd, Suite 302",
+      "city": "Rochester",
+      "state": "NY",
+      "zip": "14616",
+      "restaurant_phone": "(585) 249-0100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Michele Webber - 2",
+      "state_full": "New York",
+      "raw_address": "1201 E Fayette St, Suite #12",
+      "city": "Syracuse",
+      "state": "NY",
+      "zip": "13210",
+      "restaurant_phone": "(315) 474-0444"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "David Yeomans, Nick Bryan",
+      "state_full": "Ohio",
+      "raw_address": "400 Main Street",
+      "city": "Belpre",
+      "state": "OH",
+      "zip": "45714",
+      "restaurant_phone": "(740) 373-7125"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Trudy Hornick",
+      "state_full": "Ohio",
+      "raw_address": "4111 Bradley Circle, NW, #150",
+      "city": "Canton",
+      "state": "OH",
+      "zip": "44718",
+      "restaurant_phone": "(330) 244-9071"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "John Pearce, Calvin Bowman - 3",
+      "state_full": "Ohio",
+      "raw_address": "3991 Hamilton Middletown Rd, Ste N",
+      "city": "Hamilton",
+      "state": "OH",
+      "zip": "45011",
+      "restaurant_phone": "(513) 939-1616"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Steve Oakley - 2",
+      "state_full": "Ohio",
+      "raw_address": "1726 Allentown Rd.",
+      "city": "Lima",
+      "state": "OH",
+      "zip": "45805",
+      "restaurant_phone": "(419) 229-1031"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Trudy Hornick",
+      "state_full": "Ohio",
+      "raw_address": "11 Lincoln Way W, Suite 2D",
+      "city": "Massillon",
+      "state": "OH",
+      "zip": "44647",
+      "restaurant_phone": "(330) 244-9071"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Amy Graening, Paul Burke - 2",
+      "state_full": "Ohio",
+      "raw_address": "1213 Medina Rd",
+      "city": "Medina",
+      "state": "OH",
+      "zip": "44256",
+      "restaurant_phone": "(330) 922-4721"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Calvin Bowman",
+      "state_full": "Ohio",
+      "raw_address": "5405 DuPont Circle, Suite F2",
+      "city": "Milford",
+      "state": "OH",
+      "zip": "45150",
+      "restaurant_phone": "(513) 752-5533"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Paul Burke - 2",
+      "state_full": "Ohio",
+      "raw_address": "368 Blackbrook Rd., Ste 200",
+      "city": "Painesville",
+      "state": "OH",
+      "zip": "44077",
+      "restaurant_phone": "(440) 721-0100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Larry Irwin",
+      "state_full": "Ohio",
+      "raw_address": "900 W. South Boundary St., Bldg. 8, Ste. B",
+      "city": "Perrysburg",
+      "state": "OH",
+      "zip": "43551",
+      "restaurant_phone": "(419) 874-4880"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Kelsi Skabla - 4",
+      "state_full": "Ohio",
+      "raw_address": "2215 Olympic Street",
+      "city": "Springfield",
+      "state": "OH",
+      "zip": "45503",
+      "restaurant_phone": "(937) 324-4420"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Todd Kuney",
+      "state_full": "Ohio",
+      "raw_address": "2451 N Reynolds Rd",
+      "city": "Toledo",
+      "state": "OH",
+      "zip": "43615",
+      "restaurant_phone": "(419) 535-7777"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Paul Burke - 3",
+      "state_full": "Ohio",
+      "raw_address": "8111 Rockside Road, Ste 110",
+      "city": "Valley View",
+      "state": "OH",
+      "zip": "44125",
+      "restaurant_phone": "(440) 838-5460"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Calvin Bowman - 2",
+      "state_full": "Ohio",
+      "raw_address": "7370 Kingsgate Way, Ste. F",
+      "city": "West Chester",
+      "state": "OH",
+      "zip": "45069",
+      "restaurant_phone": "(513) 755-3710"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Patricia Hackett - 7",
+      "state_full": "Ohio",
+      "raw_address": "5761 Chandler Street",
+      "city": "Westerville",
+      "state": "OH",
+      "zip": "43082",
+      "restaurant_phone": "(614) 263-1998"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Lindsey Lean",
+      "state_full": "New York",
+      "raw_address": "8 Manetto Hill Rd, Ste 1",
+      "city": "Plainview",
+      "state": "NY",
+      "zip": "11803",
+      "restaurant_phone": "(516) 827-4270"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Michele Webber",
+      "state_full": "New York",
+      "raw_address": "1201 E Fayette St, Suite #12",
+      "city": "Syracuse",
+      "state": "NY",
+      "zip": "13210",
+      "restaurant_phone": "(315) 474-0444"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "John Pearce, Calvin Bowman",
+      "state_full": "Ohio",
+      "raw_address": "3991 Hamilton Middletown Rd, Ste N",
+      "city": "Hamilton",
+      "state": "OH",
+      "zip": "45011",
+      "restaurant_phone": "(513) 939-1616"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Steve Oakley",
+      "state_full": "Ohio",
+      "raw_address": "1726 Allentown Rd.",
+      "city": "Lima",
+      "state": "OH",
+      "zip": "45805",
+      "restaurant_phone": "(419) 229-1031"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Amy Graening, Paul Burke",
+      "state_full": "Ohio",
+      "raw_address": "1213 Medina Rd",
+      "city": "Medina",
+      "state": "OH",
+      "zip": "44256",
+      "restaurant_phone": "(330) 922-4721"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Paul Burke",
+      "state_full": "Ohio",
+      "raw_address": "368 Blackbrook Rd., Ste 200",
+      "city": "Painesville",
+      "state": "OH",
+      "zip": "44077",
+      "restaurant_phone": "(440) 721-0100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Kelsi Skabla",
+      "state_full": "Ohio",
+      "raw_address": "2215 Olympic Street",
+      "city": "Springfield",
+      "state": "OH",
+      "zip": "45503",
+      "restaurant_phone": "(937) 324-4420"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Paul Burke",
+      "state_full": "Ohio",
+      "raw_address": "8111 Rockside Road, Ste 110",
+      "city": "Valley View",
+      "state": "OH",
+      "zip": "44125",
+      "restaurant_phone": "(440) 838-5460"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Paul Burke",
+      "state_full": "Ohio",
+      "raw_address": "5425 Warner Rd., Suite #14",
+      "city": "Valley View",
+      "state": "OH",
+      "zip": "44125",
+      "restaurant_phone": "(216) 595-3681"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Calvin Bowman",
+      "state_full": "Ohio",
+      "raw_address": "7370 Kingsgate Way, Ste. F",
+      "city": "West Chester",
+      "state": "OH",
+      "zip": "45069",
+      "restaurant_phone": "(513) 755-3710"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Patricia Hackett",
+      "state_full": "Ohio",
+      "raw_address": "5761 Chandler Street",
+      "city": "Westerville",
+      "state": "OH",
+      "zip": "43082",
+      "restaurant_phone": "(614) 263-1998"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Paul Burke",
+      "state_full": "Ohio",
+      "raw_address": "31025 Center Ridge Rd, Unit 1",
+      "city": "Westlake",
+      "state": "OH",
+      "zip": "44145",
+      "restaurant_phone": "(440) 734-1111"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "David Mirkin",
+      "state_full": "Ohio",
+      "raw_address": "805 Mahoning Ave",
+      "city": "Youngstown",
+      "state": "OH",
+      "zip": "44502",
+      "restaurant_phone": "(330) 747-3541"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX",
+      "state_full": "Oklahoma",
+      "raw_address": "1935 West Elk Ave.",
+      "city": "Duncan",
+      "state": "OK",
+      "zip": "73533",
+      "restaurant_phone": "(405) 222-2462"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX",
+      "state_full": "Oklahoma",
+      "raw_address": "205 W. Maple, Suite 108",
+      "city": "Enid",
+      "state": "OK",
+      "zip": "73701",
+      "restaurant_phone": "(580) 237-0669"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX",
+      "state_full": "Oklahoma",
+      "raw_address": "2601 NW Expressway, Suite 107W",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "zip": "73112",
+      "restaurant_phone": "(405) 242-5300"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX",
+      "state_full": "Oklahoma",
+      "raw_address": "10810 E 45th St #310",
+      "city": "Tulsa",
+      "state": "OK",
+      "zip": "74146",
+      "restaurant_phone": "(918) 493-2100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Krista Grinstead, Michael Metesan",
+      "state_full": "Oregon",
+      "raw_address": "354 NE Greenwood Ave, Ste 204",
+      "city": "Bend",
+      "state": "OR",
+      "zip": "97701",
+      "restaurant_phone": "(541) 241-3225"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Donna Breaux",
+      "state_full": "Oregon",
+      "raw_address": "1310 Coburg Rd, Ste 10",
+      "city": "Eugene",
+      "state": "OR",
+      "zip": "97401",
+      "restaurant_phone": "(541) 214-4788"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Sandra Lisa Henriksen",
+      "state_full": "Oregon",
+      "raw_address": "3623 NE John Olsen Avenue",
+      "city": "Hillsboro",
+      "state": "OR",
+      "zip": "97124",
+      "restaurant_phone": "(503) 855-4415"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Krista Grinstead",
+      "state_full": "Oregon",
+      "raw_address": "555 SE Martin Luther King Blvd, Suite 105",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97214",
+      "restaurant_phone": "(503) 462-1455"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Valerie Holzmann, Michael Metesan",
+      "state_full": "Oregon",
+      "raw_address": "1225 NW Murray Rd, Ste 101",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97229",
+      "restaurant_phone": "(503) 643-2010"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Sandra Lisa Henriksen",
+      "state_full": "Oregon",
+      "raw_address": "388 State St., #330",
+      "city": "Salem",
+      "state": "OR",
+      "zip": "97301",
+      "restaurant_phone": "(503) 855-4415"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Marlin Duncan",
+      "state_full": "Pennsylvania",
+      "raw_address": "241 N Cedar Crest Blvd.",
+      "city": "Allentown",
+      "state": "PA",
+      "zip": "18104",
+      "restaurant_phone": "(610) 351-9922"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Ian C. Bongaardt",
+      "state_full": "Pennsylvania",
+      "raw_address": "124 S Maple Street, Suite 108",
+      "city": "Ambler",
+      "state": "PA",
+      "zip": "19002",
+      "restaurant_phone": "(215) 649-9144"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Marlin Duncan",
+      "state_full": "Pennsylvania",
+      "raw_address": "3650 Nazareth Pike, Rt. 191",
+      "city": "Bethlehem",
+      "state": "PA",
+      "zip": "18017",
+      "restaurant_phone": "(610) 759-7554"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Patrick Donohue",
+      "state_full": "Pennsylvania",
+      "raw_address": "1190 Washington Pike #6",
+      "city": "Bridgeville",
+      "state": "PA",
+      "zip": "15017",
+      "restaurant_phone": "(412) 653-6100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Marlin Duncan",
+      "state_full": "Pennsylvania",
+      "raw_address": "207 W Penn Ave.",
+      "city": "Cleona",
+      "state": "PA",
+      "zip": "17042",
+      "restaurant_phone": "(717) 954-0110"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX",
+      "state_full": "Pennsylvania",
+      "raw_address": "2730 W. 21st Street, Suite B",
+      "city": "Erie",
+      "state": "PA",
+      "zip": "16506",
+      "restaurant_phone": "(814) 746-3939"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Terry Guberman, Marlin Duncan",
+      "state_full": "Pennsylvania",
+      "raw_address": "3374 Lincoln Way E",
+      "city": "Fayetteville",
+      "state": "PA",
+      "zip": "17222",
+      "restaurant_phone": "(717) 352-2133"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Paul Burke - 21",
+      "state_full": "Ohio",
+      "raw_address": "31025 Center Ridge Rd, Unit 1",
+      "city": "Westlake",
+      "state": "OH",
+      "zip": "44145",
+      "restaurant_phone": "(440) 734-1111"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "David Mirkin - 2",
+      "state_full": "Ohio",
+      "raw_address": "805 Mahoning Ave",
+      "city": "Youngstown",
+      "state": "OH",
+      "zip": "44502",
+      "restaurant_phone": "(330) 747-3541"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX - 6",
+      "state_full": "Oklahoma",
+      "raw_address": "2601 NW Expressway, Suite 107W",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "zip": "73112",
+      "restaurant_phone": "(405) 242-5300"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Krista Grinstead - 2",
+      "state_full": "Oregon",
+      "raw_address": "555 SE Martin Luther King Blvd, Suite 105",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97214",
+      "restaurant_phone": "(503) 462-1455"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Valerie Holzmann, Michael Metesan - 3",
+      "state_full": "Oregon",
+      "raw_address": "1225 NW Murray Rd, Ste 101",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97229",
+      "restaurant_phone": "(503) 643-2010"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Ian C. Bongaardt - 3",
+      "state_full": "Pennsylvania",
+      "raw_address": "124 S Maple Street, Suite 108",
+      "city": "Ambler",
+      "state": "PA",
+      "zip": "19002",
+      "restaurant_phone": "(215) 649-9144"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Adele Nester - 3",
+      "state_full": "Pennsylvania",
+      "raw_address": "8 W Broadway, Unit 1",
+      "city": "Goldsboro",
+      "state": "PA",
+      "zip": "17319",
+      "restaurant_phone": "(717) 942-1055"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Marlin Duncan",
+      "state_full": "Pennsylvania",
+      "raw_address": "261 S Church Street",
+      "city": "Hazleton",
+      "state": "PA",
+      "zip": "18201",
+      "restaurant_phone": "(570) 450-0890"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Michele Reisman - 2",
+      "state_full": "Pennsylvania",
+      "raw_address": "101 Greenwood Ave, Ste 204",
+      "city": "Jenkintown",
+      "state": "PA",
+      "zip": "19046",
+      "restaurant_phone": "(215) 885-9140"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Jean Engard - 3",
+      "state_full": "Pennsylvania",
+      "raw_address": "1396 Harrisburg Pike",
+      "city": "Lancaster",
+      "state": "PA",
+      "zip": "17601",
+      "restaurant_phone": "(717) 299-4007"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Sylvia Williams",
+      "state_full": "Pennsylvania",
+      "raw_address": "296 W Ridge Pike, Ste 206",
+      "city": "Limerick",
+      "state": "PA",
+      "zip": "19468",
+      "restaurant_phone": "(610) 340-2910"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Marlin Duncan",
+      "state_full": "Pennsylvania",
+      "raw_address": "418 Union Street",
+      "city": "Luzerne",
+      "state": "PA",
+      "zip": "18709",
+      "restaurant_phone": "(570) 970-7800"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Thomas Patrick Donohue",
+      "state_full": "Pennsylvania",
+      "raw_address": "2526 Mosside Blvd., Suite A",
+      "city": "Monroeville",
+      "state": "PA",
+      "zip": "15146",
+      "restaurant_phone": "(412) 457-0880"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Michele Reisman - 6",
+      "state_full": "Pennsylvania",
+      "raw_address": "1 Winding Drive, Suite 103",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19131",
+      "restaurant_phone": "(215) 672-2195"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Thomas Patrick Donohue",
+      "state_full": "Pennsylvania",
+      "raw_address": "5165 Penn Ave.",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "15224",
+      "restaurant_phone": "(412) 363-5500"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Thomas Patrick Donohue - 2",
+      "state_full": "Pennsylvania",
+      "raw_address": "5824 Brownsville Rd, 1st Fl",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "15236",
+      "restaurant_phone": "(412) 653-6100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Corinne Fello",
+      "state_full": "Pennsylvania",
+      "raw_address": "1382 Old Freeport Rd, Ste 2AR",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "15238",
+      "restaurant_phone": "(412) 406-7667"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Marlin Duncan",
+      "state_full": "Pennsylvania",
+      "raw_address": "1538 W Broad St",
+      "city": "Quakertown",
+      "state": "PA",
+      "zip": "18951",
+      "restaurant_phone": "(215) 529-6810"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Marlin Duncan",
+      "state_full": "Pennsylvania",
+      "raw_address": "549 Scranton Carbondale Hwy",
+      "city": "Scranton",
+      "state": "PA",
+      "zip": "18508",
+      "restaurant_phone": "(570) 307-2273"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Marlin Duncan",
+      "state_full": "Pennsylvania",
+      "raw_address": "709 N Susquehanna Trail, North Market Street",
+      "city": "Selinsgrove",
+      "state": "PA",
+      "zip": "17870",
+      "restaurant_phone": "(570) 884-8040"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Ian C. Bongaardt - 3",
+      "state_full": "Pennsylvania",
+      "raw_address": "920 W Sproul Rd, Suite 001",
+      "city": "Springfield",
+      "state": "PA",
+      "zip": "19064",
+      "restaurant_phone": "(610) 543-6300"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "David Hellyer, Raymond Lowe",
+      "state_full": "Pennsylvania",
+      "raw_address": "270 Walker Drive, Suite 102W",
+      "city": "State College",
+      "state": "PA",
+      "zip": "16801",
+      "restaurant_phone": "(814) 861-1600"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Marlin Duncan",
+      "state_full": "Pennsylvania",
+      "raw_address": "1250 N 9th Street, Suite 103",
+      "city": "Stroudsburg",
+      "state": "PA",
+      "zip": "18360",
+      "restaurant_phone": "(570) 234-0743"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Marlin Duncan",
+      "state_full": "Pennsylvania",
+      "raw_address": "1 Kim Ave., Suite 7",
+      "city": "Tunkhannock",
+      "state": "PA",
+      "zip": "18657",
+      "restaurant_phone": "(570) 996-6595"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Michele Reisman",
+      "state_full": "Pennsylvania",
+      "raw_address": "755 York Rd., Ste. 204",
+      "city": "Warminster",
+      "state": "PA",
+      "zip": "18974",
+      "restaurant_phone": "(215) 672-2195"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Ian C. Bongaardt",
+      "state_full": "Pennsylvania",
+      "raw_address": "239 E Market Street, Suite 203",
+      "city": "West Chester",
+      "state": "PA",
+      "zip": "19382",
+      "restaurant_phone": "(610) 358-1640"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Jennifer Teller - 2",
+      "state_full": "Pennsylvania",
+      "raw_address": "2209 Quarry Dr, Ste A-12",
+      "city": "West Lawn",
+      "state": "PA",
+      "zip": "19609",
+      "restaurant_phone": "(610) 678-8000"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Mark Holte - 2",
+      "state_full": "Pennsylvania",
+      "raw_address": "5500 Brooktree Road, Ste 200",
+      "city": "Wexford",
+      "state": "PA",
+      "zip": "15090",
+      "restaurant_phone": "(412) 787-0709"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Andria Larson",
+      "state_full": "Pennsylvania",
+      "raw_address": "1323 E 3rd Street",
+      "city": "Williamsport",
+      "state": "PA",
+      "zip": "17701",
+      "restaurant_phone": "(570) 322-1414"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX - 2",
+      "state_full": "Rhode Island",
+      "raw_address": "1525 Old Louisquisset Pike, Bldg. C, Suite 201",
+      "city": "Lincoln",
+      "state": "RI",
+      "zip": "02865",
+      "restaurant_phone": "(401) 349-0888"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Joseph Glenn",
+      "state_full": "South Carolina",
+      "raw_address": "402 E Greenville St",
+      "city": "Anderson",
+      "state": "SC",
+      "zip": "29621",
+      "restaurant_phone": "(864) 760-1900"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Adele Nester - 3",
+      "state_full": "Pennsylvania",
+      "raw_address": "38 W Broadway, Unit 1",
+      "city": "Goldsboro",
+      "state": "PA",
+      "zip": "17319",
+      "restaurant_phone": "(717) 942-1055"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "ThomasPatrick Donohue",
+      "state_full": "Pennsylvania",
+      "raw_address": "2526 Mosside Blvd., Suite A",
+      "city": "Monroeville",
+      "state": "PA",
+      "zip": "15146",
+      "restaurant_phone": "(412) 457-0880"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "ThomasPatrick Donohue",
+      "state_full": "Pennsylvania",
+      "raw_address": "5165 Penn Ave.",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "15224",
+      "restaurant_phone": "(412) 363-5500"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "ThomasPatrick Donohue - 2",
+      "state_full": "Pennsylvania",
+      "raw_address": "5824 Brownsville Rd, 1st Fl",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "15236",
+      "restaurant_phone": "(412) 653-6100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "David HellyerRaymond Lowe",
+      "state_full": "Pennsylvania",
+      "raw_address": "270 Walker Drive, Suite 102W",
+      "city": "State College",
+      "state": "PA",
+      "zip": "16801",
+      "restaurant_phone": "(814) 861-1600"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Carol Waldo",
+      "state_full": "South Carolina",
+      "raw_address": "110 Traders Cross",
+      "city": "Bluffton",
+      "state": "SC",
+      "zip": "29909",
+      "restaurant_phone": "(843) 757-7731"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "David Coker",
+      "state_full": "South Carolina",
+      "raw_address": "117 Alpine Cr, Ste 100",
+      "city": "Columbia",
+      "state": "SC",
+      "zip": "29223",
+      "restaurant_phone": "(803) 462-1808"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "David Coker",
+      "state_full": "South Carolina",
+      "raw_address": "218 Dozier Blvd, Ste A",
+      "city": "Florence",
+      "state": "SC",
+      "zip": "29501",
+      "restaurant_phone": "(843) 656-1056"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Christopher Couchell - 2",
+      "state_full": "South Carolina",
+      "raw_address": "1200 Haywood Road",
+      "city": "Greenville",
+      "state": "SC",
+      "zip": "29615",
+      "restaurant_phone": "(864) 268-8993"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "David Coker",
+      "state_full": "South Carolina",
+      "raw_address": "505 Belle Hall Pkwy, Ste 102",
+      "city": "Mount Pleasant",
+      "state": "SC",
+      "zip": "29424",
+      "restaurant_phone": "(843) 574-7474"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Kristin Kane",
+      "state_full": "South Carolina",
+      "raw_address": "3009 A Church St, Suite A",
+      "city": "Myrtle Beach",
+      "state": "SC",
+      "zip": "29577",
+      "restaurant_phone": "(843) 249-9200"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Janet Baumgardner",
+      "state_full": "South Carolina",
+      "raw_address": "511 West Ave",
+      "city": "North Augusta",
+      "state": "SC",
+      "zip": "29841",
+      "restaurant_phone": "(803) 279-7100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Christopher Couchell",
+      "state_full": "South Carolina",
+      "raw_address": "791 East Main Street",
+      "city": "Spartanburg",
+      "state": "SC",
+      "zip": "29302",
+      "restaurant_phone": "(864) 573-2353"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "David Coker",
+      "state_full": "South Carolina",
+      "raw_address": "1710 Old Trolley Road, Suite D",
+      "city": "Summerville",
+      "state": "SC",
+      "zip": "29485",
+      "restaurant_phone": "(843) 934-2754"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "David Coker",
+      "state_full": "South Carolina",
+      "raw_address": "1216 Alice Dr",
+      "city": "Sumter",
+      "state": "SC",
+      "zip": "29150",
+      "restaurant_phone": "(803) 773-0099"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Carol Waldo",
+      "state_full": "South Carolina",
+      "raw_address": "3214 Leaphart Rd, Ste C",
+      "city": "West Columbia",
+      "state": "SC",
+      "zip": "29169",
+      "restaurant_phone": "(803) 739-4442"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Lezlie Snoozy-Kaitfors",
+      "state_full": "South Dakota",
+      "raw_address": "1301 West Omaha St, Suite 219",
+      "city": "Rapid City",
+      "state": "SD",
+      "zip": "57701",
+      "restaurant_phone": "(605) 716-1234"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Stephen Schoepp",
+      "state_full": "South Dakota",
+      "raw_address": "4300 S Louise Ave, Ste 302",
+      "city": "Sioux Falls",
+      "state": "SD",
+      "zip": "57106",
+      "restaurant_phone": "(605) 977-5513"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Steven NicholsChristopher McClintock - 4",
+      "state_full": "Tennessee",
+      "raw_address": "212 Overlook Cir, Ste 108",
+      "city": "Brentwood",
+      "state": "TN",
+      "zip": "37027",
+      "restaurant_phone": "(615) 942-8907"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Carolyn Steiner",
+      "state_full": "Tennessee",
+      "raw_address": "281 Stonecrossing Dr.",
+      "city": "Clarksville",
+      "state": "TN",
+      "zip": "37042",
+      "restaurant_phone": "(931) 905-1771"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Cary RotterBrad Godwin",
+      "state_full": "Tennessee",
+      "raw_address": "1921 Hwy 51 S, Suite A",
+      "city": "Covington",
+      "state": "TN",
+      "zip": "38019",
+      "restaurant_phone": "(901) 296-1200"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Garrett Sullivan",
+      "state_full": "Tennessee",
+      "raw_address": "80 Miller Ave, Ste 103",
+      "city": "Crossville",
+      "state": "TN",
+      "zip": "38555",
+      "restaurant_phone": "(931) 456-9000"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Leslee Bibb",
+      "state_full": "Tennessee",
+      "raw_address": "367-B North Parkway, Suite 6",
+      "city": "Jackson",
+      "state": "TN",
+      "zip": "38305",
+      "restaurant_phone": "(731) 664-7664"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Linda Bambino",
+      "state_full": "Tennessee",
+      "raw_address": "1134A Moreland Dr",
+      "city": "Kingsport",
+      "state": "TN",
+      "zip": "37664",
+      "restaurant_phone": "(423) 246-0100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Christopher McClintock - 2",
+      "state_full": "Tennessee",
+      "raw_address": "2575 Willow Point Way, Ste 107",
+      "city": "Knoxville",
+      "state": "TN",
+      "zip": "37931",
+      "restaurant_phone": "(865) 670-9339"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Cary RotterBrad",
+      "state_full": "Tennessee",
+      "raw_address": "5668 S Rex Rd, Ste 200",
+      "city": "Memphis",
+      "state": "TN",
+      "zip": "3811",
+      "restaurant_phone": "(901) 752-1515"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Steven Nichols Christopher McClintock - 4",
+      "state_full": "Tennessee",
+      "raw_address": "212 Overlook Cir, Ste 108",
+      "city": "Brentwood",
+      "state": "TN",
+      "zip": "37027",
+      "restaurant_phone": "(615) 942-8907"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Cary Rotter Brad Godwin",
+      "state_full": "Tennessee",
+      "raw_address": "1921 Hwy 51 S, Suite A",
+      "city": "Covington",
+      "state": "TN",
+      "zip": "38019",
+      "restaurant_phone": "(901) 296-1200"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Cary Rotter Brad Godwin - 4",
+      "state_full": "Tennessee",
+      "raw_address": "5668 S Rex Rd, Ste 200",
+      "city": "Memphis",
+      "state": "TN",
+      "zip": "38119",
+      "restaurant_phone": "(901) 752-1515"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Kevin McNeil",
+      "state_full": "Texas",
+      "raw_address": "8911 N Capital of Texas Highway, Suite 4100",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78759",
+      "restaurant_phone": "(512) 980-0900"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Travis Smith Kevin McNeil",
+      "state_full": "Texas",
+      "raw_address": "5424 W Highway 290, Ste. 105",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78735",
+      "restaurant_phone": "(512) 766-0100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Travis Smith",
+      "state_full": "Texas",
+      "raw_address": "4408 Spicewood Springs Rd, Suite 429",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78759",
+      "restaurant_phone": "(512) 980-0900"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Mark Miller",
+      "state_full": "Texas",
+      "raw_address": "3740 N. Josey Lane, Suite 237",
+      "city": "Carrollton",
+      "state": "TX",
+      "zip": "75007",
+      "restaurant_phone": "(972) 573-4100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Aron Collins",
+      "state_full": "Texas",
+      "raw_address": "244 Southwest Pkwy E",
+      "city": "College Station",
+      "state": "TX",
+      "zip": "77840",
+      "restaurant_phone": "(979) 764-3076"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Lori Nesler - 4",
+      "state_full": "Texas",
+      "raw_address": "13140 Coit Road, Suite 202",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75240",
+      "restaurant_phone": "(972) 303-4599"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Deborah Desantos - 2",
+      "state_full": "Texas",
+      "raw_address": "5927 Gateway Blvd W, Ste A",
+      "city": "El Paso",
+      "state": "TX",
+      "zip": "79925",
+      "restaurant_phone": "(915) 842-8195"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Ashvin Amin Scott Van Duinen - 3",
+      "state_full": "Texas",
+      "raw_address": "1105 Arwine Ct.",
+      "city": "Euless",
+      "state": "TX",
+      "zip": "76040",
+      "restaurant_phone": "(817) 282-0828"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Scott Van Duinen - 4",
+      "state_full": "Texas",
+      "raw_address": "8205 Camp Bowie W Blvd, Ste 216",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76116",
+      "restaurant_phone": "(817) 560-8085"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Aron Collins Kevin McNeil",
+      "state_full": "Texas",
+      "raw_address": "1403 Williams Dr., Suite 101",
+      "city": "Georgetown",
+      "state": "TX",
+      "zip": "78628",
+      "restaurant_phone": "(512) 255-6633"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Selby Clark - 2",
+      "state_full": "Texas",
+      "raw_address": "6117 Richmond Ave, Ste 150",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77057",
+      "restaurant_phone": "(713) 974-6920"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Aron Collins",
+      "state_full": "Texas",
+      "raw_address": "22503 Katy Freeway, Ste 27",
+      "city": "Katy",
+      "state": "TX",
+      "zip": "77450",
+      "restaurant_phone": "(281) 978-2600"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "L.S. Clinnard",
+      "state_full": "Texas",
+      "raw_address": "1111 Judson Rd, Ste 200",
+      "city": "Longview",
+      "state": "TX",
+      "zip": "75601",
+      "restaurant_phone": "(903) 291-0111"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "John Carson",
+      "state_full": "Texas",
+      "raw_address": "2517 74th Street",
+      "city": "Lubbock",
+      "state": "TX",
+      "zip": "79423",
+      "restaurant_phone": "(806) 687-7800"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Gary Jeans",
+      "state_full": "Texas",
+      "raw_address": "2364 Highway 287 N. Ste 117",
+      "city": "Mansfield",
+      "state": "TX",
+      "zip": "76063",
+      "restaurant_phone": "(817) 453-3727"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Ramon Doria",
+      "state_full": "Texas",
+      "raw_address": "4305 N. Garfield St, Ste 229",
+      "city": "Midland",
+      "state": "TX",
+      "zip": "79705",
+      "restaurant_phone": "(432) 520-0414"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Megan Jones - 1",
+      "state_full": "Texas",
+      "raw_address": "1619 E Common St, Suite 203",
+      "city": "New Braunfels",
+      "state": "TX",
+      "zip": "78130",
+      "restaurant_phone": "(512) 598-9099"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "John Carson",
+      "state_full": "Texas",
+      "raw_address": "3121 Executive Dr",
+      "city": "San Angelo",
+      "state": "TX",
+      "zip": "76904",
+      "restaurant_phone": "(325) 949-0700"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX",
+      "state_full": "Texas",
+      "raw_address": "14310 Northbrook Drive, #240",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78232",
+      "restaurant_phone": "(210) 399-0202"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Clair Egger",
+      "state_full": "Texas",
+      "raw_address": "1824 26th Street",
+      "city": "Snyder",
+      "state": "TX",
+      "zip": "79549",
+      "restaurant_phone": "(325) 573-9999"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Peta Ann Pinnock",
+      "state_full": "Texas",
+      "raw_address": "18722 University Blvd., Suite 225",
+      "city": "Sugar Land",
+      "state": "TX",
+      "zip": "77479",
+      "restaurant_phone": "(346) 279-2327"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Travis SmithKevin McNeil",
+      "state_full": "Texas",
+      "raw_address": "5424 W Highway 290, Ste. 105",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78735",
+      "restaurant_phone": "(512) 766-0100"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Ashvin AminScott Van Duinen - 3",
+      "state_full": "Texas",
+      "raw_address": "1105 Arwine Ct.",
+      "city": "Euless",
+      "state": "TX",
+      "zip": "76040",
+      "restaurant_phone": "(817) 282-0828"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Aron CollinsKevin McNeil",
+      "state_full": "Texas",
+      "raw_address": "1403 Williams Dr., Suite 101",
+      "city": "Georgetown",
+      "state": "TX",
+      "zip": "78628",
+      "restaurant_phone": "(512) 255-6633"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "L.S. Clinnard",
+      "state_full": "Texas",
+      "raw_address": "215 Winchester Dr, Suite 115",
+      "city": "Tyler",
+      "state": "TX",
+      "zip": "75701",
+      "restaurant_phone": "(903) 509-4424"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Lawrence Morgan",
+      "state_full": "Texas",
+      "raw_address": "1007 E. Airline, Ste A",
+      "city": "Victoria",
+      "state": "TX",
+      "zip": "77901",
+      "restaurant_phone": "(361) 578-7778"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Aron Collins",
+      "state_full": "Texas",
+      "raw_address": "6801 Sanger Ave",
+      "city": "Waco",
+      "state": "TX",
+      "zip": "76710",
+      "restaurant_phone": "(254) 523-4234"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Mark Miller",
+      "state_full": "Texas",
+      "raw_address": "4840 W. Panther Creek Dr., Suite 203",
+      "city": "The Woodlands",
+      "state": "TX",
+      "zip": "77381",
+      "restaurant_phone": "(281) 205-0706"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Nick Bryan - 3",
+      "state_full": "Virginia",
+      "raw_address": "709 Pendleton Street, Ste 102",
+      "city": "Alexandria",
+      "state": "VA",
+      "zip": "22314",
+      "restaurant_phone": "(703) 591-7117"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Nick Bryan",
+      "state_full": "Virginia",
+      "raw_address": "10721 Main Street, Suite 304",
+      "city": "Fairfax",
+      "state": "VA",
+      "zip": "22030",
+      "restaurant_phone": "(703) 591-7117"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Raymond Lowe",
+      "state_full": "Virginia",
+      "raw_address": "220 Middle St",
+      "city": "Franklin",
+      "state": "VA",
+      "zip": "23851",
+      "restaurant_phone": "(757) 569-7777"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Raymond Lowe",
+      "state_full": "Virginia",
+      "raw_address": "117 W 2nd Ave",
+      "city": "Franklin",
+      "state": "VA",
+      "zip": "23851",
+      "restaurant_phone": "(757) 569-7777"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Amber Cisneros",
+      "state_full": "Virginia",
+      "raw_address": "304 Westwood Office Park",
+      "city": "Fredericksburg",
+      "state": "VA",
+      "zip": "22401",
+      "restaurant_phone": "(540) 370-0008"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Mark Sheets - 2",
+      "state_full": "Virginia",
+      "raw_address": "10833 Ridgefield Pkwy",
+      "city": "Henrico",
+      "state": "VA",
+      "zip": "23238",
+      "restaurant_phone": "(804) 750-1123"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Mark Sheets - 2",
+      "state_full": "Virginia",
+      "raw_address": "4101 Cox Rd, Suite 120",
+      "city": "Glen Allen",
+      "state": "VA",
+      "zip": "23060",
+      "restaurant_phone": "(804) 750-1123"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Nick Bryan - 2",
+      "state_full": "Virginia",
+      "raw_address": "459 Herndon Pkwy, Ste 5",
+      "city": "Herndon",
+      "state": "VA",
+      "zip": "20170",
+      "restaurant_phone": "(703) 435-2500"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Anthony Fiore - 2",
+      "state_full": "Virginia",
+      "raw_address": "9720 Capital Court, Ste. 100, Rm 2",
+      "city": "Manassas",
+      "state": "VA",
+      "zip": "20110",
+      "restaurant_phone": "(703) 686-4803"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Nick Bryan - 2",
+      "state_full": "Virginia",
+      "raw_address": "45640 Willow Pond Plaza, Suite 100",
+      "city": "Sterling",
+      "state": "VA",
+      "zip": "20164",
+      "restaurant_phone": "(703) 639-4492"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Nick Bryan",
+      "state_full": "Virginia",
+      "raw_address": "1213 Laskin Road, Suite 207",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "zip": "23451",
+      "restaurant_phone": "(757) 689-8189"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Edward Golden",
+      "state_full": "Virginia",
+      "raw_address": "205 Bulifants Blvd, Ste B-Main Office",
+      "city": "Williamsburg",
+      "state": "VA",
+      "zip": "23188",
+      "restaurant_phone": "(757) 229-2777"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "James Woolford",
+      "state_full": "Washington",
+      "raw_address": "3256 Chico Way",
+      "city": "Bremerton",
+      "state": "WA",
+      "zip": "98312",
+      "restaurant_phone": "(360) 373-5678"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Kimberly Sanchez",
+      "state_full": "Washington",
+      "raw_address": "500 S 336th St., Ste 204",
+      "city": "Federal Way",
+      "state": "WA",
+      "zip": "98003",
+      "restaurant_phone": "(253) 945-1400"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Kenny Lyman - 32",
+      "state_full": "Washington",
+      "raw_address": "2958 Limited Ln NW, Ste B",
+      "city": "Olympia",
+      "state": "WA",
+      "zip": "98502",
+      "restaurant_phone": "(360) 742-3773"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Wyatt Howell",
+      "state_full": "Washington",
+      "raw_address": "1104 W. Wellesley Ave., Ste D",
+      "city": "Spokane",
+      "state": "WA",
+      "zip": "99205",
+      "restaurant_phone": "(509) 484-2345"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Kelly Leveque - 2",
+      "state_full": "Washington",
+      "raw_address": "2115 E 27th Street",
+      "city": "Vancouver",
+      "state": "WA",
+      "zip": "98661",
+      "restaurant_phone": "(360) 687-0025"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "James Rudolph",
+      "state_full": "Wisconsin",
+      "raw_address": "5950 Seminole Centre Ct, Ste 200",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zip": "53711",
+      "restaurant_phone": "(608) 442-1898"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX - 2",
+      "state_full": "Wisconsin",
+      "raw_address": "516 Red Bird Circle",
+      "city": "De Pere",
+      "state": "WI",
+      "zip": "54115",
+      "restaurant_phone": "(920) 490-8707"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX",
+      "state_full": "Wisconsin",
+      "raw_address": "490 W. Rolling Meadows Dr., Suite 4",
+      "city": "Fond Du Lac",
+      "state": "WI",
+      "zip": "54937",
+      "restaurant_phone": "(920) 922-1779"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX - 2",
+      "state_full": "Wisconsin",
+      "raw_address": "1971 Washington Street, Suite 100",
+      "city": "Grafton",
+      "state": "WI",
+      "zip": "53027",
+      "restaurant_phone": "(262) 376-7510"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Gina Meller - 2",
+      "state_full": "Wisconsin",
+      "raw_address": "8505 W Forest Home Ave",
+      "city": "Greenfield",
+      "state": "WI",
+      "zip": "53228",
+      "restaurant_phone": "(414) 858-9400"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Sharlyn Meller - 2",
+      "state_full": "Wisconsin",
+      "raw_address": "4811 S. 76th Street, Suite 300",
+      "city": "Greenfield",
+      "state": "WI",
+      "zip": "53220",
+      "restaurant_phone": "(414) 858-9400"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Mark Miller",
+      "state_full": "Texas",
+      "raw_address": "4840 W. Panther Creek Dr., Suite 275B",
+      "city": "The Woodlands",
+      "state": "TX",
+      "zip": "77381",
+      "restaurant_phone": "(281) 205-0706"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "James Rudolph - 2",
+      "state_full": "Wisconsin",
+      "raw_address": "5950 Seminole Centre Ct, Ste 200",
+      "city": "Fitchburg",
+      "state": "WI",
+      "zip": "53711",
+      "restaurant_phone": "(608) 442-1898"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX",
+      "state_full": "Wisconsin",
+      "raw_address": "516 Red Bird Circle",
+      "city": "De Pere",
+      "state": "WI",
+      "zip": "54115",
+      "restaurant_phone": "(920) 490-8707"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX \u2013 2",
+      "state_full": "Wisconsin",
+      "raw_address": "1971 Washington Street, Suite 100",
+      "city": "Grafton",
+      "state": "WI",
+      "zip": "53027",
+      "restaurant_phone": "(262) 376-7510"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "Peter Heimdahl",
+      "state_full": "Wisconsin",
+      "raw_address": "2424 Monetary Blvd, Ste 012",
+      "city": "Hudson",
+      "state": "WI",
+      "zip": "54016",
+      "restaurant_phone": "(715) 381-6730"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX",
+      "state_full": "Wisconsin",
+      "raw_address": "2951 S 21st Pl",
+      "city": "La Crosse",
+      "state": "WI",
+      "zip": "54601",
+      "restaurant_phone": "(608) 784-3357"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "James Rudolph - 2",
+      "state_full": "Wisconsin",
+      "raw_address": "5950 Seminole Centre Ct., Suite 200",
+      "city": "Madison",
+      "state": "WI",
+      "zip": "53711",
+      "restaurant_phone": "(608) 442-1898"
+    },
+    {
+      "brand": "Comfort Keepers",
+      "franchisee_name": "SDX \u2013 4",
+      "state_full": "Wisconsin",
+      "raw_address": "1131 Prairie Dr., Suite #100",
+      "city": "Racine",
+      "state": "WI",
+      "zip": "53406",
+      "restaurant_phone": "(262) 884-3930"
+    }
+  ]
+}

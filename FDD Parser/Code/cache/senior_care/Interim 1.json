@@ -1,0 +1,1575 @@
+{
+  "brand": "Interim HealthCare",
+  "records": [
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Camp, Claude (Chip) and Barbara",
+      "state_full": "Alabama",
+      "raw_address": "3201 Montgomery Highway, Ste. 9",
+      "city": "Dothan",
+      "state": "AL",
+      "zip": "36303",
+      "restaurant_phone": "(334) 446-0676"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Le, Nguyet \"Kim\"",
+      "state_full": "Alabama",
+      "raw_address": "4244 Cahaba Heights Ct. Suite 200",
+      "city": "Vestavia Hills",
+      "state": "AL",
+      "zip": "35243",
+      "restaurant_phone": "(205) 298-6605"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Dean, Rachel",
+      "state_full": "Alabama",
+      "raw_address": "611 East Glenn Ave. Suite C",
+      "city": "Auburn",
+      "state": "AL",
+      "zip": "36830",
+      "restaurant_phone": "(334) 539-5140"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Ringling, Devin and Cynthia",
+      "state_full": "Arizona",
+      "raw_address": "1901 North Union, Suite 202",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80909",
+      "restaurant_phone": "(719) 632-9900"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Kovrig, Griselda",
+      "state_full": "Arizona",
+      "raw_address": "13260 N 94th Drive Suite 104",
+      "city": "Peoria",
+      "state": "AZ",
+      "zip": "85381",
+      "restaurant_phone": "(602) 830-3003"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Lochinger, Jason",
+      "state_full": "Arizona",
+      "raw_address": "1136 E Harmony Ave., Suite 101",
+      "city": "Mesa",
+      "state": "AZ",
+      "zip": "85204",
+      "restaurant_phone": "(602) 607-0277"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Reger-Flores, Sean and Knodle, Brent",
+      "state_full": "Arizona",
+      "raw_address": "1490 S Price Rd Suite 110C",
+      "city": "Chandler",
+      "state": "AZ",
+      "zip": "85286",
+      "restaurant_phone": "(623) 323-2999"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Ahmed, Sarah",
+      "state_full": "California",
+      "raw_address": "1843 E. Fir Avenue Suite 101",
+      "city": "Fresno",
+      "state": "CA",
+      "zip": "93720",
+      "restaurant_phone": "(559) 224-0560"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Bettencourt, Joe",
+      "state_full": "California",
+      "raw_address": "91 Gregory Lane Suite 7",
+      "city": "Pleasant Hill",
+      "state": "CA",
+      "zip": "94523",
+      "restaurant_phone": "(925) 944-5779"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Jenkins, Christine, Leslie and Zach",
+      "state_full": "California",
+      "raw_address": "21220 Devonshire Street Suite 203",
+      "city": "Chatsworth",
+      "state": "CA",
+      "zip": "91311",
+      "restaurant_phone": "(818) 369-0009"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Pichette, Katherine",
+      "state_full": "California",
+      "raw_address": "11992 State Highway 88 Suite 2046",
+      "city": "Jackson",
+      "state": "CA",
+      "zip": "95642",
+      "restaurant_phone": "(209) 223-9119"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Olsen, Cathy",
+      "state_full": "California",
+      "raw_address": "1421 Guerneville Rd Suite 200",
+      "city": "Santa Rosa",
+      "state": "CA",
+      "zip": "95403",
+      "restaurant_phone": "(707) 200-2260"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Dadlani, Rajendra & Khushbu",
+      "state_full": "California",
+      "raw_address": "2152 Dupont Dr Suite 174",
+      "city": "Irvine",
+      "state": "CA",
+      "zip": "92612",
+      "restaurant_phone": "(949) 800-8715"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Maller, Joseph & Kim",
+      "state_full": "California",
+      "raw_address": "5440 Morehouse Dr Suite 2700",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92121",
+      "restaurant_phone": "(858) 422-0770"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Padala, Bhanu",
+      "state_full": "California",
+      "raw_address": "1647 Court St",
+      "city": "Redding",
+      "state": "CA",
+      "zip": "96001",
+      "restaurant_phone": "(530) 221-1212"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Delawalla, Pervez",
+      "state_full": "California",
+      "raw_address": "300 E. Esplanade Dr. 9th Floor",
+      "city": "Oxnard",
+      "state": "CA",
+      "zip": "93036",
+      "restaurant_phone": "(805) 506-3310"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Brambhatt, Shashi & Shorian, Sudha",
+      "state_full": "California",
+      "raw_address": "2834 El Camino Real Suite 224",
+      "city": "Redwood City",
+      "state": "CA",
+      "zip": "94061",
+      "restaurant_phone": "(650) 839-7350"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Tran Chau",
+      "state_full": "California",
+      "raw_address": "1246 Aartman Drive",
+      "city": "Modesto",
+      "state": "CA",
+      "zip": "95351",
+      "restaurant_phone": "(515) 771-8136"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Jenkins Home Healthcare, LLC",
+      "state_full": "California",
+      "raw_address": "21220 Devonshire Street Suite 203",
+      "city": "Chatsworth",
+      "state": "CA",
+      "zip": "91311",
+      "restaurant_phone": "(818) 369-0009"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "K & B Pichette Enterprises, Inc.",
+      "state_full": "California",
+      "raw_address": "11992 State Highway 88 Suite 2046",
+      "city": "Jackson",
+      "state": "CA",
+      "zip": "95642",
+      "restaurant_phone": "(209) 223-9119"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Merlee, Inc.",
+      "state_full": "California",
+      "raw_address": "1421 Guerneville Rd Suite 200",
+      "city": "Santa Rosa",
+      "state": "CA",
+      "zip": "95403",
+      "restaurant_phone": "(707) 200-2260"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "RK Health Care Services Inc",
+      "state_full": "California",
+      "raw_address": "2152 Dupont Dr Suite 174",
+      "city": "Irvine",
+      "state": "CA",
+      "zip": "92612",
+      "restaurant_phone": "(949) 800-8715"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "RK Health Care Services Inc.",
+      "state_full": "California",
+      "raw_address": "2152 Dupont Dr Suite 174",
+      "city": "Irvine",
+      "state": "CA",
+      "zip": "92612",
+      "restaurant_phone": "(949) 800-8715"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "SandyCare Inc.",
+      "state_full": "California",
+      "raw_address": "5440 Morehouse Dr Suite 2700",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92121",
+      "restaurant_phone": "(858) 422-0770"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "SAP Home Care Services, Inc.",
+      "state_full": "California",
+      "raw_address": "1647 Court St",
+      "city": "Redding",
+      "state": "CA",
+      "zip": "96001",
+      "restaurant_phone": "(530) 221-1212"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Splice Max, Inc.",
+      "state_full": "California",
+      "raw_address": "300 E. Esplanade Dr. 9th Floor",
+      "city": "Oxnard",
+      "state": "CA",
+      "zip": "93036",
+      "restaurant_phone": "(805) 506-3310"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Super Health LLC",
+      "state_full": "California",
+      "raw_address": "2834 El Camino Real Suite 224",
+      "city": "Redwood City",
+      "state": "CA",
+      "zip": "94061",
+      "restaurant_phone": "(650) 839-7350"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Synergy Health Companies, Inc.",
+      "state_full": "California",
+      "raw_address": "1246 Aartman Drive",
+      "city": "Modesto",
+      "state": "CA",
+      "zip": "95351",
+      "restaurant_phone": "(515) 771-8136"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Transitional Care Solutions, Inc.",
+      "state_full": "California",
+      "raw_address": "2355 Gold Meadow Way",
+      "city": "Gold River",
+      "state": "CA",
+      "zip": "95670",
+      "restaurant_phone": "(916) 486-8181"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "XNO Solutions LLC",
+      "state_full": "California",
+      "raw_address": "1261 Travis Blvd Suite 180",
+      "city": "Fairfield",
+      "state": "CA",
+      "zip": "94533",
+      "restaurant_phone": "(707) 623-1130"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Colorado Home Healthcare and Staffing, LLC",
+      "state_full": "Colorado",
+      "raw_address": "6099 S Quebec St Suite 202",
+      "city": "Centennial",
+      "state": "CO",
+      "zip": "80111",
+      "restaurant_phone": "(303) 300-8741"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Ft. Collins, Inc.",
+      "state_full": "Colorado",
+      "raw_address": "1901 North Union, Suite 202",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80909",
+      "restaurant_phone": "(719) 632-9900"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Southeastern Colorado, Inc.",
+      "state_full": "Colorado",
+      "raw_address": "1901 North Union, Suite 202",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80909",
+      "restaurant_phone": "(719) 632-9900"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Hartford, Inc.",
+      "state_full": "Connecticut",
+      "raw_address": "231 Farmington Avenue",
+      "city": "Farmington",
+      "state": "CT",
+      "zip": "06032",
+      "restaurant_phone": "(860) 677-0005"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Delaware, LLC",
+      "state_full": "Delaware",
+      "raw_address": "92 Read's Way, Suite 108",
+      "city": "New Castle",
+      "state": "DE",
+      "zip": "19720",
+      "restaurant_phone": "(302) 322-2743"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "ARCH HealthCare Inc.",
+      "state_full": "Florida",
+      "raw_address": "2201 Cantu Court, Suite 116A",
+      "city": "Sarasota",
+      "state": "FL",
+      "zip": "34232",
+      "restaurant_phone": "(941) 315-9966"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Egan Clearwater Health LLC",
+      "state_full": "Florida",
+      "raw_address": "19321 US-19 N, Suite 417",
+      "city": "Clearwater",
+      "state": "FL",
+      "zip": "33764",
+      "restaurant_phone": "(727) 300-3839"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Infinity Wellness Corp",
+      "state_full": "Florida",
+      "raw_address": "2021 E Commercial Blvd. Suite 308",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": "33308",
+      "restaurant_phone": "(954) 323-4484"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Inter Healthcare Solutions, LLC",
+      "state_full": "Florida",
+      "raw_address": "7300 Biscayne Blvd., Suite 200",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33138",
+      "restaurant_phone": "(305) 697-9697"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Northwest Florida, Inc.",
+      "state_full": "Florida",
+      "raw_address": "1962B Village Green Way",
+      "city": "Tallahassee",
+      "state": "FL",
+      "zip": "32308",
+      "restaurant_phone": "(850) 422-2311"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim HHA of St. Augustine, Inc.",
+      "state_full": "Florida",
+      "raw_address": "1585 N Milwaukee Ave Suite 105",
+      "city": "Libertyville",
+      "state": "FL",
+      "zip": "60048",
+      "restaurant_phone": "(847) 433-5650"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Orlando Interim Acquisition Co, LLC",
+      "state_full": "Florida",
+      "raw_address": "1890 State Road 436 Suite 300",
+      "city": "Winter Park",
+      "state": "FL",
+      "zip": "32792",
+      "restaurant_phone": "(407) 740-5284 x1209"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Righteous Oak LLC",
+      "state_full": "Florida",
+      "raw_address": "1500 Colonial Blvd Suite 234",
+      "city": "Fort Myers",
+      "state": "FL",
+      "zip": "33907",
+      "restaurant_phone": "(239) 689-1427"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "KnausCo LLC",
+      "state_full": "Georgia",
+      "raw_address": "2370 Vineville Ave",
+      "city": "Macon",
+      "state": "GA",
+      "zip": "31204",
+      "restaurant_phone": "(478) 394-4672"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "KnauseCo",
+      "state_full": "Georgia",
+      "raw_address": "2370 Vineville Ave",
+      "city": "Macon",
+      "state": "GA",
+      "zip": "31204",
+      "restaurant_phone": "(478) 394-4672"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Mitchell Healthcare LLC",
+      "state_full": "Georgia",
+      "raw_address": "801 Broad Street, Suite 605",
+      "city": "Augusta",
+      "state": "GA",
+      "zip": "30901",
+      "restaurant_phone": "(706) 550-1107"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "STG Healthcare of Atlanta, Inc.",
+      "state_full": "Georgia",
+      "raw_address": "400 Interstate North Parkway SE Suite 1250",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30339",
+      "restaurant_phone": "(404) 843-2708"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Supreme Healthcare LLC",
+      "state_full": "Georgia",
+      "raw_address": "747 Queen City Pkwy Suite A",
+      "city": "Gainesville",
+      "state": "GA",
+      "zip": "30501",
+      "restaurant_phone": "(678) 769-3233"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "1103 Health Partners LLC",
+      "state_full": "Illinois",
+      "raw_address": "1585 N Milwaukee Ave Suite 105",
+      "city": "Libertyville",
+      "state": "IL",
+      "zip": "60048",
+      "restaurant_phone": "(847) 433-5650"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Freedom Resources, LLC",
+      "state_full": "Illinois",
+      "raw_address": "121 W Cherry St",
+      "city": "Herrin",
+      "state": "IL",
+      "zip": "62948",
+      "restaurant_phone": "(618) 477-8500"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare Services of Joliet, Inc.",
+      "state_full": "Illinois",
+      "raw_address": "310 N Hammes Suite 301E",
+      "city": "Joliet",
+      "state": "IL",
+      "zip": "60435",
+      "restaurant_phone": "(815) 725-9091"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "PSG Services, LLC",
+      "state_full": "Illinois",
+      "raw_address": "12855 S Cicero Ave. Suite 200",
+      "city": "Alsip",
+      "state": "IL",
+      "zip": "60803",
+      "restaurant_phone": "(708) 383-7320"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Hammerton, Thomas & Alison",
+      "state_full": "Illinois",
+      "raw_address": "1223 W. Pioneer Pkwy",
+      "city": "Peoria",
+      "state": "IL",
+      "zip": "61615",
+      "restaurant_phone": "(309) 296-0056"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Indianapolis Home Care Inc.",
+      "state_full": "Indiana",
+      "raw_address": "300 W. Wilson Bridge Rd. Suite 250",
+      "city": "Worthington",
+      "state": "IN",
+      "zip": "43085",
+      "restaurant_phone": "(614) 436-9404"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim HealthCare of Cincinnati, Inc.",
+      "state_full": "Indiana",
+      "raw_address": "300 W. Wilson Bridge Rd. Suite 250",
+      "city": "Worthington",
+      "state": "OH",
+      "zip": "43085",
+      "restaurant_phone": "(614) 436-9404"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim HealthCare of Columbus, Inc.",
+      "state_full": "Indiana",
+      "raw_address": "300 W. Wilson Bridge Rd. Suite 250",
+      "city": "Worthington",
+      "state": "OH",
+      "zip": "43085",
+      "restaurant_phone": "(614) 436-9404"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Indianapolis, Inc.",
+      "state_full": "Indiana",
+      "raw_address": "11 Municipal Dr Suite 200",
+      "city": "Fishers",
+      "state": "IN",
+      "zip": "46038",
+      "restaurant_phone": "(317) 956-4024"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Northern Indiana Interim Healthcare Co, LLC",
+      "state_full": "Indiana",
+      "raw_address": "1585 N Milwaukee Ave Suite 105",
+      "city": "Libertyville",
+      "state": "IL",
+      "zip": "60048",
+      "restaurant_phone": "(847) 433-5650"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Flint Hills Health Care Services, Inc.",
+      "state_full": "Kansas",
+      "raw_address": "9920 E. Harry Street",
+      "city": "Wichita",
+      "state": "KS",
+      "zip": "67207",
+      "restaurant_phone": "(316) 265-4295"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Health Care of Wichita, Inc.",
+      "state_full": "Kansas",
+      "raw_address": "9920 E. Harry Street",
+      "city": "Wichita",
+      "state": "KS",
+      "zip": "67207",
+      "restaurant_phone": "(316) 265-4295"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Kansas City, Inc.",
+      "state_full": "Kansas",
+      "raw_address": "10977 Granada Lane Suite 205",
+      "city": "Overland Park",
+      "state": "KS",
+      "zip": "66211",
+      "restaurant_phone": "(913) 381-3100"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Aspires Healthcare LLC",
+      "state_full": "Maryland",
+      "raw_address": "500 Redland Ct Suite 215",
+      "city": "Owings Mills",
+      "state": "MD",
+      "zip": "21117",
+      "restaurant_phone": "(410) 205-7100"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Autumn",
+      "state_full": "Maryland",
+      "raw_address": "201 Russell Ave",
+      "city": "Gaithersburg",
+      "state": "MD",
+      "zip": "20877",
+      "restaurant_phone": "(301) 985-"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Autumn Health Inc.",
+      "state_full": "Maryland",
+      "raw_address": "201 Russell Ave",
+      "city": "Gaithersburg",
+      "state": "MD",
+      "zip": "20877",
+      "restaurant_phone": "(301) 985-2321"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Autumn Health, Inc",
+      "state_full": "Maryland",
+      "raw_address": "201 Russell Ave",
+      "city": "Gaithersburg",
+      "state": "MD",
+      "zip": "20877",
+      "restaurant_phone": "(301) 985-2321"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Care Plus of Frederick LLC",
+      "state_full": "Maryland",
+      "raw_address": "5301 Buckeystown Pike Suite 350",
+      "city": "Frederick",
+      "state": "MD",
+      "zip": "21704",
+      "restaurant_phone": "(301) 378-0726"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Jane Healthcare Services, Inc.",
+      "state_full": "Maryland",
+      "raw_address": "9050 Red Branch Road Suite D1",
+      "city": "Columbia",
+      "state": "MD",
+      "zip": "21045",
+      "restaurant_phone": "(667) 803-0076"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "PuraVida Future Inc.",
+      "state_full": "Maryland",
+      "raw_address": "1819 Bay Ridge Ave Suite 235",
+      "city": "Annapolis",
+      "state": "MD",
+      "zip": "21403",
+      "restaurant_phone": "(443) 808-1003"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "PuraVida Future, Inc.",
+      "state_full": "Maryland",
+      "raw_address": "1819 Bay Ridge Ave Suite 235",
+      "city": "Annapolis",
+      "state": "MD",
+      "zip": "21403",
+      "restaurant_phone": "(443) 808-1003"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Upscale Health Services, LLC",
+      "state_full": "Maryland",
+      "raw_address": "3032 Mitchellville Rd Suite 102",
+      "city": "Bowie",
+      "state": "MD",
+      "zip": "20716",
+      "restaurant_phone": "(240) 510-1357"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Anjos LLC",
+      "state_full": "Massachusetts",
+      "raw_address": "160 Baldwin St",
+      "city": "West Springfield",
+      "state": "MA",
+      "zip": "01090",
+      "restaurant_phone": "(413) 734-6900"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "JG Home Health Care Services, LLC",
+      "state_full": "Massachusetts",
+      "raw_address": "394 Lowell St. Suite 11",
+      "city": "Lexington",
+      "state": "MA",
+      "zip": "02420",
+      "restaurant_phone": "(781) 667-3220"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Andor Services, LLC",
+      "state_full": "Michigan",
+      "raw_address": "3810 Packard Rd Suite 230",
+      "city": "Ann Arbor",
+      "state": "MI",
+      "zip": "48108",
+      "restaurant_phone": "(734) 368-9102"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Briarwood Home Healthcare, Inc.",
+      "state_full": "Michigan",
+      "raw_address": "40200 Grand River, Suite 300",
+      "city": "Novi",
+      "state": "MI",
+      "zip": "48375",
+      "restaurant_phone": "(248) 553-3333"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "CLM Enterprises ESOP, Inc",
+      "state_full": "Michigan",
+      "raw_address": "1971 E. Beltline NE Suite 216",
+      "city": "Grand Rapids",
+      "state": "MI",
+      "zip": "49525",
+      "restaurant_phone": "(616) 575-0216"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Love and Mercy Homecare Solutions, Inc.",
+      "state_full": "Michigan",
+      "raw_address": "67200 Van Dyke Rd. Suite 101",
+      "city": "Washington",
+      "state": "MI",
+      "zip": "48095",
+      "restaurant_phone": "(586) 281-6280"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Mid Valley Interim Health Care Services, Inc.",
+      "state_full": "Michigan",
+      "raw_address": "5155 Hampton Place",
+      "city": "Saginaw",
+      "state": "MI",
+      "zip": "48604",
+      "restaurant_phone": "(989) 791-5100"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Crown Capital Staffing Strategies LLC",
+      "state_full": "Minnesota",
+      "raw_address": "2950 Metro Dr. Suite 115",
+      "city": "Bloomington",
+      "state": "MN",
+      "zip": "55425",
+      "restaurant_phone": "(612) 644-7644"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Crown Capital Strategies, LLC",
+      "state_full": "Minnesota",
+      "raw_address": "1585 N Milwaukee Ave Suite 105",
+      "city": "Libertyville",
+      "state": "IL",
+      "zip": "60048",
+      "restaurant_phone": "(847) 433-5650"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Lake Superior, Inc.",
+      "state_full": "Minnesota",
+      "raw_address": "4415 Venture Ave",
+      "city": "Duluth",
+      "state": "MN",
+      "zip": "55811",
+      "restaurant_phone": "(218) 722-0053"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Twin Cities, Inc.",
+      "state_full": "Minnesota",
+      "raw_address": "4905 Zenith Avenue S.",
+      "city": "Minneapolis",
+      "state": "MN",
+      "zip": "55410",
+      "restaurant_phone": "(646) 734-7724"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Barr Healthcare Inc.",
+      "state_full": "Missouri",
+      "raw_address": "1736 Westpark Center Dr. Suite 201",
+      "city": "Fenton",
+      "state": "MO",
+      "zip": "63026",
+      "restaurant_phone": "(636) 717-9292"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Barr Healthcare, Inc.",
+      "state_full": "Missouri",
+      "raw_address": "1736 Westpark Center Dr. Suite 201",
+      "city": "Fenton",
+      "state": "MO",
+      "zip": "63026",
+      "restaurant_phone": "(636) 717-9292"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Home Health Montana, LLC",
+      "state_full": "Montana",
+      "raw_address": "1361 Elm St. Suite #1",
+      "city": "Helena",
+      "state": "MT",
+      "zip": "59601",
+      "restaurant_phone": "(406) 235-3995"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Lincoln, LLC",
+      "state_full": "Nebraska",
+      "raw_address": "6040 South 58th St. Suite A",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68516",
+      "restaurant_phone": "(402) 421-7920"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Mercy Homecare Solutions, Inc.",
+      "state_full": "Michigan",
+      "raw_address": "67200 Van Dyke Rd. Suite 101",
+      "city": "Washington",
+      "state": "MI",
+      "zip": "48095",
+      "restaurant_phone": "(586) 281-6280"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of the Northeast, LLC.",
+      "state_full": "New Hampshire",
+      "raw_address": "76 Northeastern Blvd. Suite 33A",
+      "city": "Nashua",
+      "state": "NH",
+      "zip": "03062",
+      "restaurant_phone": "(603) 880-4412"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "247 Healthcare Solutions, LLC",
+      "state_full": "New Jersey",
+      "raw_address": "502 Hamburg Turnpike Suite 102",
+      "city": "Wayne",
+      "state": "NJ",
+      "zip": "07470",
+      "restaurant_phone": "(973) 282-7770"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "FT Partners, LLC",
+      "state_full": "New Jersey",
+      "raw_address": "295 Durham Ave Suite 203",
+      "city": "South Plainfield",
+      "state": "NJ",
+      "zip": "07080",
+      "restaurant_phone": "(908) 756-1515"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Oak Ridge Healthcare Resources, LLC",
+      "state_full": "New Jersey",
+      "raw_address": "100 Federal City Rd Suite C-103",
+      "city": "Lawrenceville",
+      "state": "NJ",
+      "zip": "08648",
+      "restaurant_phone": "(609) 917-7733"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "MD Holdings LLC",
+      "state_full": "New Mexico",
+      "raw_address": "8809 Washington St NE Suite 125",
+      "city": "Albuquerque",
+      "state": "NM",
+      "zip": "87113",
+      "restaurant_phone": "(505) 633-8620"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Binghamton, Inc.",
+      "state_full": "New York",
+      "raw_address": "3502 James St.",
+      "city": "Syracuse",
+      "state": "NY",
+      "zip": "13206",
+      "restaurant_phone": "(315) 437-4500"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Syracuse, Inc.",
+      "state_full": "New York",
+      "raw_address": "3502 James St.",
+      "city": "Syracuse",
+      "state": "NY",
+      "zip": "13206",
+      "restaurant_phone": "(315) 437-4500"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Dedicated Home Services, Inc.",
+      "state_full": "North Carolina",
+      "raw_address": "425 E Statesville Ave Suite 101",
+      "city": "Mooresville",
+      "state": "NC",
+      "zip": "28115",
+      "restaurant_phone": "(704) 658-0555"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of the Eastern Carolinas, Inc.",
+      "state_full": "North Carolina",
+      "raw_address": "PO Box 2249",
+      "city": "Whiteville",
+      "state": "NC",
+      "zip": "28472",
+      "restaurant_phone": "(910) 642-2106"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim HealthCare",
+      "state_full": "North Carolina",
+      "raw_address": "MGI Corporation,",
+      "city": "Wilson",
+      "state": "NC",
+      "zip": "27893",
+      "restaurant_phone": "(252) 243-7808"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim HealthCare of the Triad, Inc.",
+      "state_full": "North Carolina",
+      "raw_address": "MGI Corporation, 2526 Ward Blvd",
+      "city": "Wilson",
+      "state": "NC",
+      "zip": "27893",
+      "restaurant_phone": "(252) 243-7808"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of the Triangle, LLC",
+      "state_full": "North Carolina",
+      "raw_address": "PO Box 2249",
+      "city": "Whiteville",
+      "state": "NC",
+      "zip": "28472",
+      "restaurant_phone": "(910) 642-2106"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare Morris Group, Inc.",
+      "state_full": "North Carolina",
+      "raw_address": "MGI Corporation, 2526 Ward Blvd",
+      "city": "Wilson",
+      "state": "NC",
+      "zip": "27893",
+      "restaurant_phone": "(252) 243-7808"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Diversified Enterprises, Inc.",
+      "state_full": "North Dakota",
+      "raw_address": "3608 S. Southeastern Ave.",
+      "city": "Sioux Falls",
+      "state": "ND",
+      "zip": "57103",
+      "restaurant_phone": "(605) 371-4253"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Celestial Holdings, Inc.",
+      "state_full": "Ohio",
+      "raw_address": "4130 Gallia St.",
+      "city": "New Boston",
+      "state": "OH",
+      "zip": "45662",
+      "restaurant_phone": "(740) 354-5550"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Akron/Canton, Inc.",
+      "state_full": "Ohio",
+      "raw_address": "300 W. Wilson Bridge Rd. Suite 250",
+      "city": "Worthington",
+      "state": "OH",
+      "zip": "43085",
+      "restaurant_phone": "(614) 436-9404"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Cambridge, Inc.",
+      "state_full": "Ohio",
+      "raw_address": "300 W. Wilson Bridge Rd. Suite 250",
+      "city": "Worthington",
+      "state": "OH",
+      "zip": "43085",
+      "restaurant_phone": "(614) 436-9404"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare",
+      "state_full": "Ohio",
+      "raw_address": "300 W. Wilson Bridge Rd. Suite",
+      "city": "Worthington",
+      "state": "OH",
+      "zip": "43085",
+      "restaurant_phone": "(614) 436-9404"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Dayton, Inc.",
+      "state_full": "Ohio",
+      "raw_address": "300 W. Wilson Bridge Rd. Suite 250",
+      "city": "Worthington",
+      "state": "OH",
+      "zip": "43085",
+      "restaurant_phone": "(614) 436-9404"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Northwestern Ohio, Inc.",
+      "state_full": "Ohio",
+      "raw_address": "300 W. Wilson Bridge Rd. Suite 250",
+      "city": "Worthington",
+      "state": "OH",
+      "zip": "43085",
+      "restaurant_phone": "(614) 436-9404"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of SE Ohio, Inc.",
+      "state_full": "Ohio",
+      "raw_address": "300 W. Wilson Bridge Rd. Suite 250",
+      "city": "Worthington",
+      "state": "OH",
+      "zip": "43085",
+      "restaurant_phone": "(614) 436-9404"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Oklahoma City, Inc.",
+      "state_full": "Oklahoma",
+      "raw_address": "2828 East 51 St. Suite 102",
+      "city": "Tulsa",
+      "state": "OK",
+      "zip": "74105",
+      "restaurant_phone": "(918) 749-9933"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Tulsa, Inc.",
+      "state_full": "Oklahoma",
+      "raw_address": "2828 East 51 Street Ste 102",
+      "city": "Tulsa",
+      "state": "OK",
+      "zip": "74105",
+      "restaurant_phone": "(918) 749-9933"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Lucas Home Care, LLC",
+      "state_full": "Oregon",
+      "raw_address": "230 SE 3rd St Suite 100",
+      "city": "Bend",
+      "state": "OR",
+      "zip": "97702",
+      "restaurant_phone": "(541) 639-4400"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "A.D.F., Inc.",
+      "state_full": "Pennsylvania",
+      "raw_address": "160 Chad Rd.",
+      "city": "Muncy",
+      "state": "PA",
+      "zip": "17756",
+      "restaurant_phone": "(570) 546-2102"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "ARP Healthcare Philadelphia, Inc.",
+      "state_full": "Pennsylvania",
+      "raw_address": "402 Gordon Dr. Suite A",
+      "city": "Exton",
+      "state": "PA",
+      "zip": "19341",
+      "restaurant_phone": "(610) 524-1954"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Palmieri Holdings, Inc.",
+      "state_full": "Pennsylvania",
+      "raw_address": "402 Gordon Dr. Suite A",
+      "city": "Exton",
+      "state": "PA",
+      "zip": "19341",
+      "restaurant_phone": "(610) 524-1954"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "DF Healthcare Partners, LLC",
+      "state_full": "Pennsylvania",
+      "raw_address": "2200 W Hamilton St Suite 112",
+      "city": "Allentown",
+      "state": "PA",
+      "zip": "18104",
+      "restaurant_phone": "(610) 434-7277"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Pittsburgh, Inc.",
+      "state_full": "Pennsylvania",
+      "raw_address": "300 W. Wilson Bridge Rd. Suite 250",
+      "city": "Worthington",
+      "state": "PA",
+      "zip": "43085",
+      "restaurant_phone": "(614) 436-9404"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Pittsburgh, Inc. Hospice",
+      "state_full": "Pennsylvania",
+      "raw_address": "300 W. Wilson Bridge Rd. Suite 250",
+      "city": "Worthington",
+      "state": "PA",
+      "zip": "43085",
+      "restaurant_phone": "(614) 436-9404"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of Western Pennsylvania, Inc.",
+      "state_full": "Pennsylvania",
+      "raw_address": "127 North Brady St. #B",
+      "city": "Dubois",
+      "state": "PA",
+      "zip": "15801",
+      "restaurant_phone": "(814) 375-9675"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Home Healthcare, Inc.",
+      "state_full": "Pennsylvania",
+      "raw_address": "200 Third Street",
+      "city": "Blakely",
+      "state": "PA",
+      "zip": "18447",
+      "restaurant_phone": "(570) 489-6781"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "PJK Healthcare Inc.",
+      "state_full": "Pennsylvania",
+      "raw_address": "1966 Calamia Dr",
+      "city": "Norristown",
+      "state": "PA",
+      "zip": "19401",
+      "restaurant_phone": "(610) 400-8765"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Lowcountry Nursing Group, LLC",
+      "state_full": "South Carolina",
+      "raw_address": "3820 Faber Place Dr Suite 200",
+      "city": "North Charleston",
+      "state": "SC",
+      "zip": "29405",
+      "restaurant_phone": "(843) 569-5510"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "JRK Services, Inc.",
+      "state_full": "South Dakota",
+      "raw_address": "725 Indiana St",
+      "city": "Rapid City",
+      "state": "SD",
+      "zip": "57701",
+      "restaurant_phone": "(605) 348-5885"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Autumn Health, Inc.",
+      "state_full": "Tennessee",
+      "raw_address": "201 Russell Ave",
+      "city": "Gaithersburg",
+      "state": "TN",
+      "zip": "20877",
+      "restaurant_phone": "(301) 985-2321"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Pahua Health Inc",
+      "state_full": "Tennessee",
+      "raw_address": "540 Heritage Pointe Dr Suite A",
+      "city": "Clarksville",
+      "state": "TN",
+      "zip": "37042",
+      "restaurant_phone": "(615) 989-6753"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Smokey Mountain Investments, LLC",
+      "state_full": "Tennessee",
+      "raw_address": "2482 Brights Pike",
+      "city": "Morristown",
+      "state": "TN",
+      "zip": "37877",
+      "restaurant_phone": "(423) 587-8771"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Velting Healthcare, LLC",
+      "state_full": "Tennessee",
+      "raw_address": "2010 Providence Parkway Suite 300",
+      "city": "Mt. Juliet",
+      "state": "TN",
+      "zip": "37122",
+      "restaurant_phone": "(615) 979-4717"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "AgeSpace Care, LLC",
+      "state_full": "Texas",
+      "raw_address": "11550 Fuqua Suite 360",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77034",
+      "restaurant_phone": "(832) 404-2006"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "At Home Health LLC and At Home Group LLC (PCSS)",
+      "state_full": "Texas",
+      "raw_address": "444 Executive Center Boulevard Suite 123",
+      "city": "El Paso",
+      "state": "TX",
+      "zip": "79902",
+      "restaurant_phone": "(915) 444-3555"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "H - Town Healthcare, LLC",
+      "state_full": "Texas",
+      "raw_address": "1920 Country Place Pkwy Suite 310",
+      "city": "Pearland",
+      "state": "TX",
+      "zip": "77584",
+      "restaurant_phone": "(713) 230-8329"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Frye, Randy",
+      "state_full": "Tennessee",
+      "raw_address": "2482 Brights Pike",
+      "city": "Morristown",
+      "state": "TN",
+      "zip": "37877",
+      "restaurant_phone": "(423) 587-8771"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Velting, Jonathan & Kevin",
+      "state_full": "Tennessee",
+      "raw_address": "2010 Providence Parkway Suite 300",
+      "city": "Mt. Juliet",
+      "state": "TN",
+      "zip": "37122",
+      "restaurant_phone": "(615) 979-4717"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Bloomer, Dawn",
+      "state_full": "Texas",
+      "raw_address": "11550 Fuqua Suite 360",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77034",
+      "restaurant_phone": "(832) 404-2006"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Urias, Alfredo",
+      "state_full": "Texas",
+      "raw_address": "444 Executive Center Boulevard Suite 123",
+      "city": "El Paso",
+      "state": "TX",
+      "zip": "79902",
+      "restaurant_phone": "(915) 444-3555"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "McCoy, LaDona Jo, Jacob and Zach",
+      "state_full": "Texas",
+      "raw_address": "1920 Country Place Pkwy Suite 310",
+      "city": "Pearland",
+      "state": "TX",
+      "zip": "77584",
+      "restaurant_phone": "(713) 230-8329"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Nampoothiri, Harigovindan (Hari)",
+      "state_full": "Texas",
+      "raw_address": "26 S Coria St. Suite E",
+      "city": "Brownsville",
+      "state": "TX",
+      "zip": "78520",
+      "restaurant_phone": "(956) 541-4410"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Wenglikowski, Katie",
+      "state_full": "Texas",
+      "raw_address": "3421 W Davis St Suite 220",
+      "city": "Conroe",
+      "state": "TX",
+      "zip": "77304",
+      "restaurant_phone": "(936) 600-5571"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Hawkins, Michael",
+      "state_full": "Utah",
+      "raw_address": "2020 South 1300 East, Suite C",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84105",
+      "restaurant_phone": "(801) 401-3515"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Priddy, Michael",
+      "state_full": "Virginia",
+      "raw_address": "201 Russell Ave",
+      "city": "Gaithersburg",
+      "state": "MD",
+      "zip": "20877",
+      "restaurant_phone": "(301) 985-2321"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Tomlinson, Dan",
+      "state_full": "Virginia",
+      "raw_address": "720 Moorefield Park Dr. Suite 301",
+      "city": "Richmond",
+      "state": "VA",
+      "zip": "23236",
+      "restaurant_phone": "(804) 340-6455"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Haslup Group",
+      "state_full": "Virginia",
+      "raw_address": "103 South Pantops Dr Suite 205",
+      "city": "Charlottesville",
+      "state": "VA",
+      "zip": "22911",
+      "restaurant_phone": "(434) 295-5501"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Khan, Rashid, Zaman and Rehmatullah",
+      "state_full": "Virginia",
+      "raw_address": "21351 Gentry Dr Suite 145",
+      "city": "Sterling",
+      "state": "VA",
+      "zip": "20166",
+      "restaurant_phone": "(571) 473-5070"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Byrd, Lou",
+      "state_full": "Virginia",
+      "raw_address": "PO Box 2249",
+      "city": "Whiteville",
+      "state": "NC",
+      "zip": "28472",
+      "restaurant_phone": "(910) 642-2106"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "H-Town Healthcare, LLC",
+      "state_full": "Texas",
+      "raw_address": "1920 Country Place Pkwy Suite 310",
+      "city": "Pearland",
+      "state": "TX",
+      "zip": "77584",
+      "restaurant_phone": "(713) 230-8329"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Velliottu Investments, LLC",
+      "state_full": "Texas",
+      "raw_address": "26 S Coria St. Suite E",
+      "city": "Brownsville",
+      "state": "TX",
+      "zip": "78520",
+      "restaurant_phone": "(956) 541-4410"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Wenglikowski Healthcare Services, LLC",
+      "state_full": "Texas",
+      "raw_address": "3421 W Davis St Suite 220",
+      "city": "Conroe",
+      "state": "TX",
+      "zip": "77304",
+      "restaurant_phone": "(936) 600-5571"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "GSDED LLC",
+      "state_full": "Utah",
+      "raw_address": "2020 South 1300 East, Suite C",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84105",
+      "restaurant_phone": "(801) 401-3515"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Compatior Corporation",
+      "state_full": "Virginia",
+      "raw_address": "720 Moorefield Park Dr. Suite 301",
+      "city": "Richmond",
+      "state": "VA",
+      "zip": "23236",
+      "restaurant_phone": "(804) 340-6455"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Haslup Enterprises Ltd.",
+      "state_full": "Virginia",
+      "raw_address": "103 South Pantops Dr Suite 205",
+      "city": "Charlottesville",
+      "state": "VA",
+      "zip": "22911",
+      "restaurant_phone": "(434) 295-5501"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Magnet Care Health, LLC",
+      "state_full": "Virginia",
+      "raw_address": "21351 Gentry Dr Suite 145",
+      "city": "Sterling",
+      "state": "VA",
+      "zip": "20166",
+      "restaurant_phone": "(571) 473-5070"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "S & S Healthcare, Inc.",
+      "state_full": "Virginia",
+      "raw_address": "PO Box 2249",
+      "city": "Whiteville",
+      "state": "VA",
+      "zip": "28472",
+      "restaurant_phone": "(910) 642-2106"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Spring Healthcare, Inc.",
+      "state_full": "Virginia",
+      "raw_address": "10340 Democracy Ln Suite 302",
+      "city": "Fairfax",
+      "state": "VA",
+      "zip": "22030",
+      "restaurant_phone": "(571) 364-0000"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Bellevue Home Health & Care, LLC",
+      "state_full": "Washington",
+      "raw_address": "1950 112 Ave NE Suite 201",
+      "city": "Bellevue",
+      "state": "WA",
+      "zip": "98004",
+      "restaurant_phone": "(425) 274-3720"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Bethesda Health and Wellness, Inc.",
+      "state_full": "Wisconsin",
+      "raw_address": "1244 Appleton Rd. Suite D",
+      "city": "Appleton",
+      "state": "WI",
+      "zip": "54952",
+      "restaurant_phone": "(920) 944-8945"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Big Hittters, LLC",
+      "state_full": "Wisconsin",
+      "raw_address": "1585 N Milwaukee Ave Suite 105",
+      "city": "Libertyville",
+      "state": "WI",
+      "zip": "60048",
+      "restaurant_phone": "(847) 433-5650"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Great Lakes Health Partners LLC",
+      "state_full": "Wisconsin",
+      "raw_address": "1585 N Milwaukee Ave Suite 105",
+      "city": "Libertyville",
+      "state": "WI",
+      "zip": "60048",
+      "restaurant_phone": "(847) 433-5650"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of",
+      "state_full": "Wisconsin",
+      "raw_address": "1585 N Milwaukee Ave Suite 105",
+      "city": "Libertyville",
+      "state": "WI",
+      "zip": "60048",
+      "restaurant_phone": "(847) 433-5650"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Great Lakes Health Partners, LLC",
+      "state_full": "Wisconsin",
+      "raw_address": "1585 N Milwaukee Ave Suite 105",
+      "city": "Libertyville",
+      "state": "WI",
+      "zip": "60048",
+      "restaurant_phone": "(847) 433-5650"
+    },
+    {
+      "brand": "Interim HealthCare",
+      "franchisee_name": "Interim Healthcare of NE WI, Inc.",
+      "state_full": "Wisconsin",
+      "raw_address": "1585 N Milwaukee Ave Suite 105",
+      "city": "Libertyville",
+      "state": "WI",
+      "zip": "60048",
+      "restaurant_phone": "(847) 433-5650"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+# Keep shell scripts as LF — macOS/Linux won't run them with CRLF endings
+# (you'd get "bad interpreter: /bin/bash^M").
+*.command  text eol=lf
+*.sh       text eol=lf
+
+# Windows batch files need CRLF.
+*.bat      text eol=crlf
+
+# Normalize Python and docs to LF.
+*.py       text eol=lf
+*.md       text eol=lf

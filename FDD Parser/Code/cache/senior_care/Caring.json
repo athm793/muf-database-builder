@@ -1,0 +1,575 @@
+{
+  "brand": "Caring Senior Service",
+  "records": [
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Cindy Sheller",
+      "state_full": "Arizona",
+      "raw_address": "6842 E. Tanque Verde Road, Suite D",
+      "city": "Tucson",
+      "state": "AZ",
+      "zip": "85715",
+      "restaurant_phone": "(520) 428-0143"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Alva and McGregor Robertson",
+      "state_full": "Arizona",
+      "raw_address": "1425 W. Elliot Road, Suite 107",
+      "city": "Gilbert",
+      "state": "AZ",
+      "zip": "85233",
+      "restaurant_phone": "(480) 269-1997"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Julie Stelianides",
+      "state_full": "Arizona",
+      "raw_address": "2345 E. Thomas Road, Suite #204",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85016",
+      "restaurant_phone": "(623) 343-7513"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Dean White",
+      "state_full": "California",
+      "raw_address": "23232 Peralta Drive, Suite 106",
+      "city": "Laguna Hills",
+      "state": "CA",
+      "zip": "92635",
+      "restaurant_phone": "(714) 710-1948"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Dean White",
+      "state_full": "California",
+      "raw_address": "10842 Noel Street, Suite 106",
+      "city": "Los Alamitos",
+      "state": "CA",
+      "zip": "90720",
+      "restaurant_phone": "(562) 375-0046"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Pat Abernathy",
+      "state_full": "Colorado",
+      "raw_address": "333 W. Drake Road, Suite 22",
+      "city": "Fort Collins",
+      "state": "CO",
+      "zip": "80526",
+      "restaurant_phone": "(970) 672-1734"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Pat Abernathy",
+      "state_full": "Colorado",
+      "raw_address": "1365 Forest Park Circle, Suite 205",
+      "city": "Lafayette",
+      "state": "CO",
+      "zip": "80026",
+      "restaurant_phone": "(303) 500-3079"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Pat Abernathy",
+      "state_full": "Colorado",
+      "raw_address": "720 Kipling Street, Suite 15",
+      "city": "Lakewood",
+      "state": "CO",
+      "zip": "80215",
+      "restaurant_phone": "(720) 204-3093"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Marc and Lisa Coker",
+      "state_full": "Colorado",
+      "raw_address": "6565 S. Dayton Street, Suite #2350",
+      "city": "Greenwood Village",
+      "state": "CO",
+      "zip": "80111",
+      "restaurant_phone": "(720) 821-1332"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Anil John",
+      "state_full": "Florida",
+      "raw_address": "5245 Ramsey Way, Unit D3",
+      "city": "Fort Myers",
+      "state": "FL",
+      "zip": "33907",
+      "restaurant_phone": "(239) 448-3433"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Willie Giddens",
+      "state_full": "Georgia",
+      "raw_address": "2400 Herodian Way, Suite 340",
+      "city": "Smyrna",
+      "state": "GA",
+      "zip": "30080",
+      "restaurant_phone": "(770) 299-2066"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Debra Brazell",
+      "state_full": "Georgia",
+      "raw_address": "225 Creekstone Ridge, Suite 29",
+      "city": "Woodstock",
+      "state": "GA",
+      "zip": "30188",
+      "restaurant_phone": "(770) 884-8200"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Lisa & Ian Klaes",
+      "state_full": "Illinois",
+      "raw_address": "227 East Main Street, Suite B",
+      "city": "Galesburg",
+      "state": "IL",
+      "zip": "61401",
+      "restaurant_phone": "(309) 228-4222"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Kathy Langdon",
+      "state_full": "Kansas",
+      "raw_address": "100 E. Park Street, Suite 207",
+      "city": "Olathe",
+      "state": "KS",
+      "zip": "66061",
+      "restaurant_phone": "(913) 295-9843"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Amr Radwan",
+      "state_full": "Michigan",
+      "raw_address": "48239 Deer Trail Drive",
+      "city": "Canton",
+      "state": "MI",
+      "zip": "48187",
+      "restaurant_phone": "(734) 502-0173"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Kenyon Anderson",
+      "state_full": "Mississippi",
+      "raw_address": "517 Keywood Circle, Suite 1-C",
+      "city": "Flowood",
+      "state": "MS",
+      "zip": "39232",
+      "restaurant_phone": "(601) 368-8467"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Srikrishna Majumder",
+      "state_full": "Missouri",
+      "raw_address": "9233 Ward Parkway, Suite 230",
+      "city": "Kansas City",
+      "state": "MO",
+      "zip": "64114",
+      "restaurant_phone": "(816) 750-2438"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Kadiratou Agrignan",
+      "state_full": "Nebraska",
+      "raw_address": "4435 O Street, Suite 212-K",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68510",
+      "restaurant_phone": "(402) 620-6673"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "June Mourgis",
+      "state_full": "Nebraska",
+      "raw_address": "10051 Maple Street",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "68134",
+      "restaurant_phone": "(402) 682-7326"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Cindy Sheller",
+      "state_full": "Nevada",
+      "raw_address": "2660 Crimson Canyon Drive, Suite 170",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip": "89128",
+      "restaurant_phone": "(702) 747-8462"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Kevin Shell",
+      "state_full": "",
+      "raw_address": "237A West Kings Highway",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "restaurant_phone": "(856) 497-1250"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Tom Kopp",
+      "state_full": "New Jersey",
+      "raw_address": "1 Edinburg Road",
+      "city": "Hamilton Township",
+      "state": "NJ",
+      "zip": "08619-1837",
+      "restaurant_phone": "(609) 456-0473"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Seth Weisleder",
+      "state_full": "New Jersey",
+      "raw_address": "419 Northfield Avenue, Suite #2",
+      "city": "West Orange",
+      "state": "NJ",
+      "zip": "07052",
+      "restaurant_phone": "(973) 737-9960"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Steven Loewenthal & Judy Stein-Loewenthal",
+      "state_full": "New Jersey",
+      "raw_address": "55 Madison Avenue, Suite 400",
+      "city": "Morristown",
+      "state": "NJ",
+      "zip": "07960",
+      "restaurant_phone": "(973) 604-0228"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Colin Searcy",
+      "state_full": "North Carolina",
+      "raw_address": "5630 Six Forks Road, Suite 203",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27609",
+      "restaurant_phone": "(919) 847-0010"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Mike Davis",
+      "state_full": "North Carolina",
+      "raw_address": "5041 New Centre Drive, Suite 209",
+      "city": "Wilmington",
+      "state": "NC",
+      "zip": "28403",
+      "restaurant_phone": "(910) 208-4079"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "David Burgess",
+      "state_full": "Ohio",
+      "raw_address": "4625 Morse Road, Suite 204",
+      "city": "Gahanna",
+      "state": "OH",
+      "zip": "43230",
+      "restaurant_phone": "(614) 470-5830"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Fred and Kathy Wallace",
+      "state_full": "Ohio",
+      "raw_address": "4337 Whipple Avenue NW",
+      "city": "Canton",
+      "state": "OH",
+      "zip": "44718",
+      "restaurant_phone": "(330) 754-0133"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Fred, Kathy and Mitch Wallace",
+      "state_full": "Ohio",
+      "raw_address": "111 Stow Avenue, Suite 104",
+      "city": "Cuyahoga Falls",
+      "state": "OH",
+      "zip": "44221",
+      "restaurant_phone": "(330) 624-9682"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Jennifer & Randy Fayash",
+      "state_full": "Pennsylvania",
+      "raw_address": "846 Frable Road",
+      "city": "Brodheadsville",
+      "state": "PA",
+      "zip": "18322",
+      "restaurant_phone": "(570) 234-3892"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Matthew Abraham",
+      "state_full": "Pennsylvania",
+      "raw_address": "505 Old York Road, Suite 116-C",
+      "city": "Jenkintown",
+      "state": "PA",
+      "zip": "19046",
+      "restaurant_phone": "(267) 744-4173"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Alireza Mazaheri & Hannah Glasier",
+      "state_full": "South Carolina",
+      "raw_address": "1671 Belle Isle Avenue, Suite 110, Office H",
+      "city": "Mount Pleasant",
+      "state": "SC",
+      "zip": "29464",
+      "restaurant_phone": "(843) 603-8090"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Ivan and Amy Widen",
+      "state_full": "Tennessee",
+      "raw_address": "901 Mountain Creek Road, Suite 203",
+      "city": "Chattanooga",
+      "state": "TN",
+      "zip": "37405",
+      "restaurant_phone": "(423) 826-0266"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Keith Perry",
+      "state_full": "Texas",
+      "raw_address": "310 N. Willis Street, Suite 216",
+      "city": "Abilene",
+      "state": "TX",
+      "zip": "79603",
+      "restaurant_phone": "(325) 230-7065"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Andy Gillen",
+      "state_full": "Texas",
+      "raw_address": "1100 S. Fillmore, Suite 103",
+      "city": "Amarillo",
+      "state": "TX",
+      "zip": "79101",
+      "restaurant_phone": "(806) 373-8940"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Andy Gillen",
+      "state_full": "Texas",
+      "raw_address": "111 W Anderson Lane, Suite D-202B",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78752",
+      "restaurant_phone": "(512) 310-2273"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Adrianne and Mike Walls",
+      "state_full": "Texas",
+      "raw_address": "122 West Way, Suite 300",
+      "city": "Lake Jackson",
+      "state": "TX",
+      "zip": "77566",
+      "restaurant_phone": "(979) 316-2965"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Andy Gillen",
+      "state_full": "Texas",
+      "raw_address": "4639 Corona Drive, Suite 36",
+      "city": "Corpus Christi",
+      "state": "TX",
+      "zip": "78411",
+      "restaurant_phone": "(361) 883-9494"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Cindy Sheller & Nick Pazarentos",
+      "state_full": "Texas",
+      "raw_address": "5303 Colleyville Blvd., Suite C",
+      "city": "Colleyville",
+      "state": "TX",
+      "zip": "76034",
+      "restaurant_phone": "(214) 225-6628"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Lisa & Ian Klaes",
+      "state_full": "Texas",
+      "raw_address": "5959 Gateway West, Suite 403",
+      "city": "El Paso",
+      "state": "TX",
+      "zip": "79925",
+      "restaurant_phone": "(915) 843-1119"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Dustin & Rebecca Rauch",
+      "state_full": "Texas",
+      "raw_address": "4869 Williams Dr., Suite 103",
+      "city": "Georgetown",
+      "state": "TX",
+      "zip": "78633",
+      "restaurant_phone": "(737) 637-4742"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Rick Casey",
+      "state_full": "Texas",
+      "raw_address": "110 Cypress Station Drive, Suite 163",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77090",
+      "restaurant_phone": "(281) 893-6699"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Kreshna Sheplear",
+      "state_full": "Texas",
+      "raw_address": "1200 W. Henderson, Suite E",
+      "city": "Cleburne",
+      "state": "TX",
+      "zip": "76033",
+      "restaurant_phone": "(682) 317-9021"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Ken Anderson & Keishia Fox",
+      "state_full": "Texas",
+      "raw_address": "24285 Katy Freeway, Suite 300",
+      "city": "Katy",
+      "state": "TX",
+      "zip": "77494",
+      "restaurant_phone": "(346) 483-8242"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Rick Perry",
+      "state_full": "Texas",
+      "raw_address": "2916 Memorial Blvd.",
+      "city": "Kerrville",
+      "state": "TX",
+      "zip": "78028",
+      "restaurant_phone": "(830) 895-3111"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Jeff Salter",
+      "state_full": "Texas",
+      "raw_address": "1321 W. Pecan Blvd., Suite C",
+      "city": "Mcallen",
+      "state": "TX",
+      "zip": "78501",
+      "restaurant_phone": "(956) 687-9494"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Cathy Trlica",
+      "state_full": "Texas",
+      "raw_address": "779 Loop 337 Ramp",
+      "city": "New Braunfels",
+      "state": "TX",
+      "zip": "78130",
+      "restaurant_phone": "(830) 629-0509"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Cindy Sheller",
+      "state_full": "Texas",
+      "raw_address": "801 E. Campbell Road, Suite 160",
+      "city": "Richardson",
+      "state": "TX",
+      "zip": "75081",
+      "restaurant_phone": "(214) 327-5100"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Cindy Sheller / Nick Pazarentos",
+      "state_full": "Texas",
+      "raw_address": "5303 Colleyville Blvd., Suite C",
+      "city": "Colleyville",
+      "state": "TX",
+      "zip": "76034",
+      "restaurant_phone": "(214) 225-6628"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Jeff Salter",
+      "state_full": "Texas",
+      "raw_address": "201 E Park Avenue, Suite 101",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78212",
+      "restaurant_phone": "(210) 227-9494"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Preeti Jha",
+      "state_full": "Texas",
+      "raw_address": "3 Sugar Creek Center Blvd., Suite 100",
+      "city": "Sugar Land",
+      "state": "TX",
+      "zip": "77478",
+      "restaurant_phone": "(346) 586-0419"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Vanessa Wagster",
+      "state_full": "Texas",
+      "raw_address": "103 E. Red River",
+      "city": "Victoria",
+      "state": "TX",
+      "zip": "77901",
+      "restaurant_phone": "(361) 575-1117"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Dustin & Rebecca Rauch",
+      "state_full": "Texas",
+      "raw_address": "1227 N Valley Mills Drive, Suite 233",
+      "city": "Waco",
+      "state": "TX",
+      "zip": "76710",
+      "restaurant_phone": "(254) 277-2735"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Mohammed & Negar Haghkar",
+      "state_full": "Virginia",
+      "raw_address": "1950 Old Gallows Road, Suite #550",
+      "city": "Vienna",
+      "state": "VA",
+      "zip": "22182",
+      "restaurant_phone": "(571) 202-6522"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Emmanuel Ogundipe",
+      "state_full": "Virginia",
+      "raw_address": "14540 John Marshall Hwy., Suite 208",
+      "city": "Gainesville",
+      "state": "VA",
+      "zip": "20155",
+      "restaurant_phone": "(804) 410-3588"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Wayne Mitchell",
+      "state_full": "Virginia",
+      "raw_address": "14540 John Marshall Hwy., Suite 208",
+      "city": "Gainesville",
+      "state": "VA",
+      "zip": "20155",
+      "restaurant_phone": "(571) 222-5050"
+    },
+    {
+      "brand": "Caring Senior Service",
+      "franchisee_name": "Jeff Salter",
+      "state_full": "Wisconsin",
+      "raw_address": "W156N8327 Pilgrim Road, Suite 406",
+      "city": "Menomonee Falls",
+      "state": "WI",
+      "zip": "53051",
+      "restaurant_phone": "(414) 395-8106"
+    }
+  ]
+}

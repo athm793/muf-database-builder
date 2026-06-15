@@ -32,7 +32,7 @@ if sys.platform == "win32":
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 # ── CONFIG ───────────────────────────────────────────────────────────────────
-PDF_DIR    = Path(__file__).parent.parent / "Data"
+PDF_DIR    = Path(__file__).parent.parent / "Data" / "QSR"
 CACHE_DIR  = Path(__file__).parent / "cache"
 OUTPUT_DIR = Path(__file__).parent / "output" / "raw"
 LOG_FILE   = Path(__file__).parent / "extract.log"
@@ -152,6 +152,86 @@ def extract_layout_text_pages(pdf_path: Path, start_page: int, end_page: int) ->
         log(f"    ❌ pdfplumber error: {e}")
         return []
     return all_lines
+
+
+# ── AUTO PAGE-RANGE DETECTION (for FDDs not in PAGE_RANGES) ───────────────────
+# A new FDD uploaded by an employee won't have a manual page range. Rather than
+# scan the whole document line-by-line with the model (slow + unreliable), we
+# score every page by how "address-dense" it is. The franchisee/outlet list is
+# always the largest block of pages packed with ZIP codes and phone numbers,
+# while disclosure / legal / financial pages have almost none. This needs zero
+# API calls and reliably isolates the list section on standard FDDs.
+
+ZIP_RE   = re.compile(r'\b\d{5}(?:-\d{4})?\b')
+PHONE_RE = re.compile(r'\(?\b\d{3}\)?[-.\s]\d{3}[-.\s]\d{4}\b')
+
+
+def _page_address_score(text: str) -> int:
+    """Higher = more like a page of the franchisee/outlet list."""
+    if not text:
+        return 0
+    # Phones are weighted higher — every outlet row tends to carry one, and they
+    # almost never appear on disclosure/financial pages.
+    return len(ZIP_RE.findall(text)) + 2 * len(PHONE_RE.findall(text))
+
+
+def find_franchisee_pages(pdf_path: Path,
+                          threshold: int = 5,
+                          max_gap: int = 2,
+                          pad: int = 1,
+                          min_total: int = 20) -> tuple[int, int] | None:
+    """
+    Heuristically locate the franchisee-list pages by address density.
+
+    Returns (start_page, end_page) 1-indexed inclusive, or None if no
+    address-dense block was found (caller then falls back to the slow scan).
+    """
+    scores: list[int] = []
+    try:
+        with pdfplumber.open(pdf_path) as pdf:
+            total = len(pdf.pages)
+            for page in pdf.pages:
+                try:
+                    txt = page.extract_text() or ""
+                except Exception:
+                    txt = ""
+                scores.append(_page_address_score(txt))
+    except Exception as e:
+        log(f"    ⚠️  density scan failed: {e}")
+        return None
+
+    if not scores:
+        return None
+
+    # Merge high-scoring pages into runs, tolerating up to `max_gap` lean pages
+    # (page breaks, section headers, blank pages) inside a single list section.
+    runs: list[tuple[int, int]] = []
+    start = end = None
+    gap = 0
+    for i, s in enumerate(scores):
+        if s >= threshold:
+            if start is None:
+                start = i
+            end = i
+            gap = 0
+        elif start is not None:
+            gap += 1
+            if gap > max_gap:
+                runs.append((start, end))
+                start = end = None
+                gap = 0
+    if start is not None:
+        runs.append((start, end))
+
+    if not runs:
+        return None
+
+    # The franchisee list is the run with the greatest cumulative density.
+    a, b = max(runs, key=lambda r: sum(scores[r[0]:r[1] + 1]))
+    if sum(scores[a:b + 1]) < min_total:
+        return None
+
+    return (max(1, a + 1 - pad), min(total, b + 1 + pad))
 
 
 MAX_RETRIES      = 5     # how many times to retry a failed call
@@ -372,6 +452,27 @@ def find_section_end(lines: list[str], start: int) -> int:
     return limit
 
 
+def _looks_like_franchisee_list(section_lines: list[str]) -> bool:
+    """
+    Quick sanity check (one Haiku call) that an address-dense page block is
+    actually a list of franchisee/operator names with addresses — not a decoy
+    such as an Item 20 unit-count table, a state-agent exhibit, or financial
+    statements. Returns True on a clear yes OR if the check itself fails
+    (we don't want a flaky call to throw away a good detection).
+    """
+    sample = "\n".join(section_lines[:60])
+    prompt = f"""Below is the start of a section from a Franchise Disclosure Document.
+Is this a list of individual franchisee/operator names together with their
+restaurant locations (addresses)? Answer JSON: {{"is_franchisee_list": true/false}}
+
+Text:
+{sample}"""
+    verdict = safe_json(call_haiku(prompt, max_tokens=60))
+    if not isinstance(verdict, dict):
+        return True  # inconclusive — trust the density heuristic
+    return bool(verdict.get("is_franchisee_list", True))
+
+
 # ── STEP 3: EXTRACT RECORDS ───────────────────────────────────────────────────
 
 def extract_records_from_section(lines: list[str], brand: str, pdf_path: Path, extra_hint: str = "") -> list[dict]:
@@ -555,7 +656,17 @@ def clear_partial(pdf_path: Path):
 
 # ── MAIN ─────────────────────────────────────────────────────────────────────
 
-def process_pdf(pdf_path: Path) -> tuple[str, list[dict]]:
+def process_pdf(pdf_path: Path,
+                brand_hint: str | None = None,
+                pages_hint: tuple[int, int] | None = None) -> tuple[str, list[dict]]:
+    """
+    Extract franchisee records from one FDD PDF.
+
+    brand_hint / pages_hint let a caller (e.g. the single-file "add FDD" tool)
+    override auto-detection when the employee already knows the brand or the
+    franchisee-list page range. Both are optional — when absent, the brand is
+    read from the cover page and the page range is found by address-density.
+    """
     log()
     log("─" * 55)
     log(f"📄  {pdf_path.name}")
@@ -573,9 +684,18 @@ def process_pdf(pdf_path: Path) -> tuple[str, list[dict]]:
     if extra_hint:
         log(f"    🧩 Using custom extraction hint for this PDF")
 
-    # ── Fast path: user-supplied page range ───────────────────────────────
+    # ── Fast path: known page range ───────────────────────────────────────
+    # Either a built-in PAGE_RANGES entry, or a caller-supplied pages_hint.
+    manual_range = None
     if pdf_path.name in PAGE_RANGES:
-        start_page, end_page, brand = PAGE_RANGES[pdf_path.name]
+        s, e, b = PAGE_RANGES[pdf_path.name]
+        manual_range = (s, e, b)
+    elif pages_hint is not None:
+        b = brand_hint or detect_brand(extract_layout_text_pages(pdf_path, 1, 6))
+        manual_range = (pages_hint[0], pages_hint[1], b)
+
+    if manual_range is not None:
+        start_page, end_page, brand = manual_range
         log(f"    🎯 Using manual page range: pages {start_page}–{end_page}")
         log(f"    ✓ Brand: {brand} (from config)")
         section_lines = extract_layout_text_pages(pdf_path, start_page, end_page)
@@ -594,22 +714,51 @@ def process_pdf(pdf_path: Path) -> tuple[str, list[dict]]:
         clear_partial(pdf_path)
         return brand, records
 
-    # ── Slow path: automatic detection ────────────────────────────────────
+    # ── Auto path: detect brand + franchisee pages ────────────────────────
+    # Step 1: Brand detection (from cover page only — cheap, one API call)
+    if brand_hint:
+        brand = brand_hint
+        log(f"    ✓ Brand: {brand} (provided)")
+    else:
+        log(f"    🔍 Detecting brand...")
+        brand = detect_brand(extract_layout_text_pages(pdf_path, 1, 6))
+        log(f"    ✓ Brand: {brand}")
+
+    # Step 2a: Fast heuristic — find the address-dense franchisee-list pages.
+    # No API calls; reliably isolates the list on standard FDD layouts.
+    log(f"    🔍 Locating franchisee list pages (address-density scan)...")
+    page_range = find_franchisee_pages(pdf_path)
+    if page_range is not None:
+        s, e = page_range
+        log(f"    ✓ Detected franchisee list: pages {s}–{e}")
+        section_lines = extract_layout_text_pages(pdf_path, s, e)
+        # Confirm the dense block really is a franchisee/outlet list and not a
+        # decoy (Item 20 unit-count table, state-agent exhibit, financials).
+        # One cheap Haiku call; on rejection we fall through to the full scan.
+        if section_lines and not _looks_like_franchisee_list(section_lines):
+            log(f"    ⚠️  Dense block didn't look like a franchisee list — falling back to full scan")
+            section_lines = []
+        if section_lines:
+            log(f"    📋 Extracting records with AI...")
+            records = extract_records_from_section(section_lines, brand, pdf_path, extra_hint)
+            if records:
+                calls_used = _api_call_count - calls_before
+                elapsed = time.time() - pdf_started
+                log(f"    ✓ Extracted: {len(records)} records  ({calls_used} API calls, {elapsed:.0f}s)")
+                save_cache(pdf_path, {"brand": brand, "records": records})
+                clear_partial(pdf_path)
+                return brand, records
+            log(f"    ⚠️  Density-detected pages yielded 0 records — falling back to full scan")
+
+    # Step 2b: Fallback — slow line-by-line scan of the whole document.
+    log(f"    🔍 Density scan inconclusive — scanning full document...")
     lines = extract_layout_text(pdf_path)
     if not lines:
         log(f"    ❌ pdfplumber failed — skipping")
-        return "Unknown", []
+        return brand, []
     log(f"    📖 Read {len(lines)} lines from PDF")
 
-    # Step 1: Brand detection
-    log(f"    🔍 Detecting brand...")
-    brand = detect_brand(lines)
-    log(f"    ✓ Brand: {brand}")
-
-    # Step 2: Find franchisee section
-    log(f"    🔍 Locating franchisee list section...")
     start, end = find_franchisee_section(lines)
-
     if start == -1:
         log(f"    ❌ Franchisee section not found")
         save_cache(pdf_path, {"brand": brand, "records": [], "error": "section_not_found"})
@@ -618,14 +767,12 @@ def process_pdf(pdf_path: Path) -> tuple[str, list[dict]]:
     section_lines = lines[start:end]
     log(f"    ✓ Section: lines {start}–{end} ({len(section_lines)} lines)")
 
-    # Step 3: Extract records
     log(f"    📋 Extracting records with AI...")
-    records = extract_records_from_section(section_lines, brand, pdf_path)
+    records = extract_records_from_section(section_lines, brand, pdf_path, extra_hint)
     calls_used = _api_call_count - calls_before
     elapsed = time.time() - pdf_started
     log(f"    ✓ Extracted: {len(records)} records  ({calls_used} API calls, {elapsed:.0f}s)")
 
-    # Cache result
     save_cache(pdf_path, {"brand": brand, "records": records})
     clear_partial(pdf_path)
     return brand, records
@@ -650,6 +797,108 @@ def save_raw_csv(brand: str, records: list[dict], output_dir: Path):
             writer.writeheader()
         writer.writerows(records)
     print(f"    💾 Appended: {path.name}")
+
+
+RAW_FIELDS = ["brand", "franchisee_name", "raw_address", "city",
+              "state", "zip", "restaurant_phone"]
+
+
+def append_and_dedupe_raw(brand: str, records: list[dict], output_dir: Path) -> int:
+    """
+    Add one PDF's records to its brand raw CSV, then remove duplicate rows.
+
+    Used by single-file mode. Unlike save_raw_csv (which blindly appends),
+    this re-reads the brand CSV, merges the new records, and de-duplicates on
+    the full identity (name + address + city + state + zip). That makes adding
+    the SAME FDD twice idempotent — re-uploads can't double a brand's unit
+    counts — while still keeping every distinct location.
+
+    Returns the number of genuinely new rows added.
+    """
+    if not records:
+        return 0
+    output_dir.mkdir(parents=True, exist_ok=True)
+    safe = re.sub(r'[^\w\-]', '_', brand)
+    path = output_dir / f"{safe}_raw.csv"
+
+    existing: list[dict] = []
+    if path.exists():
+        with open(path, newline="", encoding="utf-8") as f:
+            existing = list(csv.DictReader(f))
+    before = len(existing)
+
+    def row_key(r: dict) -> tuple:
+        return tuple((str(r.get(k, "")) or "").strip().lower()
+                     for k in ("franchisee_name", "raw_address", "city", "state", "zip"))
+
+    seen: set = set()
+    merged: list[dict] = []
+    for r in existing + records:
+        k = row_key(r)
+        if k in seen:
+            continue
+        seen.add(k)
+        # Normalise to the canonical column set
+        merged.append({fld: r.get(fld, "") for fld in RAW_FIELDS})
+
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=RAW_FIELDS)
+        writer.writeheader()
+        writer.writerows(merged)
+
+    net_new = len(merged) - before
+    print(f"    💾 {path.name}: {len(merged)} rows total ({net_new:+d} new)")
+    return net_new
+
+
+def single_main(pdf_path_str: str, brand: str | None = None,
+                pages: str | None = None) -> int:
+    """
+    Add exactly ONE FDD PDF to the dataset (used by the GUI 'Add FDD' tool).
+
+    Extracts just this PDF, then appends + de-dupes its brand raw CSV WITHOUT
+    touching any other brand's data. (The full main() globs the disk and
+    rebuilds every raw CSV — unsafe here, since a fresh clone won't have the
+    other 21 source PDFs on disk, only their committed caches/CSVs.)
+
+    Prints a final machine-readable line the GUI parses:
+        SINGLE_RESULT brand=<...> extracted=<n> net_new=<n>
+    Returns process exit code (0 ok, 2 = nothing extracted).
+    """
+    pdf_path = Path(pdf_path_str)
+    if not pdf_path.exists():
+        log(f"❌ File not found: {pdf_path}")
+        print("SINGLE_RESULT|||0|0", flush=True)
+        return 1
+
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+    pages_hint = None
+    if pages:
+        m = re.match(r'^\s*(\d+)\s*[-–]\s*(\d+)\s*$', pages)
+        if m:
+            pages_hint = (int(m.group(1)), int(m.group(2)))
+            log(f"    🎯 Using provided page range: {pages_hint[0]}–{pages_hint[1]}")
+        else:
+            log(f"    ⚠️  Could not parse page range '{pages}' — ignoring, will auto-detect")
+
+    log(f"🚀 Adding single FDD: {pdf_path.name}")
+    detected_brand, records = process_pdf(pdf_path, brand_hint=brand, pages_hint=pages_hint)
+    net_new = append_and_dedupe_raw(detected_brand, records, OUTPUT_DIR)
+
+    log()
+    log("═" * 55)
+    if records:
+        log(f"✅ {pdf_path.name}: extracted {len(records)} locations "
+            f"for {detected_brand} ({net_new} new)")
+    else:
+        log(f"⚠️  {pdf_path.name}: extracted 0 records. The franchisee list "
+            f"page range may need to be supplied manually.")
+    # Machine-readable summary line for the GUI to parse:
+    #   SINGLE_RESULT|<brand>|<extracted>|<net_new>
+    print(f"SINGLE_RESULT|{detected_brand}|{len(records)}|{net_new}", flush=True)
+    return 0 if records else 2
 
 
 def main():
@@ -706,4 +955,19 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    import argparse
+    ap = argparse.ArgumentParser(description="Extract franchisee records from FDD PDFs.")
+    ap.add_argument("--single", metavar="PDF",
+                    help="Add a single PDF to the dataset (append + dedupe its brand CSV "
+                         "without rebuilding others). Used by the Add-FDD tool.")
+    ap.add_argument("--brand", default=None,
+                    help="Override the brand name (single mode only).")
+    ap.add_argument("--pages", default=None,
+                    help="Franchisee-list page range, e.g. 230-309 (single mode only). "
+                         "Omit to auto-detect.")
+    args, _ = ap.parse_known_args()
+
+    if args.single:
+        sys.exit(single_main(args.single, args.brand, args.pages))
+    else:
+        main()

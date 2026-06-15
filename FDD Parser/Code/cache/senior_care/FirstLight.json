@@ -1,0 +1,3425 @@
+{
+  "brand": "FirstLight Home Care",
+  "records": [
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Ashley McGee, Jason McGee, Lane Miller",
+      "state_full": "Alabama",
+      "raw_address": "215 Perry Ave",
+      "city": "Dothan",
+      "state": "AL",
+      "zip": "36303",
+      "restaurant_phone": "(334) 673-3895"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Bo Ethridge",
+      "state_full": "Alabama",
+      "raw_address": "1717 Dauphin Street, Room 24",
+      "city": "Mobile",
+      "state": "AL",
+      "zip": "36604",
+      "restaurant_phone": "(251) 281-2004"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Brian White",
+      "state_full": "Alabama",
+      "raw_address": "2705 Artie St Bldg 500, Suite 33",
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35805",
+      "restaurant_phone": "(256) 489-3542"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Joey Strode",
+      "state_full": "Arkansas",
+      "raw_address": "18 Corporate Hill Drive, Suite 201",
+      "city": "Little Rock",
+      "state": "AR",
+      "zip": "72205",
+      "restaurant_phone": "(870) 329-3703"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "RaeleneKeith Plummer, KeithRaelene Plummer",
+      "state_full": "Arkansas",
+      "raw_address": "207 E Monroe Ave, Suite B",
+      "city": "Lowell",
+      "state": "AR",
+      "zip": "72745-9603",
+      "restaurant_phone": "(479) 717-6344"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Keith Plummer, Raelene Plummer",
+      "state_full": "Arkansas",
+      "raw_address": "207 E Monroe Ave., Ste. B",
+      "city": "Lowell",
+      "state": "AR",
+      "zip": "72745",
+      "restaurant_phone": "(479) 717-6344"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Barron Hodges",
+      "state_full": "Arizona",
+      "raw_address": "15331 W. Bell Road Suite 212",
+      "city": "Surprise",
+      "state": "AZ",
+      "zip": "85374",
+      "restaurant_phone": "(623) 201-7716"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Kristi Olson, Greg Bowker, Chelsea Bowker",
+      "state_full": "Arizona",
+      "raw_address": "3260 N. Hayden Rd. Suite 210",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "zip": "85260",
+      "restaurant_phone": "(480) 922-2820"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Leslie Neumann, Regina Jones, Todd Domke",
+      "state_full": "Arizona",
+      "raw_address": "14122 W. McDowell Rd Ste 102-B",
+      "city": "Goodyear",
+      "state": "AZ",
+      "zip": "85395",
+      "restaurant_phone": "(623) 232-8851"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Carolyn August, Matt August",
+      "state_full": "California",
+      "raw_address": "701 Palomar Airport Rd",
+      "city": "Carlsbad",
+      "state": "CA",
+      "zip": "92011",
+      "restaurant_phone": "(619) 379-1371"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Carolyn August, Matt August",
+      "state_full": "California",
+      "raw_address": "701 Palomar Airport Rd., Ste. 300",
+      "city": "Carlsbad",
+      "state": "CA",
+      "zip": "92011",
+      "restaurant_phone": "(619) 379-1371"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Charith Weerasuriya",
+      "state_full": "California",
+      "raw_address": "2030 Main Street, Ste. 1300",
+      "city": "Irvine",
+      "state": "CA",
+      "zip": "92614",
+      "restaurant_phone": "(951) 395-0821"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Charles Park, Ray Kikavousi",
+      "state_full": "California",
+      "raw_address": "1740 W. Katella Ave, Ste M",
+      "city": "Orange",
+      "state": "CA",
+      "zip": "92867",
+      "restaurant_phone": "(714) 221-8733"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Charles Park, Ray Kikavousi",
+      "state_full": "California",
+      "raw_address": "1740 W. Katella Ave. Ste M",
+      "city": "Orange",
+      "state": "CA",
+      "zip": "92867",
+      "restaurant_phone": "(714) 221-8733"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Charles Park, Ray Kikavousi",
+      "state_full": "California",
+      "raw_address": "1740 W. Katella Ave, Ste M, Orange",
+      "city": "Huntington Beach",
+      "state": "CA",
+      "zip": "92867",
+      "restaurant_phone": "(714) 221-8733"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Christine Lawoyin",
+      "state_full": "California",
+      "raw_address": "18000 Studebaker Rd, Suite 700",
+      "city": "Cerritos",
+      "state": "CA",
+      "zip": "90703",
+      "restaurant_phone": "(562) 384-5370"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "David Kapojos",
+      "state_full": "California",
+      "raw_address": "450 North Brand Blvd. Ste. 600",
+      "city": "Glendale",
+      "state": "CA",
+      "zip": "91203",
+      "restaurant_phone": "(949) 288-3267"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "David Kapojos",
+      "state_full": "California",
+      "raw_address": "612 W. Duarte Road, Suite 404",
+      "city": "",
+      "state": "CA",
+      "zip": "",
+      "restaurant_phone": ""
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Ellen Wong",
+      "state_full": "California",
+      "raw_address": "23046 Avenida De La Carlota Plaza #600",
+      "city": "Laguna Hills",
+      "state": "CA",
+      "zip": "92653",
+      "restaurant_phone": "(949) 522-4499"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Ernesto Ortega",
+      "state_full": "California",
+      "raw_address": "28015 Smyth Drive Suite 105",
+      "city": "Santa Clarita",
+      "state": "CA",
+      "zip": "91355",
+      "restaurant_phone": "(661) 583-0115"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jason Landau",
+      "state_full": "California",
+      "raw_address": "199 East Linda Mesa Ave, Suite 2",
+      "city": "Danville",
+      "state": "CA",
+      "zip": "94526",
+      "restaurant_phone": "(925) 277-3490"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jason Landau",
+      "state_full": "California",
+      "raw_address": "1475 S. Bascom Ave. Ste 203",
+      "city": "Campbell",
+      "state": "CA",
+      "zip": "95008",
+      "restaurant_phone": "(650) 460-3817"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jason Landau",
+      "state_full": "California",
+      "raw_address": "1475 S. Bascom Ave., Suite 203",
+      "city": "Campbell",
+      "state": "CA",
+      "zip": "95008",
+      "restaurant_phone": "(831) 707-4321"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jim Carteris",
+      "state_full": "California",
+      "raw_address": "1347 Laurel Street",
+      "city": "San Carlos",
+      "state": "CA",
+      "zip": "94070",
+      "restaurant_phone": "(650) 486-1310"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jim Carteris",
+      "state_full": "California",
+      "raw_address": "314 St. Martin Drive",
+      "city": "Redwood City",
+      "state": "CA",
+      "zip": "94065",
+      "restaurant_phone": "(415) 609-7342"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Kanisha Golden",
+      "state_full": "California",
+      "raw_address": "1610 R St Ste 300",
+      "city": "Sacramento",
+      "state": "CA",
+      "zip": "95811",
+      "restaurant_phone": "(916) 833-7589"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jinliang Cai, Carmelyta Cai",
+      "state_full": "California",
+      "raw_address": "763 Walnut Knoll Ln #7",
+      "city": "Memphis",
+      "state": "CA",
+      "zip": "38018",
+      "restaurant_phone": "(901) 554-5483"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Larry Roberts",
+      "state_full": "California",
+      "raw_address": "2072020710 Manhattan Pl #104",
+      "city": "Torrance",
+      "state": "CA",
+      "zip": "90501",
+      "restaurant_phone": "(424) 704-5330"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Lolita Pinto, Sunil Pinto",
+      "state_full": "California",
+      "raw_address": "9650 Business Center Dr Suite 132",
+      "city": "Rancho Cucamonga",
+      "state": "CA",
+      "zip": "91730",
+      "restaurant_phone": "(909) 321-4466"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Mark Paretchan",
+      "state_full": "California",
+      "raw_address": "4340 Redwood Highway Suite f-130",
+      "city": "San Rafael",
+      "state": "CA",
+      "zip": "94903",
+      "restaurant_phone": "(415) 521-5860"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Mark Paretchan",
+      "state_full": "California",
+      "raw_address": "85 Brookwood Ave Suite 26",
+      "city": "Santa Rosa",
+      "state": "CA",
+      "zip": "95404",
+      "restaurant_phone": "(707) 501-9830"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Nicole Freeman",
+      "state_full": "California",
+      "raw_address": "1070 Marina Village Parkway Suite 206",
+      "city": "Alameda",
+      "state": "CA",
+      "zip": "94501",
+      "restaurant_phone": "(510) 954-3878"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Paul Terpeluk",
+      "state_full": "California",
+      "raw_address": "735 Sunrise Ave. Suite 160",
+      "city": "Roseville",
+      "state": "CA",
+      "zip": "95661",
+      "restaurant_phone": "(916) 742-5328"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Paul Terpeluk",
+      "state_full": "California",
+      "raw_address": "735 Sunrise Avenue #160",
+      "city": "Roseville",
+      "state": "CA",
+      "zip": "95661",
+      "restaurant_phone": "(916) 742-5328"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Mandi Davis, Michael Davis",
+      "state_full": "Florida",
+      "raw_address": "5620 Tara Blvd. Ste 203",
+      "city": "Bradenton",
+      "state": "FL",
+      "zip": "34203",
+      "restaurant_phone": "(941) 909-8488"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Mark Hamid",
+      "state_full": "Florida",
+      "raw_address": "20701 Bruce B. Downs Blvd., Suite 201",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33647",
+      "restaurant_phone": "(813) 549-7808"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Mark Hamid",
+      "state_full": "Florida",
+      "raw_address": "20701 Bruce B. Downs Blvd., Ste. 201",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33647",
+      "restaurant_phone": "(804) 557-0507"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Michael R. Senchak, Michael S. (Mike) Senchak Jr",
+      "state_full": "Florida",
+      "raw_address": "1595 SE Port St. Lucie Blvd.",
+      "city": "Port St. Lucie",
+      "state": "FL",
+      "zip": "34952",
+      "restaurant_phone": "(772) 206-3450"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Michael R. Senchak, Michael S. (Mike) Senchak Jr",
+      "state_full": "Florida",
+      "raw_address": "1946 43rd Ave",
+      "city": "Vero Beach",
+      "state": "FL",
+      "zip": "32960",
+      "restaurant_phone": "(772) 925-0015"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Anir Pradhan, Nootan Pradhan",
+      "state_full": "Georgia",
+      "raw_address": "2342 Perimeter Park Dr. Ste 202",
+      "city": "Chamblee",
+      "state": "GA",
+      "zip": "30341",
+      "restaurant_phone": "(404) 333-8282"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Rich Kase, Michelle Kase, Janice Bayruns",
+      "state_full": "Florida",
+      "raw_address": "10035 Water Works Lane",
+      "city": "Riverview",
+      "state": "FL",
+      "zip": "33578",
+      "restaurant_phone": "(813) 677-2047"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Rich Kase, Michelle Kase, Janice Bayruns",
+      "state_full": "Florida",
+      "raw_address": "711 S. Howard Ave Ste. 200",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33606",
+      "restaurant_phone": "(813) 677-2047"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Rich Kase, Michelle Kase, Janice Bayruns",
+      "state_full": "Florida",
+      "raw_address": "3030 North Rocky Point Drive West, Suite 150",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33607",
+      "restaurant_phone": "(813) 677-2047"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Steve Rattner, Jennifer Rattner",
+      "state_full": "Florida",
+      "raw_address": "28163 U.S. Highway 19 North Suite 206 (second floor)",
+      "city": "Clearwater",
+      "state": "FL",
+      "zip": "33761",
+      "restaurant_phone": "(727) 725-4663"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Arlene Walk, Idreea Hill",
+      "state_full": "Georgia",
+      "raw_address": "940 Center Street NE",
+      "city": "Conyers",
+      "state": "GA",
+      "zip": "30012",
+      "restaurant_phone": "(770) 602-0500"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Eric Friedrich II",
+      "state_full": "Georgia",
+      "raw_address": "160 EH Drive",
+      "city": "Brunswick",
+      "state": "GA",
+      "zip": "31520",
+      "restaurant_phone": "(912) 275-7133"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "James Brignolle",
+      "state_full": "Georgia",
+      "raw_address": "3081 Holcomb Bridge Rd., Ste H1",
+      "city": "Norcross",
+      "state": "GA",
+      "zip": "30071",
+      "restaurant_phone": "(770) 580-0102"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Larry Price, Jennyfer Price",
+      "state_full": "Georgia",
+      "raw_address": "355 Commercial Drive, Suite A",
+      "city": "Savannah",
+      "state": "GA",
+      "zip": "31406",
+      "restaurant_phone": "(912) 436-6496"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Nootan Pradhan, Anir Pradhan",
+      "state_full": "Georgia",
+      "raw_address": "2342 Perimeter Park Dr. Ste 202",
+      "city": "Chamblee",
+      "state": "GA",
+      "zip": "30341",
+      "restaurant_phone": "(404) 333-8282"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Lauri Topping, Scott Topping",
+      "state_full": "Hawaii",
+      "raw_address": "1888 Kalakaua Ave Suite C312",
+      "city": "Honolulu",
+      "state": "HI",
+      "zip": "96815",
+      "restaurant_phone": "(808) 600-3733"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Brad Leggat, Matt Zastrow",
+      "state_full": "Idaho",
+      "raw_address": "1900 Northwest Blvd, Suite 110",
+      "city": "Coeur D'Alene",
+      "state": "ID",
+      "zip": "83814",
+      "restaurant_phone": "(208) 758-8090"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Caleb Johnson, Stephanie Johnson Russell",
+      "state_full": "Illinois",
+      "raw_address": "1580 S. Milwaukee Ave., Suite 201",
+      "city": "Libertyville",
+      "state": "IL",
+      "zip": "60048",
+      "restaurant_phone": "(224) 880-6555"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Ciby Kuruvilla",
+      "state_full": "Illinois",
+      "raw_address": "1550 N Northwest Hwy Suite 202B",
+      "city": "Park Ridge",
+      "state": "IL",
+      "zip": "60068",
+      "restaurant_phone": "(847) 636-2050"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Sande Sherman",
+      "state_full": "Illinois",
+      "raw_address": "5443 W.5435 Bull Valley Rd., Ste. 212",
+      "city": "Mchenry County",
+      "state": "IL",
+      "zip": "60050",
+      "restaurant_phone": "(224) 888-2662"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Yash Patel, Ravi Patel, Ash Patel",
+      "state_full": "Illinois",
+      "raw_address": "3030 Warrenville Rd. Suite 103",
+      "city": "Lisle",
+      "state": "IL",
+      "zip": "60532",
+      "restaurant_phone": "(615) 414-3004"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Matt Geske",
+      "state_full": "Indiana",
+      "raw_address": "13277 Illinois Street",
+      "city": "Carmel",
+      "state": "IN",
+      "zip": "46032",
+      "restaurant_phone": "(317) 601-8395"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "James Alex, Michelle Alex, Jim Alex",
+      "state_full": "Indiana",
+      "raw_address": "15 N Franklin Street Suite 200",
+      "city": "Valparaiso",
+      "state": "IN",
+      "zip": "46383",
+      "restaurant_phone": "(219) 510-5775"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Janet Lancaster, Jerry Lancaster",
+      "state_full": "Indiana",
+      "raw_address": "2205 Central Ave.",
+      "city": "Columbus",
+      "state": "IN",
+      "zip": "47201",
+      "restaurant_phone": "(812) 375-1293"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Matthew Geske",
+      "state_full": "Indiana",
+      "raw_address": "13277 Illinois Street",
+      "city": "Carmel",
+      "state": "IN",
+      "zip": "46032",
+      "restaurant_phone": "(317) 601-8395"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Amal Hayyeh",
+      "state_full": "Kansas",
+      "raw_address": "12828 E 13th St N Suite 63891 N Rock Rd., Ste. 900",
+      "city": "Wichita",
+      "state": "KS",
+      "zip": "67230",
+      "restaurant_phone": "(316) 776-4685"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Andrew Brainerd, Michael Brainerd",
+      "state_full": "Kansas",
+      "raw_address": "10540 Barkley St., Ste 205",
+      "city": "Overland Park",
+      "state": "KS",
+      "zip": "66212",
+      "restaurant_phone": "(913) 203-7444"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Yash Patel & Ravi Patel & Ash Patel",
+      "state_full": "Illinois",
+      "raw_address": "3030 Warrenville Rd. Suite 103",
+      "city": "Lisle",
+      "state": "IL",
+      "zip": "60532",
+      "restaurant_phone": "(615) 414-3004"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "James Alex & Michelle Alex & Jim Alex",
+      "state_full": "Indiana",
+      "raw_address": "15 N Franklin Street Suite 200",
+      "city": "Valparaiso",
+      "state": "IN",
+      "zip": "46383",
+      "restaurant_phone": "(219) 510-5775"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Janet Lancaster & Jerry Lancaster",
+      "state_full": "Indiana",
+      "raw_address": "2205 Central Ave.",
+      "city": "Columbus",
+      "state": "IN",
+      "zip": "47201",
+      "restaurant_phone": "(812) 375-1293"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Andrew Brainerd & Michael Brainerd",
+      "state_full": "Kansas",
+      "raw_address": "10540 Barkley St., Ste 205",
+      "city": "Overland Park",
+      "state": "KS",
+      "zip": "66212",
+      "restaurant_phone": "(913) 203-7444"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Beth Steel & Brennan Sweeney & Tyler Hardin",
+      "state_full": "Kentucky",
+      "raw_address": "1701 Dixie Hwy, Ste A",
+      "city": "Fort Wright",
+      "state": "KY",
+      "zip": "41011",
+      "restaurant_phone": "(859) 905-3430"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Justin Butler & Nicole Crawford & Travis Crawford",
+      "state_full": "Kentucky",
+      "raw_address": "715 Shaker Drive, Suite 105",
+      "city": "Lexington",
+      "state": "KY",
+      "zip": "40504",
+      "restaurant_phone": "(859) 785-2691"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Justin Butler & Nicole Crawford & Travis Crawford",
+      "state_full": "Kentucky",
+      "raw_address": "715 Shaker Drive Ste. 105",
+      "city": "Lexington",
+      "state": "KY",
+      "zip": "40504",
+      "restaurant_phone": "(859) 785-2691"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Rebekah Skaggs & Shadow Skaggs",
+      "state_full": "Kentucky",
+      "raw_address": "117 E. 2nd Street",
+      "city": "Grayson",
+      "state": "KY",
+      "zip": "41143",
+      "restaurant_phone": "(606) 393-0669"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Masonic Homes & Todd Lacy",
+      "state_full": "Kentucky",
+      "raw_address": "3761 Johnson Hall Dr.",
+      "city": "Masonic Home",
+      "state": "KY",
+      "zip": "40041",
+      "restaurant_phone": "(502) 632-0448"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Shadow Skaggs & Rebekkah Skaggs",
+      "state_full": "Kentucky",
+      "raw_address": "113 E. Main St.",
+      "city": "Grayson",
+      "state": "KY",
+      "zip": "41143",
+      "restaurant_phone": "(606) 393-0669"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Travis Crawford & Nicole Crawford & Justin Butler",
+      "state_full": "Kentucky",
+      "raw_address": "715 Shaker Drive, Suite 105",
+      "city": "Lexington",
+      "state": "KY",
+      "zip": "40504",
+      "restaurant_phone": "(859) 785-2691"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Travis Crawford & Nicole Crawford & Justin Butler",
+      "state_full": "Kentucky",
+      "raw_address": "715 Shaker Drive Ste. 105",
+      "city": "Lexington",
+      "state": "KY",
+      "zip": "40504",
+      "restaurant_phone": "(859) 785-2691"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Girish Lahoty & Shalini Lahoty",
+      "state_full": "Massachusetts",
+      "raw_address": "106 Main St, Suite 3",
+      "city": "Stoneham",
+      "state": "MA",
+      "zip": "02180",
+      "restaurant_phone": "(781) 874-9901"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Girish Lahoty & Shalini Lahoty",
+      "state_full": "Massachusetts",
+      "raw_address": "106 Main Street Suite 3",
+      "city": "Stoneham",
+      "state": "MA",
+      "zip": "02180",
+      "restaurant_phone": "(857) 333-7625"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Steve Rowe & Molly Rowe",
+      "state_full": "Massachusetts",
+      "raw_address": "168 Humphrey St., Suite C",
+      "city": "Swampscott",
+      "state": "MA",
+      "zip": "01907",
+      "restaurant_phone": "(781) 691-5755"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Steve Stern & Wendy Alderstein",
+      "state_full": "Massachusetts",
+      "raw_address": "464 Hillside Avenue Suite 204",
+      "city": "",
+      "state": "MA",
+      "zip": "",
+      "restaurant_phone": "(781) 559-0220"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Steve Stern & Wendy Alderstein & Michael Stern & Stephen Stern & Wendy Adlerstein",
+      "state_full": "Massachusetts",
+      "raw_address": "464 Hillside Avenue, Suite 204",
+      "city": "Needham",
+      "state": "MA",
+      "zip": "02494",
+      "restaurant_phone": "(781) 559-0220"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Steve Stern & Wendy Alderstein & Michael Stern & Stephen Stern & Wendy Adlerstein",
+      "state_full": "Massachusetts",
+      "raw_address": "361 Newbury Street, 5th Floor",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02115",
+      "restaurant_phone": "(857) 273-1122"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Molly Rowe & Steve Rowe",
+      "state_full": "Massachusetts",
+      "raw_address": "168 Humphrey St., Suite C",
+      "city": "Swampscott",
+      "state": "MA",
+      "zip": "01907",
+      "restaurant_phone": "(781) 691-5755"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Robyn Peake & Lenard Peake",
+      "state_full": "Maryland",
+      "raw_address": "1401 Mercantile Lane, Suite 200-CC",
+      "city": "Upper Marlboro",
+      "state": "MD",
+      "zip": "20774",
+      "restaurant_phone": "(301) 778-1988"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Carol Larkin & Peter Gartland",
+      "state_full": "Maine",
+      "raw_address": "940 Roosevelt Trail, Unit 6, Suite 12",
+      "city": "Windham",
+      "state": "ME",
+      "zip": "04062",
+      "restaurant_phone": "(207) 627-1125"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Bruce Lundeen & Bryan Carto",
+      "state_full": "Michigan",
+      "raw_address": "1320 E. Atherton Rd",
+      "city": "Flint",
+      "state": "MI",
+      "zip": "48507",
+      "restaurant_phone": "(810) 875-9805"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Charith Weerasuriya",
+      "state_full": "Michigan",
+      "raw_address": "2400 Barranca Pkwy, Suite 1205",
+      "city": "Irvine",
+      "state": "MI",
+      "zip": "92606",
+      "restaurant_phone": "(949) 704-2969"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Daniel Paluga",
+      "state_full": "Michigan",
+      "raw_address": "2723 South State Street Suite 150",
+      "city": "Ann Arbor",
+      "state": "MI",
+      "zip": "48104",
+      "restaurant_phone": "(734) 794-3896"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Daniel Paluga",
+      "state_full": "Michigan",
+      "raw_address": "2723 South State St., Ste. 150",
+      "city": "Ann Arbor",
+      "state": "MI",
+      "zip": "48104",
+      "restaurant_phone": "(330) 519-7442"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Daniel Paluga",
+      "state_full": "Michigan",
+      "raw_address": "2723 S State St., Unit 150",
+      "city": "Ann Arbor",
+      "state": "MI",
+      "zip": "48104",
+      "restaurant_phone": "(734) 794-3896"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Daniel Paluga",
+      "state_full": "Michigan",
+      "raw_address": "1 Comtronics Place",
+      "city": "Jackson",
+      "state": "MI",
+      "zip": "49203",
+      "restaurant_phone": "(330) 519-7442"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Daniel Paluga",
+      "state_full": "Michigan",
+      "raw_address": "2723 S. State St. Ste. 150",
+      "city": "Ann Arbor",
+      "state": "MI",
+      "zip": "48104",
+      "restaurant_phone": "(330) 519-7442"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Michael Stern, Stephen Stern, Wendy Adlerstein",
+      "state_full": "Massachusetts",
+      "raw_address": "",
+      "city": "Needham",
+      "state": "MA",
+      "zip": "02494",
+      "restaurant_phone": ""
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Steve Stern, Wendy Alderstein, Michael Stern, Stephen Stern, Wendy Adlerstein",
+      "state_full": "Massachusetts",
+      "raw_address": "361 Newbury Street, 5th Floor",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02115",
+      "restaurant_phone": "(857) 273-1122"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Molly Rowe, Steve Rowe",
+      "state_full": "Massachusetts",
+      "raw_address": "168 Humphrey St., Suite C",
+      "city": "Swampscott",
+      "state": "MA",
+      "zip": "01907",
+      "restaurant_phone": "(781) 691-5755"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Robyn Peake, Lenard Peake",
+      "state_full": "Maryland",
+      "raw_address": "1401 Mercantile Lane, Suite 200-CC",
+      "city": "Upper Marlboro",
+      "state": "MD",
+      "zip": "20774",
+      "restaurant_phone": "(301) 778-1988"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Carol Larkin, Peter Gartland",
+      "state_full": "Maine",
+      "raw_address": "940 Roosevelt Trail, Unit 6, Suite 12",
+      "city": "Windham",
+      "state": "ME",
+      "zip": "04062",
+      "restaurant_phone": "(207) 627-1125"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Bruce Lundeen, Bryan Carto",
+      "state_full": "Michigan",
+      "raw_address": "1320 E. Atherton Rd",
+      "city": "Flint",
+      "state": "MI",
+      "zip": "48507",
+      "restaurant_phone": "(810) 875-9805"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Deborah Moerland",
+      "state_full": "Michigan",
+      "raw_address": "4125 Okemos Rd. Unit 24",
+      "city": "Okemos",
+      "state": "MI",
+      "zip": "48864",
+      "restaurant_phone": "(517) 483-2784"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Deborah Moerland",
+      "state_full": "Michigan",
+      "raw_address": "McPherson Professional Building, 820 Byron Rd, Suite 400",
+      "city": "Brighton",
+      "state": "MI",
+      "zip": "48843",
+      "restaurant_phone": "(517) 483-2784"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jeremy Fellows, Donald Fellows, Jeffrey Lamborne",
+      "state_full": "Michigan",
+      "raw_address": "280 Northland Dr ste B",
+      "city": "Rockford",
+      "state": "MI",
+      "zip": "49341",
+      "restaurant_phone": "(616) 328-6680"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jeremy Fellows, Donald Fellows, Jeffrey Lamborne",
+      "state_full": "Michigan",
+      "raw_address": "800 E Ellis Rd., Suite 534",
+      "city": "North Shores",
+      "state": "MI",
+      "zip": "49441",
+      "restaurant_phone": "(616) 414-4404"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jeremy Fellows, Donald Fellows, Jeffrey Lamborne",
+      "state_full": "Michigan",
+      "raw_address": "5985 West Main St. #820",
+      "city": "Kalamazoo",
+      "state": "MI",
+      "zip": "49009",
+      "restaurant_phone": "(269) 649-2417"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Satesh Ramadas, Yokesh Parasuraman, Sudhakar Raghunathan",
+      "state_full": "Michigan",
+      "raw_address": "801 W Big Beaver Rd Suite 300",
+      "city": "Troy",
+      "state": "MI",
+      "zip": "48084",
+      "restaurant_phone": "(479) 276-1488"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Abdel Aziz Sereme, Jessica Kim, Youngwan Kim",
+      "state_full": "Minnesota",
+      "raw_address": "260 Wentworth Ave E",
+      "city": "St Paul",
+      "state": "MN",
+      "zip": "55118",
+      "restaurant_phone": "(612) 387-7966"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Christine Schumann",
+      "state_full": "Minnesota",
+      "raw_address": "8400 Normandale Lake Blvd, Ste. 920",
+      "city": "Minneapolis",
+      "state": "MN",
+      "zip": "55437",
+      "restaurant_phone": "(612) 356-2926"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Andrew Brainerd, Michael Brainerd",
+      "state_full": "Missouri",
+      "raw_address": "851 NW 45th St. Suite 309",
+      "city": "Kansas City",
+      "state": "MO",
+      "zip": "64116",
+      "restaurant_phone": "(816) 298-8734"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jeremy Fellows, DonDonald Fellows, JeffJeffrey Lamborne",
+      "state_full": "Michigan",
+      "raw_address": "280 Northland Dr ste B",
+      "city": "Rockford",
+      "state": "MI",
+      "zip": "49341",
+      "restaurant_phone": "(616) 328-6680"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jeremy Fellows, DonDonald Fellows, JeffJeffrey Lamborne",
+      "state_full": "Michigan",
+      "raw_address": "800 E Ellis Rd., Suite 534",
+      "city": "North Shores",
+      "state": "MI",
+      "zip": "49441",
+      "restaurant_phone": "(616) 414-4404"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jeremy Fellows, DonDonald Fellows, JeffJeffrey Lamborne",
+      "state_full": "Michigan",
+      "raw_address": "5985 West Main St. #820",
+      "city": "Kalamazoo",
+      "state": "MI",
+      "zip": "49009",
+      "restaurant_phone": "(269) 649-2417"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Andrew Brainerd, Michael Brainerd",
+      "state_full": "Missouri",
+      "raw_address": "7211 NW 83rd Street, Suite 340",
+      "city": "Kansas City",
+      "state": "MO",
+      "zip": "64152",
+      "restaurant_phone": "(816) 298-8734"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "SarahRick Thomsen, RickSarah Thomsen",
+      "state_full": "Mississippi",
+      "raw_address": "127 S Main Street",
+      "city": "Petal",
+      "state": "MS",
+      "zip": "39465",
+      "restaurant_phone": "(601) 909-6040"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Andy Rickman",
+      "state_full": "North Carolina",
+      "raw_address": "370 North Louisiana Ave, Ste D-1",
+      "city": "Asheville",
+      "state": "NC",
+      "zip": "28806",
+      "restaurant_phone": "(828) 505-4337"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Craig Randall, Don Randall",
+      "state_full": "North Carolina",
+      "raw_address": "3972 Old Ocean Highway, Ste. H",
+      "city": "Bolivia",
+      "state": "NC",
+      "zip": "28422",
+      "restaurant_phone": "(843) 651-2273"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Ken Fleming",
+      "state_full": "North Carolina",
+      "raw_address": "8514 McAlpine Park Drive Suite 285219 Greenwich Rd.",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28211",
+      "restaurant_phone": "(704) 879-2394"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Ken Fleming",
+      "state_full": "North Carolina",
+      "raw_address": "8514 McAlpine Park Drive, Suite 285219 Greenwich Rd.",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28211",
+      "restaurant_phone": "(704) 879-2391"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Roget de Percin Berendes, Tina Glenn",
+      "state_full": "North Carolina",
+      "raw_address": "308 Pomona Dr, Suite L",
+      "city": "Greensboro",
+      "state": "NC",
+      "zip": "27407",
+      "restaurant_phone": "(336) 808-1351"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Roget de Percin Berendes, Tina Glenn",
+      "state_full": "North Carolina",
+      "raw_address": "99 Village Drive, Suite 13",
+      "city": "Jacksonville",
+      "state": "NC",
+      "zip": "28546",
+      "restaurant_phone": "(910) 939-0695"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Kristina Larson, Mike Larson",
+      "state_full": "North Dakota",
+      "raw_address": "126 2nd Ave SW Suite 111",
+      "city": "Rugby",
+      "state": "ND",
+      "zip": "58368",
+      "restaurant_phone": "(701) 881-0101"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jaye McCoy",
+      "state_full": "Nebraska",
+      "raw_address": "2717 South 88th St.",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "68124",
+      "restaurant_phone": "(402) 614-0413"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jaye McCoy, Christopher Koch, Tracy Connor",
+      "state_full": "Nebraska",
+      "raw_address": "2717 South 88th St.",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "68124",
+      "restaurant_phone": "(402) 614-0413"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jaye McCoy, Christopher Koch, Tracy Connor",
+      "state_full": "Nebraska",
+      "raw_address": "2717 South 88th St",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "68124-3048",
+      "restaurant_phone": "(402) 614-0413"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Boyd Lowry",
+      "state_full": "New Jersey",
+      "raw_address": "201 Rock Rd, Suite 116A",
+      "city": "Glen Rock",
+      "state": "NJ",
+      "zip": "07452-1746",
+      "restaurant_phone": "(201) 345-3398"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Boyd Lowry",
+      "state_full": "New Jersey",
+      "raw_address": "201 Rock Rd., Suite 116A",
+      "city": "Glen Rock",
+      "state": "NJ",
+      "zip": "07452",
+      "restaurant_phone": "(201) 345-3398"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Israel Gottlieb",
+      "state_full": "New Jersey",
+      "raw_address": "1570 US Highway 130",
+      "city": "North Brunswick",
+      "state": "NJ",
+      "zip": "08902",
+      "restaurant_phone": "(732) 305-6995"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Joe Spinosi, Kathi Spinosi",
+      "state_full": "New Jersey",
+      "raw_address": "218 Schanck Rd Suite 202",
+      "city": "Freehold",
+      "state": "NJ",
+      "zip": "07728",
+      "restaurant_phone": "(848) 209-1345"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Joe Spinosi, Kathi Spinosi",
+      "state_full": "New Jersey",
+      "raw_address": "218 Schanck Road Ste 202",
+      "city": "Freehold",
+      "state": "NJ",
+      "zip": "07728",
+      "restaurant_phone": "(732) 447-7395"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Parul Chhetri, Praveena Chamala",
+      "state_full": "New Jersey",
+      "raw_address": "233 Mt Airy Rd. Suite 100",
+      "city": "Basking Ridge",
+      "state": "NJ",
+      "zip": "07920",
+      "restaurant_phone": "(860) 501-0171"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Shayla Bridges, William Bridges",
+      "state_full": "New Jersey",
+      "raw_address": "25 Pompton Ave",
+      "city": "Verona",
+      "state": "NJ",
+      "zip": "07044",
+      "restaurant_phone": "(862) 270-5950"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Shayla Bridges, William Bridges",
+      "state_full": "New Jersey",
+      "raw_address": "25 Pompton Ave, Suite 101",
+      "city": "Verona",
+      "state": "NJ",
+      "zip": "07044",
+      "restaurant_phone": "(862) 270-5950"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Christopher Koch / Tracy Connor",
+      "state_full": "",
+      "raw_address": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "restaurant_phone": ""
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jaye McCoy",
+      "state_full": "Nebraska",
+      "raw_address": "2717 South 88th St",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "68124-3048",
+      "restaurant_phone": "(402) 614-0413"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Joe Spinosi / Kathi Spinosi",
+      "state_full": "New Jersey",
+      "raw_address": "218 Schanck Rd Suite 202",
+      "city": "Freehold",
+      "state": "NJ",
+      "zip": "07728",
+      "restaurant_phone": "(848) 209-1345"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Joe Spinosi / Kathi Spinosi",
+      "state_full": "New Jersey",
+      "raw_address": "218 Schanck Road Ste 202",
+      "city": "Freehold",
+      "state": "NJ",
+      "zip": "07728",
+      "restaurant_phone": "(732) 447-7395"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Parul Chhetri / Praveena Chamala",
+      "state_full": "New Jersey",
+      "raw_address": "233 Mt Airy Rd. Suite 100",
+      "city": "Basking Ridge",
+      "state": "NJ",
+      "zip": "07920",
+      "restaurant_phone": "(860) 501-0171"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Shayla Bridges / William Bridges",
+      "state_full": "New Jersey",
+      "raw_address": "25 Pompton Ave",
+      "city": "Verona",
+      "state": "NJ",
+      "zip": "07044",
+      "restaurant_phone": "(862) 270-5950"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Shayla Bridges / William Bridges",
+      "state_full": "New Jersey",
+      "raw_address": "25 Pompton Ave, Suite 101",
+      "city": "Verona",
+      "state": "NJ",
+      "zip": "07044",
+      "restaurant_phone": "(862) 270-5950"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Steve Chow / Amanda Chow",
+      "state_full": "New Jersey",
+      "raw_address": "1570 US Highway 130",
+      "city": "North Brunswick",
+      "state": "NJ",
+      "zip": "08902",
+      "restaurant_phone": "(732) 305-6995"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Yasmine Rifi",
+      "state_full": "New Jersey",
+      "raw_address": "220 Davidson Ave Ste. 203",
+      "city": "Somerset",
+      "state": "NJ",
+      "zip": "08873",
+      "restaurant_phone": "(805) 295-9326"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Yasmine Rifi",
+      "state_full": "New Jersey",
+      "raw_address": "220 Davidson Ave, Ste. 203",
+      "city": "Somerset",
+      "state": "NJ",
+      "zip": "08873",
+      "restaurant_phone": "(858) 260-9478"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "DonnaAlex Willis / AlexDonna Willis",
+      "state_full": "Nevada",
+      "raw_address": "255 W Moana Ln., Suite 213",
+      "city": "Reno",
+      "state": "NV",
+      "zip": "89509",
+      "restaurant_phone": "(775) 437-5800"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Alex Willis / Donna Willis",
+      "state_full": "Nevada",
+      "raw_address": "255 W. Moana Ln., Ste. 213",
+      "city": "Reno",
+      "state": "NV",
+      "zip": "89509",
+      "restaurant_phone": "(775) 437-5800"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Shannon Blackerby",
+      "state_full": "Nevada",
+      "raw_address": "375 N Stephanie Street, Bldg 22, Suite 2213",
+      "city": "Henderson",
+      "state": "NV",
+      "zip": "89014",
+      "restaurant_phone": "(702) 757-2288"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Craig Harvey / Dana Harvey",
+      "state_full": "New York",
+      "raw_address": "2294 State Route 208, Suite 7",
+      "city": "Montgomery",
+      "state": "NY",
+      "zip": "12549",
+      "restaurant_phone": "(845) 765-3990"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "John Richards / Wenjun Liu",
+      "state_full": "Connecticut",
+      "raw_address": "20 N. Street, Suite 201",
+      "city": "Norwalk",
+      "state": "CT",
+      "zip": "06854",
+      "restaurant_phone": "(203) 636-0991"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Laura McMahon / Vincent McMahon",
+      "state_full": "New York",
+      "raw_address": "344 East Main Street, Suite LL004",
+      "city": "Mount Kisco",
+      "state": "NY",
+      "zip": "10549",
+      "restaurant_phone": "(914) 215-1915"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Steve Chow, Amanda Chow",
+      "state_full": "New Jersey",
+      "raw_address": "1570 US Highway 130",
+      "city": "North Brunswick",
+      "state": "NJ",
+      "zip": "08902",
+      "restaurant_phone": "(732) 305-6995"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "DonnaAlex Willis, AlexDonna Willis",
+      "state_full": "Nevada",
+      "raw_address": "255 W Moana Ln., Suite 213",
+      "city": "Reno",
+      "state": "NV",
+      "zip": "89509",
+      "restaurant_phone": "(775) 437-5800"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Alex Willis, Donna Willis",
+      "state_full": "Nevada",
+      "raw_address": "255 W. Moana Ln., Ste. 213",
+      "city": "Reno",
+      "state": "NV",
+      "zip": "89509",
+      "restaurant_phone": "(775) 437-5800"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Craig Harvey, Dana Harvey",
+      "state_full": "New York",
+      "raw_address": "2294 State Route 208, Suite 7",
+      "city": "Montgomery",
+      "state": "NY",
+      "zip": "12549",
+      "restaurant_phone": "(845) 765-3990"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "John Richards, Wenjun Liu",
+      "state_full": "Connecticut",
+      "raw_address": "20 N. [garbled], Suite 201",
+      "city": "Norwalk",
+      "state": "CT",
+      "zip": "06854",
+      "restaurant_phone": "(203) 636-0991"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Laura McMahon, Vincent McMahon",
+      "state_full": "New York",
+      "raw_address": "344 East Main Street, Suite LL004",
+      "city": "Mount Kisco",
+      "state": "NY",
+      "zip": "10549",
+      "restaurant_phone": "(914) 215-1915"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Lili Vazquez, David Martin Del Campo",
+      "state_full": "New York",
+      "raw_address": "33 West 60th St, 2nd Floor",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10023",
+      "restaurant_phone": "(917) 520-4606"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Perry Ciambella",
+      "state_full": "New York",
+      "raw_address": "3830 Union Road, Suite 2",
+      "city": "Cheektowaga",
+      "state": "NY",
+      "zip": "14225",
+      "restaurant_phone": "(716) 634-2273"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Perry Ciambella",
+      "state_full": "New York",
+      "raw_address": "42453830 Union Road, Suite 1012",
+      "city": "Cheektowaga",
+      "state": "NY",
+      "zip": "14225",
+      "restaurant_phone": "(716) 634-2273"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Vincent McMahon",
+      "state_full": "New York",
+      "raw_address": "344 East Main Street, Suite LL004",
+      "city": "Mount Kisco",
+      "state": "NY",
+      "zip": "10549",
+      "restaurant_phone": "(914) 215-1915"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Beth Steel, Brennan Sweeney, Tyler Hardin",
+      "state_full": "Ohio",
+      "raw_address": "2631 Erie Ave",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip": "45208",
+      "restaurant_phone": "(513) 400-5433"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Holly Lucas",
+      "state_full": "Ohio",
+      "raw_address": "526 Water Street",
+      "city": "Chardon",
+      "state": "OH",
+      "zip": "44024",
+      "restaurant_phone": "(440) 286-1342"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Chris Ruth",
+      "state_full": "Ohio",
+      "raw_address": "80 NE 4th Avenue, Suite 21",
+      "city": "Delray Beach",
+      "state": "OH",
+      "zip": "33483",
+      "restaurant_phone": "(561) 271-4644"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Dan Schrupp",
+      "state_full": "Ohio",
+      "raw_address": "14011 Park Drive Suite 205",
+      "city": "Tomball",
+      "state": "OH",
+      "zip": "77377",
+      "restaurant_phone": "(832) 380-8265"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Don Randall, Craig Randall",
+      "state_full": "Ohio",
+      "raw_address": "1 Professional Drive, Suite 2",
+      "city": "Port Royal",
+      "state": "OH",
+      "zip": "29935",
+      "restaurant_phone": "(843) 605-9140"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Kirstin Garrett, David Garrett",
+      "state_full": "Ohio",
+      "raw_address": "4445 Northpark Dr. Ste. 100",
+      "city": "Colorado Springs",
+      "state": "OH",
+      "zip": "80907",
+      "restaurant_phone": "(719) 418-6098"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Lisa Lund, Ron Lund",
+      "state_full": "Ohio",
+      "raw_address": "904 Railroad St",
+      "city": "Grafton",
+      "state": "OH",
+      "zip": "44044",
+      "restaurant_phone": "(440) 250-9733"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Lyndon Christman",
+      "state_full": "Ohio",
+      "raw_address": "1103 Schrock Road, Suite 105",
+      "city": "",
+      "state": "OH",
+      "zip": "",
+      "restaurant_phone": "(614) 495-0276"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Lili Vazquez & David Martin Del Campo",
+      "state_full": "New York",
+      "raw_address": "33 West 60th St, 2nd Floor",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10023",
+      "restaurant_phone": "(917) 520-4606"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Perry Ciambella",
+      "state_full": "New York",
+      "raw_address": "3830 Union Road, Suite 1012",
+      "city": "Cheektowaga",
+      "state": "NY",
+      "zip": "14225",
+      "restaurant_phone": "(716) 634-2273"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Beth Steel & Brennan Sweeney & Tyler Hardin",
+      "state_full": "Ohio",
+      "raw_address": "2631 Erie Ave",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip": "45208",
+      "restaurant_phone": "(513) 400-5433"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Don Randall & Craig Randall",
+      "state_full": "Ohio",
+      "raw_address": "1 Professional Drive, Suite 2",
+      "city": "Port Royal",
+      "state": "OH",
+      "zip": "29935",
+      "restaurant_phone": "(843) 605-9140"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Kirstin Garrett & David Garrett",
+      "state_full": "Ohio",
+      "raw_address": "4445 Northpark Dr. Ste. 100",
+      "city": "Colorado Springs",
+      "state": "OH",
+      "zip": "80907",
+      "restaurant_phone": "(719) 418-6098"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Lisa Lund & Ron Lund",
+      "state_full": "Ohio",
+      "raw_address": "904 Railroad St",
+      "city": "Grafton",
+      "state": "OH",
+      "zip": "44044",
+      "restaurant_phone": "(440) 250-9733"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Lyndon Christman & Marianne Christman",
+      "state_full": "Ohio",
+      "raw_address": "1103 Schrock Road, Suite 105",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43229",
+      "restaurant_phone": "(614) 495-0276"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Lyndon Christman & Marianne Christman",
+      "state_full": "Ohio",
+      "raw_address": "9 N 3rd St",
+      "city": "Newark",
+      "state": "OH",
+      "zip": "43055",
+      "restaurant_phone": "(740) 322-6000"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Lyndon Christman & Marianne Christman",
+      "state_full": "Ohio",
+      "raw_address": "1103 Schrock Rd., Ste. 105",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43229",
+      "restaurant_phone": "(740) 587-1111"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Michael R. Senchak & Michael S. (Mike) Senchak & Mike Senchak",
+      "state_full": "Ohio",
+      "raw_address": "4390 Mahoning Ave",
+      "city": "Youngstown",
+      "state": "OH",
+      "zip": "44515-2347",
+      "restaurant_phone": "(330) 318-3234"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Michael R. Senchak & Michael S. (Mike) Senchak & Mike Senchak",
+      "state_full": "Ohio",
+      "raw_address": "4390 Mahoning Ave.",
+      "city": "Youngstown",
+      "state": "OH",
+      "zip": "44515-2347",
+      "restaurant_phone": "(330) 318-3234"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Mike Moyer",
+      "state_full": "Ohio",
+      "raw_address": "3085 Woodman Dr Suite 370",
+      "city": "Kettering",
+      "state": "OH",
+      "zip": "45420",
+      "restaurant_phone": "(937) 836-9624"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Mike Moyer",
+      "state_full": "Ohio",
+      "raw_address": "7561 B Jacks Lane",
+      "city": "Clayton",
+      "state": "OH",
+      "zip": "45315",
+      "restaurant_phone": "(937) 836-9624"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Mike Senchak & Michael Senchak Jr",
+      "state_full": "Ohio",
+      "raw_address": "4390 Mahoning Ave",
+      "city": "Youngstown",
+      "state": "OH",
+      "zip": "44515-2347",
+      "restaurant_phone": "(330) 318-3234"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Marianne Christman",
+      "state_full": "Ohio",
+      "raw_address": "",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43229",
+      "restaurant_phone": ""
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Lyndon Christman, Marianne Christman",
+      "state_full": "Ohio",
+      "raw_address": "9 N 3rd St",
+      "city": "Newark",
+      "state": "OH",
+      "zip": "43055",
+      "restaurant_phone": "(740) 322-6000"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Lyndon Christman, Marianne Christman",
+      "state_full": "Ohio",
+      "raw_address": "1103 Schrock Road, Suite 105",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43229",
+      "restaurant_phone": "(614) 556-4222"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Lyndon Christman, Marianne Christman",
+      "state_full": "Ohio",
+      "raw_address": "1103 Schrock Rd., Ste. 105",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43229",
+      "restaurant_phone": "(740) 587-1111"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Michael R. Senchak, Michael S. (Mike) Senchak, Mike Senchak",
+      "state_full": "Ohio",
+      "raw_address": "4390 Mahoning Ave",
+      "city": "Youngstown",
+      "state": "OH",
+      "zip": "44515-2347",
+      "restaurant_phone": "(330) 318-3234"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Michael R. Senchak, Michael S. (Mike) Senchak, Mike Senchak",
+      "state_full": "Ohio",
+      "raw_address": "4390 Mahoning Ave.",
+      "city": "Youngstown",
+      "state": "OH",
+      "zip": "44515-2347",
+      "restaurant_phone": "(330) 318-3234"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Mike Senchak, Michael Senchak Jr",
+      "state_full": "Ohio",
+      "raw_address": "4390 Mahoning Ave",
+      "city": "Youngstown",
+      "state": "OH",
+      "zip": "44515-2347",
+      "restaurant_phone": "(330) 318-3234"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Mike Senchak, Michael Senchak Jr",
+      "state_full": "Ohio",
+      "raw_address": "4390 Mahoning Ave.",
+      "city": "Youngstown",
+      "state": "OH",
+      "zip": "44515-2347",
+      "restaurant_phone": "(330) 318-3234"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Phil Smith, Annette Smith",
+      "state_full": "Ohio",
+      "raw_address": "526 Water Street",
+      "city": "Chardon",
+      "state": "OH",
+      "zip": "44024",
+      "restaurant_phone": "(440) 286-1342"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "RobRobert Nervo II",
+      "state_full": "Ohio",
+      "raw_address": "1990 N. Cleveland-Massillon Rd.",
+      "city": "Akron",
+      "state": "OH",
+      "zip": "44333",
+      "restaurant_phone": "(234) 815-0140"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "RobRobert Nervo II",
+      "state_full": "Ohio",
+      "raw_address": "1990 N. Cleveland Massillon Rd",
+      "city": "Akron",
+      "state": "OH",
+      "zip": "44333",
+      "restaurant_phone": "(234) 815-0140"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "RobRobert Nervo II",
+      "state_full": "Ohio",
+      "raw_address": "1990 N Cleveland Massillon Road",
+      "city": "Akron",
+      "state": "OH",
+      "zip": "44333",
+      "restaurant_phone": "(234) 815-0140"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "RaeleneKeith Plummer, KeithRaelene Plummer",
+      "state_full": "Oklahoma",
+      "raw_address": "1508 S. Carson Avenue",
+      "city": "Tulsa",
+      "state": "OK",
+      "zip": "74119",
+      "restaurant_phone": "(918) 934-6922"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Tim Smith",
+      "state_full": "Oklahoma",
+      "raw_address": "4045 NW 64th St., Suite #120",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "zip": "73116",
+      "restaurant_phone": "(405) 594-7433"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Mike Senchak / Michael Senchak Jr",
+      "state_full": "Ohio",
+      "raw_address": "4390 Mahoning Ave.",
+      "city": "Youngstown",
+      "state": "OH",
+      "zip": "44515-2347",
+      "restaurant_phone": "(330) 318-3234"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Phil Smith / Annette Smith",
+      "state_full": "Ohio",
+      "raw_address": "526 Water Street",
+      "city": "Chardon",
+      "state": "OH",
+      "zip": "44024",
+      "restaurant_phone": "(440) 286-1342"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "RaeleneKeith Plummer / KeithRaelene Plummer",
+      "state_full": "Oklahoma",
+      "raw_address": "1508 S. Carson Avenue",
+      "city": "Tulsa",
+      "state": "OK",
+      "zip": "74119",
+      "restaurant_phone": "(918) 934-6922"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Robin Stiles",
+      "state_full": "Oregon",
+      "raw_address": "6444 Fairway Ave SE, Suite 200",
+      "city": "Salem",
+      "state": "OR",
+      "zip": "97306",
+      "restaurant_phone": "(503) 990-6651"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Robin Stiles",
+      "state_full": "Oregon",
+      "raw_address": "6444 Fairway Ave SE, Ste. 200",
+      "city": "Salem",
+      "state": "OR",
+      "zip": "97306",
+      "restaurant_phone": "(503) 990-6651"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Aman Aneja",
+      "state_full": "Pennsylvania",
+      "raw_address": "108 Quaker Drive",
+      "city": "Bethlehem",
+      "state": "PA",
+      "zip": "18020",
+      "restaurant_phone": "(610) 400-5418"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Bryan Carto / Bruce Lundeen / Jerry Drudi / Scott Winterlee",
+      "state_full": "Pennsylvania",
+      "raw_address": "1320 E. Atherton Rd",
+      "city": "Flint",
+      "state": "PA",
+      "zip": "48507",
+      "restaurant_phone": "(810) 875-9805"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Christine Dragoun",
+      "state_full": "Pennsylvania",
+      "raw_address": "321 S. Valley Forge Rd",
+      "city": "Devon",
+      "state": "PA",
+      "zip": "19333",
+      "restaurant_phone": "(610) 638-0638"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Christine Titus / Mike Titus / James Brady",
+      "state_full": "Pennsylvania",
+      "raw_address": "800 W State St, Suite 103",
+      "city": "Doylestown",
+      "state": "PA",
+      "zip": "18901",
+      "restaurant_phone": "(215) 815-0553"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Peter Tomasi",
+      "state_full": "Pennsylvania",
+      "raw_address": "625 E Drinker Street, Suite #200",
+      "city": "Dunmore",
+      "state": "PA",
+      "zip": "18512",
+      "restaurant_phone": "(570) 880-7903"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Shilpa Nagle",
+      "state_full": "Pennsylvania",
+      "raw_address": "5 Great Valley Parkway, Suite 242",
+      "city": "Malvern",
+      "state": "PA",
+      "zip": "19355",
+      "restaurant_phone": "(610) 864-5625"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Chris Price / Lisa Price",
+      "state_full": "South Carolina",
+      "raw_address": "1309 Augusta Road",
+      "city": "West Columbia",
+      "state": "SC",
+      "zip": "29169",
+      "restaurant_phone": "(803) 356-0916"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Clarence Lyons / Kia Lyons",
+      "state_full": "South Carolina",
+      "raw_address": "106-C Woodland Drive",
+      "city": "Lancaster",
+      "state": "SC",
+      "zip": "29720",
+      "restaurant_phone": "(803) 792-9199"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Bryan Carto; Bruce Lundeen; Jerry Drudi; Scott Winterlee",
+      "state_full": "Pennsylvania",
+      "raw_address": "1320 E. Atherton Rd",
+      "city": "Flint",
+      "state": "PA",
+      "zip": "48507",
+      "restaurant_phone": "(810) 875-9805"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Christine Titus; Mike Titus; James Brady",
+      "state_full": "Pennsylvania",
+      "raw_address": "800 W State St, Suite 103",
+      "city": "Doylestown",
+      "state": "PA",
+      "zip": "18901",
+      "restaurant_phone": "(215) 815-0553"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Chris Price; Lisa Price",
+      "state_full": "South Carolina",
+      "raw_address": "1309 Augusta Road",
+      "city": "West Columbia",
+      "state": "SC",
+      "zip": "29169",
+      "restaurant_phone": "(803) 356-0916"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Clarence Lyons; Kia Lyons",
+      "state_full": "South Carolina",
+      "raw_address": "106-C Woodland Drive",
+      "city": "Lancaster",
+      "state": "SC",
+      "zip": "29720",
+      "restaurant_phone": "(803) 792-9199"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "DonCraig Randall; CraigDon Randall",
+      "state_full": "South Carolina",
+      "raw_address": "2520 Hwy. 17 Business, Unit Two",
+      "city": "Murrells Inlet",
+      "state": "SC",
+      "zip": "29576",
+      "restaurant_phone": "(843) 651-2273"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "DonCraig Randall; CraigDon Randall",
+      "state_full": "South Carolina",
+      "raw_address": "2096 Woodruff Road",
+      "city": "Greenville",
+      "state": "SC",
+      "zip": "29607",
+      "restaurant_phone": "(864) 438-2995"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "DonCraig Randall; CraigDon Randall",
+      "state_full": "South Carolina",
+      "raw_address": "990 Lake Hunter Circle, Suite 101",
+      "city": "Mount Pleasant",
+      "state": "SC",
+      "zip": "29464",
+      "restaurant_phone": "(843) 212-2813"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Craig Randall; Don Randall",
+      "state_full": "South Carolina",
+      "raw_address": "1 Professional Drive, Suite 2",
+      "city": "Port Royal",
+      "state": "SC",
+      "zip": "29935",
+      "restaurant_phone": "(843) 605-9140"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "DonCraig Randall; CraigDon Randall",
+      "state_full": "South Carolina",
+      "raw_address": "269 S Church Street, #309",
+      "city": "Spartanburg",
+      "state": "SC",
+      "zip": "29306",
+      "restaurant_phone": "(864) 310-6796"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Carmelyta Cai; Jinliang Cai",
+      "state_full": "Tennessee",
+      "raw_address": "855 Willow Tree Circle, Ste. 102",
+      "city": "Cordova",
+      "state": "TN",
+      "zip": "38018",
+      "restaurant_phone": "(901) 554-5483"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Janet Lancaster; Jerry Lancaster",
+      "state_full": "South Carolina",
+      "raw_address": "2205 Central Ave.",
+      "city": "Columbus",
+      "state": "SC",
+      "zip": "47201",
+      "restaurant_phone": "(812) 375-1293"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Lisa Price; Chris Price",
+      "state_full": "South Carolina",
+      "raw_address": "1309 Augusta Road",
+      "city": "West Columbia",
+      "state": "SC",
+      "zip": "29169",
+      "restaurant_phone": "(803) 356-0916"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "DonCraig Randall, CraigDon Randall",
+      "state_full": "South Carolina",
+      "raw_address": "2520 Hwy. 17 Business, Unit Two",
+      "city": "Murrells Inlet",
+      "state": "SC",
+      "zip": "29576",
+      "restaurant_phone": "(843) 651-2273"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "DonCraig Randall, CraigDon Randall",
+      "state_full": "South Carolina",
+      "raw_address": "2096 Woodruff Road",
+      "city": "Greenville",
+      "state": "SC",
+      "zip": "29607",
+      "restaurant_phone": "(864) 438-2995"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "DonCraig Randall, CraigDon Randall",
+      "state_full": "South Carolina",
+      "raw_address": "990 Lake Hunter Circle, Suite 101",
+      "city": "Mount Pleasant",
+      "state": "SC",
+      "zip": "29464",
+      "restaurant_phone": "(843) 212-2813"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Craig Randall, Don Randall",
+      "state_full": "South Carolina",
+      "raw_address": "1 Professional Drive, Suite 2",
+      "city": "Port Royal",
+      "state": "SC",
+      "zip": "29935",
+      "restaurant_phone": "(843) 605-9140"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "DonCraig Randall, CraigDon Randall",
+      "state_full": "South Carolina",
+      "raw_address": "269 S Church Street, #309",
+      "city": "Spartanburg",
+      "state": "SC",
+      "zip": "29306",
+      "restaurant_phone": "(864) 310-6796"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Carmelyta Cai, Jinliang Cai",
+      "state_full": "Tennessee",
+      "raw_address": "855 Willow Tree Circle, Ste. 102",
+      "city": "Cordova",
+      "state": "TN",
+      "zip": "38018",
+      "restaurant_phone": "(901) 554-5483"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Lisa Price, Chris Price",
+      "state_full": "South Carolina",
+      "raw_address": "1309 Augusta Road",
+      "city": "West Columbia",
+      "state": "SC",
+      "zip": "29169",
+      "restaurant_phone": "(803) 356-0916"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "DonCraig Randall, CraigDon Randall",
+      "state_full": "Tennessee",
+      "raw_address": "1109 E. Lamar Alexander Pkwy",
+      "city": "Maryville",
+      "state": "TN",
+      "zip": "37804",
+      "restaurant_phone": "(865) 214-7712"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "DonCraig Randall, CraigDon Randall",
+      "state_full": "Tennessee",
+      "raw_address": "856 Altamont Rd",
+      "city": "Chattanooga",
+      "state": "TN",
+      "zip": "37415",
+      "restaurant_phone": "(423) 250-3034"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "DonCraig Randall, CraigDon Randall",
+      "state_full": "Tennessee",
+      "raw_address": "6172 Airways BLVD, Suite 112",
+      "city": "Chattanooga",
+      "state": "TN",
+      "zip": "37421",
+      "restaurant_phone": "(423) 681-4655"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Greg Guinn",
+      "state_full": "Tennessee",
+      "raw_address": "1808 Ashland City Rd., Ste C",
+      "city": "Clarksville",
+      "state": "TN",
+      "zip": "37043",
+      "restaurant_phone": "(931) 233-8833"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jason Falk, Scotty Falk",
+      "state_full": "Tennessee",
+      "raw_address": "555 Marriott Drive Suite 315 #254",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37214",
+      "restaurant_phone": "(615) 567-5857"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jason Falk, Scotty Falk",
+      "state_full": "Tennessee",
+      "raw_address": "504 Autumn Springs Court, Suite C-20",
+      "city": "Franklin",
+      "state": "TN",
+      "zip": "37067",
+      "restaurant_phone": "(615) 567-5857"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Angelina Essuman",
+      "state_full": "Texas",
+      "raw_address": "725 N US HWY 287 STE 511",
+      "city": "Mansfield",
+      "state": "TX",
+      "zip": "76063",
+      "restaurant_phone": "(404) 668-8177"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jinliang Cai, Carmelyta Cai",
+      "state_full": "Tennessee",
+      "raw_address": "763 Walnut Knoll Lane, #7",
+      "city": "Memphis",
+      "state": "TN",
+      "zip": "38018",
+      "restaurant_phone": "(901) 468-8834"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Bobby Scruggs, Michelle Scruggs",
+      "state_full": "Texas",
+      "raw_address": "3930 Bee Caves Road, Bldg.2, Suite H",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78746",
+      "restaurant_phone": "(737) 404-4100"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Brendon Riley, Carolyn Riley",
+      "state_full": "Texas",
+      "raw_address": "4324 Mapleshade Lane, Suite 274",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75075",
+      "restaurant_phone": "(214) 956-4291"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Chandreshkumar Shah, Namita Shah",
+      "state_full": "Texas",
+      "raw_address": "5433 Westheimer Rd Suite 403",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77056",
+      "restaurant_phone": "(713) 714-5625"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "ChiChinyere Ihek, NickNicholas Ihek",
+      "state_full": "Texas",
+      "raw_address": "8620 Grand Mission Blvd Suite I",
+      "city": "Richmond",
+      "state": "TX",
+      "zip": "77407",
+      "restaurant_phone": "(832) 847-4592"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "DanDaniel Schrupp",
+      "state_full": "Texas",
+      "raw_address": "2001 Timberloch Place",
+      "city": "The Woodlands",
+      "state": "TX",
+      "zip": "77380",
+      "restaurant_phone": "(832) 380-8265"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jaime Garza",
+      "state_full": "Texas",
+      "raw_address": "400 Stonebrook Pkwy, Unit #603",
+      "city": "Frisco",
+      "state": "TX",
+      "zip": "75036",
+      "restaurant_phone": "(210) 315-5695"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Dan Schrupp",
+      "state_full": "Texas",
+      "raw_address": "24275 Katy Freeway, Suite 400",
+      "city": "Katy",
+      "state": "TX",
+      "zip": "77494",
+      "restaurant_phone": "(832) 380-8265"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Dereje Abebe",
+      "state_full": "Texas",
+      "raw_address": "500 N Central Expressway Ste. 500",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75074",
+      "restaurant_phone": "(214) 956-4291"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jason Scott, Juliann Scott",
+      "state_full": "Texas",
+      "raw_address": "900 Isom Road, Suite 228",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78216",
+      "restaurant_phone": "(850) 375-3331"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Lauren Wilson",
+      "state_full": "Texas",
+      "raw_address": "207 W Hickory St Ste 206",
+      "city": "Denton",
+      "state": "TX",
+      "zip": "76201",
+      "restaurant_phone": "(469) 442-5514"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Pari Shah, Parth Patel",
+      "state_full": "Texas",
+      "raw_address": "4100 Alpha Rd",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75244",
+      "restaurant_phone": "(469) 789-9846"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Praveen Ramanathan",
+      "state_full": "Texas",
+      "raw_address": "101 Uhland Rd, Suite 101-A6",
+      "city": "San Marcos",
+      "state": "TX",
+      "zip": "78666",
+      "restaurant_phone": "(281) 216-8081"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Brendon Riley / Carolyn Riley",
+      "state_full": "Texas",
+      "raw_address": "4324 Mapleshade Lane, Suite 274",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75075",
+      "restaurant_phone": "(214) 956-4291"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Chandreshkumar Shah / Namita Shah",
+      "state_full": "Texas",
+      "raw_address": "5433 Westheimer Rd Suite 403",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77056",
+      "restaurant_phone": "(713) 714-5625"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "ChiChinyere Ihek / NickNicholas Ihek",
+      "state_full": "Texas",
+      "raw_address": "8620 Grand Mission Blvd Suite I",
+      "city": "Richmond",
+      "state": "TX",
+      "zip": "77407",
+      "restaurant_phone": "(832) 847-4592"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jason Scott / Juliann Scott",
+      "state_full": "Texas",
+      "raw_address": "900 Isom Road, Suite 228",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78216",
+      "restaurant_phone": "(850) 375-3331"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Pari Shah / Parth Patel",
+      "state_full": "Texas",
+      "raw_address": "4100 Alpha Rd",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75244",
+      "restaurant_phone": "(469) 789-9846"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Namita Shah / Chandreshkumar Shah",
+      "state_full": "Texas",
+      "raw_address": "5433 Westheimer Rd Suite 403",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77056",
+      "restaurant_phone": "(713) 714-5625"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Zaid Hayyeh",
+      "state_full": "Texas",
+      "raw_address": "9410 Anderson Mill Rd, Suite 1C",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78729",
+      "restaurant_phone": "(512) 925-6199"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Marty Gleason / Karli Gleason",
+      "state_full": "Utah",
+      "raw_address": "12286 South 900 East, Suite 306",
+      "city": "Draper",
+      "state": "UT",
+      "zip": "84020",
+      "restaurant_phone": "(801) 784-6431"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Andy Powell / Kendra Ghanbari",
+      "state_full": "Virginia",
+      "raw_address": "3343 Valley Pike Suite 700",
+      "city": "Winchester",
+      "state": "VA",
+      "zip": "22602",
+      "restaurant_phone": "(540) 431-2933"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Iris Hunter",
+      "state_full": "Virginia",
+      "raw_address": "9020-F Lorton Station Blvd Suite 109",
+      "city": "Lorton",
+      "state": "VA",
+      "zip": "22079",
+      "restaurant_phone": "(703) 982-7646"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Kendra Ghanbari",
+      "state_full": "Virginia",
+      "raw_address": "10432 Balls Ford Rd. Suite#300",
+      "city": "Manassas",
+      "state": "VA",
+      "zip": "20109",
+      "restaurant_phone": "(571) 292-2630"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Kendra Ghanbari",
+      "state_full": "Virginia",
+      "raw_address": "673 Berkmar Circle",
+      "city": "Charlottesville",
+      "state": "VA",
+      "zip": "22901",
+      "restaurant_phone": "(434) 202-1992"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Matthew Jones",
+      "state_full": "Virginia",
+      "raw_address": "116 Landmark Square Suite 103",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "zip": "23452",
+      "restaurant_phone": "(757) 271-8722"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Mark Harvey / Stacey Harvey",
+      "state_full": "Virginia",
+      "raw_address": "50 Culpeper St., Main Suite",
+      "city": "Warrenton",
+      "state": "VA",
+      "zip": "20186",
+      "restaurant_phone": "(540) 579-7570"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Matthew Jones",
+      "state_full": "Virginia",
+      "raw_address": "762 Independence Blvd., Ste. 400B",
+      "city": "",
+      "state": "VA",
+      "zip": "",
+      "restaurant_phone": "(757) 271-8722"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Namita Shah, Chandreshkumar Shah",
+      "state_full": "Texas",
+      "raw_address": "5433 Westheimer Rd Suite 403",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77056",
+      "restaurant_phone": "(713) 714-5625"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Marty Gleason, Karli Gleason",
+      "state_full": "Utah",
+      "raw_address": "12286 South 900 East, Suite 306",
+      "city": "Draper",
+      "state": "UT",
+      "zip": "84020",
+      "restaurant_phone": "(801) 784-6431"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Andy Powell, Kendra Ghanbari",
+      "state_full": "Virginia",
+      "raw_address": "3343 Valley Pike Suite 700",
+      "city": "Winchester",
+      "state": "VA",
+      "zip": "22602",
+      "restaurant_phone": "(540) 431-2933"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Mark Harvey, Stacey Harvey",
+      "state_full": "Virginia",
+      "raw_address": "50 Culpeper St., Main Suite",
+      "city": "Warrenton",
+      "state": "VA",
+      "zip": "20186",
+      "restaurant_phone": "(540) 579-7570"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Vishal Mehta, David Canton",
+      "state_full": "Virginia",
+      "raw_address": "10431 Patterson Ave., Ste. C26",
+      "city": "Henrico",
+      "state": "VA",
+      "zip": "23238",
+      "restaurant_phone": "(804) 516-0896"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Robin Stiles",
+      "state_full": "Washington",
+      "raw_address": "1220 Main St., Ste. 447",
+      "city": "Vancouver",
+      "state": "WA",
+      "zip": "98660",
+      "restaurant_phone": "(503) 990-6651"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Robin Stiles",
+      "state_full": "Washington",
+      "raw_address": "1220 Main Street Suite 447",
+      "city": "Vancouver",
+      "state": "WA",
+      "zip": "98660",
+      "restaurant_phone": "(503) 990-6651"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Greg Lane, Sarah Lane",
+      "state_full": "Washington",
+      "raw_address": "921 Lakeridge Way SW Suite 203",
+      "city": "Olympia",
+      "state": "WA",
+      "zip": "98502",
+      "restaurant_phone": "(360) 489-1621"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Tony Brooks, Lisa Brooks",
+      "state_full": "Washington",
+      "raw_address": "508 Union Ave SE",
+      "city": "Olympia",
+      "state": "WA",
+      "zip": "98501",
+      "restaurant_phone": ""
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Caleb Johnson, Stephanie JohnsonRussell",
+      "state_full": "Wisconsin",
+      "raw_address": "313 N Plankinton Ave",
+      "city": "Milwaukee",
+      "state": "WI",
+      "zip": "53203",
+      "restaurant_phone": "(618) 316-9965"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Caleb Johnson, Stephanie JohnsonRussell",
+      "state_full": "Wisconsin",
+      "raw_address": "3535 30th Ave., Ste. 205b",
+      "city": "Kenosha",
+      "state": "WI",
+      "zip": "53144",
+      "restaurant_phone": ""
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Sonia Salam",
+      "state_full": "Arizona",
+      "raw_address": "4739 S. Watauga Dr.",
+      "city": "Gilbert",
+      "state": "AZ",
+      "zip": "85297",
+      "restaurant_phone": "(248) 217-9349"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Carolyn August, Matt August",
+      "state_full": "California",
+      "raw_address": "2622 Lewis Lane",
+      "city": "Carlsbad",
+      "state": "CA",
+      "zip": "92008",
+      "restaurant_phone": "(619) 379-1371"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jonathan De Souza, Felipe De Souza, Jordan Belcher",
+      "state_full": "California",
+      "raw_address": "1300 1st St, STE 368",
+      "city": "Napa",
+      "state": "CA",
+      "zip": "94559",
+      "restaurant_phone": "748-4755"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Greg Lane, Sarah Lane",
+      "state_full": "Washington",
+      "raw_address": "921 Lakeridge Way SW, Suite 203",
+      "city": "Olympia",
+      "state": "WA",
+      "zip": "98502",
+      "restaurant_phone": "(360) 489-1621"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Robin Stiles",
+      "state_full": "Washington",
+      "raw_address": "1220 Main Street, Suite 447",
+      "city": "Vancouver",
+      "state": "WA",
+      "zip": "98660",
+      "restaurant_phone": "(503) 990-6651"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Julio Rivas",
+      "state_full": "California",
+      "raw_address": "7901 Painter Ave., Ste. 1",
+      "city": "Whittier",
+      "state": "CA",
+      "zip": "90602",
+      "restaurant_phone": "(323) 573-2016"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jyosthna Kothuru, Subhash Kothuru",
+      "state_full": "California",
+      "raw_address": "436 Rhone Ct.",
+      "city": "Mountain View",
+      "state": "CA",
+      "zip": "94043",
+      "restaurant_phone": "(734) 834-9674"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Kanisha Golden",
+      "state_full": "California",
+      "raw_address": "250 McKays Point Pl.",
+      "city": "West Sacramento",
+      "state": "CA",
+      "zip": "95605",
+      "restaurant_phone": "(916) 833-7589"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Marlon Wells",
+      "state_full": "California",
+      "raw_address": "3450 Andrew Ave.",
+      "city": "Rosamond",
+      "state": "CA",
+      "zip": "93560",
+      "restaurant_phone": "(661) 300-6999"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Sean Ruitenberg, Stephanie Ruitenberg",
+      "state_full": "California",
+      "raw_address": "32122 Camino Capistrano Suite 210",
+      "city": "San Juan Capistrano",
+      "state": "CA",
+      "zip": "92775",
+      "restaurant_phone": "(714) 493-9972"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Thomas Webber",
+      "state_full": "California",
+      "raw_address": "30408 Passageway Pl.",
+      "city": "Agoura Hills",
+      "state": "CA",
+      "zip": "91301",
+      "restaurant_phone": "(310) 600-4113"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "John Richards, Wenjun Liu",
+      "state_full": "Connecticut",
+      "raw_address": "48 E. Farm Ln.",
+      "city": "Ridgefield",
+      "state": "CT",
+      "zip": "06877",
+      "restaurant_phone": "(203) 636-0991"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Abi Kurian",
+      "state_full": "Florida",
+      "raw_address": "2598 E Sunrise Blvd, Suite 2104",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": "33304",
+      "restaurant_phone": "(754) 263-6135"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "John McFerrin",
+      "state_full": "Illinois",
+      "raw_address": "840 S Oak Park Ave, Suite 211",
+      "city": "Oak Park",
+      "state": "IL",
+      "zip": "60304",
+      "restaurant_phone": "(312) 217-1045"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "John McFerrin",
+      "state_full": "Illinois",
+      "raw_address": "1027 N Lombard Avenue",
+      "city": "Oak Park",
+      "state": "IL",
+      "zip": "60302",
+      "restaurant_phone": "(312) 217-1045"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Veronica Mancinelli",
+      "state_full": "Massachusetts",
+      "raw_address": "25 Lake street #5",
+      "city": "Seekonk",
+      "state": "MA",
+      "zip": "02771",
+      "restaurant_phone": "(508) 838-1580"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Abdel Aziz Sereme, Jessica Kim, Youngwan Kim",
+      "state_full": "Minnesota",
+      "raw_address": "4640 Kingsbury Dr.",
+      "city": "Eagan",
+      "state": "MN",
+      "zip": "55122",
+      "restaurant_phone": "(612) 387-7966"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Christine Schumann",
+      "state_full": "Minnesota",
+      "raw_address": "8400 Normandale Lake Blvd., Ste. 920",
+      "city": "Bloomington",
+      "state": "MN",
+      "zip": "55437",
+      "restaurant_phone": "(651) 955-5217"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Matthew DiFrancesco",
+      "state_full": "",
+      "raw_address": "4030 Wake Forest Rd., Ste. 349",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "restaurant_phone": "(704) 772-8075"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Matthew DiFrancesco, Stephanie DiFrancesco",
+      "state_full": "North Carolina",
+      "raw_address": "4030 Wake Forest Rd., Ste. 349",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27609",
+      "restaurant_phone": "(704) 772-8075"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Ravi Talluri",
+      "state_full": "North Carolina",
+      "raw_address": "201 Commonwealth Ct. STE 290",
+      "city": "Cary",
+      "state": "NC",
+      "zip": "27511",
+      "restaurant_phone": "(608) 308-7284"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Ravi Talluri",
+      "state_full": "North Carolina",
+      "raw_address": "204 Conagree Dr.",
+      "city": "Holly Springs",
+      "state": "NC",
+      "zip": "27540",
+      "restaurant_phone": "(608) 308-7284"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Parul Chhetri, Praveena Chamala",
+      "state_full": "New Jersey",
+      "raw_address": "2001 US Highway 46, Suite 310",
+      "city": "Parsippany",
+      "state": "NJ",
+      "zip": "07054",
+      "restaurant_phone": "(860) 501-0171"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Christine Titus, Mike Titus, James Brady",
+      "state_full": "Pennsylvania",
+      "raw_address": "800 W State St, Suite 103",
+      "city": "Doylestown",
+      "state": "PA",
+      "zip": "18901",
+      "restaurant_phone": "(215) 815-0553"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Shin Sawada",
+      "state_full": "Pennsylvania",
+      "raw_address": "1925 Pine Ct.",
+      "city": "Hellertown",
+      "state": "PA",
+      "zip": "18055",
+      "restaurant_phone": "(609) 651-2279"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Chanakya Koppolu, Mary Saka",
+      "state_full": "Texas",
+      "raw_address": "9025 Highway 29, Ste 207",
+      "city": "Liberty Hill",
+      "state": "TX",
+      "zip": "78642",
+      "restaurant_phone": "(214) 502-5398"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jason Scott",
+      "state_full": "Texas",
+      "raw_address": "900 Isom Rd., Ste. 228",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78216",
+      "restaurant_phone": "(850) 375-3331"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Soon In Oh",
+      "state_full": "Texas",
+      "raw_address": "4408 Spicewood Springs Rd. Ste 203",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78759",
+      "restaurant_phone": "(512) 577-7274"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Gaspar Diaz",
+      "state_full": "Florida",
+      "raw_address": "6700 Florida Ave S. Suite 14",
+      "city": "Lakeland",
+      "state": "FL",
+      "zip": "33813",
+      "restaurant_phone": "(954) 562-1025"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "John Bordas",
+      "state_full": "Florida",
+      "raw_address": "135 Lake Charles Road",
+      "city": "Deland",
+      "state": "FL",
+      "zip": "32724",
+      "restaurant_phone": "(386) 847-7048"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Yasmine Rifi",
+      "state_full": "New Jersey",
+      "raw_address": "220 Davidson Ave",
+      "city": "Somerset",
+      "state": "NJ",
+      "zip": "08873",
+      "restaurant_phone": "(858) 260-9478"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "David Canton, Vishal Mehta",
+      "state_full": "Virginia",
+      "raw_address": "11616 Shadow Run Lane",
+      "city": "Glen Allen",
+      "state": "VA",
+      "zip": "23059",
+      "restaurant_phone": "(804) 516-0896"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "David Canton",
+      "state_full": "Virginia",
+      "raw_address": "10431 Patterson Ave., Ste. C26",
+      "city": "Henrico",
+      "state": "VA",
+      "zip": "23238",
+      "restaurant_phone": ""
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Alejandro Botero, Jessica Botero",
+      "state_full": "Washington",
+      "raw_address": "1140 Airport Rd Suite 200",
+      "city": "Everett",
+      "state": "WA",
+      "zip": "98204",
+      "restaurant_phone": "(352) 284-8705"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Aleksej Trefilov",
+      "state_full": "Washington",
+      "raw_address": "19125 North Creek Parkway, Suite 120",
+      "city": "Bothell",
+      "state": "WA",
+      "zip": "98011",
+      "restaurant_phone": "(206) 557-2179"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Aleksej Trefilov",
+      "state_full": "Washington",
+      "raw_address": "15623 37th Ave., NE",
+      "city": "Lake Forest Park",
+      "state": "WA",
+      "zip": "98155",
+      "restaurant_phone": "(206) 557-2179"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Pari Shah; Parth Patel",
+      "state_full": "Texas",
+      "raw_address": "4100 Alpha Rd",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75244",
+      "restaurant_phone": "(469) 789-9846"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "David Canton; Vishal Mehta",
+      "state_full": "Virginia",
+      "raw_address": "11616 Shadow Run Lane",
+      "city": "Glen Allen",
+      "state": "VA",
+      "zip": "23059",
+      "restaurant_phone": "(804) 516-0896"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "David Canton; Vishal Mehta",
+      "state_full": "Virginia",
+      "raw_address": "10431 Patterson Ave., Ste. C26",
+      "city": "Henrico",
+      "state": "VA",
+      "zip": "23238",
+      "restaurant_phone": "(804) 513-0896"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Alejandro Botero; Jessica Botero",
+      "state_full": "Washington",
+      "raw_address": "1140 Airport Rd Suite 200",
+      "city": "Everett",
+      "state": "WA",
+      "zip": "98204",
+      "restaurant_phone": "(352) 284-8705"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Katharine Lopez; Sarah Wilson",
+      "state_full": "Arizona",
+      "raw_address": "",
+      "city": "Tucson",
+      "state": "AZ",
+      "zip": "",
+      "restaurant_phone": "(520) 330-3241"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Len Rosenthal",
+      "state_full": "California",
+      "raw_address": "",
+      "city": "Santa Monica",
+      "state": "CA",
+      "zip": "",
+      "restaurant_phone": "(424) 435-1600"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jacqueline O'Quinn",
+      "state_full": "Missouri",
+      "raw_address": "",
+      "city": "Hazelwood",
+      "state": "MO",
+      "zip": "",
+      "restaurant_phone": "(314) 667-4411"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Leigh Twiford",
+      "state_full": "Pennsylvania",
+      "raw_address": "",
+      "city": "Lemoyne",
+      "state": "PA",
+      "zip": "",
+      "restaurant_phone": "(717) 525-7936"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Sam Dan",
+      "state_full": "Pennsylvania",
+      "raw_address": "",
+      "city": "Warrington",
+      "state": "PA",
+      "zip": "",
+      "restaurant_phone": "(215) 491-2525"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Timothy Mackin Sr",
+      "state_full": "Pennsylvania",
+      "raw_address": "",
+      "city": "York",
+      "state": "PA",
+      "zip": "",
+      "restaurant_phone": "(717) 755-7401"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Ken Fleming",
+      "state_full": "South Carolina",
+      "raw_address": "",
+      "city": "Fort Mill",
+      "state": "SC",
+      "zip": "",
+      "restaurant_phone": "(803) 500-0498"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jason Falk",
+      "state_full": "Tennessee",
+      "raw_address": "",
+      "city": "Franklin",
+      "state": "TN",
+      "zip": "",
+      "restaurant_phone": "(615) 567-5857"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Christine Lawoyin",
+      "state_full": "California",
+      "raw_address": "",
+      "city": "Cerritos",
+      "state": "CA",
+      "zip": "",
+      "restaurant_phone": "(562) 384-5370"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Walter Hickman",
+      "state_full": "Georgia",
+      "raw_address": "",
+      "city": "The Vinings",
+      "state": "GA",
+      "zip": "",
+      "restaurant_phone": "(678) 877-9165"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Beth Tischler",
+      "state_full": "Illinois",
+      "raw_address": "",
+      "city": "Naperville",
+      "state": "IL",
+      "zip": "",
+      "restaurant_phone": "(630) 363-4289"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Sharon Combs",
+      "state_full": "Nevada",
+      "raw_address": "",
+      "city": "Centennial Hills",
+      "state": "NV",
+      "zip": "",
+      "restaurant_phone": "(702) 235-2599"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Kendra Ghanbari",
+      "state_full": "Virginia",
+      "raw_address": "",
+      "city": "Fairfax",
+      "state": "VA",
+      "zip": "",
+      "restaurant_phone": "(571) 292-2630"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Iris Hunter",
+      "state_full": "Virginia",
+      "raw_address": "",
+      "city": "Springfiled",
+      "state": "VA",
+      "zip": "",
+      "restaurant_phone": "(703) 982-7650"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Katharine Lopez, Sarah Wilson",
+      "state_full": "Arizona",
+      "raw_address": "",
+      "city": "Tucson",
+      "state": "AZ",
+      "zip": "",
+      "restaurant_phone": "(520) 330-3241"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jim Crews, Kristi Olson",
+      "state_full": "Arizona",
+      "raw_address": "",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "zip": "",
+      "restaurant_phone": "(480) 922-2820"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Winsome Ferrall",
+      "state_full": "California",
+      "raw_address": "",
+      "city": "Irvine",
+      "state": "CA",
+      "zip": "",
+      "restaurant_phone": "(951) 395-0821"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jennifer Rattner, Steve Rattner",
+      "state_full": "Florida",
+      "raw_address": "",
+      "city": "Clearwater",
+      "state": "FL",
+      "zip": "",
+      "restaurant_phone": "(727) 725-4663"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jaye McCoy",
+      "state_full": "Nebraska",
+      "raw_address": "",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "",
+      "restaurant_phone": "(402) 614-0413"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Amanda Chow, Steven Chow",
+      "state_full": "New Jersey",
+      "raw_address": "",
+      "city": "North Brunswick",
+      "state": "NJ",
+      "zip": "",
+      "restaurant_phone": "(732) 305-6995"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Brian Wilson",
+      "state_full": "Colorado",
+      "raw_address": "",
+      "city": "Lafayette",
+      "state": "CO",
+      "zip": "",
+      "restaurant_phone": "(720) 502-3939"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Amie Deak, Richard Hall, Kelly Hall",
+      "state_full": "Florida",
+      "raw_address": "",
+      "city": "Lady Lake",
+      "state": "FL",
+      "zip": "",
+      "restaurant_phone": "(352) 720-6277"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jim Crews & Kristi Olson",
+      "state_full": "Arizona",
+      "raw_address": "",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "zip": "",
+      "restaurant_phone": "(480) 922-2820"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Jennifer Rattner & Steve Rattner",
+      "state_full": "Florida",
+      "raw_address": "",
+      "city": "Clearwater",
+      "state": "FL",
+      "zip": "",
+      "restaurant_phone": "(727) 725-4663"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Amanda Chow & Steven Chow",
+      "state_full": "New Jersey",
+      "raw_address": "",
+      "city": "North Brunswick",
+      "state": "NJ",
+      "zip": "",
+      "restaurant_phone": "(732) 305-6995"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Amie Deak & Richard Hall & Kelly Hall",
+      "state_full": "Florida",
+      "raw_address": "",
+      "city": "Lady Lake",
+      "state": "FL",
+      "zip": "",
+      "restaurant_phone": "(352) 720-6277"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Isilda Isaza",
+      "state_full": "Georgia",
+      "raw_address": "",
+      "city": "Norcross",
+      "state": "GA",
+      "zip": "",
+      "restaurant_phone": "(770) 580-0102"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Lisa Paradise & Bob Paradise & Annette Smith & Phil Smith",
+      "state_full": "Ohio",
+      "raw_address": "",
+      "city": "Grafton",
+      "state": "OH",
+      "zip": "",
+      "restaurant_phone": "(440) 250-9733"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Dereje Abebe & Neima Mohammed",
+      "state_full": "Texas",
+      "raw_address": "",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "",
+      "restaurant_phone": "(214) 956-4291"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Greg Lane & Sarah Lane",
+      "state_full": "Washington",
+      "raw_address": "",
+      "city": "Olympia",
+      "state": "WA",
+      "zip": "",
+      "restaurant_phone": "(360) 489-1621"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Ben Crawley & Angela Crawley",
+      "state_full": "Tennessee",
+      "raw_address": "",
+      "city": "Maryville",
+      "state": "TN",
+      "zip": "",
+      "restaurant_phone": "(865) 214-7712"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Lisa Paradise, Bob Paradise, Annette Smith, Phil Smith",
+      "state_full": "Ohio",
+      "raw_address": "",
+      "city": "Grafton",
+      "state": "OH",
+      "zip": "",
+      "restaurant_phone": "(440) 250-9733"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Dereje Abebe, Neima Mohammed",
+      "state_full": "Texas",
+      "raw_address": "",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "",
+      "restaurant_phone": "(214) 956-4291"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Greg Lane, Sarah Lane",
+      "state_full": "Washington",
+      "raw_address": "",
+      "city": "Olympia",
+      "state": "WA",
+      "zip": "",
+      "restaurant_phone": "(360) 489-1621"
+    },
+    {
+      "brand": "FirstLight Home Care",
+      "franchisee_name": "Ben Crawley, Angela Crawley",
+      "state_full": "Tennessee",
+      "raw_address": "",
+      "city": "Maryville",
+      "state": "TN",
+      "zip": "",
+      "restaurant_phone": "(865) 214-7712"
+    }
+  ]
+}

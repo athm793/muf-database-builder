@@ -1,0 +1,5 @@
+# Python packages needed by the FDD pipeline.
+# Install with:  pip install -r requirements.txt
+pdfplumber>=0.11
+thefuzz>=0.22
+python-Levenshtein>=0.27
