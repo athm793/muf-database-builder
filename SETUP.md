@@ -81,22 +81,32 @@ so the token is never committed):
 
 ```
 APIFY_TOKEN=apify_api_xxxxxxxxxxxxxxxxxxxx
-APIFY_ACTOR_ID=DcUptfu6v2Y8wCbGY
+APIFY_ACTOR_ID=DcUptfu6v2Y8wCbGY        # Wisconsin DFI
+APIFY_ACTOR_ID_MN=dnfUyPVabAz3oj2pE     # Minnesota CARDS
+APIFY_ACTOR_ID_CA=H82SbZK5RUog0mBaB     # California DFPI
 ```
 
 - `APIFY_TOKEN` — from your Apify account → **Settings → Integrations → API token**.
-- `APIFY_ACTOR_ID` — `DcUptfu6v2Y8wCbGY` is the *Wisconsin Franchise Search
-  Scraper* (`parseforge/wisconsin-franchise-search-scraper`).
+- The three actor ids are the `parseforge` state scrapers (Wisconsin, Minnesota,
+  California). Only `APIFY_ACTOR_ID` (Wisconsin) is required; MN/CA are optional
+  fallbacks.
 
-If this token is missing, the tool still works — the "Fetch by brand name" tab
-is simply disabled, and the employee uses "Add a PDF file" instead.
+If the token is missing, the tool still works — the "Fetch by brand name" tab is
+simply disabled, and the employee uses "Add a PDF file" instead.
 
-> **Coverage:** fetch-by-name searches **Wisconsin only** today. Brands not
-> registered in Wisconsin (e.g. Subway) come back "not found" and must be added
-> via "Add a PDF file". Minnesota / California sources can be added later.
+> **Coverage:** fetch-by-name tries **Wisconsin → Minnesota → California** in
+> order and stops at the first source that has a downloadable FDD. A brand that
+> isn't in any of them (or whose only hit is California, which often exposes
+> filing *metadata* but not the FDD PDF) comes back "not found" — add those via
+> "Add a PDF file".
 
-> **Cost:** each brand name triggers one Apify actor run (it downloads the FDD
-> PDF). Keep an eye on your Apify usage if processing long lists.
+> **💳 Apify credits required.** The MN and CA actors are paid Apify actors.
+> If your account is out of credits, those sources return *"payment required"*
+> and only Wisconsin (or whichever source has credit) will work. Top up at
+> Apify → **Billing** to enable all sources.
+
+> **Cost:** each brand name triggers up to three Apify actor runs (one per
+> source, stopping at the first hit). Keep an eye on Apify usage for long lists.
 
 ## 7. Make it easy to launch
 

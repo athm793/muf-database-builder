@@ -12,7 +12,9 @@ GitHub. Two ways to add FDDs:
 
 - **Add a PDF file** — choose an FDD PDF you already have.
 - **Fetch by brand name** — type brand names (KFC, Taco Bell, …) and it downloads
-  their FDDs from the **Wisconsin** franchise register (via Apify) and adds them.
+  their FDDs from state franchise registers (**Wisconsin → Minnesota →
+  California**, via Apify) and adds them. Note: the MN/CA Apify actors are paid —
+  the account needs credits, or those sources return "payment required".
 
 Main outputs live in `FDD Parser/Code/output/` — start with `icp_combined.csv`.
 

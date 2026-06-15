@@ -28,8 +28,9 @@ whichever you have.
 
 3. Click **“Fetch & Add”**.
 
-The tool searches the **Wisconsin** franchise register, downloads each brand's
-FDD, and adds them all in one go.
+The tool searches the **Wisconsin**, then **Minnesota**, then **California**
+franchise registers, downloads each brand's FDD from the first one that has it,
+and adds them all in one go.
 
 ---
 
@@ -42,9 +43,13 @@ a pop-up like:
 
 You can then close the window.
 
-> **Note on “Fetch by brand name”:** it currently searches **Wisconsin only**.
-> A few brands aren't registered there (for example, Subway) — those will show
-> as *“not found”*. For those, get the FDD PDF yourself and use **Option A**.
+> **Note on “Fetch by brand name”:** it searches **Wisconsin → Minnesota →
+> California** and uses the first one that has the FDD. Some brands aren't
+> registered in any of them (for example, Subway) and will show as *“not found”*.
+> For those, get the FDD PDF yourself and use **Option A**.
+>
+> If a brand comes back *“payment required”*, your Apify account is out of
+> credits — tell your admin to top it up.
 
 ---
 
