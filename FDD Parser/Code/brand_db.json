@@ -1,0 +1,1901 @@
+{
+  "updated": "2026-06-16",
+  "count": 235,
+  "brands": [
+    {
+      "name": "McDonald's",
+      "tags": [
+        "qsr",
+        "burger"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Burger King",
+      "tags": [
+        "qsr",
+        "burger"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Wendy's",
+      "tags": [
+        "qsr",
+        "burger"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Five Guys",
+      "tags": [
+        "qsr",
+        "burger"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Shake Shack",
+      "tags": [
+        "qsr",
+        "burger",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Whataburger",
+      "tags": [
+        "qsr",
+        "burger"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Jack in the Box",
+      "tags": [
+        "qsr",
+        "burger"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "tags": [
+        "qsr",
+        "burger"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Culver's",
+      "tags": [
+        "qsr",
+        "burger"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Rally's",
+      "tags": [
+        "qsr",
+        "burger"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Checkers",
+      "tags": [
+        "qsr",
+        "burger"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Hardee's",
+      "tags": [
+        "qsr",
+        "burger"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Carl's Jr.",
+      "tags": [
+        "qsr",
+        "burger"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Steak 'n Shake",
+      "tags": [
+        "qsr",
+        "burger"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Fatburger",
+      "tags": [
+        "qsr",
+        "burger"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Smashburger",
+      "tags": [
+        "qsr",
+        "burger",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Habit Burger",
+      "tags": [
+        "qsr",
+        "burger",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Freddy's",
+      "tags": [
+        "qsr",
+        "burger"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Wayback Burgers",
+      "tags": [
+        "qsr",
+        "burger"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "BurgerFi",
+      "tags": [
+        "qsr",
+        "burger",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "KFC",
+      "tags": [
+        "qsr",
+        "chicken"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Chick-fil-A",
+      "tags": [
+        "qsr",
+        "chicken"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Popeyes",
+      "tags": [
+        "qsr",
+        "chicken"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Wingstop",
+      "tags": [
+        "qsr",
+        "chicken",
+        "wings"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Raising Cane's",
+      "tags": [
+        "qsr",
+        "chicken"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Zaxby's",
+      "tags": [
+        "qsr",
+        "chicken",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "El Pollo Loco",
+      "tags": [
+        "qsr",
+        "chicken"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Church's Chicken",
+      "tags": [
+        "qsr",
+        "chicken"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Bojangles",
+      "tags": [
+        "qsr",
+        "chicken"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "PDQ",
+      "tags": [
+        "qsr",
+        "chicken",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Buffalo Wild Wings",
+      "tags": [
+        "qsr",
+        "chicken",
+        "wings",
+        "casual_dining"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Wing Zone",
+      "tags": [
+        "qsr",
+        "chicken",
+        "wings"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Hooters",
+      "tags": [
+        "qsr",
+        "chicken",
+        "wings",
+        "casual_dining"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Dave's Hot Chicken",
+      "tags": [
+        "qsr",
+        "chicken",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Slim Chickens",
+      "tags": [
+        "qsr",
+        "chicken",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Huey Magoo's",
+      "tags": [
+        "qsr",
+        "chicken",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Golden Corral",
+      "tags": [
+        "casual_dining",
+        "buffet"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Domino's",
+      "tags": [
+        "qsr",
+        "pizza"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Pizza Hut",
+      "tags": [
+        "qsr",
+        "pizza"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Papa John's",
+      "tags": [
+        "qsr",
+        "pizza"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Little Caesars",
+      "tags": [
+        "qsr",
+        "pizza"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Marco's Pizza",
+      "tags": [
+        "qsr",
+        "pizza"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Jet's Pizza",
+      "tags": [
+        "qsr",
+        "pizza"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Round Table Pizza",
+      "tags": [
+        "qsr",
+        "pizza"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Cicis",
+      "tags": [
+        "qsr",
+        "pizza",
+        "buffet"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Godfather's Pizza",
+      "tags": [
+        "qsr",
+        "pizza"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Hungry Howie's",
+      "tags": [
+        "qsr",
+        "pizza"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Sbarro",
+      "tags": [
+        "qsr",
+        "pizza"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "MOD Pizza",
+      "tags": [
+        "qsr",
+        "pizza",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Blaze Pizza",
+      "tags": [
+        "qsr",
+        "pizza",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Taco Bell",
+      "tags": [
+        "qsr",
+        "mexican"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Chipotle",
+      "tags": [
+        "qsr",
+        "mexican",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Qdoba",
+      "tags": [
+        "qsr",
+        "mexican",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Del Taco",
+      "tags": [
+        "qsr",
+        "mexican"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Taco John's",
+      "tags": [
+        "qsr",
+        "mexican"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Moe's Southwest Grill",
+      "tags": [
+        "qsr",
+        "mexican",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Fuzzy's Taco Shop",
+      "tags": [
+        "qsr",
+        "mexican",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Taco Cabana",
+      "tags": [
+        "qsr",
+        "mexican"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Chronic Tacos",
+      "tags": [
+        "qsr",
+        "mexican",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Tijuana Flats",
+      "tags": [
+        "qsr",
+        "mexican",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Subway",
+      "tags": [
+        "qsr",
+        "sandwich"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Jersey Mike's",
+      "tags": [
+        "qsr",
+        "sandwich"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Jimmy John's",
+      "tags": [
+        "qsr",
+        "sandwich"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Firehouse Subs",
+      "tags": [
+        "qsr",
+        "sandwich"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Which Wich",
+      "tags": [
+        "qsr",
+        "sandwich"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "McAlister's Deli",
+      "tags": [
+        "qsr",
+        "sandwich",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Schlotzsky's",
+      "tags": [
+        "qsr",
+        "sandwich",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Potbelly",
+      "tags": [
+        "qsr",
+        "sandwich",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Quiznos",
+      "tags": [
+        "qsr",
+        "sandwich"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Jason's Deli",
+      "tags": [
+        "qsr",
+        "sandwich",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Arby's",
+      "tags": [
+        "qsr",
+        "sandwich"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Charley's Grilled Subs",
+      "tags": [
+        "qsr",
+        "sandwich"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Starbucks",
+      "tags": [
+        "coffee",
+        "bakery"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Dunkin'",
+      "tags": [
+        "coffee",
+        "bakery",
+        "qsr"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Tim Hortons",
+      "tags": [
+        "coffee",
+        "bakery",
+        "qsr"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Panera Bread",
+      "tags": [
+        "bakery",
+        "sandwich",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Einstein Bros.",
+      "tags": [
+        "bakery",
+        "coffee",
+        "fast_casual"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Cinnabon",
+      "tags": [
+        "bakery",
+        "dessert"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Great Harvest",
+      "tags": [
+        "bakery"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Paris Baguette",
+      "tags": [
+        "bakery",
+        "coffee"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Caribou Coffee",
+      "tags": [
+        "coffee"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Dutch Bros.",
+      "tags": [
+        "coffee"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "The Human Bean",
+      "tags": [
+        "coffee"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Scooter's Coffee",
+      "tags": [
+        "coffee"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Ziggi's Coffee",
+      "tags": [
+        "coffee"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Biggby Coffee",
+      "tags": [
+        "coffee"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "7 Brew Coffee",
+      "tags": [
+        "coffee"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Dairy Queen",
+      "tags": [
+        "qsr",
+        "ice_cream",
+        "dessert"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Baskin-Robbins",
+      "tags": [
+        "ice_cream",
+        "dessert"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Cold Stone Creamery",
+      "tags": [
+        "ice_cream",
+        "dessert"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Yogurtland",
+      "tags": [
+        "ice_cream",
+        "dessert"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Rita's Italian Ice",
+      "tags": [
+        "ice_cream",
+        "dessert"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Marble Slab Creamery",
+      "tags": [
+        "ice_cream",
+        "dessert"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Handel's Homemade",
+      "tags": [
+        "ice_cream",
+        "dessert"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Bruster's",
+      "tags": [
+        "ice_cream",
+        "dessert"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Andy's Frozen Custard",
+      "tags": [
+        "ice_cream",
+        "dessert"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Dippin' Dots",
+      "tags": [
+        "ice_cream",
+        "dessert"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Auntie Anne's",
+      "tags": [
+        "bakery",
+        "pretzel"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Wetzel's Pretzels",
+      "tags": [
+        "bakery",
+        "pretzel"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Jamba",
+      "tags": [
+        "smoothie",
+        "healthy",
+        "qsr"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Smoothie King",
+      "tags": [
+        "smoothie",
+        "healthy"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Applebee's",
+      "tags": [
+        "casual_dining"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Chili's",
+      "tags": [
+        "casual_dining"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Denny's",
+      "tags": [
+        "casual_dining",
+        "breakfast"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "IHOP",
+      "tags": [
+        "casual_dining",
+        "breakfast"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "TGI Fridays",
+      "tags": [
+        "casual_dining"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Ruby Tuesday",
+      "tags": [
+        "casual_dining"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Bob Evans",
+      "tags": [
+        "casual_dining",
+        "breakfast"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Perkins",
+      "tags": [
+        "casual_dining",
+        "breakfast"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Cracker Barrel",
+      "tags": [
+        "casual_dining",
+        "breakfast"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Friendly's",
+      "tags": [
+        "casual_dining",
+        "ice_cream"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Black Bear Diner",
+      "tags": [
+        "casual_dining"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Sizzler",
+      "tags": [
+        "casual_dining"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Steak 'n Shake",
+      "tags": [
+        "casual_dining",
+        "burger"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Village Inn",
+      "tags": [
+        "casual_dining",
+        "breakfast"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Dine Brands",
+      "tags": [
+        "casual_dining"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Noodles & Company",
+      "tags": [
+        "fast_casual",
+        "asian",
+        "pasta"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Portillo's",
+      "tags": [
+        "fast_casual",
+        "burger"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Sweetgreen",
+      "tags": [
+        "fast_casual",
+        "salad",
+        "healthy"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Panda Express",
+      "tags": [
+        "qsr",
+        "asian"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Teriyaki Madness",
+      "tags": [
+        "fast_casual",
+        "asian"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "P.F. Chang's",
+      "tags": [
+        "casual_dining",
+        "asian"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Waba Grill",
+      "tags": [
+        "fast_casual",
+        "asian",
+        "healthy"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Lenny's Sub Shop",
+      "tags": [
+        "qsr",
+        "sandwich"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "WaBa Grill",
+      "tags": [
+        "fast_casual",
+        "asian"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Tropical Smoothie Cafe",
+      "tags": [
+        "smoothie",
+        "fast_casual",
+        "healthy"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Long John Silver's",
+      "tags": [
+        "qsr",
+        "seafood"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Captain D's",
+      "tags": [
+        "qsr",
+        "seafood"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "A&W",
+      "tags": [
+        "qsr",
+        "burger"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Hot Dog on a Stick",
+      "tags": [
+        "qsr"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Wienerschnitzel",
+      "tags": [
+        "qsr"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Nathan's Famous",
+      "tags": [
+        "qsr"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Planet Fitness",
+      "tags": [
+        "fitness",
+        "gym"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Anytime Fitness",
+      "tags": [
+        "fitness",
+        "gym"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Gold's Gym",
+      "tags": [
+        "fitness",
+        "gym"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Orangetheory",
+      "tags": [
+        "fitness",
+        "boutique"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "F45 Training",
+      "tags": [
+        "fitness",
+        "boutique"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Pure Barre",
+      "tags": [
+        "fitness",
+        "boutique"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Club Pilates",
+      "tags": [
+        "fitness",
+        "boutique"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Snap Fitness",
+      "tags": [
+        "fitness",
+        "gym"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Crunch Fitness",
+      "tags": [
+        "fitness",
+        "gym"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "9Round",
+      "tags": [
+        "fitness",
+        "boutique"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "The Bar Method",
+      "tags": [
+        "fitness",
+        "boutique"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "CycleBar",
+      "tags": [
+        "fitness",
+        "boutique"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "StretchLab",
+      "tags": [
+        "fitness",
+        "wellness"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Body Fit Training",
+      "tags": [
+        "fitness",
+        "boutique"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Retro Fitness",
+      "tags": [
+        "fitness",
+        "gym"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "The Joint Chiropractic",
+      "tags": [
+        "health",
+        "chiropractic"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Massage Envy",
+      "tags": [
+        "health",
+        "wellness",
+        "massage"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Hand and Stone",
+      "tags": [
+        "health",
+        "wellness",
+        "massage"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Elements Massage",
+      "tags": [
+        "health",
+        "wellness",
+        "massage"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "ATC Healthcare",
+      "tags": [
+        "health",
+        "staffing"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Great Clips",
+      "tags": [
+        "beauty",
+        "hair"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Sport Clips",
+      "tags": [
+        "beauty",
+        "hair"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Supercuts",
+      "tags": [
+        "beauty",
+        "hair"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Hair Cuttery",
+      "tags": [
+        "beauty",
+        "hair"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Fantastic Sams",
+      "tags": [
+        "beauty",
+        "hair"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Cost Cutters",
+      "tags": [
+        "beauty",
+        "hair"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Roosters Men's Grooming",
+      "tags": [
+        "beauty",
+        "hair"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Floyd's 99 Barbershop",
+      "tags": [
+        "beauty",
+        "hair"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Drybar",
+      "tags": [
+        "beauty",
+        "hair"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "European Wax Center",
+      "tags": [
+        "beauty",
+        "waxing"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Massage Heights",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Midas",
+      "tags": [
+        "automotive",
+        "repair"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Jiffy Lube",
+      "tags": [
+        "automotive",
+        "oil_change"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Meineke",
+      "tags": [
+        "automotive",
+        "repair"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Maaco",
+      "tags": [
+        "automotive",
+        "collision"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Firestone",
+      "tags": [
+        "automotive",
+        "tires"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Christian Brothers",
+      "tags": [
+        "automotive",
+        "repair"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Grease Monkey",
+      "tags": [
+        "automotive",
+        "oil_change"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Valvoline",
+      "tags": [
+        "automotive",
+        "oil_change"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Monro Auto Service",
+      "tags": [
+        "automotive",
+        "repair"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Tuffy Auto Service",
+      "tags": [
+        "automotive",
+        "repair"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Take 5 Oil Change",
+      "tags": [
+        "automotive",
+        "oil_change"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Servpro",
+      "tags": [
+        "home_services",
+        "restoration"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "ServiceMaster",
+      "tags": [
+        "home_services",
+        "cleaning"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Merry Maids",
+      "tags": [
+        "home_services",
+        "cleaning"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Molly Maid",
+      "tags": [
+        "home_services",
+        "cleaning"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Mr. Handyman",
+      "tags": [
+        "home_services",
+        "repair"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Paul Davis",
+      "tags": [
+        "home_services",
+        "restoration"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Rainbow International",
+      "tags": [
+        "home_services",
+        "restoration"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Two Men and a Truck",
+      "tags": [
+        "home_services",
+        "moving"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "College Hunks",
+      "tags": [
+        "home_services",
+        "moving"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Neighborly",
+      "tags": [
+        "home_services"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "1-800-GOT-JUNK?",
+      "tags": [
+        "home_services",
+        "junk_removal"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Window Genie",
+      "tags": [
+        "home_services"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "BrightView",
+      "tags": [
+        "home_services",
+        "lawn"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "RE/MAX",
+      "tags": [
+        "real_estate"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Century 21",
+      "tags": [
+        "real_estate"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Coldwell Banker",
+      "tags": [
+        "real_estate"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Keller Williams",
+      "tags": [
+        "real_estate"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "ERA",
+      "tags": [
+        "real_estate"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Better Homes and Gardens Real Estate",
+      "tags": [
+        "real_estate"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "H&R Block",
+      "tags": [
+        "financial",
+        "tax"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Liberty Tax",
+      "tags": [
+        "financial",
+        "tax"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Jackson Hewitt",
+      "tags": [
+        "financial",
+        "tax"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Kumon",
+      "tags": [
+        "education",
+        "tutoring"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Sylvan Learning",
+      "tags": [
+        "education",
+        "tutoring"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Mathnasium",
+      "tags": [
+        "education",
+        "tutoring"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Tutor Doctor",
+      "tags": [
+        "education",
+        "tutoring"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "The Goddard School",
+      "tags": [
+        "education",
+        "childcare"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Primrose Schools",
+      "tags": [
+        "education",
+        "childcare"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "KinderCare",
+      "tags": [
+        "education",
+        "childcare"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Kiddie Academy",
+      "tags": [
+        "education",
+        "childcare"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Learning Care Group",
+      "tags": [
+        "education",
+        "childcare"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Lightbridge Academy",
+      "tags": [
+        "education",
+        "childcare"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Comfort Keepers",
+      "tags": [
+        "senior_care",
+        "home_care"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Home Instead",
+      "tags": [
+        "senior_care",
+        "home_care"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Right at Home",
+      "tags": [
+        "senior_care",
+        "home_care"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Visiting Angels",
+      "tags": [
+        "senior_care",
+        "home_care"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Nurse Next Door",
+      "tags": [
+        "senior_care",
+        "home_care"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Senior Helpers",
+      "tags": [
+        "senior_care",
+        "home_care"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Camp Bow Wow",
+      "tags": [
+        "pet",
+        "dog_boarding"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Dogtopia",
+      "tags": [
+        "pet",
+        "dog_daycare"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Zoom Room",
+      "tags": [
+        "pet",
+        "dog_training"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Pet Supplies Plus",
+      "tags": [
+        "pet",
+        "retail"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Petland",
+      "tags": [
+        "pet",
+        "retail"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "The UPS Store",
+      "tags": [
+        "business_services",
+        "shipping"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "PostNet",
+      "tags": [
+        "business_services",
+        "shipping"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Minuteman Press",
+      "tags": [
+        "business_services",
+        "printing"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "AlphaGraphics",
+      "tags": [
+        "business_services",
+        "printing"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Coverall",
+      "tags": [
+        "business_services",
+        "commercial_cleaning"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Jan-Pro",
+      "tags": [
+        "business_services",
+        "commercial_cleaning"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Holiday Inn",
+      "tags": [
+        "hospitality",
+        "hotel"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Best Western",
+      "tags": [
+        "hospitality",
+        "hotel"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Days Inn",
+      "tags": [
+        "hospitality",
+        "hotel"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Hampton Inn",
+      "tags": [
+        "hospitality",
+        "hotel"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Wyndham",
+      "tags": [
+        "hospitality",
+        "hotel"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Choice Hotels",
+      "tags": [
+        "hospitality",
+        "hotel"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Super 8",
+      "tags": [
+        "hospitality",
+        "hotel"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "La Quinta",
+      "tags": [
+        "hospitality",
+        "hotel"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Comfort Inn",
+      "tags": [
+        "hospitality",
+        "hotel"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Hilton Garden Inn",
+      "tags": [
+        "hospitality",
+        "hotel"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "7-Eleven",
+      "tags": [
+        "convenience",
+        "retail"
+      ],
+      "source": "seed"
+    },
+    {
+      "name": "Circle K",
+      "tags": [
+        "convenience",
+        "retail"
+      ],
+      "source": "seed"
+    }
+  ]
+}

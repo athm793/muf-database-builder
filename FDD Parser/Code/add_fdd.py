@@ -2,12 +2,15 @@
 """
 ADD FDD TO DATABASE — friendly desktop tool
 ===========================================
-A point-and-click window for non-technical users. Two ways to add FDDs:
+A point-and-click window for non-technical users. Three ways to add FDDs:
 
   • "Add a PDF file"      — pick an FDD PDF you already have.
-  • "Fetch by brand name" — type brand names (KFC, Taco Bell, …) and the tool
-                            downloads their FDDs from Wisconsin DFI (via Apify),
-                            then adds them.
+  • "Fetch by brand name" — type brand names and download FDDs directly from
+                            WI DFI / MN CARDS (Playwright, no Apify needed).
+                            Falls back to Apify if fetch_fdds_direct.py is absent.
+  • "Search by category"  — describe what you want in plain English and Claude
+                            suggests matching brands from brand_db.json, then
+                            fetches their FDDs automatically.
 
 Either way it then: extracts the franchisee list, re-matches operators across
 all brands, rebuilds the ICP exports, and pushes the updated dataset to GitHub.
@@ -19,8 +22,10 @@ Or directly:  python add_fdd.py
 """
 
 import os
+import re
 import sys
 import csv
+import json
 import queue
 import shutil
 import threading
@@ -44,6 +49,10 @@ CREATE_NO_WINDOW = 0x08000000 if sys.platform == "win32" else 0
 
 # Paths the GitHub sync stages (relative to repo root) — regenerated data only.
 GIT_PATHS = ["FDD Parser/Code/output", "FDD Parser/Code/cache"]
+
+BRAND_DB   = HERE / "brand_db.json"
+DIRECT_FETCH = HERE / "fetch_fdds_direct.py"
+CLAUDE_CMD = "claude.cmd" if sys.platform == "win32" else "claude"
 
 
 # ── SMALL HELPERS ────────────────────────────────────────────────────────────
@@ -90,6 +99,59 @@ def parse_names(raw: str) -> list[str]:
     return out
 
 
+def direct_fetch_available() -> bool:
+    return DIRECT_FETCH.exists()
+
+
+def brand_db_available() -> bool:
+    return BRAND_DB.exists()
+
+
+def fetch_script() -> str:
+    """Return the fetch script to use — direct Playwright version preferred."""
+    return str(DIRECT_FETCH) if direct_fetch_available() else "fetch_fdds.py"
+
+
+def claude_expand_query(query: str) -> list[str]:
+    """
+    Ask Claude to expand a natural language query into a list of brand names
+    by reading brand_db.json.  Returns a list of brand name strings.
+    """
+    if not BRAND_DB.exists():
+        return []
+    try:
+        db = json.loads(BRAND_DB.read_text(encoding="utf-8"))
+        brands_json = json.dumps(
+            [{"name": b["name"], "tags": b["tags"]} for b in db.get("brands", [])],
+            ensure_ascii=False)
+    except Exception:
+        return []
+
+    prompt = (
+        "You have a database of US franchise brands with category tags:\n"
+        f"{brands_json}\n\n"
+        f'A user wants to find franchises matching: "{query}"\n\n'
+        "Return ONLY a JSON array of brand names that best match the query. "
+        "Include 5 to 20 brands. Prioritise strong category matches. "
+        "Return nothing except the JSON array on a single line, e.g.:\n"
+        '["McDonald\'s", "Burger King", "Wendy\'s"]'
+    )
+    try:
+        r = subprocess.run(
+            [CLAUDE_CMD, "-p", prompt, "--model", "haiku"],
+            capture_output=True, text=True, timeout=60,
+            encoding="utf-8", errors="replace",
+            creationflags=CREATE_NO_WINDOW)
+        raw = (r.stdout or "").strip()
+        # Extract the JSON array (Claude may wrap it in markdown)
+        match = re.search(r'\[.*?\]', raw, re.DOTALL)
+        if match:
+            return json.loads(match.group())
+    except Exception:
+        pass
+    return []
+
+
 # ── THE APP ──────────────────────────────────────────────────────────────────
 
 class AddFddApp:
@@ -116,6 +178,7 @@ class AddFddApp:
         nb.pack(fill="x", padx=12, pady=6)
         self._build_tab_file(nb)
         self._build_tab_fetch(nb)
+        self._build_tab_nl(nb)
 
         # Shared controls
         bar = ttk.Frame(self.root)
@@ -172,8 +235,10 @@ class AddFddApp:
         tab = ttk.Frame(nb)
         nb.add(tab, text="  Fetch by brand name  ")
 
-        ttk.Label(tab, text="Type franchise brand names (one per line, or comma-separated). "
-                            "The tool downloads each FDD from Wisconsin DFI and adds it.",
+        src_note = ("Downloads FDDs directly from Wisconsin DFI / Minnesota CARDS (no Apify needed)."
+                    if direct_fetch_available() else
+                    "Downloads FDDs via Apify (Wisconsin DFI / Minnesota CARDS / California DFPI).")
+        ttk.Label(tab, text="Type franchise brand names (one per line, or comma-separated). " + src_note,
                   foreground="#555", wraplength=720, justify="left").pack(anchor="w", pady=(8, 4))
 
         self.names_text = scrolledtext.ScrolledText(tab, height=6, wrap="word",
@@ -184,11 +249,50 @@ class AddFddApp:
         self.fetch_btn = ttk.Button(tab, text="Fetch & Add", command=self.start_fetch)
         self.fetch_btn.pack(anchor="w", pady=8)
 
-        if not apify_configured():
+        if not direct_fetch_available() and not apify_configured():
             self.fetch_btn.config(state="disabled")
             ttk.Label(tab, foreground="#b00",
-                      text="⚠  Apify is not configured. Add APIFY_TOKEN to FDD Parser/.env "
-                           "to enable fetching (see SETUP.md).",
+                      text="⚠  Neither fetch_fdds_direct.py nor Apify is configured. "
+                           "See SETUP.md.",
+                      wraplength=720, justify="left").pack(anchor="w")
+
+    def _build_tab_nl(self, nb):
+        tab = ttk.Frame(nb)
+        nb.add(tab, text="  Search by category  ")
+
+        ttk.Label(tab,
+                  text="Describe the franchises you want in plain English. "
+                       "Claude will suggest matching brands from the database, "
+                       "then fetch their FDDs.",
+                  foreground="#555", wraplength=720, justify="left").pack(anchor="w", pady=(8, 4))
+
+        ttk.Label(tab, text="What are you looking for?",
+                  foreground="#333").pack(anchor="w")
+        self.nl_query = ttk.Entry(tab, font=("Segoe UI", 10), width=80)
+        self.nl_query.pack(fill="x", pady=(2, 6))
+        self.nl_query.insert(0, "pizza chains with strong midwest presence")
+
+        self.nl_find_btn = ttk.Button(tab, text="Find Brands",
+                                      command=self.start_nl_find)
+        self.nl_find_btn.pack(anchor="w")
+
+        ttk.Label(tab,
+                  text="Suggested brands (edit before fetching):",
+                  foreground="#555").pack(anchor="w", pady=(10, 2))
+        self.nl_results = scrolledtext.ScrolledText(tab, height=6, wrap="word",
+                                                    font=("Consolas", 10))
+        self.nl_results.pack(fill="x", pady=4)
+
+        self.nl_fetch_btn = ttk.Button(tab, text="Fetch All Listed Brands",
+                                       command=self.start_nl_fetch,
+                                       state="disabled")
+        self.nl_fetch_btn.pack(anchor="w", pady=4)
+
+        if not brand_db_available():
+            self.nl_find_btn.config(state="disabled")
+            ttk.Label(tab, foreground="#b00",
+                      text="⚠  brand_db.json not found. Run update_brand_db.py first "
+                           "(or use the Fetch by brand name tab instead).",
                       wraplength=720, justify="left").pack(anchor="w")
 
     def _toggle_advanced(self):
@@ -241,6 +345,26 @@ class AddFddApp:
         self._lock()
         self._start(self._run_fetch_batch, names)
 
+    def start_nl_find(self):
+        query = self.nl_query.get().strip()
+        if not query:
+            messagebox.showwarning("Empty query", "Please type a description first.")
+            return
+        if self._busy():
+            return
+        self._lock()
+        self._start(self._run_nl_find, query)
+
+    def start_nl_fetch(self):
+        names = parse_names(self.nl_results.get("1.0", "end"))
+        if not names:
+            messagebox.showwarning("No brands", "No brands listed to fetch.")
+            return
+        if self._busy():
+            return
+        self._lock()
+        self._start(self._run_fetch_batch, names)
+
     # ---- worker lifecycle ----
     def _busy(self):
         return self.worker is not None and self.worker.is_alive()
@@ -249,6 +373,8 @@ class AddFddApp:
         self.choose_btn.config(state="disabled")
         self.run_btn.config(state="disabled")
         self.fetch_btn.config(state="disabled")
+        self.nl_find_btn.config(state="disabled")
+        self.nl_fetch_btn.config(state="disabled")
         self.progress.start(12)
         self._set_status("Working… you can leave this window open.")
 
@@ -288,12 +414,32 @@ class AddFddApp:
         except Exception as e:
             self._q("error", f"Something went wrong:\n\n{e}")
 
+    # ---- NL query find ----
+    def _run_nl_find(self, query: str):
+        try:
+            self._q("log", f"========== Expanding query: {query!r} ==========\n")
+            self._q("status", "Asking Claude to suggest matching brands…")
+            brands = claude_expand_query(query)
+            if not brands:
+                self._q("error",
+                        "Claude could not suggest brands for that query.\n\n"
+                        "Make sure brand_db.json exists (run update_brand_db.py) "
+                        "and the Claude CLI is signed in.")
+                return
+            self._q("nl_brands", brands)
+            self._q("done_quiet", f"Found {len(brands)} matching brands. "
+                                  "Edit the list if needed, then click 'Fetch All Listed Brands'.")
+        except Exception as e:
+            self._q("error", f"Something went wrong:\n\n{e}")
+
     # ---- fetch-by-name batch flow ----
     def _run_fetch_batch(self, names: list[str]):
         try:
-            self._q("log", f"========== Fetching {len(names)} brand(s) from Wisconsin DFI ==========\n")
-            self._q("status", "Step 1 — Downloading FDDs from Wisconsin (Apify)…")
-            rc, lines = self._stream([PYTHON, "-u", "fetch_fdds.py", *names],
+            fetch_src = "WI DFI / MN CARDS (direct)" if direct_fetch_available() else "Apify"
+            self._q("log", f"========== Fetching {len(names)} brand(s) via {fetch_src} ==========\n")
+            self._q("status", f"Step 1 — Downloading FDDs ({fetch_src})…")
+            script = fetch_script()
+            rc, lines = self._stream([PYTHON, "-u", script, *names],
                                      capture_prefix="FETCH_RESULT|")
             results = []
             for ln in lines:
@@ -448,6 +594,10 @@ class AddFddApp:
                     self._set_status(payload)
                 elif kind == "done":
                     self._on_done(payload)
+                elif kind == "done_quiet":
+                    self._on_done_quiet(payload)
+                elif kind == "nl_brands":
+                    self._on_nl_brands(payload)
                 elif kind == "error":
                     self._on_error(payload)
         except queue.Empty:
@@ -467,8 +617,24 @@ class AddFddApp:
         self.progress.stop()
         self.choose_btn.config(state="normal")
         self.run_btn.config(state="normal" if self.pdf_path else "disabled")
-        if apify_configured():
+        if direct_fetch_available() or apify_configured():
             self.fetch_btn.config(state="normal")
+        if brand_db_available():
+            self.nl_find_btn.config(state="normal")
+        nl_text = self.nl_results.get("1.0", "end").strip()
+        if nl_text:
+            self.nl_fetch_btn.config(state="normal")
+
+    def _on_nl_brands(self, brands: list):
+        self.nl_results.configure(state="normal")
+        self.nl_results.delete("1.0", "end")
+        self.nl_results.insert("1.0", "\n".join(brands))
+        self.nl_results.configure(state="normal")
+        self.nl_fetch_btn.config(state="normal")
+
+    def _on_done_quiet(self, msg: str):
+        self._unlock()
+        self._set_status(msg)
 
     def _on_done(self, info):
         self._unlock()
